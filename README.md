@@ -1,6 +1,6 @@
-# Thailand Administrative Division Database
+# 泰国行政区划数据库
 
-| PROVINCE_ID | English Name | Thai Name | Chinese Name |
+| 编号 | 英文名 | 泰语名 | 中文名 |
 |-------------|--------------|-----------|--------------|
 | 81 | Krabi | กระบี่ | 甲米府 |
 | 10 | Bangkok | กรุงเทพมหานคร | 曼谷 |
