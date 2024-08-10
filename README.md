@@ -27,7 +27,7 @@
 | 60 | Nakhon Sawan | นครสวรรค์ | 那空沙旺府 |
 | 12 | Nonthaburi | นนทบุรี | 暖武里府 |
 | 96 | Narathiwat | นราธิวาส | 那拉提瓦府 |
-| 55 | Nan | น่าน | 闽南语 |
+| 55 | Nan | น่าน | 难府 |
 | 38 | Bueng Kan | บึงกาฬ | 汶干府 |
 | 31 | Buri Ram | บุรีรัมย์ | 武里南府 |
 | 13 | Pathum Thani | ปทุมธานี | 巴吞他尼府 |
@@ -61,7 +61,7 @@
 | 47 | Sakon Nakhon | สกลนคร | 沙功那空府 |
 | 90 | Songkhla | สงขลา | 宋卡府 |
 | 91 | Satun | สตูล | 沙敦府 |
-| 11 | Samut Prakarn | สมุทรปราการ |  |
+| 11 | Samut Prakarn | สมุทรปราการ | 北榄府 |
 | 75 | Samut Songkhram | สมุทรสงคราม | 沙没颂堪府 |
 | 74 | Samut Sakhon | สมุทรสาคร | 沙没沙空府 |
 | 27 | Sa kaeo | สระแก้ว | 沙繳府 |
