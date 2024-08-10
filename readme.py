@@ -13,7 +13,7 @@ with open(input_file, 'r', encoding='utf-8-sig') as f:
     provinces = json.load(f)
 
 # 创建 GFM 格式的表格
-table = "| PROVINCE_ID | English Name | Thai Name | Chinese Name |\n"
+table = "# Thailand Administrative Division Database\n\n| PROVINCE_ID | English Name | Thai Name | Chinese Name |\n"
 table += "|-------------|--------------|-----------|--------------|\n"
 
 # 遍历每个省份
