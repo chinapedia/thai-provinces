@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 103701,
         "SUB_DISTRICT_NAME_THA": "ทุ่งพญาไท",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thung Phaya Thai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1037,
         "LAT": 13.762999534606934,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 103702,
         "SUB_DISTRICT_NAME_THA": "ถนนพญาไท",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thanon Phaya Thai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1037,
         "LAT": 13.756999969482422,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 103703,
         "SUB_DISTRICT_NAME_THA": "ถนนเพชรบุรี",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thanon Phetchaburi",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1037,
         "LAT": 13.751999855041504,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 103704,
         "SUB_DISTRICT_NAME_THA": "มักกะสัน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Makkasan",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1037,
         "LAT": 13.751999855041504,

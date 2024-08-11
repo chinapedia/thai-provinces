@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 380201,
         "SUB_DISTRICT_NAME_THA": "ศรีชมภู",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Si Chomphu",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3802,
         "LAT": 18.04400062561035,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 380202,
         "SUB_DISTRICT_NAME_THA": "ดอนหญ้านาง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Don Ya Nang",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3802,
         "LAT": 18.04599952697754,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 380203,
         "SUB_DISTRICT_NAME_THA": "พรเจริญ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Phon Charoen",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3802,
         "LAT": 18.0310001373291,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 380204,
         "SUB_DISTRICT_NAME_THA": "หนองหัวช้าง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Hua Chang",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3802,
         "LAT": 18.125,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 380205,
         "SUB_DISTRICT_NAME_THA": "วังชมภู",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Wang Chomphu",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3802,
         "LAT": 17.982999801635742,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 380206,
         "SUB_DISTRICT_NAME_THA": "ป่าแฝก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pa Faek",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3802,
         "LAT": 18.0939998626709,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 380207,
         "SUB_DISTRICT_NAME_THA": "ศรีสำราญ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Si Samran",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3802,
         "LAT": 18.121000289916992,

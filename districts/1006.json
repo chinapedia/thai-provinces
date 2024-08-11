@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 100601,
         "SUB_DISTRICT_NAME_THA": "คลองจั่น",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chan",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1006,
         "LAT": 13.78600025177002,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 100608,
         "SUB_DISTRICT_NAME_THA": "หัวหมาก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Hua Mak",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1006,
         "LAT": 13.755999565124512,

@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 103201,
         "SUB_DISTRICT_NAME_THA": "ประเวศ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Prawet",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1032,
         "LAT": 13.718999862670898,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 103202,
         "SUB_DISTRICT_NAME_THA": "หนองบอน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1032,
         "LAT": 13.687000274658203,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 103203,
         "SUB_DISTRICT_NAME_THA": "ดอกไม้",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Dok Mai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1032,
         "LAT": 13.680000305175781,

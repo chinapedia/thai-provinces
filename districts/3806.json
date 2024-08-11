@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 380601,
         "SUB_DISTRICT_NAME_THA": "บึงโขงหลง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bueng Khong Long",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3806,
         "LAT": 18.00200080871582,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 380602,
         "SUB_DISTRICT_NAME_THA": "โพธิ์หมากแข้ง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pho Mak Khaeng",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3806,
         "LAT": 17.94099998474121,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 380603,
         "SUB_DISTRICT_NAME_THA": "ดงบัง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Dong Bang",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3806,
         "LAT": 18.033000946044922,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 380604,
         "SUB_DISTRICT_NAME_THA": "ท่าดอกคำ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Tha Dok Kham",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3806,
         "LAT": 18.12299919128418,

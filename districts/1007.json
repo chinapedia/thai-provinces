@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 100701,
         "SUB_DISTRICT_NAME_THA": "รองเมือง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Rong Mueang",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1007,
         "LAT": 13.744000434875488,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 100702,
         "SUB_DISTRICT_NAME_THA": "วังใหม่",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Wang Mai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1007,
         "LAT": 13.741999626159668,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 100703,
         "SUB_DISTRICT_NAME_THA": "ปทุมวัน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pathum Wan",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1007,
         "LAT": 13.739999771118164,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 100704,
         "SUB_DISTRICT_NAME_THA": "ลุมพินี",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lumphini",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1007,
         "LAT": 13.736000061035156,

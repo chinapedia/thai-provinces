@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 104201,
         "SUB_DISTRICT_NAME_THA": "สายไหม",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Sai Mai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1042,
         "LAT": 13.920999526977539,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 104202,
         "SUB_DISTRICT_NAME_THA": "ออเงิน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "O Ngoen",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1042,
         "LAT": 13.895999908447266,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 104203,
         "SUB_DISTRICT_NAME_THA": "คลองถนน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Thanon",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1042,
         "LAT": 13.89799976348877,

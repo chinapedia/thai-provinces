@@ -128,7 +128,7 @@
     {
         "SUB_DISTRICT_ID": 920221,
         "SUB_DISTRICT_NAME_THA": "เกาะลูกไม้",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "",
         "PROVINCE_ID": 92,
         "DISTRICT_ID": 9202,
         "LAT": 7.290999889373779,
@@ -137,7 +137,7 @@
     {
         "SUB_DISTRICT_ID": 920222,
         "SUB_DISTRICT_NAME_THA": "เกาะนก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "",
         "PROVINCE_ID": 92,
         "DISTRICT_ID": 9202,
         "LAT": 7.271999835968018,

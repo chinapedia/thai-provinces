@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 103901,
         "SUB_DISTRICT_NAME_THA": "คลองเตยเหนือ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Toei Nuea",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1039,
         "LAT": 13.743000030517578,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 103902,
         "SUB_DISTRICT_NAME_THA": "คลองตันเหนือ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Tan Nuea",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1039,
         "LAT": 13.736000061035156,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 103903,
         "SUB_DISTRICT_NAME_THA": "พระโขนงเหนือ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Phra Khanong Nuea",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1039,
         "LAT": 13.718999862670898,

@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 102501,
         "SUB_DISTRICT_NAME_THA": "บางพลัด",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Phlat",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1025,
         "LAT": 13.791000366210938,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 102502,
         "SUB_DISTRICT_NAME_THA": "บางอ้อ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang O",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1025,
         "LAT": 13.802000045776367,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 102503,
         "SUB_DISTRICT_NAME_THA": "บางบำหรุ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Bamru",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1025,
         "LAT": 13.781000137329102,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 102504,
         "SUB_DISTRICT_NAME_THA": "บางยี่ขัน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Yi Khan",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1025,
         "LAT": 13.77400016784668,

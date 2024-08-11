@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 101101,
         "SUB_DISTRICT_NAME_THA": "ลาดกระบัง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lat Krabang",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1011,
         "LAT": 13.722999572753906,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 101102,
         "SUB_DISTRICT_NAME_THA": "คลองสองต้นนุ่น",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Song Ton Nun",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1011,
         "LAT": 13.753000259399414,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 101103,
         "SUB_DISTRICT_NAME_THA": "คลองสามประเวศ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sam Prawet",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1011,
         "LAT": 13.753000259399414,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 101104,
         "SUB_DISTRICT_NAME_THA": "ลำปลาทิว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lam Pla Thio",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1011,
         "LAT": 13.765000343322754,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 101105,
         "SUB_DISTRICT_NAME_THA": "ทับยาว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thap Yao",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1011,
         "LAT": 13.727999687194824,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 101106,
         "SUB_DISTRICT_NAME_THA": "ขุมทอง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khum Thong",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1011,
         "LAT": 13.736000061035156,

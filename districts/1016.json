@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 101601,
         "SUB_DISTRICT_NAME_THA": "วัดอรุณ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Wat Arun",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1016,
         "LAT": 13.743000030517578,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 101602,
         "SUB_DISTRICT_NAME_THA": "วัดท่าพระ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Wat Tha Phra",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1016,
         "LAT": 13.732999801635742,

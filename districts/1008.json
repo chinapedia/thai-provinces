@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 100801,
         "SUB_DISTRICT_NAME_THA": "ป้อมปราบ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pom Prap",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1008,
         "LAT": 13.743000030517578,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 100802,
         "SUB_DISTRICT_NAME_THA": "วัดเทพศิรินทร์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Wat Thep Sirin",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1008,
         "LAT": 13.74899959564209,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 100803,
         "SUB_DISTRICT_NAME_THA": "คลองมหานาค",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Maha Nak",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1008,
         "LAT": 13.753000259399414,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 100804,
         "SUB_DISTRICT_NAME_THA": "บ้านบาตร",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Ban Bat",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1008,
         "LAT": 13.751999855041504,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 100805,
         "SUB_DISTRICT_NAME_THA": "วัดโสมนัส",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Wat Sommanat",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1008,
         "LAT": 13.758999824523926,

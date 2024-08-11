@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 110301,
         "SUB_DISTRICT_NAME_THA": "บางพลีใหญ่",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Phli Yai",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1103,
         "LAT": 13.618000030517578,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 110302,
         "SUB_DISTRICT_NAME_THA": "บางแก้ว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1103,
         "LAT": 13.642000198364258,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 110303,
         "SUB_DISTRICT_NAME_THA": "บางปลา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Pla",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1103,
         "LAT": 13.560999870300293,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 110304,
         "SUB_DISTRICT_NAME_THA": "บางโฉลง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Chalong",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1103,
         "LAT": 13.623000144958496,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 110308,
         "SUB_DISTRICT_NAME_THA": "ราชาเทวะ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Racha Thewa",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1103,
         "LAT": 13.680999755859375,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 110309,
         "SUB_DISTRICT_NAME_THA": "หนองปรือ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Prue",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1103,
         "LAT": 13.678000450134277,

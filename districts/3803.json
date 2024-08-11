@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 380301,
         "SUB_DISTRICT_NAME_THA": "โซ่",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "So",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3803,
         "LAT": 18.038999557495117,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 380302,
         "SUB_DISTRICT_NAME_THA": "หนองพันทา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Phan Tha",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3803,
         "LAT": 18.128999710083008,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 380303,
         "SUB_DISTRICT_NAME_THA": "ศรีชมภู",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Si Chomphu",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3803,
         "LAT": 18.270999908447266,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 380304,
         "SUB_DISTRICT_NAME_THA": "คำแก้ว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Kham Kaeo",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3803,
         "LAT": 18.093000411987305,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 380305,
         "SUB_DISTRICT_NAME_THA": "บัวตูม",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bua Tum",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3803,
         "LAT": 18.07200050354004,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 380306,
         "SUB_DISTRICT_NAME_THA": "ถ้ำเจริญ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Tham Charoen",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3803,
         "LAT": 18.20800018310547,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 380307,
         "SUB_DISTRICT_NAME_THA": "เหล่าทอง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lao Thong",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3803,
         "LAT": 18.143999099731445,

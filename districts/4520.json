@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 452001,
         "SUB_DISTRICT_NAME_THA": "ทุ่งเขาหลวง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thung Khao Luang",
         "PROVINCE_ID": 45,
         "DISTRICT_ID": 4520,
         "LAT": 16.031999588012695,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 452004,
         "SUB_DISTRICT_NAME_THA": "มะบ้า",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Maba",
         "PROVINCE_ID": 45,
         "DISTRICT_ID": 4520,
         "LAT": 16.038999557495117,

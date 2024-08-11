@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 101901,
         "SUB_DISTRICT_NAME_THA": "คลองชักพระ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chak Phra",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1019,
         "LAT": 13.760000228881836,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 101902,
         "SUB_DISTRICT_NAME_THA": "ตลิ่งชัน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Taling Chan",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1019,
         "LAT": 13.788999557495117,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 101903,
         "SUB_DISTRICT_NAME_THA": "ฉิมพลี",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chimphli",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1019,
         "LAT": 13.78600025177002,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 101904,
         "SUB_DISTRICT_NAME_THA": "บางพรม",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Phrom",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1019,
         "LAT": 13.751999855041504,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 101905,
         "SUB_DISTRICT_NAME_THA": "บางระมาด",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Ramat",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1019,
         "LAT": 13.767000198364258,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 101907,
         "SUB_DISTRICT_NAME_THA": "บางเชือกหนัง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Chueak Nang",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1019,
         "LAT": 13.75100040435791,

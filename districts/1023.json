@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 102302,
         "SUB_DISTRICT_NAME_THA": "หนองแขม",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Khaem",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1023,
         "LAT": 13.680000305175781,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 102303,
         "SUB_DISTRICT_NAME_THA": "หนองค้างพลู",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Khang Phlu",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1023,
         "LAT": 13.71399974822998,

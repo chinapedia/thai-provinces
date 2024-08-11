@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 104901,
         "SUB_DISTRICT_NAME_THA": "บางมด",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Mot",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1049,
         "LAT": 13.651000022888184,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 104902,
         "SUB_DISTRICT_NAME_THA": "ทุ่งครุ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thung Khru",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1049,
         "LAT": 13.61400032043457,

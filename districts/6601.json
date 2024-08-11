@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 660102,
         "SUB_DISTRICT_NAME_THA": "ไผ่ขวาง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Phai Kwang",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.503999710083008,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 660103,
         "SUB_DISTRICT_NAME_THA": "ย่านยาว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Yan Yao",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.506999969482422,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 660104,
         "SUB_DISTRICT_NAME_THA": "ท่าฬอ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.510000228881836,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 660105,
         "SUB_DISTRICT_NAME_THA": "ปากทาง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pak Thang",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.452999114990234,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 660106,
         "SUB_DISTRICT_NAME_THA": "คลองคะเชนทร์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khachen",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.45800018310547,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 660107,
         "SUB_DISTRICT_NAME_THA": "โรงช้าง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Rong Chang",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.422000885009766,
@@ -65,7 +65,7 @@
     {
         "SUB_DISTRICT_ID": 660108,
         "SUB_DISTRICT_NAME_THA": "เมืองเก่า",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kao",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.39299964904785,
@@ -74,7 +74,7 @@
     {
         "SUB_DISTRICT_ID": 660109,
         "SUB_DISTRICT_NAME_THA": "ท่าหลวง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Tha Luang",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.41900062561035,
@@ -83,7 +83,7 @@
     {
         "SUB_DISTRICT_ID": 660110,
         "SUB_DISTRICT_NAME_THA": "บ้านบุ่ง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Ban Bung",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.393999099731445,
@@ -92,7 +92,7 @@
     {
         "SUB_DISTRICT_ID": 660111,
         "SUB_DISTRICT_NAME_THA": "ฆะมัง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khamang",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.368999481201172,
@@ -101,7 +101,7 @@
     {
         "SUB_DISTRICT_ID": 660112,
         "SUB_DISTRICT_NAME_THA": "ดงป่าคำ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Dong Pa Kham",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.295000076293945,
@@ -110,7 +110,7 @@
     {
         "SUB_DISTRICT_ID": 660113,
         "SUB_DISTRICT_NAME_THA": "หัวดง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Hua Dong",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.332000732421875,
@@ -119,7 +119,7 @@
     {
         "SUB_DISTRICT_ID": 660115,
         "SUB_DISTRICT_NAME_THA": "ป่ามะคาบ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pa Makhap",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.500999450683594,
@@ -128,7 +128,7 @@
     {
         "SUB_DISTRICT_ID": 660119,
         "SUB_DISTRICT_NAME_THA": "สายคำโห้",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Sai Kham Ho",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.406999588012695,
@@ -137,7 +137,7 @@
     {
         "SUB_DISTRICT_ID": 660120,
         "SUB_DISTRICT_NAME_THA": "ดงกลาง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Dong Klang",
         "PROVINCE_ID": 66,
         "DISTRICT_ID": 6601,
         "LAT": 16.334999084472656,

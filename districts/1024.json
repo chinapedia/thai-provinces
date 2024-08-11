@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 102401,
         "SUB_DISTRICT_NAME_THA": "ราษฎร์บูรณะ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Rat Burana",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1024,
         "LAT": 13.670000076293945,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 102402,
         "SUB_DISTRICT_NAME_THA": "บางปะกอก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Pakok",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1024,
         "LAT": 13.675000190734863,

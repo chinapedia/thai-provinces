@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 402602,
         "SUB_DISTRICT_NAME_THA": "ในเมือง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
         "PROVINCE_ID": 40,
         "DISTRICT_ID": 4026,
         "LAT": 16.742000579833984,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 402608,
         "SUB_DISTRICT_NAME_THA": "เขาน้อย",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khao Noi",
         "PROVINCE_ID": 40,
         "DISTRICT_ID": 4026,
         "LAT": 16.722999572753906,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 402615,
         "SUB_DISTRICT_NAME_THA": "เมืองเก่าพัฒนา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kao Phatthana",
         "PROVINCE_ID": 40,
         "DISTRICT_ID": 4026,
         "LAT": 16.625,

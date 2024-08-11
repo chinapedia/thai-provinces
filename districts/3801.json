@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 380101,
         "SUB_DISTRICT_NAME_THA": "บึงกาฬ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bueng Kan",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.33099937438965,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 380102,
         "SUB_DISTRICT_NAME_THA": "โนนสมบูรณ์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Non Sombun",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.284000396728516,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 380103,
         "SUB_DISTRICT_NAME_THA": "หนองเข็ง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Keng",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.356000900268555,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 380104,
         "SUB_DISTRICT_NAME_THA": "หอคำ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Ho Kham",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.4060001373291,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 380105,
         "SUB_DISTRICT_NAME_THA": "หนองเลิง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Loeng",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.327999114990234,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 380106,
         "SUB_DISTRICT_NAME_THA": "โคกก่อง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khok Kong",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.29800033569336,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 380107,
         "SUB_DISTRICT_NAME_THA": "นาสวรรค์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Na Sawan",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.264999389648438,
@@ -65,7 +65,7 @@
     {
         "SUB_DISTRICT_ID": 380108,
         "SUB_DISTRICT_NAME_THA": "ไคสี",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khai Si",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.402999877929688,
@@ -74,7 +74,7 @@
     {
         "SUB_DISTRICT_ID": 380109,
         "SUB_DISTRICT_NAME_THA": "ชัยพร",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chaiyaphon",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.239999771118164,
@@ -83,7 +83,7 @@
     {
         "SUB_DISTRICT_ID": 380110,
         "SUB_DISTRICT_NAME_THA": "วิศิษฐ์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Wisit",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.358999252319336,
@@ -92,7 +92,7 @@
     {
         "SUB_DISTRICT_ID": 380111,
         "SUB_DISTRICT_NAME_THA": "คำนาดี",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Kham Na Di",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.2189998626709,
@@ -101,7 +101,7 @@
     {
         "SUB_DISTRICT_ID": 380112,
         "SUB_DISTRICT_NAME_THA": "โป่งเปือย",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3801,
         "LAT": 18.332000732421875,

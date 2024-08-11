@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 102801,
         "SUB_DISTRICT_NAME_THA": "ทุ่งวัดดอน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thung Wat Don",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1028,
         "LAT": 13.710000038146973,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 102802,
         "SUB_DISTRICT_NAME_THA": "ยานนาวา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Yan Nawa",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1028,
         "LAT": 13.71399974822998,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 102803,
         "SUB_DISTRICT_NAME_THA": "ทุ่งมหาเมฆ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thung Maha Mek",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1028,
         "LAT": 13.718000411987305,

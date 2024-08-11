@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 101203,
         "SUB_DISTRICT_NAME_THA": "ช่องนนทรี",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chong Nonsi",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1012,
         "LAT": 13.682000160217285,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 101204,
         "SUB_DISTRICT_NAME_THA": "บางโพงพาง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Phongphang",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1012,
         "LAT": 13.696999549865723,

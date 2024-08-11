@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 380501,
         "SUB_DISTRICT_NAME_THA": "ปากคาด",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pak Khat",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3805,
         "LAT": 18.343000411987305,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 380502,
         "SUB_DISTRICT_NAME_THA": "หนองยอง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Yong",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3805,
         "LAT": 18.20800018310547,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 380503,
         "SUB_DISTRICT_NAME_THA": "นากั้ง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Na Kang",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3805,
         "LAT": 18.381999969482422,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 380504,
         "SUB_DISTRICT_NAME_THA": "โนนศิลา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Non Sila",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3805,
         "LAT": 18.29199981689453,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 380505,
         "SUB_DISTRICT_NAME_THA": "สมสนุก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Som Sanuk",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3805,
         "LAT": 18.222000122070312,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 380506,
         "SUB_DISTRICT_NAME_THA": "นาดง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Na Dong",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3805,
         "LAT": 18.256000518798828,

@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 451801,
         "SUB_DISTRICT_NAME_THA": "เชียงขวัญ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chiang Khwan",
         "PROVINCE_ID": 45,
         "DISTRICT_ID": 4518,
         "LAT": 16.19099998474121,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 451805,
         "SUB_DISTRICT_NAME_THA": "หมูม้น",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Mu Mon",
         "PROVINCE_ID": 45,
         "DISTRICT_ID": 4518,
         "LAT": 16.10099983215332,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 451806,
         "SUB_DISTRICT_NAME_THA": "บ้านเขือง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Ban Khueang",
         "PROVINCE_ID": 45,
         "DISTRICT_ID": 4518,
         "LAT": 16.149999618530273,

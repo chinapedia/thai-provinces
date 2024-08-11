@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 103501,
         "SUB_DISTRICT_NAME_THA": "บางขุนเทียน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Khun Thian",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1035,
         "LAT": 13.694000244140625,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 103502,
         "SUB_DISTRICT_NAME_THA": "บางค้อ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Kho",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1035,
         "LAT": 13.70199966430664,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 103503,
         "SUB_DISTRICT_NAME_THA": "บางมด",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Mot",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1035,
         "LAT": 13.67199993133545,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 103504,
         "SUB_DISTRICT_NAME_THA": "จอมทอง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chom Thong",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1035,
         "LAT": 13.692999839782715,

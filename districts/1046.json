@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 104601,
         "SUB_DISTRICT_NAME_THA": "สามวาตะวันตก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Sam Wa Tawantok",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1046,
         "LAT": 13.888999938964844,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 104602,
         "SUB_DISTRICT_NAME_THA": "สามวาตะวันออก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Sam Wa Tawan-ok",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1046,
         "LAT": 13.895999908447266,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 104603,
         "SUB_DISTRICT_NAME_THA": "บางชัน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Chan",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1046,
         "LAT": 13.83899974822998,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 104604,
         "SUB_DISTRICT_NAME_THA": "ทรายกองดิน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Sai Kong Din",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1046,
         "LAT": 13.854000091552734,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 104605,
         "SUB_DISTRICT_NAME_THA": "ทรายกองดินใต้",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Sai Kong Din Tai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1046,
         "LAT": 13.861000061035156,

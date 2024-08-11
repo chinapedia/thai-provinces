@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 200401,
         "SUB_DISTRICT_NAME_THA": "บางละมุง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Lamung",
         "PROVINCE_ID": 20,
         "DISTRICT_ID": 2004,
         "LAT": 13.052000045776367,
@@ -74,7 +74,7 @@
     {
         "SUB_DISTRICT_ID": 200409,
         "SUB_DISTRICT_NAME_THA": "เขตการปกคองพิเศษพัทยา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "",
         "PROVINCE_ID": 20,
         "DISTRICT_ID": 2004,
         "LAT": 12.90999984741211,

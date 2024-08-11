@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 110101,
         "SUB_DISTRICT_NAME_THA": "เทศบาลนครสมุทรปราการ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.593000411987305,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 110102,
         "SUB_DISTRICT_NAME_THA": "สำโรงเหนือ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Samrong Nuea",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.64900016784668,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 110103,
         "SUB_DISTRICT_NAME_THA": "บางเมือง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Mueang",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.60099983215332,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 110104,
         "SUB_DISTRICT_NAME_THA": "ท้ายบ้าน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thai Ban",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.555999755859375,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 110105,
         "SUB_DISTRICT_NAME_THA": "ท้ายบ้านใหม่",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thai Ban Mai",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.571999549865723,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 110108,
         "SUB_DISTRICT_NAME_THA": "บางปูใหม่",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Pu Mai",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.526000022888184,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 110110,
         "SUB_DISTRICT_NAME_THA": "แพรกษา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Phraek Sa",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.564000129699707,
@@ -65,7 +65,7 @@
     {
         "SUB_DISTRICT_ID": 110111,
         "SUB_DISTRICT_NAME_THA": "บางโปรง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Prong",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.623000144958496,
@@ -83,7 +83,7 @@
     {
         "SUB_DISTRICT_ID": 110113,
         "SUB_DISTRICT_NAME_THA": "บางด้วน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Duan",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.621999740600586,
@@ -101,7 +101,7 @@
     {
         "SUB_DISTRICT_ID": 110115,
         "SUB_DISTRICT_NAME_THA": "เทพารักษ์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Thepharak",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.633999824523926,
@@ -110,7 +110,7 @@
     {
         "SUB_DISTRICT_ID": 110117,
         "SUB_DISTRICT_NAME_THA": "แพรกษาใหม่",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Phraek Sa Mai",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1101,
         "LAT": 13.559000015258789,

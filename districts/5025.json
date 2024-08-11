@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 502501,
         "SUB_DISTRICT_NAME_THA": "บ้านจันทร์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Ban Chan",
         "PROVINCE_ID": 50,
         "DISTRICT_ID": 5025,
         "LAT": 19.110000610351562,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 502502,
         "SUB_DISTRICT_NAME_THA": "แม่แดด",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Mae Dad",
         "PROVINCE_ID": 50,
         "DISTRICT_ID": 5025,
         "LAT": 18.93600082397461,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 502503,
         "SUB_DISTRICT_NAME_THA": "แจ่มหลวง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chaem Luang",
         "PROVINCE_ID": 50,
         "DISTRICT_ID": 5025,
         "LAT": 19.01099967956543,

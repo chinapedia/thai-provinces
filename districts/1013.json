@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 101301,
         "SUB_DISTRICT_NAME_THA": "จักรวรรดิ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chakkrawat",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1013,
         "LAT": 13.741000175476074,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 101302,
         "SUB_DISTRICT_NAME_THA": "สัมพันธวงศ์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Samphanthawong",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1013,
         "LAT": 13.73900032043457,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 101303,
         "SUB_DISTRICT_NAME_THA": "ตลาดน้อย",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Talat Noi",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1013,
         "LAT": 13.734000205993652,

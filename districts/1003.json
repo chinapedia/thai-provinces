@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 100301,
         "SUB_DISTRICT_NAME_THA": "กระทุ่มราย",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Krathum Rai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.822999954223633,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 100302,
         "SUB_DISTRICT_NAME_THA": "หนองจอก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Nong Chok",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.869000434875488,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 100303,
         "SUB_DISTRICT_NAME_THA": "คลองสิบ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sip",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.913999557495117,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 100304,
         "SUB_DISTRICT_NAME_THA": "คลองสิบสอง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sip Song",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.913999557495117,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 100305,
         "SUB_DISTRICT_NAME_THA": "โคกแฝด",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khok Faet",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.84000015258789,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 100306,
         "SUB_DISTRICT_NAME_THA": "คู้ฝั่งเหนือ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khu Fang Nuea",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.871999740600586,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 100307,
         "SUB_DISTRICT_NAME_THA": "ลำผักชี",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lam Phak Chi",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.79699993133545,
@@ -65,7 +65,7 @@
     {
         "SUB_DISTRICT_ID": 100308,
         "SUB_DISTRICT_NAME_THA": "ลำต้อยติ่ง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lam Toiting",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1003,
         "LAT": 13.781000137329102,

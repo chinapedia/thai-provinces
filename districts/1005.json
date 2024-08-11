@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 100502,
         "SUB_DISTRICT_NAME_THA": "อนุสาวรีย์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Anusawari",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1005,
         "LAT": 13.868000030517578,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 100508,
         "SUB_DISTRICT_NAME_THA": "ท่าแร้ง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Tha Raeng",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1005,
         "LAT": 13.866000175476074,

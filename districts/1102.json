@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 110201,
         "SUB_DISTRICT_NAME_THA": "บางบ่อ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Bo",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.611000061035156,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 110202,
         "SUB_DISTRICT_NAME_THA": "บ้านระกาศ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Ban Rakat",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.638999938964844,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 110203,
         "SUB_DISTRICT_NAME_THA": "บางพลีน้อย",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Phli Noi",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.574000358581543,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 110204,
         "SUB_DISTRICT_NAME_THA": "บางเพรียง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Phriang",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.545000076293945,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 110205,
         "SUB_DISTRICT_NAME_THA": "คลองด่าน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Dan",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.51099967956543,
@@ -47,7 +47,7 @@
     {
         "SUB_DISTRICT_ID": 110206,
         "SUB_DISTRICT_NAME_THA": "คลองสวน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Suan",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.659000396728516,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 110207,
         "SUB_DISTRICT_NAME_THA": "เปร็ง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Preng",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.67199993133545,
@@ -65,7 +65,7 @@
     {
         "SUB_DISTRICT_ID": 110208,
         "SUB_DISTRICT_NAME_THA": "คลองนิยมยาตรา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Niyom Yattra",
         "PROVINCE_ID": 11,
         "DISTRICT_ID": 1102,
         "LAT": 13.62399959564209,

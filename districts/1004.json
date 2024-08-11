@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 100401,
         "SUB_DISTRICT_NAME_THA": "มหาพฤฒาราม",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Maha Phruettharam",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1004,
         "LAT": 13.734000205993652,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 100402,
         "SUB_DISTRICT_NAME_THA": "สีลม",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Si Lom",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1004,
         "LAT": 13.729999542236328,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 100403,
         "SUB_DISTRICT_NAME_THA": "สุริยวงศ์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Suriyawong",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1004,
         "LAT": 13.723999977111816,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 100404,
         "SUB_DISTRICT_NAME_THA": "บางรัก",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Rak",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1004,
         "LAT": 13.72700023651123,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 100405,
         "SUB_DISTRICT_NAME_THA": "สี่พระยา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Si Phraya",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1004,
         "LAT": 13.725000381469727,

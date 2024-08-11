@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 931001,
         "SUB_DISTRICT_NAME_THA": "ป่าพะยอม",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Pa Phayom",
         "PROVINCE_ID": 93,
         "DISTRICT_ID": 9310,
         "LAT": 7.860000133514404,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 931002,
         "SUB_DISTRICT_NAME_THA": "ลานข่อย",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lan Khoi",
         "PROVINCE_ID": 93,
         "DISTRICT_ID": 9310,
         "LAT": 7.830999851226807,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 931004,
         "SUB_DISTRICT_NAME_THA": "บ้านพร้าว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Ban Phrao",
         "PROVINCE_ID": 93,
         "DISTRICT_ID": 9310,
         "LAT": 7.817999839782715,

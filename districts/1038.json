@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 103801,
         "SUB_DISTRICT_NAME_THA": "ลาดพร้าว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lat Phrao",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1038,
         "LAT": 13.810999870300293,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 103802,
         "SUB_DISTRICT_NAME_THA": "จรเข้บัว",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chorakhe Bua",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1038,
         "LAT": 13.84000015258789,

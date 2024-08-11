@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 380701,
         "SUB_DISTRICT_NAME_THA": "ศรีวิไล",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Si Wilai",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3807,
         "LAT": 18.225000381469727,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 380702,
         "SUB_DISTRICT_NAME_THA": "ชุมภูพร",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Chumphu Phon",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3807,
         "LAT": 18.145999908447266,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 380703,
         "SUB_DISTRICT_NAME_THA": "นาแสง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Na Saeng",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3807,
         "LAT": 18.082000732421875,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 380704,
         "SUB_DISTRICT_NAME_THA": "นาสะแบง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Na Sabaeng",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3807,
         "LAT": 18.139999389648438,
@@ -38,7 +38,7 @@
     {
         "SUB_DISTRICT_ID": 380705,
         "SUB_DISTRICT_NAME_THA": "นาสิงห์",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Na Sing",
         "PROVINCE_ID": 38,
         "DISTRICT_ID": 3807,
         "LAT": 18.211999893188477,

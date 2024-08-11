@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 841201,
         "SUB_DISTRICT_NAME_THA": "นาสาร",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Na San",
         "PROVINCE_ID": 84,
         "DISTRICT_ID": 8412,
         "LAT": 8.812000274658203,
@@ -56,7 +56,7 @@
     {
         "SUB_DISTRICT_ID": 841207,
         "SUB_DISTRICT_NAME_THA": "ควนสุบรรณ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khuan Suban",
         "PROVINCE_ID": 84,
         "DISTRICT_ID": 8412,
         "LAT": 8.87600040435791,

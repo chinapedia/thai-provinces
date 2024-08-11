@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 104001,
         "SUB_DISTRICT_NAME_THA": "บางแค",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Khae",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1040,
         "LAT": 13.697999954223633,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 104002,
         "SUB_DISTRICT_NAME_THA": "บางแคเหนือ",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Khae Nuea",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1040,
         "LAT": 13.720000267028809,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 104003,
         "SUB_DISTRICT_NAME_THA": "บางไผ่",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Phai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1040,
         "LAT": 13.741000175476074,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 104004,
         "SUB_DISTRICT_NAME_THA": "หลักสอง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Lak Song",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1040,
         "LAT": 13.682999610900879,

@@ -2,7 +2,7 @@
     {
         "SUB_DISTRICT_ID": 101801,
         "SUB_DISTRICT_NAME_THA": "สมเด็จเจ้าพระยา",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Somdet Chao Phraya",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1018,
         "LAT": 13.730999946594238,
@@ -11,7 +11,7 @@
     {
         "SUB_DISTRICT_ID": 101802,
         "SUB_DISTRICT_NAME_THA": "คลองสาน",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong San",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1018,
         "LAT": 13.734999656677246,
@@ -20,7 +20,7 @@
     {
         "SUB_DISTRICT_ID": 101803,
         "SUB_DISTRICT_NAME_THA": "บางลำภูล่าง",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Bang Lamphu Lang",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1018,
         "LAT": 13.71500015258789,
@@ -29,7 +29,7 @@
     {
         "SUB_DISTRICT_ID": 101804,
         "SUB_DISTRICT_NAME_THA": "คลองต้นไทร",
-        "SUB_DISTRICT_NAME_ENG": null,
+        "SUB_DISTRICT_NAME_ENG": "Khlong Ton Sai",
         "PROVINCE_ID": 10,
         "DISTRICT_ID": 1018,
         "LAT": 13.725000381469727,
