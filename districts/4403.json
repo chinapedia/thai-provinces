@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 440301,
+        "SUB_DISTRICT_NAME_THA": "หัวขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Khwang",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.249000549316406,
+        "LONG": 103.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 440302,
+        "SUB_DISTRICT_NAME_THA": "ยางน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Yang Noi",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.301000595092773,
+        "LONG": 103.0979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 440303,
+        "SUB_DISTRICT_NAME_THA": "วังยาว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yao",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.222999572753906,
+        "LONG": 102.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 440304,
+        "SUB_DISTRICT_NAME_THA": "เขวาไร่",
+        "SUB_DISTRICT_NAME_ENG": "Khewa Rai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.249000549316406,
+        "LONG": 102.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 440305,
+        "SUB_DISTRICT_NAME_THA": "แพง",
+        "SUB_DISTRICT_NAME_ENG": "Phaeng",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.260000228881836,
+        "LONG": 102.96700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 440306,
+        "SUB_DISTRICT_NAME_THA": "แก้งแก",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Kae",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.19700050354004,
+        "LONG": 103.10299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 440307,
+        "SUB_DISTRICT_NAME_THA": "หนองเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lek",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.134000778198242,
+        "LONG": 102.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 440308,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.33799934387207,
+        "LONG": 102.99500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 440309,
+        "SUB_DISTRICT_NAME_THA": "เหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Lao",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.18000030517578,
+        "LONG": 103.06800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 440310,
+        "SUB_DISTRICT_NAME_THA": "เขื่อน",
+        "SUB_DISTRICT_NAME_ENG": "Khuean",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.3439998626709,
+        "LONG": 103.06800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 440311,
+        "SUB_DISTRICT_NAME_THA": "หนองบอน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bon",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.27400016784668,
+        "LONG": 103.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 440312,
+        "SUB_DISTRICT_NAME_THA": "โพนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Phon Ngam",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.322999954223633,
+        "LONG": 102.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 440313,
+        "SUB_DISTRICT_NAME_THA": "ยางท่าแจ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Yang Tha Chaeng",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.315000534057617,
+        "LONG": 103.03600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 440314,
+        "SUB_DISTRICT_NAME_THA": "แห่ใต้",
+        "SUB_DISTRICT_NAME_ENG": "Hae Tai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.2810001373291,
+        "LONG": 103.13899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 440315,
+        "SUB_DISTRICT_NAME_THA": "หนองกุงสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung Sawan",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.194000244140625,
+        "LONG": 102.9749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 440316,
+        "SUB_DISTRICT_NAME_THA": "เลิงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Loeng Tai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.215999603271484,
+        "LONG": 103.14199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 440317,
+        "SUB_DISTRICT_NAME_THA": "ดอนกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Don Klang",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4403,
+        "LAT": 16.165000915527344,
+        "LONG": 102.89099884033203
+    }
+]

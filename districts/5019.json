@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501901,
+        "SUB_DISTRICT_NAME_THA": "ยางเนิ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Yang Noeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.707000732421875,
+        "LONG": 99.03600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 501902,
+        "SUB_DISTRICT_NAME_THA": "สารภี",
+        "SUB_DISTRICT_NAME_ENG": "Saraphi",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.680999755859375,
+        "LONG": 99.0469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 501903,
+        "SUB_DISTRICT_NAME_THA": "ชมภู",
+        "SUB_DISTRICT_NAME_ENG": "Chomphu",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.694000244140625,
+        "LONG": 99.07099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 501904,
+        "SUB_DISTRICT_NAME_THA": "ไชยสถาน",
+        "SUB_DISTRICT_NAME_ENG": "Chaiya Sathan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.7450008392334,
+        "LONG": 99.04299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 501905,
+        "SUB_DISTRICT_NAME_THA": "ขัวมุง",
+        "SUB_DISTRICT_NAME_ENG": "Khua Mung",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.67799949645996,
+        "LONG": 98.99099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 501906,
+        "SUB_DISTRICT_NAME_THA": "หนองแฝก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Faek",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.69099998474121,
+        "LONG": 99.01899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 501907,
+        "SUB_DISTRICT_NAME_THA": "หนองผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phueng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.735000610351562,
+        "LONG": 99.02100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 501908,
+        "SUB_DISTRICT_NAME_THA": "ท่ากว้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kwang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.659000396728516,
+        "LONG": 98.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 501909,
+        "SUB_DISTRICT_NAME_THA": "ดอนแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Don Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.69700050354004,
+        "LONG": 98.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 501910,
+        "SUB_DISTRICT_NAME_THA": "ท่าวังตาล",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wang Tan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.718000411987305,
+        "LONG": 99.00700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 501911,
+        "SUB_DISTRICT_NAME_THA": "สันทราย",
+        "SUB_DISTRICT_NAME_ENG": "San Sai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.639999389648438,
+        "LONG": 98.97200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 501912,
+        "SUB_DISTRICT_NAME_THA": "ป่าบง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Bong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5019,
+        "LAT": 18.736000061035156,
+        "LONG": 99.05899810791016
+    }
+]

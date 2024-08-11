@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 931101,
+        "SUB_DISTRICT_NAME_THA": "ชุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Chum Phon",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9311,
+        "LAT": 7.607999801635742,
+        "LONG": 99.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 931102,
+        "SUB_DISTRICT_NAME_THA": "บ้านนา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Na",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9311,
+        "LAT": 7.559000015258789,
+        "LONG": 99.86799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 931103,
+        "SUB_DISTRICT_NAME_THA": "อ่างทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ang Thong",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9311,
+        "LAT": 7.553999900817871,
+        "LONG": 99.97100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 931104,
+        "SUB_DISTRICT_NAME_THA": "ลำสินธุ์",
+        "SUB_DISTRICT_NAME_ENG": "Lam Sin",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9311,
+        "LAT": 7.494999885559082,
+        "LONG": 99.875
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620701,
+        "SUB_DISTRICT_NAME_THA": "ลานกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Lan Krabue",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6207,
+        "LAT": 16.625,
+        "LONG": 99.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 620702,
+        "SUB_DISTRICT_NAME_THA": "ช่องลม",
+        "SUB_DISTRICT_NAME_ENG": "Chong Lom",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6207,
+        "LAT": 16.56800079345703,
+        "LONG": 99.91300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 620703,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6207,
+        "LAT": 16.639999389648438,
+        "LONG": 99.77999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 620704,
+        "SUB_DISTRICT_NAME_THA": "โนนพลวง",
+        "SUB_DISTRICT_NAME_ENG": "Non Phluang",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6207,
+        "LAT": 16.559999465942383,
+        "LONG": 99.85700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 620705,
+        "SUB_DISTRICT_NAME_THA": "ประชาสุขสันต์",
+        "SUB_DISTRICT_NAME_ENG": "Pracha Suksan",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6207,
+        "LAT": 16.520999908447266,
+        "LONG": 99.9739990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 620706,
+        "SUB_DISTRICT_NAME_THA": "บึงทับแรต",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Thap Raet",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6207,
+        "LAT": 16.68899917602539,
+        "LONG": 99.8550033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 620707,
+        "SUB_DISTRICT_NAME_THA": "จันทิมา",
+        "SUB_DISTRICT_NAME_ENG": "Chanthima",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6207,
+        "LAT": 16.56999969482422,
+        "LONG": 99.79100036621094
+    }
+]

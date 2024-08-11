@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 452001,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งเขาหลวง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4520,
+        "LAT": 16.031999588012695,
+        "LONG": 103.85299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 452002,
+        "SUB_DISTRICT_NAME_THA": "เทอดไทย",
+        "SUB_DISTRICT_NAME_ENG": "Thoet Thai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4520,
+        "LAT": 15.963000297546387,
+        "LONG": 103.86599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 452003,
+        "SUB_DISTRICT_NAME_THA": "บึงงาม",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Ngam",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4520,
+        "LAT": 15.986000061035156,
+        "LONG": 103.89399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 452004,
+        "SUB_DISTRICT_NAME_THA": "มะบ้า",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4520,
+        "LAT": 16.038999557495117,
+        "LONG": 103.88899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 452005,
+        "SUB_DISTRICT_NAME_THA": "เหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Lao",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4520,
+        "LAT": 15.96500015258789,
+        "LONG": 103.8270034790039
+    }
+]

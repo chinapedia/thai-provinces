@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 950301,
+        "SUB_DISTRICT_NAME_THA": "บันนังสตา",
+        "SUB_DISTRICT_NAME_ENG": "Bannang Sata",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9503,
+        "LAT": 6.25,
+        "LONG": 101.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 950302,
+        "SUB_DISTRICT_NAME_THA": "บาเจาะ",
+        "SUB_DISTRICT_NAME_ENG": "Bacho",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9503,
+        "LAT": 6.211999893188477,
+        "LONG": 101.29100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 950303,
+        "SUB_DISTRICT_NAME_THA": "ตาเนาะปูเต๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Tano Pute",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9503,
+        "LAT": 6.355000019073486,
+        "LONG": 101.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 950304,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำทะลุ",
+        "SUB_DISTRICT_NAME_ENG": "Tham Thalu",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9503,
+        "LAT": 6.23799991607666,
+        "LONG": 101.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 950305,
+        "SUB_DISTRICT_NAME_THA": "ตลิ่งชัน",
+        "SUB_DISTRICT_NAME_ENG": "Taling Chan",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9503,
+        "LAT": 6.270999908447266,
+        "LONG": 101.35199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 950306,
+        "SUB_DISTRICT_NAME_THA": "เขื่อนบางลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khuean Bang Lang",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9503,
+        "LAT": 6.142000198364258,
+        "LONG": 101.30899810791016
+    }
+]

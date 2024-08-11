@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 840401,
+        "SUB_DISTRICT_NAME_THA": "อ่างทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ang Thong",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8404,
+        "LAT": 9.527000427246094,
+        "LONG": 99.68499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 840402,
+        "SUB_DISTRICT_NAME_THA": "ลิปะน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Lipa Noi",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8404,
+        "LAT": 9.501999855041504,
+        "LONG": 99.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 840403,
+        "SUB_DISTRICT_NAME_THA": "ตลิ่งงาม",
+        "SUB_DISTRICT_NAME_ENG": "Taling Ngam",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8404,
+        "LAT": 9.371999740600586,
+        "LONG": 99.94400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 840404,
+        "SUB_DISTRICT_NAME_THA": "หน้าเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Na Mueang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8404,
+        "LAT": 9.461000442504883,
+        "LONG": 99.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 840405,
+        "SUB_DISTRICT_NAME_THA": "มะเร็ต",
+        "SUB_DISTRICT_NAME_ENG": "Maret",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8404,
+        "LAT": 9.468000411987305,
+        "LONG": 100.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 840406,
+        "SUB_DISTRICT_NAME_THA": "บ่อผุด",
+        "SUB_DISTRICT_NAME_ENG": "Bo Phut",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8404,
+        "LAT": 9.527000427246094,
+        "LONG": 100.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 840407,
+        "SUB_DISTRICT_NAME_THA": "แม่น้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Maenam",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8404,
+        "LAT": 9.562999725341797,
+        "LONG": 99.96700286865234
+    }
+]

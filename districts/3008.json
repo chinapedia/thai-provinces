@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300801,
+        "SUB_DISTRICT_NAME_THA": "กุดพิมาน",
+        "SUB_DISTRICT_NAME_ENG": "Kut Phiman",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.303000450134277,
+        "LONG": 101.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 300802,
+        "SUB_DISTRICT_NAME_THA": "ด่านขุนทด",
+        "SUB_DISTRICT_NAME_ENG": "Dan Khun Thot",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.21399974822998,
+        "LONG": 101.78800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 300803,
+        "SUB_DISTRICT_NAME_THA": "ด่านนอก",
+        "SUB_DISTRICT_NAME_ENG": "Dan Nok",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.156999588012695,
+        "LONG": 101.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 300804,
+        "SUB_DISTRICT_NAME_THA": "ด่านใน",
+        "SUB_DISTRICT_NAME_ENG": "Dan Nai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.119000434875488,
+        "LONG": 101.8550033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 300805,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Takhian",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.12399959564209,
+        "LONG": 101.7239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 300806,
+        "SUB_DISTRICT_NAME_THA": "บ้านเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.211000442504883,
+        "LONG": 101.6729965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 300807,
+        "SUB_DISTRICT_NAME_THA": "บ้านแปรง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Praeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.371999740600586,
+        "LONG": 101.80899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 300808,
+        "SUB_DISTRICT_NAME_THA": "พันชนะ",
+        "SUB_DISTRICT_NAME_ENG": "Phan Chana",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.270000457763672,
+        "LONG": 101.68900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 300809,
+        "SUB_DISTRICT_NAME_THA": "สระจรเข้",
+        "SUB_DISTRICT_NAME_ENG": "Sa Chorakhe",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.147000312805176,
+        "LONG": 101.80799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 300810,
+        "SUB_DISTRICT_NAME_THA": "หนองกราด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.347999572753906,
+        "LONG": 101.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 300811,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวตะเกียด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Takiat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.281000137329102,
+        "LONG": 101.82099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 300812,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวละคร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Lakhon",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.243000030517578,
+        "LONG": 101.86299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 300813,
+        "SUB_DISTRICT_NAME_THA": "หินดาด",
+        "SUB_DISTRICT_NAME_ENG": "Hin Dat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.14900016784668,
+        "LONG": 101.61799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 300815,
+        "SUB_DISTRICT_NAME_THA": "ห้วยบง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Bong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.16100025177002,
+        "LONG": 101.48600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 300817,
+        "SUB_DISTRICT_NAME_THA": "โนนเมืองพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Non Mueang Phatthana",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.303999900817871,
+        "LONG": 101.89700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 300818,
+        "SUB_DISTRICT_NAME_THA": "หนองไทร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3008,
+        "LAT": 15.359999656677246,
+        "LONG": 101.8550033569336
+    }
+]

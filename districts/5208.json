@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520801,
+        "SUB_DISTRICT_NAME_THA": "ล้อมแรด",
+        "SUB_DISTRICT_NAME_ENG": "Lom Raet",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.634000778198242,
+        "LONG": 99.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 520802,
+        "SUB_DISTRICT_NAME_THA": "แม่วะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Wa",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.468000411987305,
+        "LONG": 99.21600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 520803,
+        "SUB_DISTRICT_NAME_THA": "แม่ปะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Pa",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.68400001525879,
+        "LONG": 99.29900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 520804,
+        "SUB_DISTRICT_NAME_THA": "แม่มอก",
+        "SUB_DISTRICT_NAME_ENG": "Mae Mok",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.608999252319336,
+        "LONG": 99.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 520805,
+        "SUB_DISTRICT_NAME_THA": "เวียงมอก",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Mok",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.395999908447266,
+        "LONG": 99.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 520806,
+        "SUB_DISTRICT_NAME_THA": "นาโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Pong",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.650999069213867,
+        "LONG": 99.11599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 520807,
+        "SUB_DISTRICT_NAME_THA": "แม่ถอด",
+        "SUB_DISTRICT_NAME_ENG": "Mae Thot",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.766000747680664,
+        "LONG": 99.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 520808,
+        "SUB_DISTRICT_NAME_THA": "เถินบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Thoen Buri",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5208,
+        "LAT": 17.558000564575195,
+        "LONG": 99.20700073242188
+    }
+]

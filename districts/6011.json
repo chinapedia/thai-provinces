@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 601101,
+        "SUB_DISTRICT_NAME_THA": "ลาดยาว",
+        "SUB_DISTRICT_NAME_ENG": "Lat Yao",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.755999565124512,
+        "LONG": 99.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 601102,
+        "SUB_DISTRICT_NAME_THA": "ห้วยน้ำหอม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Nam Hom",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.729000091552734,
+        "LONG": 99.69599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 601103,
+        "SUB_DISTRICT_NAME_THA": "วังม้า",
+        "SUB_DISTRICT_NAME_ENG": "Wang Ma",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.685999870300293,
+        "LONG": 99.87100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 601104,
+        "SUB_DISTRICT_NAME_THA": "วังเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mueang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.640000343322754,
+        "LONG": 99.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 601105,
+        "SUB_DISTRICT_NAME_THA": "สร้อยละคร",
+        "SUB_DISTRICT_NAME_ENG": "Soi Lakhon",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.72599983215332,
+        "LONG": 99.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 601106,
+        "SUB_DISTRICT_NAME_THA": "มาบแก",
+        "SUB_DISTRICT_NAME_ENG": "Map Kae",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.677000045776367,
+        "LONG": 99.78099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 601107,
+        "SUB_DISTRICT_NAME_THA": "หนองยาว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yao",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.737000465393066,
+        "LONG": 99.88700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 601108,
+        "SUB_DISTRICT_NAME_THA": "หนองนมวัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nom Wua",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.777000427246094,
+        "LONG": 99.86599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 601109,
+        "SUB_DISTRICT_NAME_THA": "บ้านไร่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.873000144958496,
+        "LONG": 99.79100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 601110,
+        "SUB_DISTRICT_NAME_THA": "เนินขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Noen Khi Lek",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.83899974822998,
+        "LONG": 99.85800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 601116,
+        "SUB_DISTRICT_NAME_THA": "ศาลเจ้าไก่ต่อ",
+        "SUB_DISTRICT_NAME_ENG": "San Chao Kai To",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.788000106811523,
+        "LONG": 99.66899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 601117,
+        "SUB_DISTRICT_NAME_THA": "สระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kaeo",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6011,
+        "LAT": 15.784000396728516,
+        "LONG": 99.8030014038086
+    }
+]

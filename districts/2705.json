@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270501,
+        "SUB_DISTRICT_NAME_THA": "วัฒนานคร",
+        "SUB_DISTRICT_NAME_ENG": "Watthana Nakhon",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.741000175476074,
+        "LONG": 102.32499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 270502,
+        "SUB_DISTRICT_NAME_THA": "ท่าเกวียน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kwian",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.666000366210938,
+        "LONG": 102.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 270503,
+        "SUB_DISTRICT_NAME_THA": "ผักขะ",
+        "SUB_DISTRICT_NAME_ENG": "Phak Kha",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.710000038146973,
+        "LONG": 102.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 270504,
+        "SUB_DISTRICT_NAME_THA": "โนนหมากเค็ง",
+        "SUB_DISTRICT_NAME_ENG": "Non Mak Kheng",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.824000358581543,
+        "LONG": 102.31500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 270505,
+        "SUB_DISTRICT_NAME_THA": "หนองน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam Sai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.871000289916992,
+        "LONG": 102.34100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 270506,
+        "SUB_DISTRICT_NAME_THA": "ช่องกุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Chong Kum",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 14.00100040435791,
+        "LONG": 102.4489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 270507,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.798999786376953,
+        "LONG": 102.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 270508,
+        "SUB_DISTRICT_NAME_THA": "แซร์ออ",
+        "SUB_DISTRICT_NAME_ENG": "Sae-O",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.973999977111816,
+        "LONG": 102.51799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 270509,
+        "SUB_DISTRICT_NAME_THA": "หนองหมากฝ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mak Fai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 14.02400016784668,
+        "LONG": 102.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 270510,
+        "SUB_DISTRICT_NAME_THA": "หนองตะเคียนบอน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Takhian Bon",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.916000366210938,
+        "LONG": 102.26499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 270511,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโจด",
+        "SUB_DISTRICT_NAME_ENG": "Huai Chot",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2705,
+        "LAT": 13.770999908447266,
+        "LONG": 102.28099822998047
+    }
+]

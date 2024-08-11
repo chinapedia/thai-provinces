@@ -1,0 +1,218 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300102,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์กลาง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Klang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.906000137329102,
+        "LONG": 102.10199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 300103,
+        "SUB_DISTRICT_NAME_THA": "หนองจะบก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chabok",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.916000366210938,
+        "LONG": 102.06400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 300104,
+        "SUB_DISTRICT_NAME_THA": "โคกสูง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sung",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.095000267028809,
+        "LONG": 102.11599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 300105,
+        "SUB_DISTRICT_NAME_THA": "มะเริง",
+        "SUB_DISTRICT_NAME_ENG": "Maroeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.979999542236328,
+        "LONG": 102.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 300106,
+        "SUB_DISTRICT_NAME_THA": "หนองระเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Rawiang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.946000099182129,
+        "LONG": 102.1989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 300107,
+        "SUB_DISTRICT_NAME_THA": "ปรุใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Pru Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.994000434875488,
+        "LONG": 102.052001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 300108,
+        "SUB_DISTRICT_NAME_THA": "หมื่นไวย",
+        "SUB_DISTRICT_NAME_ENG": "Muen Wai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.01099967956543,
+        "LONG": 102.10800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 300109,
+        "SUB_DISTRICT_NAME_THA": "พลกรัง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Krang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.026000022888184,
+        "LONG": 102.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 300110,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่ล้อม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai Lom",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.946999549865723,
+        "LONG": 102.08499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 300111,
+        "SUB_DISTRICT_NAME_THA": "หัวทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Hua Thale",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.96500015258789,
+        "LONG": 102.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 300112,
+        "SUB_DISTRICT_NAME_THA": "บ้านเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ko",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.980999946594238,
+        "LONG": 102.09100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 300114,
+        "SUB_DISTRICT_NAME_THA": "พุดซา",
+        "SUB_DISTRICT_NAME_ENG": "Phut Sa",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.048999786376953,
+        "LONG": 102.04299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 300115,
+        "SUB_DISTRICT_NAME_THA": "บ้านโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pho",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.038000106811523,
+        "LONG": 102.19100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 300116,
+        "SUB_DISTRICT_NAME_THA": "จอหอ",
+        "SUB_DISTRICT_NAME_ENG": "Cho Ho",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.055000305175781,
+        "LONG": 102.14800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 300117,
+        "SUB_DISTRICT_NAME_THA": "โคกกรวด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kruat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.897000312805176,
+        "LONG": 101.9739990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 300118,
+        "SUB_DISTRICT_NAME_THA": "ไชยมงคล",
+        "SUB_DISTRICT_NAME_ENG": "Chai Mongkhon",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.848999977111816,
+        "LONG": 102.08000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 300119,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Sala",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.89900016784668,
+        "LONG": 102.1520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 300120,
+        "SUB_DISTRICT_NAME_THA": "สุรนารี",
+        "SUB_DISTRICT_NAME_ENG": "Suranari",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.914999961853027,
+        "LONG": 102.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 300121,
+        "SUB_DISTRICT_NAME_THA": "สีมุม",
+        "SUB_DISTRICT_NAME_ENG": "Si Mum",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.986000061035156,
+        "LONG": 102.00700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 300122,
+        "SUB_DISTRICT_NAME_THA": "ตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Talat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.017999649047852,
+        "LONG": 102.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 300123,
+        "SUB_DISTRICT_NAME_THA": "พะเนา",
+        "SUB_DISTRICT_NAME_ENG": "Phanao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 14.986000061035156,
+        "LONG": 102.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 300124,
+        "SUB_DISTRICT_NAME_THA": "หนองกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krathum",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.008999824523926,
+        "LONG": 102.08599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 300125,
+        "SUB_DISTRICT_NAME_THA": "หนองไข่น้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khai Nam",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 15.104999542236328,
+        "LONG": 102.17400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 961305,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Meang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3001,
+        "LAT": 0.0,
+        "LONG": 0.0
+    }
+]

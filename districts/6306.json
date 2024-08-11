@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630601,
+        "SUB_DISTRICT_NAME_THA": "แม่สอด",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sot",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.715999603271484,
+        "LONG": 98.572998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 630602,
+        "SUB_DISTRICT_NAME_THA": "แม่กุ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ku",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.6200008392334,
+        "LONG": 98.6510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 630603,
+        "SUB_DISTRICT_NAME_THA": "พะวอ",
+        "SUB_DISTRICT_NAME_ENG": "Phawo",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.67099952697754,
+        "LONG": 98.78399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 630604,
+        "SUB_DISTRICT_NAME_THA": "แม่ตาว",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tao",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.680999755859375,
+        "LONG": 98.5770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 630605,
+        "SUB_DISTRICT_NAME_THA": "แม่กาษา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Kasa",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.89699935913086,
+        "LONG": 98.65399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 630606,
+        "SUB_DISTRICT_NAME_THA": "ท่าสายลวด",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sai Luat",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.695999145507812,
+        "LONG": 98.53299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 630607,
+        "SUB_DISTRICT_NAME_THA": "แม่ปะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Pa",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.756999969482422,
+        "LONG": 98.58599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 630608,
+        "SUB_DISTRICT_NAME_THA": "มหาวัน",
+        "SUB_DISTRICT_NAME_ENG": "Mahawan",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.565000534057617,
+        "LONG": 98.6760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 630609,
+        "SUB_DISTRICT_NAME_THA": "ด่านแม่ละเมา",
+        "SUB_DISTRICT_NAME_ENG": "Dan Mae Lamao",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.74799919128418,
+        "LONG": 98.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 630610,
+        "SUB_DISTRICT_NAME_THA": "พระธาตุผาแดง",
+        "SUB_DISTRICT_NAME_ENG": "Phrathat Pha Daeng",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6306,
+        "LAT": 16.691999435424805,
+        "LONG": 98.63899993896484
+    }
+]

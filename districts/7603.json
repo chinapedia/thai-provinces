@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760301,
+        "SUB_DISTRICT_NAME_THA": "หนองหญ้าปล้อง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ya Plong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7603,
+        "LAT": 13.201000213623047,
+        "LONG": 99.70899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 760302,
+        "SUB_DISTRICT_NAME_THA": "ยางน้ำกลัดเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Yang Nam Klat Nuea",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7603,
+        "LAT": 13.157999992370605,
+        "LONG": 99.38999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 760303,
+        "SUB_DISTRICT_NAME_THA": "ยางน้ำกลัดใต้",
+        "SUB_DISTRICT_NAME_ENG": "Yang Nam Klat Tai",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7603,
+        "LAT": 13.069999694824219,
+        "LONG": 99.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 760304,
+        "SUB_DISTRICT_NAME_THA": "ท่าตะคร้อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Takhro",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7603,
+        "LAT": 13.098999977111816,
+        "LONG": 99.7490005493164
+    }
+]

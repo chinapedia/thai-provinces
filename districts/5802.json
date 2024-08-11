@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 580201,
+        "SUB_DISTRICT_NAME_THA": "ขุนยวม",
+        "SUB_DISTRICT_NAME_ENG": "Khun Yuam",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5802,
+        "LAT": 18.992000579833984,
+        "LONG": 97.8010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 580202,
+        "SUB_DISTRICT_NAME_THA": "แม่เงา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ngao",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5802,
+        "LAT": 18.836000442504883,
+        "LONG": 97.7959976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 580203,
+        "SUB_DISTRICT_NAME_THA": "เมืองปอน",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Pon",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5802,
+        "LAT": 18.70199966430664,
+        "LONG": 97.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 580204,
+        "SUB_DISTRICT_NAME_THA": "แม่ยวมน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yuam Noi",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5802,
+        "LAT": 18.742000579833984,
+        "LONG": 98.0510025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 580205,
+        "SUB_DISTRICT_NAME_THA": "แม่กิ๊",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ki",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5802,
+        "LAT": 18.67300033569336,
+        "LONG": 97.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 580206,
+        "SUB_DISTRICT_NAME_THA": "แม่อูคอ",
+        "SUB_DISTRICT_NAME_ENG": "Mae U Kho",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5802,
+        "LAT": 18.884000778198242,
+        "LONG": 98.0459976196289
+    }
+]

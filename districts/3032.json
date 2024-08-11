@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 303201,
+        "SUB_DISTRICT_NAME_THA": "ช้างทอง",
+        "SUB_DISTRICT_NAME_ENG": "Chang Thong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3032,
+        "LAT": 15.029000282287598,
+        "LONG": 102.30999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 303202,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3032,
+        "LAT": 14.980999946594238,
+        "LONG": 102.322998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 303203,
+        "SUB_DISTRICT_NAME_THA": "พระพุทธ",
+        "SUB_DISTRICT_NAME_ENG": "Phraphut",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3032,
+        "LAT": 14.975000381469727,
+        "LONG": 102.23200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 303204,
+        "SUB_DISTRICT_NAME_THA": "หนองงูเหลือม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ngu Lueam",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3032,
+        "LAT": 15.053000450134277,
+        "LONG": 102.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 303205,
+        "SUB_DISTRICT_NAME_THA": "หนองยาง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3032,
+        "LAT": 14.930000305175781,
+        "LONG": 102.28700256347656
+    }
+]

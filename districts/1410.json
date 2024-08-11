@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 141001,
+        "SUB_DISTRICT_NAME_THA": "ลาดบัวหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Lat Bua Luang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1410,
+        "LAT": 14.192999839782715,
+        "LONG": 100.31900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 141002,
+        "SUB_DISTRICT_NAME_THA": "หลักชัย",
+        "SUB_DISTRICT_NAME_ENG": "Lak Chai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1410,
+        "LAT": 14.194999694824219,
+        "LONG": 100.2770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 141003,
+        "SUB_DISTRICT_NAME_THA": "สามเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Mueang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1410,
+        "LAT": 14.152999877929688,
+        "LONG": 100.2969970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 141004,
+        "SUB_DISTRICT_NAME_THA": "พระยาบันลือ",
+        "SUB_DISTRICT_NAME_ENG": "Phraya Banlue",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1410,
+        "LAT": 14.16100025177002,
+        "LONG": 100.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 141005,
+        "SUB_DISTRICT_NAME_THA": "สิงหนาท",
+        "SUB_DISTRICT_NAME_ENG": "Singhanat",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1410,
+        "LAT": 14.131999969482422,
+        "LONG": 100.4229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 141006,
+        "SUB_DISTRICT_NAME_THA": "คู้สลอด",
+        "SUB_DISTRICT_NAME_ENG": "Khu Salot",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1410,
+        "LAT": 14.196000099182129,
+        "LONG": 100.36900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 141007,
+        "SUB_DISTRICT_NAME_THA": "คลองพระยาบันลือ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phraya Banlue",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1410,
+        "LAT": 14.133999824523926,
+        "LONG": 100.36799621582031
+    }
+]

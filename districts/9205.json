@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920501,
+        "SUB_DISTRICT_NAME_THA": "บ่อหิน",
+        "SUB_DISTRICT_NAME_ENG": "Bo Hin",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9205,
+        "LAT": 7.546999931335449,
+        "LONG": 99.27899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 920502,
+        "SUB_DISTRICT_NAME_THA": "เขาไม้แก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Mai Kaeo",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9205,
+        "LAT": 7.644999980926514,
+        "LONG": 99.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 920503,
+        "SUB_DISTRICT_NAME_THA": "กะลาเส",
+        "SUB_DISTRICT_NAME_ENG": "Kalase",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9205,
+        "LAT": 7.74399995803833,
+        "LONG": 99.32599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 920504,
+        "SUB_DISTRICT_NAME_THA": "ไม้ฝาด",
+        "SUB_DISTRICT_NAME_ENG": "Mai Fat",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9205,
+        "LAT": 7.49399995803833,
+        "LONG": 99.302001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 920505,
+        "SUB_DISTRICT_NAME_THA": "นาเมืองเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Na Mueang Phet",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9205,
+        "LAT": 7.559000015258789,
+        "LONG": 99.46499633789062
+    }
+]

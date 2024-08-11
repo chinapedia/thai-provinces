@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520401,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งงาม",
+        "SUB_DISTRICT_NAME_ENG": "Thung Ngam",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5204,
+        "LAT": 18.070999145507812,
+        "LONG": 99.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 520402,
+        "SUB_DISTRICT_NAME_THA": "เสริมขวา",
+        "SUB_DISTRICT_NAME_ENG": "Soem Khwa",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5204,
+        "LAT": 18.13800048828125,
+        "LONG": 99.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 520403,
+        "SUB_DISTRICT_NAME_THA": "เสริมซ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Soem Sai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5204,
+        "LAT": 17.975000381469727,
+        "LONG": 99.16500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 520404,
+        "SUB_DISTRICT_NAME_THA": "เสริมกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Soem Klang",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5204,
+        "LAT": 18.131999969482422,
+        "LONG": 99.08699798583984
+    }
+]

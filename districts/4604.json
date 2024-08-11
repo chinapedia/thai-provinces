@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 460401,
+        "SUB_DISTRICT_NAME_THA": "ร่องคำ",
+        "SUB_DISTRICT_NAME_ENG": "Rong Kham",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4604,
+        "LAT": 16.266000747680664,
+        "LONG": 103.73699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 460402,
+        "SUB_DISTRICT_NAME_THA": "สามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Samakkhi",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4604,
+        "LAT": 16.31800079345703,
+        "LONG": 103.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 460403,
+        "SUB_DISTRICT_NAME_THA": "เหล่าอ้อย",
+        "SUB_DISTRICT_NAME_ENG": "Lao Oi",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4604,
+        "LAT": 16.253999710083008,
+        "LONG": 103.70800018310547
+    }
+]

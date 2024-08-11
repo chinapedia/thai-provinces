@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 170101,
+        "SUB_DISTRICT_NAME_THA": "บางพุทรา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phutsa",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.890000343322754,
+        "LONG": 100.40399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 170102,
+        "SUB_DISTRICT_NAME_THA": "บางมัญ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Man",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.916000366210938,
+        "LONG": 100.4000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 170103,
+        "SUB_DISTRICT_NAME_THA": "โพกรวม",
+        "SUB_DISTRICT_NAME_ENG": "Phok Ruam",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.944000244140625,
+        "LONG": 100.39399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 170104,
+        "SUB_DISTRICT_NAME_THA": "ม่วงหมู่",
+        "SUB_DISTRICT_NAME_ENG": "Muang Mu",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.869000434875488,
+        "LONG": 100.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 170105,
+        "SUB_DISTRICT_NAME_THA": "หัวไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Hua Phai",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.96500015258789,
+        "LONG": 100.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 170106,
+        "SUB_DISTRICT_NAME_THA": "ต้นโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Ton Pho",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.869000434875488,
+        "LONG": 100.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 170107,
+        "SUB_DISTRICT_NAME_THA": "จักรสีห์",
+        "SUB_DISTRICT_NAME_ENG": "Chaksi",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.836000442504883,
+        "LONG": 100.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 170108,
+        "SUB_DISTRICT_NAME_THA": "บางกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krabue",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1701,
+        "LAT": 14.906999588012695,
+        "LONG": 100.36299896240234
+    }
+]

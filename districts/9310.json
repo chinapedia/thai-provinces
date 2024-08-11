@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 931001,
+        "SUB_DISTRICT_NAME_THA": "ป่าพะยอม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9310,
+        "LAT": 7.860000133514404,
+        "LONG": 99.9469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 931002,
+        "SUB_DISTRICT_NAME_THA": "ลานข่อย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9310,
+        "LAT": 7.830999851226807,
+        "LONG": 99.77999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 931003,
+        "SUB_DISTRICT_NAME_THA": "เกาะเต่า",
+        "SUB_DISTRICT_NAME_ENG": "Ko Tao",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9310,
+        "LAT": 7.7829999923706055,
+        "LONG": 99.79900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 931004,
+        "SUB_DISTRICT_NAME_THA": "บ้านพร้าว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9310,
+        "LAT": 7.817999839782715,
+        "LONG": 99.947998046875
+    }
+]

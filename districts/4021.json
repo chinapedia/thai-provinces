@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 402101,
+        "SUB_DISTRICT_NAME_THA": "กระนวน",
+        "SUB_DISTRICT_NAME_ENG": "Kranuan",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4021,
+        "LAT": 16.534000396728516,
+        "LONG": 103.06900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 402102,
+        "SUB_DISTRICT_NAME_THA": "คำแมด",
+        "SUB_DISTRICT_NAME_ENG": "Kham Maet",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4021,
+        "LAT": 16.615999221801758,
+        "LONG": 103.12200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 402103,
+        "SUB_DISTRICT_NAME_THA": "บ้านโนน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Non",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4021,
+        "LAT": 16.559999465942383,
+        "LONG": 103.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 402104,
+        "SUB_DISTRICT_NAME_THA": "คูคำ",
+        "SUB_DISTRICT_NAME_ENG": "Khu Kham",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4021,
+        "LAT": 16.507999420166016,
+        "LONG": 103.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 402105,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเตย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Toei",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4021,
+        "LAT": 16.582000732421875,
+        "LONG": 103.08899688720703
+    }
+]

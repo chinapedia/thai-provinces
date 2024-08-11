@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 402501,
+        "SUB_DISTRICT_NAME_THA": "โนนศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Non Sila",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4025,
+        "LAT": 15.9399995803833,
+        "LONG": 102.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 402502,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาหมอ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Mo",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4025,
+        "LAT": 15.98900032043457,
+        "LONG": 102.63500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 402503,
+        "SUB_DISTRICT_NAME_THA": "บ้านหัน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Han",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4025,
+        "LAT": 15.9399995803833,
+        "LONG": 102.72000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 402504,
+        "SUB_DISTRICT_NAME_THA": "เปือยใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Pueai Yai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4025,
+        "LAT": 16.027000427246094,
+        "LONG": 102.6510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 402505,
+        "SUB_DISTRICT_NAME_THA": "โนนแดง",
+        "SUB_DISTRICT_NAME_ENG": "Non Daeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4025,
+        "LAT": 16.0049991607666,
+        "LONG": 102.68699645996094
+    }
+]

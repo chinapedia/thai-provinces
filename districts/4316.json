@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 431601,
+        "SUB_DISTRICT_NAME_THA": "รัตนวาปี",
+        "SUB_DISTRICT_NAME_ENG": "Rattana Wapi",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4316,
+        "LAT": 18.222999572753906,
+        "LONG": 103.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 431602,
+        "SUB_DISTRICT_NAME_THA": "นาทับไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Na Thap Hai",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4316,
+        "LAT": 18.177000045776367,
+        "LONG": 103.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 431603,
+        "SUB_DISTRICT_NAME_THA": "บ้านต้อน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ton",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4316,
+        "LAT": 18.257999420166016,
+        "LONG": 103.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 431604,
+        "SUB_DISTRICT_NAME_THA": "พระบาทนาสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Phrabat Na Sing",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4316,
+        "LAT": 18.163000106811523,
+        "LONG": 103.20899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 431605,
+        "SUB_DISTRICT_NAME_THA": "โพนแพง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Phaeng",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4316,
+        "LAT": 18.25200080871582,
+        "LONG": 103.2020034790039
+    }
+]

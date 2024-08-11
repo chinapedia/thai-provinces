@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331701,
+        "SUB_DISTRICT_NAME_THA": "โคกตาล",
+        "SUB_DISTRICT_NAME_ENG": "Khok Tan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3317,
+        "LAT": 14.548999786376953,
+        "LONG": 104.2030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 331702,
+        "SUB_DISTRICT_NAME_THA": "ห้วยตามอญ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Ta Mon",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3317,
+        "LAT": 14.524999618530273,
+        "LONG": 104.0770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 331703,
+        "SUB_DISTRICT_NAME_THA": "ห้วยตึ๊กชู",
+        "SUB_DISTRICT_NAME_ENG": "Huai Tuek Chu",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3317,
+        "LAT": 14.565999984741211,
+        "LONG": 104.12000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 331704,
+        "SUB_DISTRICT_NAME_THA": "ละลม",
+        "SUB_DISTRICT_NAME_ENG": "Lalom",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3317,
+        "LAT": 14.588000297546387,
+        "LONG": 104.0790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 331705,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียนราม",
+        "SUB_DISTRICT_NAME_ENG": "Takhian Ram",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3317,
+        "LAT": 14.605999946594238,
+        "LONG": 104.16899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 331706,
+        "SUB_DISTRICT_NAME_THA": "ดงรัก",
+        "SUB_DISTRICT_NAME_ENG": "Dong Rak",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3317,
+        "LAT": 14.4399995803833,
+        "LONG": 104.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 331707,
+        "SUB_DISTRICT_NAME_THA": "ไพรพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Phrai Phatthana",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3317,
+        "LAT": 14.425999641418457,
+        "LONG": 104.08499908447266
+    }
+]

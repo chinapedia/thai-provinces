@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 450801,
+        "SUB_DISTRICT_NAME_THA": "ขามเปี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Kham Pia",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.333999633789062,
+        "LONG": 103.74800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 450802,
+        "SUB_DISTRICT_NAME_THA": "เชียงใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Mai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.242000579833984,
+        "LONG": 103.80400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 450803,
+        "SUB_DISTRICT_NAME_THA": "บัวคำ",
+        "SUB_DISTRICT_NAME_ENG": "Bua Kham",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.2810001373291,
+        "LONG": 103.81199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 450804,
+        "SUB_DISTRICT_NAME_THA": "อัคคะคำ",
+        "SUB_DISTRICT_NAME_ENG": "Ak Khakham",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.385000228881836,
+        "LONG": 103.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 450805,
+        "SUB_DISTRICT_NAME_THA": "สะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Sa-At",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.208999633789062,
+        "LONG": 103.76699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 450806,
+        "SUB_DISTRICT_NAME_THA": "คำพอุง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Pha-Ung",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.42300033569336,
+        "LONG": 103.83999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 450807,
+        "SUB_DISTRICT_NAME_THA": "หนองตาไก้",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ta Kai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.256000518798828,
+        "LONG": 103.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 450808,
+        "SUB_DISTRICT_NAME_THA": "ดอนโอง",
+        "SUB_DISTRICT_NAME_ENG": "Don Ong",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.20599937438965,
+        "LONG": 103.82599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 450809,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ศรี",
+        "SUB_DISTRICT_NAME_ENG": "Pho Si",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4508,
+        "LAT": 16.3439998626709,
+        "LONG": 103.83000183105469
+    }
+]

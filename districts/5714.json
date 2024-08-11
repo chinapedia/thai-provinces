@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571401,
+        "SUB_DISTRICT_NAME_THA": "ต้า",
+        "SUB_DISTRICT_NAME_ENG": "Ta",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5714,
+        "LAT": 19.804000854492188,
+        "LONG": 100.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 571402,
+        "SUB_DISTRICT_NAME_THA": "ป่าตาล",
+        "SUB_DISTRICT_NAME_ENG": "Pa Tan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5714,
+        "LAT": 19.847000122070312,
+        "LONG": 100.27200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 571403,
+        "SUB_DISTRICT_NAME_THA": "ยางฮอม",
+        "SUB_DISTRICT_NAME_ENG": "Yang Hom",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5714,
+        "LAT": 19.923999786376953,
+        "LONG": 100.30599975585938
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 141401,
+        "SUB_DISTRICT_NAME_THA": "คานหาม",
+        "SUB_DISTRICT_NAME_ENG": "Khan Ham",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.335000038146973,
+        "LONG": 100.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 141402,
+        "SUB_DISTRICT_NAME_THA": "บ้านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.321999549865723,
+        "LONG": 100.68000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 141403,
+        "SUB_DISTRICT_NAME_THA": "สามบัณฑิต",
+        "SUB_DISTRICT_NAME_ENG": "Sam Bandit",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.348999977111816,
+        "LONG": 100.74199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 141404,
+        "SUB_DISTRICT_NAME_THA": "บ้านหีบ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Hip",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.371999740600586,
+        "LONG": 100.71199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 141405,
+        "SUB_DISTRICT_NAME_THA": "หนองไม้ซุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mai Sung",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.37600040435791,
+        "LONG": 100.7509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 141406,
+        "SUB_DISTRICT_NAME_THA": "อุทัย",
+        "SUB_DISTRICT_NAME_ENG": "Uthai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.373000144958496,
+        "LONG": 100.65499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 141407,
+        "SUB_DISTRICT_NAME_THA": "เสนา",
+        "SUB_DISTRICT_NAME_ENG": "Sena",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.392000198364258,
+        "LONG": 100.68900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 141408,
+        "SUB_DISTRICT_NAME_THA": "หนองน้ำส้ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam Som",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.319999694824219,
+        "LONG": 100.71399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 141409,
+        "SUB_DISTRICT_NAME_THA": "โพสาวหาญ",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sao Han",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.331999778747559,
+        "LONG": 100.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 141410,
+        "SUB_DISTRICT_NAME_THA": "ธนู",
+        "SUB_DISTRICT_NAME_ENG": "Thanu",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.354999542236328,
+        "LONG": 100.62200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 141411,
+        "SUB_DISTRICT_NAME_THA": "ข้าวเม่า",
+        "SUB_DISTRICT_NAME_ENG": "Khao Mao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1414,
+        "LAT": 14.378999710083008,
+        "LONG": 100.6240005493164
+    }
+]

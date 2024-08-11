@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 361201,
+        "SUB_DISTRICT_NAME_THA": "ช่องสามหมอ",
+        "SUB_DISTRICT_NAME_ENG": "Chong Sam Mo",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.10700035095215,
+        "LONG": 102.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 361202,
+        "SUB_DISTRICT_NAME_THA": "หนองขาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kham",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.163999557495117,
+        "LONG": 102.19400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 361203,
+        "SUB_DISTRICT_NAME_THA": "นาหนองทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Na Nong Thum",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.031999588012695,
+        "LONG": 102.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 361204,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.172000885009766,
+        "LONG": 102.32499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 361205,
+        "SUB_DISTRICT_NAME_THA": "หนองสังข์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.242000579833984,
+        "LONG": 102.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 361206,
+        "SUB_DISTRICT_NAME_THA": "หลุบคา",
+        "SUB_DISTRICT_NAME_ENG": "Lup Kha",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.20199966430664,
+        "LONG": 102.25900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 361207,
+        "SUB_DISTRICT_NAME_THA": "โคกกุง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kung",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.111000061035156,
+        "LONG": 102.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 361208,
+        "SUB_DISTRICT_NAME_THA": "เก่าย่าดี",
+        "SUB_DISTRICT_NAME_ENG": "Kao Ya Di",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.055999755859375,
+        "LONG": 102.0739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 361209,
+        "SUB_DISTRICT_NAME_THA": "ท่ามะไฟหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mafai Wan",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.155000686645508,
+        "LONG": 102.09700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 361210,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3612,
+        "LAT": 16.1299991607666,
+        "LONG": 102.27300262451172
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 150401,
+        "SUB_DISTRICT_NAME_THA": "อ่างแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ang Kaeo",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.666000366210938,
+        "LONG": 100.39299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 150402,
+        "SUB_DISTRICT_NAME_THA": "อินทประมูล",
+        "SUB_DISTRICT_NAME_ENG": "Inthapramun",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.651000022888184,
+        "LONG": 100.42500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 150403,
+        "SUB_DISTRICT_NAME_THA": "บางพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phlap",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.640999794006348,
+        "LONG": 100.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 150404,
+        "SUB_DISTRICT_NAME_THA": "หนองแม่ไก่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mae Kai",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.708000183105469,
+        "LONG": 100.35099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 150405,
+        "SUB_DISTRICT_NAME_THA": "รำมะสัก",
+        "SUB_DISTRICT_NAME_ENG": "Ram Masak",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.678999900817871,
+        "LONG": 100.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 150406,
+        "SUB_DISTRICT_NAME_THA": "บางระกำ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rakam",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.690999984741211,
+        "LONG": 100.4280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 150407,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์รังนก",
+        "SUB_DISTRICT_NAME_ENG": "Pho Rang Nok",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.61400032043457,
+        "LONG": 100.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 150408,
+        "SUB_DISTRICT_NAME_THA": "องครักษ์",
+        "SUB_DISTRICT_NAME_ENG": "Ongkharak",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.730999946594238,
+        "LONG": 100.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 150409,
+        "SUB_DISTRICT_NAME_THA": "โคกพุทรา",
+        "SUB_DISTRICT_NAME_ENG": "Khok Phutsa",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.689000129699707,
+        "LONG": 100.375
+    },
+    {
+        "SUB_DISTRICT_ID": 150410,
+        "SUB_DISTRICT_NAME_THA": "ยางซ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Yang Chai",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.657999992370605,
+        "LONG": 100.2969970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 150411,
+        "SUB_DISTRICT_NAME_THA": "บ่อแร่",
+        "SUB_DISTRICT_NAME_ENG": "Bo Rae",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.63700008392334,
+        "LONG": 100.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 150412,
+        "SUB_DISTRICT_NAME_THA": "ทางพระ",
+        "SUB_DISTRICT_NAME_ENG": "Thang Phra",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.677000045776367,
+        "LONG": 100.36000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 150413,
+        "SUB_DISTRICT_NAME_THA": "สามง่าม",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ngam",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.637999534606934,
+        "LONG": 100.38899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 150414,
+        "SUB_DISTRICT_NAME_THA": "บางเจ้าฉ่า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chao Cha",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.694999694824219,
+        "LONG": 100.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 150415,
+        "SUB_DISTRICT_NAME_THA": "คำหยาด",
+        "SUB_DISTRICT_NAME_ENG": "Kham Yat",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1504,
+        "LAT": 14.675999641418457,
+        "LONG": 100.322998046875
+    }
+]

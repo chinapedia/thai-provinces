@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300201,
+        "SUB_DISTRICT_NAME_THA": "แชะ",
+        "SUB_DISTRICT_NAME_ENG": "Chae",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.569000244140625,
+        "LONG": 102.27799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 300202,
+        "SUB_DISTRICT_NAME_THA": "เฉลียง",
+        "SUB_DISTRICT_NAME_ENG": "Chaliang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.48900032043457,
+        "LONG": 102.27899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 300203,
+        "SUB_DISTRICT_NAME_THA": "ครบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Khon Buri",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.598999977111816,
+        "LONG": 102.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 300204,
+        "SUB_DISTRICT_NAME_THA": "โคกกระชาย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Krachai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.300999641418457,
+        "LONG": 102.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 300205,
+        "SUB_DISTRICT_NAME_THA": "จระเข้หิน",
+        "SUB_DISTRICT_NAME_ENG": "Chorakhe Hin",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.366999626159668,
+        "LONG": 102.0999984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 300206,
+        "SUB_DISTRICT_NAME_THA": "มาบตะโกเอน",
+        "SUB_DISTRICT_NAME_ENG": "Map Tako En",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.569999694824219,
+        "LONG": 102.38500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 300207,
+        "SUB_DISTRICT_NAME_THA": "อรพิมพ์",
+        "SUB_DISTRICT_NAME_ENG": "Oraphim",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.569000244140625,
+        "LONG": 102.20700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 300208,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.449000358581543,
+        "LONG": 102.20700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 300209,
+        "SUB_DISTRICT_NAME_THA": "ลำเพียก",
+        "SUB_DISTRICT_NAME_ENG": "Lamphiak",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.255000114440918,
+        "LONG": 102.302001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 300210,
+        "SUB_DISTRICT_NAME_THA": "ครบุรีใต้",
+        "SUB_DISTRICT_NAME_ENG": "Khon Buri Tai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.529000282287598,
+        "LONG": 102.10299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 300211,
+        "SUB_DISTRICT_NAME_THA": "ตะแบกบาน",
+        "SUB_DISTRICT_NAME_ENG": "Tabaek Ban",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.461999893188477,
+        "LONG": 102.34300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 300212,
+        "SUB_DISTRICT_NAME_THA": "สระว่านพระยา",
+        "SUB_DISTRICT_NAME_ENG": "Sa Wan Phraya",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3002,
+        "LAT": 14.527999877929688,
+        "LONG": 102.38400268554688
+    }
+]

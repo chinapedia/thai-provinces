@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470801,
+        "SUB_DISTRICT_NAME_THA": "วานรนิวาส",
+        "SUB_DISTRICT_NAME_ENG": "Wanon Niwat",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.645000457763672,
+        "LONG": 103.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 470802,
+        "SUB_DISTRICT_NAME_THA": "เดื่อศรีคันไชย",
+        "SUB_DISTRICT_NAME_ENG": "Duea Si Khan Chai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.472999572753906,
+        "LONG": 103.7300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 470803,
+        "SUB_DISTRICT_NAME_THA": "ขัวก่าย",
+        "SUB_DISTRICT_NAME_ENG": "Khua Kai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.57900047302246,
+        "LONG": 103.81400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 470804,
+        "SUB_DISTRICT_NAME_THA": "หนองสนม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sanom",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.525999069213867,
+        "LONG": 103.86000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 470805,
+        "SUB_DISTRICT_NAME_THA": "คูสะคาม",
+        "SUB_DISTRICT_NAME_ENG": "Khu Sakham",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.726999282836914,
+        "LONG": 103.61000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 470806,
+        "SUB_DISTRICT_NAME_THA": "ธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "That",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.641000747680664,
+        "LONG": 103.6510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 470807,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.767000198364258,
+        "LONG": 103.72599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 470808,
+        "SUB_DISTRICT_NAME_THA": "ศรีวิชัย",
+        "SUB_DISTRICT_NAME_ENG": "Si Wichai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.535999298095703,
+        "LONG": 103.68000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 470809,
+        "SUB_DISTRICT_NAME_THA": "นาซอ",
+        "SUB_DISTRICT_NAME_ENG": "Na So",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.673999786376953,
+        "LONG": 103.8479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 470810,
+        "SUB_DISTRICT_NAME_THA": "อินทร์แปลง",
+        "SUB_DISTRICT_NAME_ENG": "In Plaeng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.78700065612793,
+        "LONG": 103.59300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 470811,
+        "SUB_DISTRICT_NAME_THA": "นาคำ",
+        "SUB_DISTRICT_NAME_ENG": "Na Kham",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.691999435424805,
+        "LONG": 103.79199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 470812,
+        "SUB_DISTRICT_NAME_THA": "คอนสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Khon Sawan",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.593000411987305,
+        "LONG": 103.74800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 470813,
+        "SUB_DISTRICT_NAME_THA": "กุดเรือคำ",
+        "SUB_DISTRICT_NAME_ENG": "Kut Ruea Kham",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.760000228881836,
+        "LONG": 103.64600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 470814,
+        "SUB_DISTRICT_NAME_THA": "หนองแวงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng Tai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4708,
+        "LAT": 17.724000930786133,
+        "LONG": 103.76000213623047
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321001,
+        "SUB_DISTRICT_NAME_THA": "สังขะ",
+        "SUB_DISTRICT_NAME_ENG": "Sangkha",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.663000106811523,
+        "LONG": 103.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 321002,
+        "SUB_DISTRICT_NAME_THA": "ขอนแตก",
+        "SUB_DISTRICT_NAME_ENG": "Khon Taek",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.717000007629395,
+        "LONG": 103.93199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 321006,
+        "SUB_DISTRICT_NAME_THA": "ดม",
+        "SUB_DISTRICT_NAME_ENG": "Dom",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.574999809265137,
+        "LONG": 103.85600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 321007,
+        "SUB_DISTRICT_NAME_THA": "พระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Phra Kaeo",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.652999877929688,
+        "LONG": 103.9540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 321008,
+        "SUB_DISTRICT_NAME_THA": "บ้านจารย์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.560999870300293,
+        "LONG": 103.7490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 321009,
+        "SUB_DISTRICT_NAME_THA": "กระเทียม",
+        "SUB_DISTRICT_NAME_ENG": "Krathiam",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.604000091552734,
+        "LONG": 103.6729965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 321010,
+        "SUB_DISTRICT_NAME_THA": "สะกาด",
+        "SUB_DISTRICT_NAME_ENG": "Sakat",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.612000465393066,
+        "LONG": 103.75299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 321011,
+        "SUB_DISTRICT_NAME_THA": "ตาตุม",
+        "SUB_DISTRICT_NAME_ENG": "Tatum",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.449000358581543,
+        "LONG": 103.77899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 321012,
+        "SUB_DISTRICT_NAME_THA": "ทับทัน",
+        "SUB_DISTRICT_NAME_ENG": "Thapthan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.675999641418457,
+        "LONG": 103.78600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 321013,
+        "SUB_DISTRICT_NAME_THA": "ตาคง",
+        "SUB_DISTRICT_NAME_ENG": "Ta Khong",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.65999984741211,
+        "LONG": 104.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 321015,
+        "SUB_DISTRICT_NAME_THA": "บ้านชบ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chop",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.618000030517578,
+        "LONG": 103.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 321017,
+        "SUB_DISTRICT_NAME_THA": "เทพรักษา",
+        "SUB_DISTRICT_NAME_ENG": "Thep Raksa",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3210,
+        "LAT": 14.480999946594238,
+        "LONG": 103.86799621582031
+    }
+]

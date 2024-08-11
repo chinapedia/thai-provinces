@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 490301,
+        "SUB_DISTRICT_NAME_THA": "ดอนตาล",
+        "SUB_DISTRICT_NAME_ENG": "Don Tan",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4903,
+        "LAT": 16.298999786376953,
+        "LONG": 104.90499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 490302,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ไทร",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4903,
+        "LAT": 16.375999450683594,
+        "LONG": 104.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 490303,
+        "SUB_DISTRICT_NAME_THA": "ป่าไร่",
+        "SUB_DISTRICT_NAME_ENG": "Pa Rai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4903,
+        "LAT": 16.253999710083008,
+        "LONG": 104.70099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 490304,
+        "SUB_DISTRICT_NAME_THA": "เหล่าหมี",
+        "SUB_DISTRICT_NAME_ENG": "Lao Mi",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4903,
+        "LAT": 16.34600067138672,
+        "LONG": 104.78099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 490305,
+        "SUB_DISTRICT_NAME_THA": "บ้านบาก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bak",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4903,
+        "LAT": 16.23200035095215,
+        "LONG": 104.85199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 490306,
+        "SUB_DISTRICT_NAME_THA": "นาสะเม็ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Sameng",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4903,
+        "LAT": 16.28700065612793,
+        "LONG": 104.83699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 490307,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4903,
+        "LAT": 16.40999984741211,
+        "LONG": 104.81400299072266
+    }
+]

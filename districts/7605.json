@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760501,
+        "SUB_DISTRICT_NAME_THA": "ท่ายาง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.954000473022461,
+        "LONG": 99.90399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 760502,
+        "SUB_DISTRICT_NAME_THA": "ท่าคอย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khoi",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.92199993133545,
+        "LONG": 99.87200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 760503,
+        "SUB_DISTRICT_NAME_THA": "ยางหย่อง",
+        "SUB_DISTRICT_NAME_ENG": "Yang Yong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.989999771118164,
+        "LONG": 99.88300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 760504,
+        "SUB_DISTRICT_NAME_THA": "หนองจอก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chok",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.946999549865723,
+        "LONG": 99.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 760505,
+        "SUB_DISTRICT_NAME_THA": "มาบปลาเค้า",
+        "SUB_DISTRICT_NAME_ENG": "Map Pla Khao",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.980999946594238,
+        "LONG": 99.92900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 760506,
+        "SUB_DISTRICT_NAME_THA": "ท่าไม้รวก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mai Ruak",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.847000122070312,
+        "LONG": 99.81400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 760507,
+        "SUB_DISTRICT_NAME_THA": "วังไคร้",
+        "SUB_DISTRICT_NAME_ENG": "Wang Khrai",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.918999671936035,
+        "LONG": 99.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 760511,
+        "SUB_DISTRICT_NAME_THA": "กลัดหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Klat Luang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.800999641418457,
+        "LONG": 99.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 760512,
+        "SUB_DISTRICT_NAME_THA": "ปึกเตียน",
+        "SUB_DISTRICT_NAME_ENG": "Puek Tian",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.942999839782715,
+        "LONG": 100.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 760513,
+        "SUB_DISTRICT_NAME_THA": "เขากระปุก",
+        "SUB_DISTRICT_NAME_ENG": "Khao Krapuk",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.692999839782715,
+        "LONG": 99.72799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 760514,
+        "SUB_DISTRICT_NAME_THA": "ท่าแลง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Laeng",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.961000442504883,
+        "LONG": 99.83200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 760515,
+        "SUB_DISTRICT_NAME_THA": "บ้านในดง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Nai Dong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7605,
+        "LAT": 12.949000358581543,
+        "LONG": 99.94100189208984
+    }
+]

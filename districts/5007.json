@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500701,
+        "SUB_DISTRICT_NAME_THA": "ริมใต้",
+        "SUB_DISTRICT_NAME_ENG": "Rim Tai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.913999557495117,
+        "LONG": 98.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 500702,
+        "SUB_DISTRICT_NAME_THA": "ริมเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Rim Nuea",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.929000854492188,
+        "LONG": 98.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 500703,
+        "SUB_DISTRICT_NAME_THA": "สันโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "San Pong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.95400047302246,
+        "LONG": 98.9540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 500704,
+        "SUB_DISTRICT_NAME_THA": "ขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Khi Lek",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 19.01099967956543,
+        "LONG": 98.94200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 500705,
+        "SUB_DISTRICT_NAME_THA": "สะลวง",
+        "SUB_DISTRICT_NAME_ENG": "Saluang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 19.0049991607666,
+        "LONG": 98.83699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 500706,
+        "SUB_DISTRICT_NAME_THA": "ห้วยทราย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.966999053955078,
+        "LONG": 98.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 500707,
+        "SUB_DISTRICT_NAME_THA": "แม่แรม",
+        "SUB_DISTRICT_NAME_ENG": "Mae Raem",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.910999298095703,
+        "LONG": 98.89299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 500708,
+        "SUB_DISTRICT_NAME_THA": "โป่งแยง",
+        "SUB_DISTRICT_NAME_ENG": "Pong Yaeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.885000228881836,
+        "LONG": 98.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 500709,
+        "SUB_DISTRICT_NAME_THA": "แม่สา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sa",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.893999099731445,
+        "LONG": 98.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 500710,
+        "SUB_DISTRICT_NAME_THA": "ดอนแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Don Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.860000610351562,
+        "LONG": 98.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 500711,
+        "SUB_DISTRICT_NAME_THA": "เหมืองแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5007,
+        "LAT": 18.898000717163086,
+        "LONG": 98.98300170898438
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400301,
+        "SUB_DISTRICT_NAME_THA": "พระยืน",
+        "SUB_DISTRICT_NAME_ENG": "Phra Yuen",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4003,
+        "LAT": 16.322999954223633,
+        "LONG": 102.61199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 400302,
+        "SUB_DISTRICT_NAME_THA": "พระบุ",
+        "SUB_DISTRICT_NAME_ENG": "Phra Bu",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4003,
+        "LAT": 16.264999389648438,
+        "LONG": 102.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 400303,
+        "SUB_DISTRICT_NAME_THA": "บ้านโต้น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ton",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4003,
+        "LAT": 16.27400016784668,
+        "LONG": 102.7509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 400304,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4003,
+        "LAT": 16.31800079345703,
+        "LONG": 102.73799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 400305,
+        "SUB_DISTRICT_NAME_THA": "ขามป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Kham Pom",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4003,
+        "LAT": 16.301000595092773,
+        "LONG": 102.65699768066406
+    }
+]

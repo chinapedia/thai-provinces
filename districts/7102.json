@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710201,
+        "SUB_DISTRICT_NAME_THA": "ลุ่มสุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Lum Sum",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7102,
+        "LAT": 14.104000091552734,
+        "LONG": 99.13300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 710202,
+        "SUB_DISTRICT_NAME_THA": "ท่าเสา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sao",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7102,
+        "LAT": 14.303000450134277,
+        "LONG": 99.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 710203,
+        "SUB_DISTRICT_NAME_THA": "สิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Sing",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7102,
+        "LAT": 14.03499984741211,
+        "LONG": 99.28700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 710204,
+        "SUB_DISTRICT_NAME_THA": "ไทรโยค",
+        "SUB_DISTRICT_NAME_ENG": "Sai Yok",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7102,
+        "LAT": 14.420999526977539,
+        "LONG": 98.74099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 710205,
+        "SUB_DISTRICT_NAME_THA": "วังกระแจะ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Krachae",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7102,
+        "LAT": 14.260000228881836,
+        "LONG": 98.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 710206,
+        "SUB_DISTRICT_NAME_THA": "ศรีมงคล",
+        "SUB_DISTRICT_NAME_ENG": "Si Mongkhon",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7102,
+        "LAT": 13.991999626159668,
+        "LONG": 99.13899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 710207,
+        "SUB_DISTRICT_NAME_THA": "บ้องตี้",
+        "SUB_DISTRICT_NAME_ENG": "Bong Ti",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7102,
+        "LAT": 14.133999824523926,
+        "LONG": 98.91600036621094
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500301,
+        "SUB_DISTRICT_NAME_THA": "ช่างเคิ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Chang Khoeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5003,
+        "LAT": 18.552000045776367,
+        "LONG": 98.4010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 500302,
+        "SUB_DISTRICT_NAME_THA": "ท่าผา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pha",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5003,
+        "LAT": 18.485000610351562,
+        "LONG": 98.41600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 500303,
+        "SUB_DISTRICT_NAME_THA": "บ้านทับ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thap",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5003,
+        "LAT": 18.341999053955078,
+        "LONG": 98.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 500304,
+        "SUB_DISTRICT_NAME_THA": "แม่ศึก",
+        "SUB_DISTRICT_NAME_ENG": "Mae Suek",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5003,
+        "LAT": 18.738000869750977,
+        "LONG": 98.2239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 500305,
+        "SUB_DISTRICT_NAME_THA": "แม่นาจร",
+        "SUB_DISTRICT_NAME_ENG": "Mae Na Chon",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5003,
+        "LAT": 18.802000045776367,
+        "LONG": 98.37300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 500307,
+        "SUB_DISTRICT_NAME_THA": "ปางหินฝน",
+        "SUB_DISTRICT_NAME_ENG": "Pang Hin Fon",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5003,
+        "LAT": 18.451000213623047,
+        "LONG": 98.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 500308,
+        "SUB_DISTRICT_NAME_THA": "กองแขก",
+        "SUB_DISTRICT_NAME_ENG": "Kong Khaek",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5003,
+        "LAT": 18.357999801635742,
+        "LONG": 98.3759994506836
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770601,
+        "SUB_DISTRICT_NAME_THA": "ปราณบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Pran Buri",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7706,
+        "LAT": 12.354000091552734,
+        "LONG": 99.93199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 770602,
+        "SUB_DISTRICT_NAME_THA": "เขาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Noi",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7706,
+        "LAT": 12.404999732971191,
+        "LONG": 99.89800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 770604,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำปราณ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam Pran",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7706,
+        "LAT": 12.380999565124512,
+        "LONG": 99.98100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 770607,
+        "SUB_DISTRICT_NAME_THA": "หนองตาแต้ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ta Taem",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7706,
+        "LAT": 12.380000114440918,
+        "LONG": 99.81400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 770608,
+        "SUB_DISTRICT_NAME_THA": "วังก์พง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phong",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7706,
+        "LAT": 12.446999549865723,
+        "LONG": 99.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 770609,
+        "SUB_DISTRICT_NAME_THA": "เขาจ้าว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chao",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7706,
+        "LAT": 12.395999908447266,
+        "LONG": 99.5199966430664
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570202,
+        "SUB_DISTRICT_NAME_THA": "เวียงชัย",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Chai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5702,
+        "LAT": 19.865999221801758,
+        "LONG": 99.91200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 570203,
+        "SUB_DISTRICT_NAME_THA": "ผางาม",
+        "SUB_DISTRICT_NAME_ENG": "Pha Ngam",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5702,
+        "LAT": 19.881999969482422,
+        "LONG": 100.0459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 570204,
+        "SUB_DISTRICT_NAME_THA": "เวียงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Nuea",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5702,
+        "LAT": 19.93199920654297,
+        "LONG": 99.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 570206,
+        "SUB_DISTRICT_NAME_THA": "ดอนศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Don Sila",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5702,
+        "LAT": 19.80500030517578,
+        "LONG": 100.00499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 570208,
+        "SUB_DISTRICT_NAME_THA": "เมืองชุม",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Chum",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5702,
+        "LAT": 19.90399932861328,
+        "LONG": 99.9739990234375
+    }
+]

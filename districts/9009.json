@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900901,
+        "SUB_DISTRICT_NAME_THA": "กำแพงเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Kamphaeng Phet",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9009,
+        "LAT": 7.086999893188477,
+        "LONG": 100.28700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 900902,
+        "SUB_DISTRICT_NAME_THA": "ท่าชะมวง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Cha Muang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9009,
+        "LAT": 7.131999969482422,
+        "LONG": 100.10600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 900903,
+        "SUB_DISTRICT_NAME_THA": "คูหาใต้",
+        "SUB_DISTRICT_NAME_ENG": "Khu Ha Tai",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9009,
+        "LAT": 7.172999858856201,
+        "LONG": 100.26300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 900904,
+        "SUB_DISTRICT_NAME_THA": "ควนรู",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Ru",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9009,
+        "LAT": 7.183000087738037,
+        "LONG": 100.31300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 900909,
+        "SUB_DISTRICT_NAME_THA": "เขาพระ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phra",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9009,
+        "LAT": 7.011000156402588,
+        "LONG": 100.14099884033203
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660401,
+        "SUB_DISTRICT_NAME_THA": "ตะพานหิน",
+        "SUB_DISTRICT_NAME_ENG": "Taphan Hin",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.222000122070312,
+        "LONG": 100.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 660402,
+        "SUB_DISTRICT_NAME_THA": "งิ้วราย",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Rai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.267000198364258,
+        "LONG": 100.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 660403,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเกตุ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Ket",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.238000869750977,
+        "LONG": 100.39900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 660404,
+        "SUB_DISTRICT_NAME_THA": "ไทรโรงโขน",
+        "SUB_DISTRICT_NAME_ENG": "Sai Rong Khon",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.167999267578125,
+        "LONG": 100.4209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 660405,
+        "SUB_DISTRICT_NAME_THA": "หนองพยอม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phayom",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.235000610351562,
+        "LONG": 100.45999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 660406,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Thung Pho",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.128999710083008,
+        "LONG": 100.5009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 660407,
+        "SUB_DISTRICT_NAME_THA": "ดงตะขบ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Takhop",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.143999099731445,
+        "LONG": 100.46700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 660408,
+        "SUB_DISTRICT_NAME_THA": "คลองคูณ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khun",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.176000595092773,
+        "LONG": 100.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 660409,
+        "SUB_DISTRICT_NAME_THA": "วังสำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Samrong",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.25200080871582,
+        "LONG": 100.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 660410,
+        "SUB_DISTRICT_NAME_THA": "วังหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Wang Wa",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.207000732421875,
+        "LONG": 100.35399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 660411,
+        "SUB_DISTRICT_NAME_THA": "วังหลุม",
+        "SUB_DISTRICT_NAME_ENG": "Wang Lum",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.190000534057617,
+        "LONG": 100.48400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 660412,
+        "SUB_DISTRICT_NAME_THA": "ทับหมัน",
+        "SUB_DISTRICT_NAME_ENG": "Thap Man",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.207000732421875,
+        "LONG": 100.2770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 660413,
+        "SUB_DISTRICT_NAME_THA": "ไผ่หลวง",
+        "SUB_DISTRICT_NAME_ENG": "Phai Luang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6604,
+        "LAT": 16.19300079345703,
+        "LONG": 100.4280014038086
+    }
+]

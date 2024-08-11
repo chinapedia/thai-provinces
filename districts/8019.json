@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 801901,
+        "SUB_DISTRICT_NAME_THA": "บ้านควนมุด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khuan Mut",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8019,
+        "LAT": 8.027999877929688,
+        "LONG": 99.92400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 801902,
+        "SUB_DISTRICT_NAME_THA": "บ้านชะอวด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Cha-Uat",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8019,
+        "LAT": 8.057999610900879,
+        "LONG": 99.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 801903,
+        "SUB_DISTRICT_NAME_THA": "ควนหนองคว้า",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Nong Kwa",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8019,
+        "LAT": 8.102999687194824,
+        "LONG": 99.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 801904,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Thung Pho",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8019,
+        "LAT": 8.109000205993652,
+        "LONG": 99.8290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 801905,
+        "SUB_DISTRICT_NAME_THA": "นาหมอบุญ",
+        "SUB_DISTRICT_NAME_ENG": "Na Mo Bun",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8019,
+        "LAT": 8.029999732971191,
+        "LONG": 99.81300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 801906,
+        "SUB_DISTRICT_NAME_THA": "สาม",
+        "SUB_DISTRICT_NAME_ENG": "Sam Tambon",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8019,
+        "LAT": 8.0600004196167,
+        "LONG": 99.80599975585938
+    }
+]

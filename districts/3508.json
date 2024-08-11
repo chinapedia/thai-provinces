@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 350802,
+        "SUB_DISTRICT_NAME_THA": "บุ่งค้า",
+        "SUB_DISTRICT_NAME_ENG": "Bung Kha",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.176000595092773,
+        "LONG": 104.66899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 350803,
+        "SUB_DISTRICT_NAME_THA": "สวาท",
+        "SUB_DISTRICT_NAME_ENG": "Sawat",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.152999877929688,
+        "LONG": 104.53800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 350805,
+        "SUB_DISTRICT_NAME_THA": "ห้องแซง",
+        "SUB_DISTRICT_NAME_ENG": "Hong Saeng",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.268999099731445,
+        "LONG": 104.37300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 350806,
+        "SUB_DISTRICT_NAME_THA": "สามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Samakkhi",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.23200035095215,
+        "LONG": 104.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 350807,
+        "SUB_DISTRICT_NAME_THA": "กุดเชียงหมี",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chiang Mi",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.312999725341797,
+        "LONG": 104.44599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 350810,
+        "SUB_DISTRICT_NAME_THA": "สามแยก",
+        "SUB_DISTRICT_NAME_ENG": "Sam Yaek",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.216999053955078,
+        "LONG": 104.56199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 350811,
+        "SUB_DISTRICT_NAME_THA": "กุดแห่",
+        "SUB_DISTRICT_NAME_ENG": "Kut Hae",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.274999618530273,
+        "LONG": 104.5199966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 350812,
+        "SUB_DISTRICT_NAME_THA": "โคกสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Samran",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.14900016784668,
+        "LONG": 104.59200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 350813,
+        "SUB_DISTRICT_NAME_THA": "สร้างมิ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Sang Ming",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.094999313354492,
+        "LONG": 104.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 350814,
+        "SUB_DISTRICT_NAME_THA": "ศรีแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Si Kaeo",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3508,
+        "LAT": 16.194000244140625,
+        "LONG": 104.33200073242188
+    }
+]

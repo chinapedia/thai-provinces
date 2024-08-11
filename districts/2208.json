@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220801,
+        "SUB_DISTRICT_NAME_THA": "แก่งหางแมว",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Hang Maeo",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2208,
+        "LAT": 12.982000350952148,
+        "LONG": 101.92900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 220802,
+        "SUB_DISTRICT_NAME_THA": "ขุนซ่อง",
+        "SUB_DISTRICT_NAME_ENG": "Khun Song",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2208,
+        "LAT": 13.168999671936035,
+        "LONG": 101.96099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 220803,
+        "SUB_DISTRICT_NAME_THA": "สามพี่น้อง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Phi Nong",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2208,
+        "LAT": 12.97700023651123,
+        "LONG": 101.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 220804,
+        "SUB_DISTRICT_NAME_THA": "พวา",
+        "SUB_DISTRICT_NAME_ENG": "Phawa",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2208,
+        "LAT": 13.104999542236328,
+        "LONG": 101.79100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 220805,
+        "SUB_DISTRICT_NAME_THA": "เขาวงกต",
+        "SUB_DISTRICT_NAME_ENG": "Khao Wongkot",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2208,
+        "LAT": 12.880999565124512,
+        "LONG": 101.8479995727539
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 521301,
+        "SUB_DISTRICT_NAME_THA": "เมืองปาน",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Pan",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5213,
+        "LAT": 18.797000885009766,
+        "LONG": 99.44599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 521302,
+        "SUB_DISTRICT_NAME_THA": "บ้านขอ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kho",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5213,
+        "LAT": 18.684999465942383,
+        "LONG": 99.48100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 521303,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกว๋าว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khwao",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5213,
+        "LAT": 18.56999969482422,
+        "LONG": 99.47000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 521304,
+        "SUB_DISTRICT_NAME_THA": "แจ้ซ้อน",
+        "SUB_DISTRICT_NAME_ENG": "Chae Son",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5213,
+        "LAT": 18.83799934387207,
+        "LONG": 99.5009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 521305,
+        "SUB_DISTRICT_NAME_THA": "หัวเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Mueang",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5213,
+        "LAT": 18.945999145507812,
+        "LONG": 99.53099822998047
+    }
+]

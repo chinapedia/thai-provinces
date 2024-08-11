@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 420801,
+        "SUB_DISTRICT_NAME_THA": "ท่าลี่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Li",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4208,
+        "LAT": 17.572999954223633,
+        "LONG": 101.41200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 420802,
+        "SUB_DISTRICT_NAME_THA": "หนองผือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phue",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4208,
+        "LAT": 17.67799949645996,
+        "LONG": 101.447998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 420803,
+        "SUB_DISTRICT_NAME_THA": "อาฮี",
+        "SUB_DISTRICT_NAME_ENG": "A Hi",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4208,
+        "LAT": 17.63599967956543,
+        "LONG": 101.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 420804,
+        "SUB_DISTRICT_NAME_THA": "น้ำแคม",
+        "SUB_DISTRICT_NAME_ENG": "Nam Khaem",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4208,
+        "LAT": 17.676000595092773,
+        "LONG": 101.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 420805,
+        "SUB_DISTRICT_NAME_THA": "โคกใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khok Yai",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4208,
+        "LAT": 17.555999755859375,
+        "LONG": 101.49099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 420806,
+        "SUB_DISTRICT_NAME_THA": "น้ำทูน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Thun",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4208,
+        "LAT": 17.591999053955078,
+        "LONG": 101.28800201416016
+    }
+]

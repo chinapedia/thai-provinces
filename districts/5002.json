@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500203,
+        "SUB_DISTRICT_NAME_THA": "บ้านหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5002,
+        "LAT": 18.50200080871582,
+        "LONG": 98.5999984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 500204,
+        "SUB_DISTRICT_NAME_THA": "ข่วงเปา",
+        "SUB_DISTRICT_NAME_ENG": "Khuang Pao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5002,
+        "LAT": 18.472000122070312,
+        "LONG": 98.72599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 500205,
+        "SUB_DISTRICT_NAME_THA": "สบเตี๊ยะ",
+        "SUB_DISTRICT_NAME_ENG": "Sop Tia",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5002,
+        "LAT": 18.351999282836914,
+        "LONG": 98.66799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 500206,
+        "SUB_DISTRICT_NAME_THA": "บ้านแปะ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pae",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5002,
+        "LAT": 18.256000518798828,
+        "LONG": 98.56500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 500207,
+        "SUB_DISTRICT_NAME_THA": "ดอยแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Doi Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5002,
+        "LAT": 18.389999389648438,
+        "LONG": 98.57599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 500209,
+        "SUB_DISTRICT_NAME_THA": "แม่สอย",
+        "SUB_DISTRICT_NAME_ENG": "Mae Soi",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5002,
+        "LAT": 18.222000122070312,
+        "LONG": 98.72100067138672
+    }
+]

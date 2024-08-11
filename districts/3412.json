@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 341201,
+        "SUB_DISTRICT_NAME_THA": "ข้าวปุ้น",
+        "SUB_DISTRICT_NAME_ENG": "Khao Pun",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3412,
+        "LAT": 15.791999816894531,
+        "LONG": 105.00599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 341202,
+        "SUB_DISTRICT_NAME_THA": "โนนสวาง",
+        "SUB_DISTRICT_NAME_ENG": "Non Sawang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3412,
+        "LAT": 15.866999626159668,
+        "LONG": 105.0260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 341203,
+        "SUB_DISTRICT_NAME_THA": "แก่งเค็ง",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Kheng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3412,
+        "LAT": 15.776000022888184,
+        "LONG": 105.10099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 341204,
+        "SUB_DISTRICT_NAME_THA": "กาบิน",
+        "SUB_DISTRICT_NAME_ENG": "Kabin",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3412,
+        "LAT": 15.756999969482422,
+        "LONG": 104.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 341205,
+        "SUB_DISTRICT_NAME_THA": "หนองทันน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Than Nam",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3412,
+        "LAT": 15.82800006866455,
+        "LONG": 105.0989990234375
+    }
+]

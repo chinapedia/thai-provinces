@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 250701,
+        "SUB_DISTRICT_NAME_THA": "ประจันตคาม",
+        "SUB_DISTRICT_NAME_ENG": "Prachantakham",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.055000305175781,
+        "LONG": 101.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 250702,
+        "SUB_DISTRICT_NAME_THA": "เกาะลอย",
+        "SUB_DISTRICT_NAME_ENG": "Ko Loi",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.020999908447266,
+        "LONG": 101.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 250703,
+        "SUB_DISTRICT_NAME_THA": "บ้านหอย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Hoi",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 13.996000289916992,
+        "LONG": 101.56700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 250704,
+        "SUB_DISTRICT_NAME_THA": "หนองแสง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saeng",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.052000045776367,
+        "LONG": 101.56300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 250705,
+        "SUB_DISTRICT_NAME_THA": "ดงบัง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Bang",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.020000457763672,
+        "LONG": 101.5790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 250706,
+        "SUB_DISTRICT_NAME_THA": "คำโตนด",
+        "SUB_DISTRICT_NAME_ENG": "Kham Tanot",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.112000465393066,
+        "LONG": 101.59700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 250707,
+        "SUB_DISTRICT_NAME_THA": "บุฝ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Bu Fai",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.29800033569336,
+        "LONG": 101.60099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 250708,
+        "SUB_DISTRICT_NAME_THA": "หนองแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kaeo",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.111000061035156,
+        "LONG": 101.5479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 250709,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์งาม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2507,
+        "LAT": 14.21399974822998,
+        "LONG": 101.46600341796875
+    }
+]

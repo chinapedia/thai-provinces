@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 312201,
+        "SUB_DISTRICT_NAME_THA": "แคนดง",
+        "SUB_DISTRICT_NAME_ENG": "Khaen Dong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3122,
+        "LAT": 15.317000389099121,
+        "LONG": 103.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 312202,
+        "SUB_DISTRICT_NAME_THA": "ดงพลอง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Phlong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3122,
+        "LAT": 15.321000099182129,
+        "LONG": 103.1719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 312203,
+        "SUB_DISTRICT_NAME_THA": "สระบัว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Bua",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3122,
+        "LAT": 15.319999694824219,
+        "LONG": 103.0770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 312204,
+        "SUB_DISTRICT_NAME_THA": "หัวฝาย",
+        "SUB_DISTRICT_NAME_ENG": "Hua Fai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3122,
+        "LAT": 15.267000198364258,
+        "LONG": 103.18000030517578
+    }
+]

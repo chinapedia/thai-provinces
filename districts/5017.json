@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501701,
+        "SUB_DISTRICT_NAME_THA": "ดอยเต่า",
+        "SUB_DISTRICT_NAME_ENG": "Doi Tao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5017,
+        "LAT": 17.89699935913086,
+        "LONG": 98.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 501702,
+        "SUB_DISTRICT_NAME_THA": "ท่าเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Duea",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5017,
+        "LAT": 17.958999633789062,
+        "LONG": 98.6760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 501703,
+        "SUB_DISTRICT_NAME_THA": "มืดกา",
+        "SUB_DISTRICT_NAME_ENG": "Muet Ka",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5017,
+        "LAT": 17.87299919128418,
+        "LONG": 98.59300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 501704,
+        "SUB_DISTRICT_NAME_THA": "บ้านแอ่น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Aen",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5017,
+        "LAT": 18.05299949645996,
+        "LONG": 98.6259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 501705,
+        "SUB_DISTRICT_NAME_THA": "บงตัน",
+        "SUB_DISTRICT_NAME_ENG": "Bong Tan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5017,
+        "LAT": 18.017000198364258,
+        "LONG": 98.66100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 501706,
+        "SUB_DISTRICT_NAME_THA": "โปงทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Pong Thung",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5017,
+        "LAT": 17.836000442504883,
+        "LONG": 98.73600006103516
+    }
+]

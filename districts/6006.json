@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600601,
+        "SUB_DISTRICT_NAME_THA": "มหาโพธิ",
+        "SUB_DISTRICT_NAME_ENG": "Mahapho",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6006,
+        "LAT": 15.82800006866455,
+        "LONG": 100.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 600602,
+        "SUB_DISTRICT_NAME_THA": "เก้าเลี้ยว",
+        "SUB_DISTRICT_NAME_ENG": "Kao Liao",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6006,
+        "LAT": 15.848999977111816,
+        "LONG": 100.08499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 600603,
+        "SUB_DISTRICT_NAME_THA": "หนองเต่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tao",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6006,
+        "LAT": 15.883999824523926,
+        "LONG": 100.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 600604,
+        "SUB_DISTRICT_NAME_THA": "เขาดิน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Din",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6006,
+        "LAT": 15.83899974822998,
+        "LONG": 100.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 600605,
+        "SUB_DISTRICT_NAME_THA": "หัวดง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Dong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6006,
+        "LAT": 15.907999992370605,
+        "LONG": 100.0719985961914
+    }
+]

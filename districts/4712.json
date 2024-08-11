@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 471201,
+        "SUB_DISTRICT_NAME_THA": "สว่างแดนดิน",
+        "SUB_DISTRICT_NAME_ENG": "Sawang Daen Din",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.447999954223633,
+        "LONG": 103.46199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 471203,
+        "SUB_DISTRICT_NAME_THA": "คำสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Kham Sa-At",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.51099967956543,
+        "LONG": 103.35099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 471204,
+        "SUB_DISTRICT_NAME_THA": "บ้านต้าย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.44099998474121,
+        "LONG": 103.38500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 471206,
+        "SUB_DISTRICT_NAME_THA": "บงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Bong Nuea",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.319000244140625,
+        "LONG": 103.3010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 471207,
+        "SUB_DISTRICT_NAME_THA": "โพนสูง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sung",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.538000106811523,
+        "LONG": 103.4000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 471208,
+        "SUB_DISTRICT_NAME_THA": "โคกสี",
+        "SUB_DISTRICT_NAME_ENG": "Khok Si",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.604999542236328,
+        "LONG": 103.44599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 471210,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.37700080871582,
+        "LONG": 103.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 471211,
+        "SUB_DISTRICT_NAME_THA": "บงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Bong Tai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.422000885009766,
+        "LONG": 103.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 471212,
+        "SUB_DISTRICT_NAME_THA": "ค้อใต้",
+        "SUB_DISTRICT_NAME_ENG": "Kho Tai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.368000030517578,
+        "LONG": 103.33000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 471213,
+        "SUB_DISTRICT_NAME_THA": "พันนา",
+        "SUB_DISTRICT_NAME_ENG": "Phan Na",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.416000366210938,
+        "LONG": 103.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 471214,
+        "SUB_DISTRICT_NAME_THA": "แวง",
+        "SUB_DISTRICT_NAME_ENG": "Waeng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.45599937438965,
+        "LONG": 103.62999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 471215,
+        "SUB_DISTRICT_NAME_THA": "ทรายมูล",
+        "SUB_DISTRICT_NAME_ENG": "Sai Mun",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.469999313354492,
+        "LONG": 103.5260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 471216,
+        "SUB_DISTRICT_NAME_THA": "ตาลโกน",
+        "SUB_DISTRICT_NAME_ENG": "Tan Kon",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.344999313354492,
+        "LONG": 103.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 471217,
+        "SUB_DISTRICT_NAME_THA": "ตาลเนิ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Tan Noeng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.34600067138672,
+        "LONG": 103.61100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 471220,
+        "SUB_DISTRICT_NAME_THA": "ธาตุทอง",
+        "SUB_DISTRICT_NAME_ENG": "That Thong",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.493999481201172,
+        "LONG": 103.5790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 471221,
+        "SUB_DISTRICT_NAME_THA": "บ้านถ่อน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thon",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4712,
+        "LAT": 17.531999588012695,
+        "LONG": 103.4520034790039
+    }
+]

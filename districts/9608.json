@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 960801,
+        "SUB_DISTRICT_NAME_THA": "แว้ง",
+        "SUB_DISTRICT_NAME_ENG": "Waeng",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9608,
+        "LAT": 5.935999870300293,
+        "LONG": 101.83499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 960802,
+        "SUB_DISTRICT_NAME_THA": "กายูคละ",
+        "SUB_DISTRICT_NAME_ENG": "Kayu Khla",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9608,
+        "LAT": 5.973999977111816,
+        "LONG": 101.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 960803,
+        "SUB_DISTRICT_NAME_THA": "ฆอเลาะ",
+        "SUB_DISTRICT_NAME_ENG": "Kho Lo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9608,
+        "LAT": 5.906000137329102,
+        "LONG": 101.91200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 960804,
+        "SUB_DISTRICT_NAME_THA": "โละจูด",
+        "SUB_DISTRICT_NAME_ENG": "Lo Chut",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9608,
+        "LAT": 5.830999851226807,
+        "LONG": 101.83399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 960805,
+        "SUB_DISTRICT_NAME_THA": "แม่ดง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Dong",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9608,
+        "LAT": 5.892000198364258,
+        "LONG": 101.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 960806,
+        "SUB_DISTRICT_NAME_THA": "เอราวัณ",
+        "SUB_DISTRICT_NAME_ENG": "Erawan",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9608,
+        "LAT": 5.9730000495910645,
+        "LONG": 101.84200286865234
+    }
+]

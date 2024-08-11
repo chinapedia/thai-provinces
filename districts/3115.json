@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311501,
+        "SUB_DISTRICT_NAME_THA": "จันดุม",
+        "SUB_DISTRICT_NAME_ENG": "Chan Dum",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3115,
+        "LAT": 14.678000450134277,
+        "LONG": 103.11799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 311502,
+        "SUB_DISTRICT_NAME_THA": "โคกขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khamin",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3115,
+        "LAT": 14.769000053405762,
+        "LONG": 103.19300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 311503,
+        "SUB_DISTRICT_NAME_THA": "ป่าชัน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Chan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3115,
+        "LAT": 14.717000007629395,
+        "LONG": 103.24099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 311504,
+        "SUB_DISTRICT_NAME_THA": "สะเดา",
+        "SUB_DISTRICT_NAME_ENG": "Sadao",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3115,
+        "LAT": 14.722000122070312,
+        "LONG": 103.16799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 311505,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3115,
+        "LAT": 14.776000022888184,
+        "LONG": 103.11100006103516
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 101501,
+        "SUB_DISTRICT_NAME_THA": "วัดกัลยาณ์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1015,
+        "LAT": 13.737000465393066,
+        "LONG": 100.49299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 101502,
+        "SUB_DISTRICT_NAME_THA": "หิรัญรูจี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1015,
+        "LAT": 13.730999946594238,
+        "LONG": 100.48999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 101503,
+        "SUB_DISTRICT_NAME_THA": "บางยี่เรือ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1015,
+        "LAT": 13.720000267028809,
+        "LONG": 100.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 101504,
+        "SUB_DISTRICT_NAME_THA": "บุคคโล",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1015,
+        "LAT": 13.706999778747559,
+        "LONG": 100.48600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 101505,
+        "SUB_DISTRICT_NAME_THA": "ตลาดพลู",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1015,
+        "LAT": 13.71500015258789,
+        "LONG": 100.4729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 961306,
+        "SUB_DISTRICT_NAME_THA": "สำเหร่",
+        "SUB_DISTRICT_NAME_ENG": "Samre",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1015,
+        "LAT": 13.704904556274414,
+        "LONG": 100.49053955078125
+    }
+]

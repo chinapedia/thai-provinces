@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.180999755859375,
+        "LONG": 100.12699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 180102,
+        "SUB_DISTRICT_NAME_THA": "บ้านกล้วย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kluai",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.182000160217285,
+        "LONG": 100.15299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 180103,
+        "SUB_DISTRICT_NAME_THA": "ท่าชัย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chai",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.163000106811523,
+        "LONG": 100.11299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 180104,
+        "SUB_DISTRICT_NAME_THA": "ชัยนาท",
+        "SUB_DISTRICT_NAME_ENG": "Chai Nat",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.128999710083008,
+        "LONG": 100.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 180105,
+        "SUB_DISTRICT_NAME_THA": "เขาท่าพระ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Tha Phra",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.218000411987305,
+        "LONG": 100.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 180106,
+        "SUB_DISTRICT_NAME_THA": "หาดท่าเสา",
+        "SUB_DISTRICT_NAME_ENG": "Hat Tha Sao",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.199999809265137,
+        "LONG": 100.0790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 180107,
+        "SUB_DISTRICT_NAME_THA": "ธรรมามูล",
+        "SUB_DISTRICT_NAME_ENG": "Thammamun",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.263999938964844,
+        "LONG": 100.13300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 180108,
+        "SUB_DISTRICT_NAME_THA": "เสือโฮก",
+        "SUB_DISTRICT_NAME_ENG": "Suea Hok",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.23799991607666,
+        "LONG": 100.2239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 180109,
+        "SUB_DISTRICT_NAME_THA": "นางลือ",
+        "SUB_DISTRICT_NAME_ENG": "Nang Lue",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1801,
+        "LAT": 15.121999740600586,
+        "LONG": 100.08200073242188
+    }
+]

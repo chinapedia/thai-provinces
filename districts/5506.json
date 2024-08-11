@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550601,
+        "SUB_DISTRICT_NAME_THA": "ริม",
+        "SUB_DISTRICT_NAME_ENG": "Rim",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.118999481201172,
+        "LONG": 100.7979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 550602,
+        "SUB_DISTRICT_NAME_THA": "ป่าคา",
+        "SUB_DISTRICT_NAME_ENG": "Pa Kha",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.10700035095215,
+        "LONG": 100.66500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 550603,
+        "SUB_DISTRICT_NAME_THA": "ผาตอ",
+        "SUB_DISTRICT_NAME_ENG": "Pha To",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.214000701904297,
+        "LONG": 100.77400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 550604,
+        "SUB_DISTRICT_NAME_THA": "ยม",
+        "SUB_DISTRICT_NAME_ENG": "Yom",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.06100082397461,
+        "LONG": 100.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 550605,
+        "SUB_DISTRICT_NAME_THA": "ตาลชุม",
+        "SUB_DISTRICT_NAME_ENG": "Tan Chum",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.02199935913086,
+        "LONG": 100.8290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 550606,
+        "SUB_DISTRICT_NAME_THA": "ศรีภูมิ",
+        "SUB_DISTRICT_NAME_ENG": "Si Phum",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.069000244140625,
+        "LONG": 100.72599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 550607,
+        "SUB_DISTRICT_NAME_THA": "จอมพระ",
+        "SUB_DISTRICT_NAME_ENG": "Chom Phra",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.10300064086914,
+        "LONG": 100.86499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 550608,
+        "SUB_DISTRICT_NAME_THA": "แสนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Saen Thong",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.139999389648438,
+        "LONG": 100.7509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 550609,
+        "SUB_DISTRICT_NAME_THA": "ท่าวังผา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wang Pha",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.128000259399414,
+        "LONG": 100.83100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 550610,
+        "SUB_DISTRICT_NAME_THA": "ต.ผาทอง",
+        "SUB_DISTRICT_NAME_ENG": "Pha Thong",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5506,
+        "LAT": 19.235000610351562,
+        "LONG": 100.68399810791016
+    }
+]

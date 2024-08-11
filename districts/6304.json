@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630401,
+        "SUB_DISTRICT_NAME_THA": "แม่ระมาด",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ramat",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6304,
+        "LAT": 16.97100067138672,
+        "LONG": 98.5250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 630402,
+        "SUB_DISTRICT_NAME_THA": "แม่จะเรา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Charao",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6304,
+        "LAT": 16.94700050354004,
+        "LONG": 98.59100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 630403,
+        "SUB_DISTRICT_NAME_THA": "ขะเนจื้อ",
+        "SUB_DISTRICT_NAME_ENG": "Khane Chue",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6304,
+        "LAT": 17.05500030517578,
+        "LONG": 98.54100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 630404,
+        "SUB_DISTRICT_NAME_THA": "แม่ตื่น",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tuen",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6304,
+        "LAT": 17.194000244140625,
+        "LONG": 98.56600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 630405,
+        "SUB_DISTRICT_NAME_THA": "สามหมื่น",
+        "SUB_DISTRICT_NAME_ENG": "Sam Muen",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6304,
+        "LAT": 17.091999053955078,
+        "LONG": 98.697998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 630406,
+        "SUB_DISTRICT_NAME_THA": "พระธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Phrathat",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6304,
+        "LAT": 17.003999710083008,
+        "LONG": 98.66799926757812
+    }
+]

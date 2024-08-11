@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920701,
+        "SUB_DISTRICT_NAME_THA": "เขาวิเศษ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Wiset",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9207,
+        "LAT": 7.651000022888184,
+        "LONG": 99.45899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 920702,
+        "SUB_DISTRICT_NAME_THA": "วังมะปราง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Maprang",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9207,
+        "LAT": 7.656000137329102,
+        "LONG": 99.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 920703,
+        "SUB_DISTRICT_NAME_THA": "อ่าวตง",
+        "SUB_DISTRICT_NAME_ENG": "Ao Tong",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9207,
+        "LAT": 7.861999988555908,
+        "LONG": 99.36499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 920704,
+        "SUB_DISTRICT_NAME_THA": "ท่าสะบ้า",
+        "SUB_DISTRICT_NAME_ENG": "Tha Saba",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9207,
+        "LAT": 7.690000057220459,
+        "LONG": 99.52300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 920705,
+        "SUB_DISTRICT_NAME_THA": "วังมะปรางเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Maprang Nuea",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9207,
+        "LAT": 7.745999813079834,
+        "LONG": 99.39800262451172
+    }
+]

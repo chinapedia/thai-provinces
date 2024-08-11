@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 350401,
+        "SUB_DISTRICT_NAME_THA": "ลุมพุก",
+        "SUB_DISTRICT_NAME_ENG": "Lumphuk",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.642999649047852,
+        "LONG": 104.322998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 350402,
+        "SUB_DISTRICT_NAME_THA": "ย่อ",
+        "SUB_DISTRICT_NAME_ENG": "Yo",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.692999839782715,
+        "LONG": 104.22200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 350403,
+        "SUB_DISTRICT_NAME_THA": "สงเปือย",
+        "SUB_DISTRICT_NAME_ENG": "Song Pueai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.647000312805176,
+        "LONG": 104.22100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 350404,
+        "SUB_DISTRICT_NAME_THA": "โพนทัน",
+        "SUB_DISTRICT_NAME_ENG": "Phon Than",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.664999961853027,
+        "LONG": 104.28199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 350405,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งมน",
+        "SUB_DISTRICT_NAME_ENG": "Thung Mon",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.746999740600586,
+        "LONG": 104.28600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 350406,
+        "SUB_DISTRICT_NAME_THA": "นาคำ",
+        "SUB_DISTRICT_NAME_ENG": "Na Kham",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.633000373840332,
+        "LONG": 104.41200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 350407,
+        "SUB_DISTRICT_NAME_THA": "ดงแคนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Dong Khaen Yai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.571999549865723,
+        "LONG": 104.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 350408,
+        "SUB_DISTRICT_NAME_THA": "กู่จาน",
+        "SUB_DISTRICT_NAME_ENG": "Ku Chan",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.682000160217285,
+        "LONG": 104.39900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 350409,
+        "SUB_DISTRICT_NAME_THA": "นาแก",
+        "SUB_DISTRICT_NAME_ENG": "Na Kae",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.597000122070312,
+        "LONG": 104.4260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 350410,
+        "SUB_DISTRICT_NAME_THA": "กุดกุง",
+        "SUB_DISTRICT_NAME_ENG": "Kut Kung",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.614999771118164,
+        "LONG": 104.24600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 350411,
+        "SUB_DISTRICT_NAME_THA": "เหล่าไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Lao Hai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.723999977111816,
+        "LONG": 104.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 350412,
+        "SUB_DISTRICT_NAME_THA": "แคนน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khaen Noi",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.593999862670898,
+        "LONG": 104.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 350413,
+        "SUB_DISTRICT_NAME_THA": "ดงเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Charoen",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3504,
+        "LAT": 15.697999954223633,
+        "LONG": 104.29199981689453
+    }
+]

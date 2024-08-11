@@ -1,0 +1,218 @@
+[
+    {
+        "SUB_DISTRICT_ID": 730301,
+        "SUB_DISTRICT_NAME_THA": "นครชัยศรี",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Chai Si",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.786999702453613,
+        "LONG": 100.19200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 730302,
+        "SUB_DISTRICT_NAME_THA": "บางกระเบา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krabao",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.793000221252441,
+        "LONG": 100.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 730303,
+        "SUB_DISTRICT_NAME_THA": "วัดแค",
+        "SUB_DISTRICT_NAME_ENG": "Wat Khae",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.814000129699707,
+        "LONG": 100.17500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 730304,
+        "SUB_DISTRICT_NAME_THA": "ท่าตำหนัก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Tamnak",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.765999794006348,
+        "LONG": 100.18000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 730305,
+        "SUB_DISTRICT_NAME_THA": "บางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.774999618530273,
+        "LONG": 100.16799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 730306,
+        "SUB_DISTRICT_NAME_THA": "ท่ากระชับ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Krachap",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.760000228881836,
+        "LONG": 100.15499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 730307,
+        "SUB_DISTRICT_NAME_THA": "ขุนแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Khun Kaeo",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.77400016784668,
+        "LONG": 100.20899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 730308,
+        "SUB_DISTRICT_NAME_THA": "ท่าพระยา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phraya",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.78499984741211,
+        "LONG": 100.14399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 730309,
+        "SUB_DISTRICT_NAME_THA": "พะเนียด",
+        "SUB_DISTRICT_NAME_ENG": "Phaniat",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.795000076293945,
+        "LONG": 100.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 730310,
+        "SUB_DISTRICT_NAME_THA": "บางระกำ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rakam",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.755999565124512,
+        "LONG": 100.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 730311,
+        "SUB_DISTRICT_NAME_THA": "โคกพระเจดีย์",
+        "SUB_DISTRICT_NAME_ENG": "Khok Phra Chedi",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.72599983215332,
+        "LONG": 100.1259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 730312,
+        "SUB_DISTRICT_NAME_THA": "ศีรษะทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sisa Thong",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.817000389099121,
+        "LONG": 100.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 730313,
+        "SUB_DISTRICT_NAME_THA": "แหลมบัว",
+        "SUB_DISTRICT_NAME_ENG": "Laem Bua",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.857000350952148,
+        "LONG": 100.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 730314,
+        "SUB_DISTRICT_NAME_THA": "ศรีมหาโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Si Mahapho",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.888999938964844,
+        "LONG": 100.15499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 730315,
+        "SUB_DISTRICT_NAME_THA": "สัมปทวน",
+        "SUB_DISTRICT_NAME_ENG": "Sampathuan",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.829999923706055,
+        "LONG": 100.19499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 730316,
+        "SUB_DISTRICT_NAME_THA": "วัดสำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Wat Samrong",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.82699966430664,
+        "LONG": 100.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 730317,
+        "SUB_DISTRICT_NAME_THA": "ดอนแฝก",
+        "SUB_DISTRICT_NAME_ENG": "Don Faek",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.859000205993652,
+        "LONG": 100.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 730318,
+        "SUB_DISTRICT_NAME_THA": "ห้วยพลู",
+        "SUB_DISTRICT_NAME_ENG": "Huai Phlu",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.878000259399414,
+        "LONG": 100.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 730319,
+        "SUB_DISTRICT_NAME_THA": "วัดละมุด",
+        "SUB_DISTRICT_NAME_ENG": "Wat Lamut",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.88599967956543,
+        "LONG": 100.18199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 730320,
+        "SUB_DISTRICT_NAME_THA": "บางพระ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phra",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.890999794006348,
+        "LONG": 100.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 730321,
+        "SUB_DISTRICT_NAME_THA": "บางแก้วฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo Fa",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.895999908447266,
+        "LONG": 100.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 730322,
+        "SUB_DISTRICT_NAME_THA": "ลานตากฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Lan Tak Fa",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.82800006866455,
+        "LONG": 100.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 730323,
+        "SUB_DISTRICT_NAME_THA": "งิ้วราย",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Rai",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.807000160217285,
+        "LONG": 100.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 730324,
+        "SUB_DISTRICT_NAME_THA": "ไทยาวาส",
+        "SUB_DISTRICT_NAME_ENG": "Thaiyawat",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7303,
+        "LAT": 13.793000221252441,
+        "LONG": 100.21499633789062
+    }
+]

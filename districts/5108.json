@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 510801,
+        "SUB_DISTRICT_NAME_THA": "หนองล่อง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Long",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5108,
+        "LAT": 18.40399932861328,
+        "LONG": 98.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 510802,
+        "SUB_DISTRICT_NAME_THA": "หนองยวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yuang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5108,
+        "LAT": 18.415000915527344,
+        "LONG": 98.77999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 510803,
+        "SUB_DISTRICT_NAME_THA": "วังผาง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5108,
+        "LAT": 18.422000885009766,
+        "LONG": 98.74400329589844
+    }
+]

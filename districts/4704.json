@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470401,
+        "SUB_DISTRICT_NAME_THA": "พรรณา",
+        "SUB_DISTRICT_NAME_ENG": "Phanna",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.356000900268555,
+        "LONG": 103.85600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 470402,
+        "SUB_DISTRICT_NAME_THA": "วังยาง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yang",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.340999603271484,
+        "LONG": 103.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 470403,
+        "SUB_DISTRICT_NAME_THA": "พอกน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Phok Noi",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.315000534057617,
+        "LONG": 103.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 470404,
+        "SUB_DISTRICT_NAME_THA": "นาหัวบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Na Hua Bo",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.22599983215332,
+        "LONG": 103.91699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 470405,
+        "SUB_DISTRICT_NAME_THA": "ไร่",
+        "SUB_DISTRICT_NAME_ENG": "Rai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.27400016784668,
+        "LONG": 103.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 470406,
+        "SUB_DISTRICT_NAME_THA": "ช้างมิ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Chang Ming",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.341999053955078,
+        "LONG": 103.7959976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 470407,
+        "SUB_DISTRICT_NAME_THA": "นาใน",
+        "SUB_DISTRICT_NAME_ENG": "Na Nai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.207000732421875,
+        "LONG": 103.82099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 470408,
+        "SUB_DISTRICT_NAME_THA": "สว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Sawang",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.367000579833984,
+        "LONG": 103.98100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 470409,
+        "SUB_DISTRICT_NAME_THA": "บะฮี",
+        "SUB_DISTRICT_NAME_ENG": "Bahi",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.426000595092773,
+        "LONG": 103.9010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 470410,
+        "SUB_DISTRICT_NAME_THA": "เชิงชุม",
+        "SUB_DISTRICT_NAME_ENG": "Choeng Chum",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4704,
+        "LAT": 17.434999465942383,
+        "LONG": 104.00700378417969
+    }
+]

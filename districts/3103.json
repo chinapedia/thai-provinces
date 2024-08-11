@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310301,
+        "SUB_DISTRICT_NAME_THA": "กระสัง",
+        "SUB_DISTRICT_NAME_ENG": "Krasang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.92199993133545,
+        "LONG": 103.2959976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 310302,
+        "SUB_DISTRICT_NAME_THA": "ลำดวน",
+        "SUB_DISTRICT_NAME_ENG": "Lamduan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 15.060999870300293,
+        "LONG": 103.40299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 310303,
+        "SUB_DISTRICT_NAME_THA": "สองชั้น",
+        "SUB_DISTRICT_NAME_ENG": "Song Chan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.88700008392334,
+        "LONG": 103.2239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 310304,
+        "SUB_DISTRICT_NAME_THA": "สูงเนิน",
+        "SUB_DISTRICT_NAME_ENG": "Sung Noen",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.819999694824219,
+        "LONG": 103.23899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 310305,
+        "SUB_DISTRICT_NAME_THA": "หนองเต็ง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Teng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.904999732971191,
+        "LONG": 103.3740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 310306,
+        "SUB_DISTRICT_NAME_THA": "เมืองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.994000434875488,
+        "LONG": 103.29199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 310307,
+        "SUB_DISTRICT_NAME_THA": "ชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Saeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.984000205993652,
+        "LONG": 103.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 310308,
+        "SUB_DISTRICT_NAME_THA": "บ้านปรือ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Prue",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.847999572753906,
+        "LONG": 103.29900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 310309,
+        "SUB_DISTRICT_NAME_THA": "ห้วยสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Samran",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 15.071999549865723,
+        "LONG": 103.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 310310,
+        "SUB_DISTRICT_NAME_THA": "กันทรารมย์",
+        "SUB_DISTRICT_NAME_ENG": "Kanthararom",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 14.965999603271484,
+        "LONG": 103.33999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 310311,
+        "SUB_DISTRICT_NAME_THA": "ศรีภูมิ",
+        "SUB_DISTRICT_NAME_ENG": "Si Phum",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3103,
+        "LAT": 15.027000427246094,
+        "LONG": 103.33799743652344
+    }
+]

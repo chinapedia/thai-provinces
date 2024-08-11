@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 820701,
+        "SUB_DISTRICT_NAME_THA": "ทับปุด",
+        "SUB_DISTRICT_NAME_ENG": "Thap Put",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8207,
+        "LAT": 8.517000198364258,
+        "LONG": 98.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 820702,
+        "SUB_DISTRICT_NAME_THA": "มะรุ่ย",
+        "SUB_DISTRICT_NAME_ENG": "Marui",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8207,
+        "LAT": 8.430999755859375,
+        "LONG": 98.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 820703,
+        "SUB_DISTRICT_NAME_THA": "บ่อแสน",
+        "SUB_DISTRICT_NAME_ENG": "Bo Saen",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8207,
+        "LAT": 8.472000122070312,
+        "LONG": 98.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 820704,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Tham Thong Lang",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8207,
+        "LAT": 8.555999755859375,
+        "LONG": 98.5979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 820705,
+        "SUB_DISTRICT_NAME_THA": "โคกเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Charoen",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8207,
+        "LAT": 8.543000221252441,
+        "LONG": 98.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 820706,
+        "SUB_DISTRICT_NAME_THA": "บางเหรียง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Riang",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8207,
+        "LAT": 8.609999656677246,
+        "LONG": 98.65399932861328
+    }
+]

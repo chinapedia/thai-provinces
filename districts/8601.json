@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 860101,
+        "SUB_DISTRICT_NAME_THA": "ท่าตะเภา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Taphao",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.498000144958496,
+        "LONG": 99.17900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 860102,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.447999954223633,
+        "LONG": 99.25299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 860103,
+        "SUB_DISTRICT_NAME_THA": "ท่ายาง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yang",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.434000015258789,
+        "LONG": 99.21700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 860104,
+        "SUB_DISTRICT_NAME_THA": "บางหมาก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Mak",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.449000358581543,
+        "LONG": 99.18499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 860105,
+        "SUB_DISTRICT_NAME_THA": "นาทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Thung",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.5,
+        "LONG": 99.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 860106,
+        "SUB_DISTRICT_NAME_THA": "นาชะอัง",
+        "SUB_DISTRICT_NAME_ENG": "Na Cha-Ang",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.557000160217285,
+        "LONG": 99.37899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 860107,
+        "SUB_DISTRICT_NAME_THA": "ตากแดด",
+        "SUB_DISTRICT_NAME_ENG": "Tak Daet",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.467000007629395,
+        "LONG": 99.15299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 860108,
+        "SUB_DISTRICT_NAME_THA": "บางลึก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Luek",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.550999641418457,
+        "LONG": 99.18499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 860109,
+        "SUB_DISTRICT_NAME_THA": "หาดพันไกร",
+        "SUB_DISTRICT_NAME_ENG": "Hat Phan Krai",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.560999870300293,
+        "LONG": 99.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 860110,
+        "SUB_DISTRICT_NAME_THA": "วังไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phai",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.524999618530273,
+        "LONG": 99.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 860111,
+        "SUB_DISTRICT_NAME_THA": "วังใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mai",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.52299976348877,
+        "LONG": 99.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 860112,
+        "SUB_DISTRICT_NAME_THA": "บ้านนา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Na",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.437000274658203,
+        "LONG": 98.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 860113,
+        "SUB_DISTRICT_NAME_THA": "ขุนกระทิง",
+        "SUB_DISTRICT_NAME_ENG": "Khun Krathing",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.456999778747559,
+        "LONG": 99.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 860114,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งคา",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kha",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.39799976348877,
+        "LONG": 99.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 860115,
+        "SUB_DISTRICT_NAME_THA": "วิสัยเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Wisai Nuea",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.366999626159668,
+        "LONG": 99.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 860116,
+        "SUB_DISTRICT_NAME_THA": "หาดทรายรี",
+        "SUB_DISTRICT_NAME_ENG": "Hat Sai Ri",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.439000129699707,
+        "LONG": 99.29199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 860117,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Tham Sing",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8601,
+        "LAT": 10.418000221252441,
+        "LONG": 99.05799865722656
+    }
+]

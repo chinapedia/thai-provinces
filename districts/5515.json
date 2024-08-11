@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 551501,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโก๋น",
+        "SUB_DISTRICT_NAME_ENG": "Huai Kon",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5515,
+        "LAT": 19.55900001525879,
+        "LONG": 101.0459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 551502,
+        "SUB_DISTRICT_NAME_THA": "ขุนน่าน",
+        "SUB_DISTRICT_NAME_ENG": "Khun Nan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5515,
+        "LAT": 19.450000762939453,
+        "LONG": 101.12799835205078
+    }
+]

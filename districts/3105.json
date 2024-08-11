@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310501,
+        "SUB_DISTRICT_NAME_THA": "หนองกี่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ki",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.668999671936035,
+        "LONG": 102.57099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 310502,
+        "SUB_DISTRICT_NAME_THA": "เย้ยปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Yoei Prasat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.73900032043457,
+        "LONG": 102.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 310503,
+        "SUB_DISTRICT_NAME_THA": "เมืองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.77400016784668,
+        "LONG": 102.6449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 310504,
+        "SUB_DISTRICT_NAME_THA": "ดอนอะราง",
+        "SUB_DISTRICT_NAME_ENG": "Don Arang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.642000198364258,
+        "LONG": 102.57099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 310505,
+        "SUB_DISTRICT_NAME_THA": "โคกสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sawang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.781999588012695,
+        "LONG": 102.48899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 310506,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกระตาดพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kratat Phatthana",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.673999786376953,
+        "LONG": 102.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 310507,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกระเต็น",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kraten",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.692999839782715,
+        "LONG": 102.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 310508,
+        "SUB_DISTRICT_NAME_THA": "ท่าโพธิ์ชัย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pho Chai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.736000061035156,
+        "LONG": 102.63500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 310509,
+        "SUB_DISTRICT_NAME_THA": "โคกสูง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sung",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.805999755859375,
+        "LONG": 102.56199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 310510,
+        "SUB_DISTRICT_NAME_THA": "บุกระสัง",
+        "SUB_DISTRICT_NAME_ENG": "Bu Krasang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3105,
+        "LAT": 14.723999977111816,
+        "LONG": 102.5009994506836
+    }
+]

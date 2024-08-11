@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920401,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.126999855041504,
+        "LONG": 99.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 920402,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งยาว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Yao",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.241000175476074,
+        "LONG": 99.75299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 920403,
+        "SUB_DISTRICT_NAME_THA": "ปะเหลียน",
+        "SUB_DISTRICT_NAME_ENG": "Palian",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.288000106811523,
+        "LONG": 99.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 920404,
+        "SUB_DISTRICT_NAME_THA": "บางด้วน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Duan",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.349999904632568,
+        "LONG": 99.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 920407,
+        "SUB_DISTRICT_NAME_THA": "บ้านนา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Na",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.302000045776367,
+        "LONG": 99.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 920409,
+        "SUB_DISTRICT_NAME_THA": "สุโสะ",
+        "SUB_DISTRICT_NAME_ENG": "Suso",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.236000061035156,
+        "LONG": 99.6729965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 920410,
+        "SUB_DISTRICT_NAME_THA": "ลิพัง",
+        "SUB_DISTRICT_NAME_ENG": "Li Phang",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.184000015258789,
+        "LONG": 99.80999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 920411,
+        "SUB_DISTRICT_NAME_THA": "เกาะสุกร",
+        "SUB_DISTRICT_NAME_ENG": "Ko Sukon",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.10099983215332,
+        "LONG": 99.58100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 920412,
+        "SUB_DISTRICT_NAME_THA": "ท่าพญา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phaya",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.354000091552734,
+        "LONG": 99.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 920413,
+        "SUB_DISTRICT_NAME_THA": "แหลมสอม",
+        "SUB_DISTRICT_NAME_ENG": "Laem Som",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.2870001792907715,
+        "LONG": 99.76300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 920414,
+        "SUB_DISTRICT_NAME_THA": "เกาะค้างคาว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9204,
+        "LAT": 7.1519999504089355,
+        "LONG": 99.6510009765625
+    }
+]

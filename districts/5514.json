@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 551401,
+        "SUB_DISTRICT_NAME_THA": "ม่วงตึ๊ด",
+        "SUB_DISTRICT_NAME_ENG": "Muang Tuet",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5514,
+        "LAT": 18.756000518798828,
+        "LONG": 100.81600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 551402,
+        "SUB_DISTRICT_NAME_THA": "นาปัง",
+        "SUB_DISTRICT_NAME_ENG": "Na Pang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5514,
+        "LAT": 18.695999145507812,
+        "LONG": 100.8010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 551403,
+        "SUB_DISTRICT_NAME_THA": "น้ำแก่น",
+        "SUB_DISTRICT_NAME_ENG": "Nam Kaen",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5514,
+        "LAT": 18.697999954223633,
+        "LONG": 100.87999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 551404,
+        "SUB_DISTRICT_NAME_THA": "น้ำเกี๋ยน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Kian",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5514,
+        "LAT": 18.73699951171875,
+        "LONG": 100.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 551405,
+        "SUB_DISTRICT_NAME_THA": "เมืองจัง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Chang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5514,
+        "LAT": 18.878000259399414,
+        "LONG": 100.83000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 551406,
+        "SUB_DISTRICT_NAME_THA": "ท่าน้าว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nao",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5514,
+        "LAT": 18.731000900268555,
+        "LONG": 100.79100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 551407,
+        "SUB_DISTRICT_NAME_THA": "ฝายแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Fai Kaeo",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5514,
+        "LAT": 18.80299949645996,
+        "LONG": 100.93299865722656
+    }
+]

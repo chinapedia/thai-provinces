@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 910501,
+        "SUB_DISTRICT_NAME_THA": "กำแพง",
+        "SUB_DISTRICT_NAME_ENG": "Kamphaeng",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9105,
+        "LAT": 6.933000087738037,
+        "LONG": 99.7770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 910502,
+        "SUB_DISTRICT_NAME_THA": "ละงู",
+        "SUB_DISTRICT_NAME_ENG": "La-Ngu",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9105,
+        "LAT": 6.8420000076293945,
+        "LONG": 99.82599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 910503,
+        "SUB_DISTRICT_NAME_THA": "เขาขาว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Khao",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9105,
+        "LAT": 6.922999858856201,
+        "LONG": 99.8479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 910504,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9105,
+        "LAT": 6.834000110626221,
+        "LONG": 99.69100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 910505,
+        "SUB_DISTRICT_NAME_THA": "น้ำผุด",
+        "SUB_DISTRICT_NAME_ENG": "Nam Phut",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9105,
+        "LAT": 6.9730000495910645,
+        "LONG": 99.8499984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 910506,
+        "SUB_DISTRICT_NAME_THA": "แหลมสน",
+        "SUB_DISTRICT_NAME_ENG": "Laem Son",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9105,
+        "LAT": 6.946000099182129,
+        "LONG": 99.71299743652344
+    }
+]

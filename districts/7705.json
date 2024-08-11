@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770501,
+        "SUB_DISTRICT_NAME_THA": "ปากแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phraek",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7705,
+        "LAT": 11.062999725341797,
+        "LONG": 99.43599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 770502,
+        "SUB_DISTRICT_NAME_THA": "บางสะพาน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Saphan",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7705,
+        "LAT": 11.107000350952148,
+        "LONG": 99.44300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 770503,
+        "SUB_DISTRICT_NAME_THA": "ทรายทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Thong",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7705,
+        "LAT": 11.01099967956543,
+        "LONG": 99.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 770504,
+        "SUB_DISTRICT_NAME_THA": "ช้างแรก",
+        "SUB_DISTRICT_NAME_ENG": "Chang Raek",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7705,
+        "LAT": 11.102999687194824,
+        "LONG": 99.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 770505,
+        "SUB_DISTRICT_NAME_THA": "ไชยราช",
+        "SUB_DISTRICT_NAME_ENG": "Chaiyarat",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7705,
+        "LAT": 11.01200008392334,
+        "LONG": 99.25599670410156
+    }
+]

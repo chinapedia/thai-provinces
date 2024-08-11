@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 420401,
+        "SUB_DISTRICT_NAME_THA": "ปากชม",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chom",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4204,
+        "LAT": 17.959999084472656,
+        "LONG": 101.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 420402,
+        "SUB_DISTRICT_NAME_THA": "เชียงกลม",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Klom",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4204,
+        "LAT": 17.85099983215332,
+        "LONG": 101.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 420403,
+        "SUB_DISTRICT_NAME_THA": "หาดคัมภีร์",
+        "SUB_DISTRICT_NAME_ENG": "Hat Khamphi",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4204,
+        "LAT": 18.111000061035156,
+        "LONG": 102.01000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 420404,
+        "SUB_DISTRICT_NAME_THA": "ห้วยบ่อซืน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Bo Suen",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4204,
+        "LAT": 17.729999542236328,
+        "LONG": 101.98600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 420405,
+        "SUB_DISTRICT_NAME_THA": "ห้วยพิชัย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Phichai",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4204,
+        "LAT": 18.017000198364258,
+        "LONG": 101.97100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 420406,
+        "SUB_DISTRICT_NAME_THA": "ชมเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Chom Charoen",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4204,
+        "LAT": 17.700000762939453,
+        "LONG": 101.9219970703125
+    }
+]

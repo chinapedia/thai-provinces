@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600701,
+        "SUB_DISTRICT_NAME_THA": "ตาคลี",
+        "SUB_DISTRICT_NAME_ENG": "Ta Khli",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.270999908447266,
+        "LONG": 100.33899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 600702,
+        "SUB_DISTRICT_NAME_THA": "ช่องแค",
+        "SUB_DISTRICT_NAME_ENG": "Chong Khae",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.196999549865723,
+        "LONG": 100.4219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 600703,
+        "SUB_DISTRICT_NAME_THA": "จันเสน",
+        "SUB_DISTRICT_NAME_ENG": "Chan Sen",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.102999687194824,
+        "LONG": 100.43900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 600704,
+        "SUB_DISTRICT_NAME_THA": "ห้วยหอม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Hom",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.225000381469727,
+        "LONG": 100.48300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 600705,
+        "SUB_DISTRICT_NAME_THA": "หัวหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Hua Wai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.383999824523926,
+        "LONG": 100.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 600706,
+        "SUB_DISTRICT_NAME_THA": "หนองโพ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pho",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.402999877929688,
+        "LONG": 100.27799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 600707,
+        "SUB_DISTRICT_NAME_THA": "หนองหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mo",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.194000244140625,
+        "LONG": 100.32499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 600708,
+        "SUB_DISTRICT_NAME_THA": "สร้อยทอง",
+        "SUB_DISTRICT_NAME_ENG": "Soi Thong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.119999885559082,
+        "LONG": 100.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 600709,
+        "SUB_DISTRICT_NAME_THA": "ลาดทิพรส",
+        "SUB_DISTRICT_NAME_ENG": "Lat Thippharot",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.234999656677246,
+        "LONG": 100.54900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 600710,
+        "SUB_DISTRICT_NAME_THA": "พรหมนิมิต",
+        "SUB_DISTRICT_NAME_ENG": "Phrom Nimit",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6007,
+        "LAT": 15.175000190734863,
+        "LONG": 100.39299774169922
+    }
+]

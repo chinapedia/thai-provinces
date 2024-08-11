@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670401,
+        "SUB_DISTRICT_NAME_THA": "หล่มเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Lom Kao",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 16.89299964904785,
+        "LONG": 101.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 670402,
+        "SUB_DISTRICT_NAME_THA": "นาซำ",
+        "SUB_DISTRICT_NAME_ENG": "Na Sam",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 17.025999069213867,
+        "LONG": 101.21700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 670403,
+        "SUB_DISTRICT_NAME_THA": "หินฮาว",
+        "SUB_DISTRICT_NAME_ENG": "Hin Hao",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 16.951000213623047,
+        "LONG": 101.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 670404,
+        "SUB_DISTRICT_NAME_THA": "บ้านเนิน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Noen",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 16.85700035095215,
+        "LONG": 101.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 670405,
+        "SUB_DISTRICT_NAME_THA": "ศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Sila",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 17.107999801635742,
+        "LONG": 101.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 670406,
+        "SUB_DISTRICT_NAME_THA": "นาแซง",
+        "SUB_DISTRICT_NAME_ENG": "Na Saeng",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 16.85700035095215,
+        "LONG": 101.22899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 670407,
+        "SUB_DISTRICT_NAME_THA": "วังบาล",
+        "SUB_DISTRICT_NAME_ENG": "Wang Ban",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 16.929000854492188,
+        "LONG": 101.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 670408,
+        "SUB_DISTRICT_NAME_THA": "นาเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Na Ko",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 16.832000732421875,
+        "LONG": 101.1760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 670409,
+        "SUB_DISTRICT_NAME_THA": "ตาดกลอย",
+        "SUB_DISTRICT_NAME_ENG": "Tat Kloi",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6704,
+        "LAT": 16.99799919128418,
+        "LONG": 101.4020004272461
+    }
+]

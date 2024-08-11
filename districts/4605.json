@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 460501,
+        "SUB_DISTRICT_NAME_THA": "บัวขาว",
+        "SUB_DISTRICT_NAME_ENG": "Bua Khao",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.520999908447266,
+        "LONG": 104.05500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 460502,
+        "SUB_DISTRICT_NAME_THA": "แจนแลน",
+        "SUB_DISTRICT_NAME_ENG": "Chaen Laen",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.554000854492188,
+        "LONG": 103.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 460503,
+        "SUB_DISTRICT_NAME_THA": "เหล่าใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Lao Yai",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.621999740600586,
+        "LONG": 103.99299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 460504,
+        "SUB_DISTRICT_NAME_THA": "จุมจัง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Chang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.45800018310547,
+        "LONG": 104.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 460505,
+        "SUB_DISTRICT_NAME_THA": "เหล่าไฮงาม",
+        "SUB_DISTRICT_NAME_ENG": "Lao Hai Ngam",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.47100067138672,
+        "LONG": 104.1709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 460506,
+        "SUB_DISTRICT_NAME_THA": "กุดหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Kut Wa",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.53700065612793,
+        "LONG": 104.16699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 460507,
+        "SUB_DISTRICT_NAME_THA": "สามขา",
+        "SUB_DISTRICT_NAME_ENG": "Sam Kha",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.464000701904297,
+        "LONG": 103.9749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 460508,
+        "SUB_DISTRICT_NAME_THA": "นาขาม",
+        "SUB_DISTRICT_NAME_ENG": "Nakham",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.507999420166016,
+        "LONG": 103.90499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 460509,
+        "SUB_DISTRICT_NAME_THA": "หนองห้าง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.57200050354004,
+        "LONG": 104.1240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 460510,
+        "SUB_DISTRICT_NAME_THA": "นาโก",
+        "SUB_DISTRICT_NAME_ENG": "Nako",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.606000900268555,
+        "LONG": 104.05500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 460511,
+        "SUB_DISTRICT_NAME_THA": "สมสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Som Sa-At",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.451000213623047,
+        "LONG": 104.0479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 460512,
+        "SUB_DISTRICT_NAME_THA": "กุดค้าว",
+        "SUB_DISTRICT_NAME_ENG": "Kut Khao",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4605,
+        "LAT": 16.506000518798828,
+        "LONG": 104.0009994506836
+    }
+]

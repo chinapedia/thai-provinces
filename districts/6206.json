@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620601,
+        "SUB_DISTRICT_NAME_THA": "พรานกระต่าย",
+        "SUB_DISTRICT_NAME_ENG": "Phran Kratai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.656999588012695,
+        "LONG": 99.53800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 620602,
+        "SUB_DISTRICT_NAME_THA": "หนองหัววัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hua Wua",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.74799919128418,
+        "LONG": 99.5790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 620603,
+        "SUB_DISTRICT_NAME_THA": "ท่าไม้",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.679000854492188,
+        "LONG": 99.43399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 620604,
+        "SUB_DISTRICT_NAME_THA": "วังควง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Khuang",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.77899932861328,
+        "LONG": 99.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 620605,
+        "SUB_DISTRICT_NAME_THA": "วังตะแบก",
+        "SUB_DISTRICT_NAME_ENG": "Wang Tabaek",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.711999893188477,
+        "LONG": 99.66600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 620606,
+        "SUB_DISTRICT_NAME_THA": "เขาคีริส",
+        "SUB_DISTRICT_NAME_ENG": "Khao Khirit",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.58799934387207,
+        "LONG": 99.68299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 620607,
+        "SUB_DISTRICT_NAME_THA": "คุยบ้านโอง",
+        "SUB_DISTRICT_NAME_ENG": "Khui Ban Ong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.659000396728516,
+        "LONG": 99.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 620608,
+        "SUB_DISTRICT_NAME_THA": "คลองพิไกร",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phikrai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.666000366210938,
+        "LONG": 99.74199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 620609,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำกระต่ายทอง",
+        "SUB_DISTRICT_NAME_ENG": "Tham Kratai Thong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.729000091552734,
+        "LONG": 99.54100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 620610,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยั้ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6206,
+        "LAT": 16.823999404907227,
+        "LONG": 99.55899810791016
+    }
+]

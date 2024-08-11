@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760601,
+        "SUB_DISTRICT_NAME_THA": "บ้านลาด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lat",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.062999725341797,
+        "LONG": 99.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 760602,
+        "SUB_DISTRICT_NAME_THA": "บ้านหาด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Hat",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.076000213623047,
+        "LONG": 99.91799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 760603,
+        "SUB_DISTRICT_NAME_THA": "บ้านทาน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Than",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.081000328063965,
+        "LONG": 99.84200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 760604,
+        "SUB_DISTRICT_NAME_THA": "ตำหรุ",
+        "SUB_DISTRICT_NAME_ENG": "Tamru",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.027000427246094,
+        "LONG": 99.89299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 760605,
+        "SUB_DISTRICT_NAME_THA": "สมอพลือ",
+        "SUB_DISTRICT_NAME_ENG": "Samo Phlue",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.0600004196167,
+        "LONG": 99.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 760606,
+        "SUB_DISTRICT_NAME_THA": "ไร่มะขาม",
+        "SUB_DISTRICT_NAME_ENG": "Rai Makham",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.017000198364258,
+        "LONG": 99.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 760607,
+        "SUB_DISTRICT_NAME_THA": "ท่าเสน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sen",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.045999526977539,
+        "LONG": 99.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 760608,
+        "SUB_DISTRICT_NAME_THA": "หนองกระเจ็ด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krachet",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.00100040435791,
+        "LONG": 99.9530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 760609,
+        "SUB_DISTRICT_NAME_THA": "หนองกะปุ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kapu",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.0649995803833,
+        "LONG": 99.78600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 760610,
+        "SUB_DISTRICT_NAME_THA": "ลาดโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Lat Pho",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.10200023651123,
+        "LONG": 99.8949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 760612,
+        "SUB_DISTRICT_NAME_THA": "ไร่โคก",
+        "SUB_DISTRICT_NAME_ENG": "Rai Khok",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.112000465393066,
+        "LONG": 99.82099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 760613,
+        "SUB_DISTRICT_NAME_THA": "โรงเข้",
+        "SUB_DISTRICT_NAME_ENG": "Rong Khe",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.081000328063965,
+        "LONG": 99.89099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 760614,
+        "SUB_DISTRICT_NAME_THA": "ไร่สะท้อน",
+        "SUB_DISTRICT_NAME_ENG": "Rai Sathon",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.029999732971191,
+        "LONG": 99.86599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 760615,
+        "SUB_DISTRICT_NAME_THA": "ห้วยข้อง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.03499984741211,
+        "LONG": 99.8290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 760616,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.057000160217285,
+        "LONG": 99.89800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 760617,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำรงค์",
+        "SUB_DISTRICT_NAME_ENG": "Tham Rong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.022000312805176,
+        "LONG": 99.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 760618,
+        "SUB_DISTRICT_NAME_THA": "ห้วยลึก",
+        "SUB_DISTRICT_NAME_ENG": "Huai Luek",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7606,
+        "LAT": 13.008000373840332,
+        "LONG": 99.79299926757812
+    }
+]

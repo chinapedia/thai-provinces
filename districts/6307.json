@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630701,
+        "SUB_DISTRICT_NAME_THA": "พบพระ",
+        "SUB_DISTRICT_NAME_ENG": "Phop Phra",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6307,
+        "LAT": 16.402000427246094,
+        "LONG": 98.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 630702,
+        "SUB_DISTRICT_NAME_THA": "ช่องแคบ",
+        "SUB_DISTRICT_NAME_ENG": "Chong Khaep",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6307,
+        "LAT": 16.511999130249023,
+        "LONG": 98.7490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 630703,
+        "SUB_DISTRICT_NAME_THA": "คีรีราษฎร์",
+        "SUB_DISTRICT_NAME_ENG": "Khiri Rat",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6307,
+        "LAT": 16.53700065612793,
+        "LONG": 98.84500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 630704,
+        "SUB_DISTRICT_NAME_THA": "วาเล่ย์",
+        "SUB_DISTRICT_NAME_ENG": "Wale",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6307,
+        "LAT": 16.368000030517578,
+        "LONG": 98.76799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 630705,
+        "SUB_DISTRICT_NAME_THA": "รวมไทยพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Ruam Thai Phatthana",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6307,
+        "LAT": 16.440000534057617,
+        "LONG": 98.78600311279297
+    }
+]

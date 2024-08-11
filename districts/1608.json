@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160801,
+        "SUB_DISTRICT_NAME_THA": "สระโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Sa Bot",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1608,
+        "LAT": 15.223999977111816,
+        "LONG": 100.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 160802,
+        "SUB_DISTRICT_NAME_THA": "มหาโพธิ",
+        "SUB_DISTRICT_NAME_ENG": "Mahapho",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1608,
+        "LAT": 15.288999557495117,
+        "LONG": 100.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 160803,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Tha Chang",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1608,
+        "LAT": 15.168999671936035,
+        "LONG": 100.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 160804,
+        "SUB_DISTRICT_NAME_THA": "ห้วยใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1608,
+        "LAT": 15.168999671936035,
+        "LONG": 100.79299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 160805,
+        "SUB_DISTRICT_NAME_THA": "นิยมชัย",
+        "SUB_DISTRICT_NAME_ENG": "Niyom Chai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1608,
+        "LAT": 15.182999610900879,
+        "LONG": 100.90399932861328
+    }
+]

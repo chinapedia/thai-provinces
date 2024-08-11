@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 750301,
+        "SUB_DISTRICT_NAME_THA": "อัมพวา",
+        "SUB_DISTRICT_NAME_ENG": "Amphawa",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.427000045776367,
+        "LONG": 99.9540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 750302,
+        "SUB_DISTRICT_NAME_THA": "สวนหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Suan Luang",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.413999557495117,
+        "LONG": 99.9530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 750303,
+        "SUB_DISTRICT_NAME_THA": "ท่าคา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kha",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.465999603271484,
+        "LONG": 99.99299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 750304,
+        "SUB_DISTRICT_NAME_THA": "วัดประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Wat Pradu",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.380000114440918,
+        "LONG": 99.875
+    },
+    {
+        "SUB_DISTRICT_ID": 750305,
+        "SUB_DISTRICT_NAME_THA": "เหมืองใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Mai",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.432999610900879,
+        "LONG": 99.91000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 750306,
+        "SUB_DISTRICT_NAME_THA": "บางช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chang",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.437000274658203,
+        "LONG": 99.9530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 750307,
+        "SUB_DISTRICT_NAME_THA": "แควอ้อม",
+        "SUB_DISTRICT_NAME_ENG": "Khwae Om",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.435999870300293,
+        "LONG": 99.93699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 750308,
+        "SUB_DISTRICT_NAME_THA": "ปลายโพงพาง",
+        "SUB_DISTRICT_NAME_ENG": "Plai Phongphang",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.385000228881836,
+        "LONG": 99.9229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 750309,
+        "SUB_DISTRICT_NAME_THA": "บางแค",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khae",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.406999588012695,
+        "LONG": 99.9229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 750310,
+        "SUB_DISTRICT_NAME_THA": "แพรกหนามแดง",
+        "SUB_DISTRICT_NAME_ENG": "Phraek Nam Daeng",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.343000411987305,
+        "LONG": 99.88200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 750311,
+        "SUB_DISTRICT_NAME_THA": "ยี่สาร",
+        "SUB_DISTRICT_NAME_ENG": "Yi San",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.29699993133545,
+        "LONG": 99.8949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 750312,
+        "SUB_DISTRICT_NAME_THA": "บางนางลี่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nang Li",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7503,
+        "LAT": 13.413999557495117,
+        "LONG": 99.91699981689453
+    }
+]

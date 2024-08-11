@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660201,
+        "SUB_DISTRICT_NAME_THA": "วังทรายพูน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sai Phun",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6602,
+        "LAT": 16.382999420166016,
+        "LONG": 100.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 660202,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาไหล",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Lai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6602,
+        "LAT": 16.44300079345703,
+        "LONG": 100.53500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 660203,
+        "SUB_DISTRICT_NAME_THA": "หนองพระ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phra",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6602,
+        "LAT": 16.341999053955078,
+        "LONG": 100.56600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 660204,
+        "SUB_DISTRICT_NAME_THA": "หนองปล้อง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Plong",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6602,
+        "LAT": 16.339000701904297,
+        "LONG": 100.50399780273438
+    }
+]

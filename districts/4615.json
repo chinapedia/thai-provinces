@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 461501,
+        "SUB_DISTRICT_NAME_THA": "สำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Samran",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4615,
+        "LAT": 16.95400047302246,
+        "LONG": 103.52200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 461502,
+        "SUB_DISTRICT_NAME_THA": "สำราญใต้",
+        "SUB_DISTRICT_NAME_ENG": "Samran Tai",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4615,
+        "LAT": 16.81399917602539,
+        "LONG": 103.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 461503,
+        "SUB_DISTRICT_NAME_THA": "คำสร้างเที่ยง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Sang Thiang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4615,
+        "LAT": 16.81399917602539,
+        "LONG": 103.5459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 461504,
+        "SUB_DISTRICT_NAME_THA": "หนองช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4615,
+        "LAT": 16.913000106811523,
+        "LONG": 103.57099914550781
+    }
+]

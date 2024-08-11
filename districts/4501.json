@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 450101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.051000595092773,
+        "LONG": 103.65299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 450102,
+        "SUB_DISTRICT_NAME_THA": "รอบเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Rop Mueang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.006000518798828,
+        "LONG": 103.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 450103,
+        "SUB_DISTRICT_NAME_THA": "เหนือเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nuea Mueang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.07900047302246,
+        "LONG": 103.6520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 450104,
+        "SUB_DISTRICT_NAME_THA": "ขอนแก่น",
+        "SUB_DISTRICT_NAME_ENG": "Khon Kaen",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.024999618530273,
+        "LONG": 103.59100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 450105,
+        "SUB_DISTRICT_NAME_THA": "นาโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Na Pho",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 15.961000442504883,
+        "LONG": 103.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 450106,
+        "SUB_DISTRICT_NAME_THA": "สะอาดสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Sa-At Sombun",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 15.932000160217285,
+        "LONG": 103.6259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 450108,
+        "SUB_DISTRICT_NAME_THA": "สีแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Si Kaeo",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.125999450683594,
+        "LONG": 103.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 450109,
+        "SUB_DISTRICT_NAME_THA": "ปอภาร",
+        "SUB_DISTRICT_NAME_ENG": "Po Phan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.08099937438965,
+        "LONG": 103.52300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 450110,
+        "SUB_DISTRICT_NAME_THA": "โนนรัง",
+        "SUB_DISTRICT_NAME_ENG": "Non Rang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.00200080871582,
+        "LONG": 103.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 450117,
+        "SUB_DISTRICT_NAME_THA": "หนองแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kaeo",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 15.939000129699707,
+        "LONG": 103.66000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 450118,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.10300064086914,
+        "LONG": 103.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 450120,
+        "SUB_DISTRICT_NAME_THA": "ดงลาน",
+        "SUB_DISTRICT_NAME_ENG": "Dong Lan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 16.06399917602539,
+        "LONG": 103.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 450123,
+        "SUB_DISTRICT_NAME_THA": "แคนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khaen Yai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 15.897000312805176,
+        "LONG": 103.6719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 450124,
+        "SUB_DISTRICT_NAME_THA": "โนนตาล",
+        "SUB_DISTRICT_NAME_ENG": "Non Tan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 15.968999862670898,
+        "LONG": 103.66600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 450125,
+        "SUB_DISTRICT_NAME_THA": "เมืองทอง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Thong",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4501,
+        "LAT": 15.932000160217285,
+        "LONG": 103.59100341796875
+    }
+]

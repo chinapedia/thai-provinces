@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 101901,
+        "SUB_DISTRICT_NAME_THA": "คลองชักพระ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1019,
+        "LAT": 13.760000228881836,
+        "LONG": 100.45600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 101902,
+        "SUB_DISTRICT_NAME_THA": "ตลิ่งชัน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1019,
+        "LAT": 13.788999557495117,
+        "LONG": 100.45899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 101903,
+        "SUB_DISTRICT_NAME_THA": "ฉิมพลี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1019,
+        "LAT": 13.78600025177002,
+        "LONG": 100.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 101904,
+        "SUB_DISTRICT_NAME_THA": "บางพรม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1019,
+        "LAT": 13.751999855041504,
+        "LONG": 100.44200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 101905,
+        "SUB_DISTRICT_NAME_THA": "บางระมาด",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1019,
+        "LAT": 13.767000198364258,
+        "LONG": 100.43099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 101907,
+        "SUB_DISTRICT_NAME_THA": "บางเชือกหนัง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1019,
+        "LAT": 13.75100040435791,
+        "LONG": 100.41899871826172
+    }
+]

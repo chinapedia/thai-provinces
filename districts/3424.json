@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 342401,
+        "SUB_DISTRICT_NAME_THA": "ดอนมดแดง",
+        "SUB_DISTRICT_NAME_ENG": "Don Mot Daeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3424,
+        "LAT": 15.3149995803833,
+        "LONG": 105.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 342402,
+        "SUB_DISTRICT_NAME_THA": "เหล่าแดง",
+        "SUB_DISTRICT_NAME_ENG": "Lao Daeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3424,
+        "LAT": 15.375,
+        "LONG": 105.02799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 342403,
+        "SUB_DISTRICT_NAME_THA": "ท่าเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mueang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3424,
+        "LAT": 15.472999572753906,
+        "LONG": 104.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 342404,
+        "SUB_DISTRICT_NAME_THA": "คำไฮใหญ่",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3424,
+        "LAT": 15.371999740600586,
+        "LONG": 104.96800231933594
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 210701,
+        "SUB_DISTRICT_NAME_THA": "น้ำเป็น",
+        "SUB_DISTRICT_NAME_ENG": "Nam Pen",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2107,
+        "LAT": 12.901000022888184,
+        "LONG": 101.7490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 210702,
+        "SUB_DISTRICT_NAME_THA": "ห้วยทับมอญ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Thap Mon",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2107,
+        "LAT": 13.027000427246094,
+        "LONG": 101.68599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 210703,
+        "SUB_DISTRICT_NAME_THA": "ชำฆ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Cham Noi",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2107,
+        "LAT": 12.932999610900879,
+        "LONG": 101.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 210704,
+        "SUB_DISTRICT_NAME_THA": "เขาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Noi",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2107,
+        "LAT": 13.062000274658203,
+        "LONG": 101.61699676513672
+    }
+]

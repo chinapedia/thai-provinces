@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 130101,
+        "SUB_DISTRICT_NAME_THA": "บางปรอก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Prok",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 14.01200008392334,
+        "LONG": 100.52799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 130102,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 13.963000297546387,
+        "LONG": 100.5530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 130103,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 14.00100040435791,
+        "LONG": 100.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 130104,
+        "SUB_DISTRICT_NAME_THA": "บ้านฉาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chang",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 14.029000282287598,
+        "LONG": 100.50700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 130105,
+        "SUB_DISTRICT_NAME_THA": "บ้านกระแชง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Krachaeng",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 14.031000137329102,
+        "LONG": 100.552001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 130106,
+        "SUB_DISTRICT_NAME_THA": "บางขะแยง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khayaeng",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 13.967000007629395,
+        "LONG": 100.52300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 130107,
+        "SUB_DISTRICT_NAME_THA": "บางคูวัด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khu Wat",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 13.963000297546387,
+        "LONG": 100.49500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 130108,
+        "SUB_DISTRICT_NAME_THA": "บางหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Luang",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 14.006999969482422,
+        "LONG": 100.50900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 130109,
+        "SUB_DISTRICT_NAME_THA": "บางเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Duea",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 13.989999771118164,
+        "LONG": 100.48699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 130110,
+        "SUB_DISTRICT_NAME_THA": "บางพูด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phut",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 14.03499984741211,
+        "LONG": 100.5719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 130111,
+        "SUB_DISTRICT_NAME_THA": "บางพูน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phun",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 13.98799991607666,
+        "LONG": 100.59400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 130112,
+        "SUB_DISTRICT_NAME_THA": "บางกะดี",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kadi",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 13.982999801635742,
+        "LONG": 100.53700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 130113,
+        "SUB_DISTRICT_NAME_THA": "สวนพริกไทย",
+        "SUB_DISTRICT_NAME_ENG": "Suan Phrik Thai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 14.017999649047852,
+        "LONG": 100.56800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 130114,
+        "SUB_DISTRICT_NAME_THA": "หลักหก",
+        "SUB_DISTRICT_NAME_ENG": "Lak Hok",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1301,
+        "LAT": 13.963000297546387,
+        "LONG": 100.58999633789062
+    }
+]

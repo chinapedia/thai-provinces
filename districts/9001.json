@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900101,
+        "SUB_DISTRICT_NAME_THA": "บ่อยาง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Yang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9001,
+        "LAT": 7.197999954223633,
+        "LONG": 100.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 900102,
+        "SUB_DISTRICT_NAME_THA": "เขารูปช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Rupchang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9001,
+        "LAT": 7.1539998054504395,
+        "LONG": 100.61199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 900103,
+        "SUB_DISTRICT_NAME_THA": "เกาะแต้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ko Taeo",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9001,
+        "LAT": 7.111999988555908,
+        "LONG": 100.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 900104,
+        "SUB_DISTRICT_NAME_THA": "พะวง",
+        "SUB_DISTRICT_NAME_ENG": "Pha Wong",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9001,
+        "LAT": 7.105000019073486,
+        "LONG": 100.58799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 900105,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหวัง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Wang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9001,
+        "LAT": 7.068999767303467,
+        "LONG": 100.65699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 900106,
+        "SUB_DISTRICT_NAME_THA": "เกาะยอ",
+        "SUB_DISTRICT_NAME_ENG": "Ko Yo",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9001,
+        "LAT": 7.171000003814697,
+        "LONG": 100.51699829101562
+    }
+]

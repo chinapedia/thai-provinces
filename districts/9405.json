@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940501,
+        "SUB_DISTRICT_NAME_THA": "มายอ",
+        "SUB_DISTRICT_NAME_ENG": "Mayo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.710000038146973,
+        "LONG": 101.42500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 940502,
+        "SUB_DISTRICT_NAME_THA": "ถนน",
+        "SUB_DISTRICT_NAME_ENG": "Thanon",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.75,
+        "LONG": 101.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 940503,
+        "SUB_DISTRICT_NAME_THA": "ตรัง",
+        "SUB_DISTRICT_NAME_ENG": "Trang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.692999839782715,
+        "LONG": 101.375
+    },
+    {
+        "SUB_DISTRICT_ID": 940504,
+        "SUB_DISTRICT_NAME_THA": "กระหวะ",
+        "SUB_DISTRICT_NAME_ENG": "Krawa",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.758999824523926,
+        "LONG": 101.44100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 940505,
+        "SUB_DISTRICT_NAME_THA": "ลุโบะยิไร",
+        "SUB_DISTRICT_NAME_ENG": "Lubo Yiri",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.665999889373779,
+        "LONG": 101.41699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 940506,
+        "SUB_DISTRICT_NAME_THA": "ลางา",
+        "SUB_DISTRICT_NAME_ENG": "La-Nga",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.735000133514404,
+        "LONG": 101.47799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 940507,
+        "SUB_DISTRICT_NAME_THA": "กระเสาะ",
+        "SUB_DISTRICT_NAME_ENG": "Kraso",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.749000072479248,
+        "LONG": 101.39700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 940508,
+        "SUB_DISTRICT_NAME_THA": "เกาะจัน",
+        "SUB_DISTRICT_NAME_ENG": "Ko Chan",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.7230000495910645,
+        "LONG": 101.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 940509,
+        "SUB_DISTRICT_NAME_THA": "ปะโด",
+        "SUB_DISTRICT_NAME_ENG": "Podo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.665999889373779,
+        "LONG": 101.35900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 940510,
+        "SUB_DISTRICT_NAME_THA": "สาคอบน",
+        "SUB_DISTRICT_NAME_ENG": "Sakho Bon",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.730000019073486,
+        "LONG": 101.35199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 940511,
+        "SUB_DISTRICT_NAME_THA": "สาคอใต้",
+        "SUB_DISTRICT_NAME_ENG": "Sakho Tai",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.749000072479248,
+        "LONG": 101.35700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 940512,
+        "SUB_DISTRICT_NAME_THA": "สะกำ",
+        "SUB_DISTRICT_NAME_ENG": "Sakam",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.71999979019165,
+        "LONG": 101.46199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 940513,
+        "SUB_DISTRICT_NAME_THA": "ปานัน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Nan",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9405,
+        "LAT": 6.7210001945495605,
+        "LONG": 101.33399963378906
+    }
+]

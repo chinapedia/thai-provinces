@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270401,
+        "SUB_DISTRICT_NAME_THA": "วังน้ำเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nam Yen",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2704,
+        "LAT": 13.517000198364258,
+        "LONG": 102.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 270403,
+        "SUB_DISTRICT_NAME_THA": "ตาหลังใน",
+        "SUB_DISTRICT_NAME_ENG": "Ta Lang Nai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2704,
+        "LAT": 13.470999717712402,
+        "LONG": 102.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 270405,
+        "SUB_DISTRICT_NAME_THA": "คลองหินปูน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Hin Pun",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2704,
+        "LAT": 13.605999946594238,
+        "LONG": 102.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 270406,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งมหาเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Mahacharoen",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2704,
+        "LAT": 13.482000350952148,
+        "LONG": 102.00900268554688
+    }
+]

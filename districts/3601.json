@@ -1,0 +1,173 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.803999900817871,
+        "LONG": 102.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 360102,
+        "SUB_DISTRICT_NAME_THA": "รอบเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Rop Mueang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.845999717712402,
+        "LONG": 102.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 360103,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.86299991607666,
+        "LONG": 102.11399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 360104,
+        "SUB_DISTRICT_NAME_THA": "นาฝาย",
+        "SUB_DISTRICT_NAME_ENG": "Na Fai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.918999671936035,
+        "LONG": 101.98200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 360105,
+        "SUB_DISTRICT_NAME_THA": "บ้านค่าย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.684000015258789,
+        "LONG": 102.02799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 360106,
+        "SUB_DISTRICT_NAME_THA": "กุดตุ้ม",
+        "SUB_DISTRICT_NAME_ENG": "Kut Tum",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.770999908447266,
+        "LONG": 102.18099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 360107,
+        "SUB_DISTRICT_NAME_THA": "ชีลอง",
+        "SUB_DISTRICT_NAME_ENG": "Chilong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.729999542236328,
+        "LONG": 101.9990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 360108,
+        "SUB_DISTRICT_NAME_THA": "บ้านเล่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lao",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.871999740600586,
+        "LONG": 102.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 360109,
+        "SUB_DISTRICT_NAME_THA": "นาเสียว",
+        "SUB_DISTRICT_NAME_ENG": "Na Siao",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.940999984741211,
+        "LONG": 102.11000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 360110,
+        "SUB_DISTRICT_NAME_THA": "หนองนาแซง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Na Saeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.741999626159668,
+        "LONG": 102.02200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 360111,
+        "SUB_DISTRICT_NAME_THA": "ลาดใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Lat Yai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.809000015258789,
+        "LONG": 102.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 360112,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.706999778747559,
+        "LONG": 102.052001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 360113,
+        "SUB_DISTRICT_NAME_THA": "ท่าหินโงม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Hin Ngom",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 16.020999908447266,
+        "LONG": 101.99299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 360114,
+        "SUB_DISTRICT_NAME_THA": "ห้วยต้อน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Ton",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.930000305175781,
+        "LONG": 101.91899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 360115,
+        "SUB_DISTRICT_NAME_THA": "ห้วยบง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Bong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.843000411987305,
+        "LONG": 102.16699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 360116,
+        "SUB_DISTRICT_NAME_THA": "โนนสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Non Samran",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.66100025177002,
+        "LONG": 102.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 360117,
+        "SUB_DISTRICT_NAME_THA": "โคกสูง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sung",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.82699966430664,
+        "LONG": 101.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 360118,
+        "SUB_DISTRICT_NAME_THA": "บุ่งคล้า",
+        "SUB_DISTRICT_NAME_ENG": "Bung Khla",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 15.758999824523926,
+        "LONG": 102.05599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 360119,
+        "SUB_DISTRICT_NAME_THA": "ซับสีทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sap Si Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3601,
+        "LAT": 16.136999130249023,
+        "LONG": 102.01699829101562
+    }
+]

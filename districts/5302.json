@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530201,
+        "SUB_DISTRICT_NAME_THA": "วังแดง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Daeng",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5302,
+        "LAT": 17.488000869750977,
+        "LONG": 100.11299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 530202,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5302,
+        "LAT": 17.44099998474121,
+        "LONG": 100.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 530203,
+        "SUB_DISTRICT_NAME_THA": "หาดสองแคว",
+        "SUB_DISTRICT_NAME_ENG": "Hat Song Khwae",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5302,
+        "LAT": 17.426000595092773,
+        "LONG": 100.11499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 530204,
+        "SUB_DISTRICT_NAME_THA": "น้ำอ่าง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Ang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5302,
+        "LAT": 17.45599937438965,
+        "LONG": 100.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 530205,
+        "SUB_DISTRICT_NAME_THA": "ข่อยสูง",
+        "SUB_DISTRICT_NAME_ENG": "Khoi Sung",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5302,
+        "LAT": 17.50200080871582,
+        "LONG": 99.97599792480469
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940701,
+        "SUB_DISTRICT_NAME_THA": "ตะลุปัน",
+        "SUB_DISTRICT_NAME_ENG": "Talu Ban",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.690000057220459,
+        "LONG": 101.63600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 940702,
+        "SUB_DISTRICT_NAME_THA": "ตะบิ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Tabing",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.681000232696533,
+        "LONG": 101.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 940703,
+        "SUB_DISTRICT_NAME_THA": "ปะเสยะวอ",
+        "SUB_DISTRICT_NAME_ENG": "Pase Yawo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.732999801635742,
+        "LONG": 101.60600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 940704,
+        "SUB_DISTRICT_NAME_THA": "บางเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kao",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.763999938964844,
+        "LONG": 101.59100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 940705,
+        "SUB_DISTRICT_NAME_THA": "บือเระ",
+        "SUB_DISTRICT_NAME_ENG": "Buere",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.703999996185303,
+        "LONG": 101.58399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 940706,
+        "SUB_DISTRICT_NAME_THA": "เตราะบอน",
+        "SUB_DISTRICT_NAME_ENG": "Tro Bon",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.688000202178955,
+        "LONG": 101.54299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 940707,
+        "SUB_DISTRICT_NAME_THA": "กะดุนง",
+        "SUB_DISTRICT_NAME_ENG": "Kadunong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.645999908447266,
+        "LONG": 101.55400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 940708,
+        "SUB_DISTRICT_NAME_THA": "ละหาร",
+        "SUB_DISTRICT_NAME_ENG": "Lahan",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.658999919891357,
+        "LONG": 101.62699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 940709,
+        "SUB_DISTRICT_NAME_THA": "มะนังดาลำ",
+        "SUB_DISTRICT_NAME_ENG": "Manang Dalam",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.64900016784668,
+        "LONG": 101.5989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 940710,
+        "SUB_DISTRICT_NAME_THA": "แป้น",
+        "SUB_DISTRICT_NAME_ENG": "Paen",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.747000217437744,
+        "LONG": 101.5530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 940711,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งคล้า",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khla",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9407,
+        "LAT": 6.7179999351501465,
+        "LONG": 101.52799987792969
+    }
+]

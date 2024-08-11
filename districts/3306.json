@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 330601,
+        "SUB_DISTRICT_NAME_THA": "ไพรบึง",
+        "SUB_DISTRICT_NAME_ENG": "Phrai Bueng",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3306,
+        "LAT": 14.744000434875488,
+        "LONG": 104.37300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 330602,
+        "SUB_DISTRICT_NAME_THA": "ดินแดง",
+        "SUB_DISTRICT_NAME_ENG": "Din Daeng",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3306,
+        "LAT": 14.800999641418457,
+        "LONG": 104.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 330603,
+        "SUB_DISTRICT_NAME_THA": "ปราสาทเยอ",
+        "SUB_DISTRICT_NAME_ENG": "Prasat Yoe",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3306,
+        "LAT": 14.810999870300293,
+        "LONG": 104.36399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 330604,
+        "SUB_DISTRICT_NAME_THA": "สำโรงพลัน",
+        "SUB_DISTRICT_NAME_ENG": "Samrong Phlan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3306,
+        "LAT": 14.699999809265137,
+        "LONG": 104.34200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 330605,
+        "SUB_DISTRICT_NAME_THA": "สุขสวัสดิ์",
+        "SUB_DISTRICT_NAME_ENG": "Suk Sawat",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3306,
+        "LAT": 14.855999946594238,
+        "LONG": 104.35900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 330606,
+        "SUB_DISTRICT_NAME_THA": "โนนปูน",
+        "SUB_DISTRICT_NAME_ENG": "Non Pun",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3306,
+        "LAT": 14.857000350952148,
+        "LONG": 104.3030014038086
+    }
+]

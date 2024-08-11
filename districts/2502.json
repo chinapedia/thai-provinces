@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 250201,
+        "SUB_DISTRICT_NAME_THA": "กบินทร์",
+        "SUB_DISTRICT_NAME_ENG": "Kabin",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.939000129699707,
+        "LONG": 101.71099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 250202,
+        "SUB_DISTRICT_NAME_THA": "เมืองเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kao",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.99899959564209,
+        "LONG": 101.7699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 250203,
+        "SUB_DISTRICT_NAME_THA": "วังดาล",
+        "SUB_DISTRICT_NAME_ENG": "Wang Dan",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 14.005999565124512,
+        "LONG": 101.6449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 250204,
+        "SUB_DISTRICT_NAME_THA": "นนทรี",
+        "SUB_DISTRICT_NAME_ENG": "Nonsi",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 14.055999755859375,
+        "LONG": 101.66799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 250205,
+        "SUB_DISTRICT_NAME_THA": "ย่านรี",
+        "SUB_DISTRICT_NAME_ENG": "Yan Ri",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.897000312805176,
+        "LONG": 101.78500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 250206,
+        "SUB_DISTRICT_NAME_THA": "วังตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Takhian",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.848999977111816,
+        "LONG": 101.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 250207,
+        "SUB_DISTRICT_NAME_THA": "หาดนางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Hat Nang Kaeo",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.963000297546387,
+        "LONG": 101.64199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 250208,
+        "SUB_DISTRICT_NAME_THA": "ลาดตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Lat Takhian",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.873000144958496,
+        "LONG": 101.65799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 250209,
+        "SUB_DISTRICT_NAME_THA": "บ้านนา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Na",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.989999771118164,
+        "LONG": 101.87999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 250210,
+        "SUB_DISTRICT_NAME_THA": "บ่อทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Thong",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.9350004196167,
+        "LONG": 101.88099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 250211,
+        "SUB_DISTRICT_NAME_THA": "หนองกี่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ki",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 14.067999839782715,
+        "LONG": 101.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 250212,
+        "SUB_DISTRICT_NAME_THA": "นาแขม",
+        "SUB_DISTRICT_NAME_ENG": "Na Khaem",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 14.052000045776367,
+        "LONG": 101.7229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 250213,
+        "SUB_DISTRICT_NAME_THA": "เขาไม้แก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Mai Kaeo",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.800999641418457,
+        "LONG": 101.7750015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 250214,
+        "SUB_DISTRICT_NAME_THA": "วังท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Tha Chang",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2502,
+        "LAT": 13.694000244140625,
+        "LONG": 101.88500213623047
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 901001,
+        "SUB_DISTRICT_NAME_THA": "สะเดา",
+        "SUB_DISTRICT_NAME_ENG": "Sadao",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.636000156402588,
+        "LONG": 100.41600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 901002,
+        "SUB_DISTRICT_NAME_THA": "ปริก",
+        "SUB_DISTRICT_NAME_ENG": "Prik",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.693999767303467,
+        "LONG": 100.4729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 901003,
+        "SUB_DISTRICT_NAME_THA": "พังลา",
+        "SUB_DISTRICT_NAME_ENG": "Phang La",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.7729997634887695,
+        "LONG": 100.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 901004,
+        "SUB_DISTRICT_NAME_THA": "สำนักแต้ว",
+        "SUB_DISTRICT_NAME_ENG": "Samnak Taeo",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.566999912261963,
+        "LONG": 100.51599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 901005,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหมอ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Mo",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.744999885559082,
+        "LONG": 100.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 901006,
+        "SUB_DISTRICT_NAME_THA": "ท่าโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pho",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.796000003814697,
+        "LONG": 100.41600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 901007,
+        "SUB_DISTRICT_NAME_THA": "ปาดังเบซาร์",
+        "SUB_DISTRICT_NAME_ENG": "Pa Dangbesa",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.739999771118164,
+        "LONG": 100.24099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 901008,
+        "SUB_DISTRICT_NAME_THA": "สำนักขาม",
+        "SUB_DISTRICT_NAME_ENG": "Samnak Kham",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.584000110626221,
+        "LONG": 100.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 901009,
+        "SUB_DISTRICT_NAME_THA": "เขามีเกียรติ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Mikiat",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9010,
+        "LAT": 6.77400016784668,
+        "LONG": 100.52400207519531
+    }
+]

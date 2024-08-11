@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 820301,
+        "SUB_DISTRICT_NAME_THA": "กะปง",
+        "SUB_DISTRICT_NAME_ENG": "Kapong",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8203,
+        "LAT": 8.64799976348877,
+        "LONG": 98.46800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 820302,
+        "SUB_DISTRICT_NAME_THA": "ท่านา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Na",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8203,
+        "LAT": 8.713000297546387,
+        "LONG": 98.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 820303,
+        "SUB_DISTRICT_NAME_THA": "เหมาะ",
+        "SUB_DISTRICT_NAME_ENG": "Mo",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8203,
+        "LAT": 8.694999694824219,
+        "LONG": 98.36199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 820304,
+        "SUB_DISTRICT_NAME_THA": "เหล",
+        "SUB_DISTRICT_NAME_ENG": "Le",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8203,
+        "LAT": 8.734000205993652,
+        "LONG": 98.50700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 820305,
+        "SUB_DISTRICT_NAME_THA": "รมณีย์",
+        "SUB_DISTRICT_NAME_ENG": "Rommani",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8203,
+        "LAT": 8.829000473022461,
+        "LONG": 98.5009994506836
+    }
+]

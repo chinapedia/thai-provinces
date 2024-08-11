@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940101,
+        "SUB_DISTRICT_NAME_THA": "สะบารัง",
+        "SUB_DISTRICT_NAME_ENG": "Sabarang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.875999927520752,
+        "LONG": 101.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 940102,
+        "SUB_DISTRICT_NAME_THA": "อาเนาะรู",
+        "SUB_DISTRICT_NAME_ENG": "A Noru",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.869999885559082,
+        "LONG": 101.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 940103,
+        "SUB_DISTRICT_NAME_THA": "จะบังติกอ",
+        "SUB_DISTRICT_NAME_ENG": "Chabang Tiko",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.85699987411499,
+        "LONG": 101.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 940104,
+        "SUB_DISTRICT_NAME_THA": "บานา",
+        "SUB_DISTRICT_NAME_ENG": "Bana",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.866000175476074,
+        "LONG": 101.28900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 940105,
+        "SUB_DISTRICT_NAME_THA": "ตันหยงลุโละ",
+        "SUB_DISTRICT_NAME_ENG": "Tanyong Lulo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.876999855041504,
+        "LONG": 101.30500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 940106,
+        "SUB_DISTRICT_NAME_THA": "คลองมานิง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Maning",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.84499979019165,
+        "LONG": 101.29299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 940107,
+        "SUB_DISTRICT_NAME_THA": "กะมิยอ",
+        "SUB_DISTRICT_NAME_ENG": "Kami Yo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.854000091552734,
+        "LONG": 101.31800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 940108,
+        "SUB_DISTRICT_NAME_THA": "บาราโหม",
+        "SUB_DISTRICT_NAME_ENG": "Bara Hom",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.873000144958496,
+        "LONG": 101.31700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 940109,
+        "SUB_DISTRICT_NAME_THA": "ปะกาฮะรัง",
+        "SUB_DISTRICT_NAME_ENG": "Paka Harang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.833000183105469,
+        "LONG": 101.23200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 940110,
+        "SUB_DISTRICT_NAME_THA": "รูสะมิแล",
+        "SUB_DISTRICT_NAME_ENG": "Ru Samilae",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.863999843597412,
+        "LONG": 101.20700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 940111,
+        "SUB_DISTRICT_NAME_THA": "ตะลุโบะ",
+        "SUB_DISTRICT_NAME_ENG": "Talu Bo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.853000164031982,
+        "LONG": 101.26699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 940112,
+        "SUB_DISTRICT_NAME_THA": "บาราเฮาะ",
+        "SUB_DISTRICT_NAME_ENG": "Bara Ho",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.828999996185303,
+        "LONG": 101.26699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 940113,
+        "SUB_DISTRICT_NAME_THA": "ปุยุด",
+        "SUB_DISTRICT_NAME_ENG": "Pu Yut",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9401,
+        "LAT": 6.810999870300293,
+        "LONG": 101.26799774169922
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331401,
+        "SUB_DISTRICT_NAME_THA": "ศรีแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Si Kaeo",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3314,
+        "LAT": 14.765999794006348,
+        "LONG": 104.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 331402,
+        "SUB_DISTRICT_NAME_THA": "พิงพวย",
+        "SUB_DISTRICT_NAME_ENG": "Phing Phuai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3314,
+        "LAT": 14.744000434875488,
+        "LONG": 104.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 331403,
+        "SUB_DISTRICT_NAME_THA": "สระเยาว์",
+        "SUB_DISTRICT_NAME_ENG": "Sa Yao",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3314,
+        "LAT": 14.78499984741211,
+        "LONG": 104.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 331404,
+        "SUB_DISTRICT_NAME_THA": "ตูม",
+        "SUB_DISTRICT_NAME_ENG": "Tum",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3314,
+        "LAT": 14.866000175476074,
+        "LONG": 104.48799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 331405,
+        "SUB_DISTRICT_NAME_THA": "เสืองข้าว",
+        "SUB_DISTRICT_NAME_ENG": "Sueang Khao",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3314,
+        "LAT": 14.812999725341797,
+        "LONG": 104.55500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 331406,
+        "SUB_DISTRICT_NAME_THA": "ศรีโนนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Si Non Ngam",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3314,
+        "LAT": 14.805999755859375,
+        "LONG": 104.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 331407,
+        "SUB_DISTRICT_NAME_THA": "สะพุง",
+        "SUB_DISTRICT_NAME_ENG": "Saphung",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3314,
+        "LAT": 14.82800006866455,
+        "LONG": 104.4739990234375
+    }
+]

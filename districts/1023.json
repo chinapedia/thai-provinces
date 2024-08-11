@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 102302,
+        "SUB_DISTRICT_NAME_THA": "หนองแขม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1023,
+        "LAT": 13.680000305175781,
+        "LONG": 100.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 102303,
+        "SUB_DISTRICT_NAME_THA": "หนองค้างพลู",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1023,
+        "LAT": 13.71399974822998,
+        "LONG": 100.35099792480469
+    }
+]

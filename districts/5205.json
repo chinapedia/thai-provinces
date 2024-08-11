@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520501,
+        "SUB_DISTRICT_NAME_THA": "หลวงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Luang Nuea",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.75200080871582,
+        "LONG": 99.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 520502,
+        "SUB_DISTRICT_NAME_THA": "หลวงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Luang Tai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.743000030517578,
+        "LONG": 99.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 520503,
+        "SUB_DISTRICT_NAME_THA": "บ้านโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pong",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.72599983215332,
+        "LONG": 99.88600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 520504,
+        "SUB_DISTRICT_NAME_THA": "บ้านร้อง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rong",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.972000122070312,
+        "LONG": 99.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 520505,
+        "SUB_DISTRICT_NAME_THA": "ปงเตา",
+        "SUB_DISTRICT_NAME_ENG": "Pong Tao",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.839000701904297,
+        "LONG": 99.927001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 520506,
+        "SUB_DISTRICT_NAME_THA": "นาแก",
+        "SUB_DISTRICT_NAME_ENG": "Na Kae",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.816999435424805,
+        "LONG": 99.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 520507,
+        "SUB_DISTRICT_NAME_THA": "บ้านอ้อน",
+        "SUB_DISTRICT_NAME_ENG": "Ban On",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.788000106811523,
+        "LONG": 99.85199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 520508,
+        "SUB_DISTRICT_NAME_THA": "บ้านแหง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Haeng",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.781999588012695,
+        "LONG": 100.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 520509,
+        "SUB_DISTRICT_NAME_THA": "บ้านหวด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Huat",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.608999252319336,
+        "LONG": 99.88800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 520510,
+        "SUB_DISTRICT_NAME_THA": "แม่ตีบ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tip",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5205,
+        "LAT": 18.634000778198242,
+        "LONG": 100.03800201416016
+    }
+]

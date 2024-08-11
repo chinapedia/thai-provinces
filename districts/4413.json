@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 441301,
+        "SUB_DISTRICT_NAME_THA": "ชื่นชม",
+        "SUB_DISTRICT_NAME_ENG": "Chuen Chom",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4413,
+        "LAT": 16.551000595092773,
+        "LONG": 103.14399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 441302,
+        "SUB_DISTRICT_NAME_THA": "กุดปลาดุก",
+        "SUB_DISTRICT_NAME_ENG": "Kut Pla Duk",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4413,
+        "LAT": 16.58799934387207,
+        "LONG": 103.13800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 441303,
+        "SUB_DISTRICT_NAME_THA": "เหล่าดอกไม้",
+        "SUB_DISTRICT_NAME_ENG": "Lao Dokmai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4413,
+        "LAT": 16.492000579833984,
+        "LONG": 103.1449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 441304,
+        "SUB_DISTRICT_NAME_THA": "หนองกุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4413,
+        "LAT": 16.475000381469727,
+        "LONG": 103.1240005493164
+    }
+]

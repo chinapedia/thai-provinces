@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220901,
+        "SUB_DISTRICT_NAME_THA": "นายายอาม",
+        "SUB_DISTRICT_NAME_ENG": "Na Yai Am",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2209,
+        "LAT": 12.781999588012695,
+        "LONG": 101.84700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 220902,
+        "SUB_DISTRICT_NAME_THA": "วังโตนด",
+        "SUB_DISTRICT_NAME_ENG": "Wang Tanot",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2209,
+        "LAT": 12.701000213623047,
+        "LONG": 101.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 220903,
+        "SUB_DISTRICT_NAME_THA": "กระแจะ",
+        "SUB_DISTRICT_NAME_ENG": "Krachae",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2209,
+        "LAT": 12.689000129699707,
+        "LONG": 101.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 220904,
+        "SUB_DISTRICT_NAME_THA": "สนามไชย",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Chai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2209,
+        "LAT": 12.625,
+        "LONG": 101.8740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 220905,
+        "SUB_DISTRICT_NAME_THA": "ช้างข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Chang Kham",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2209,
+        "LAT": 12.706999778747559,
+        "LONG": 101.81900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 220906,
+        "SUB_DISTRICT_NAME_THA": "วังใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2209,
+        "LAT": 12.763999938964844,
+        "LONG": 101.90399932861328
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 510601,
+        "SUB_DISTRICT_NAME_THA": "ปากบ่อง",
+        "SUB_DISTRICT_NAME_ENG": "Pak Bong",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.53700065612793,
+        "LONG": 98.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 510602,
+        "SUB_DISTRICT_NAME_THA": "ป่าซาง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.511999130249023,
+        "LONG": 98.93699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 510603,
+        "SUB_DISTRICT_NAME_THA": "แม่แรง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Raeng",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.49799919128418,
+        "LONG": 98.91000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 510604,
+        "SUB_DISTRICT_NAME_THA": "ม่วงน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Muang Noi",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.479000091552734,
+        "LONG": 98.94100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 510605,
+        "SUB_DISTRICT_NAME_THA": "บ้านเรือน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ruean",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.509000778198242,
+        "LONG": 98.87100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 510606,
+        "SUB_DISTRICT_NAME_THA": "มะกอก",
+        "SUB_DISTRICT_NAME_ENG": "Makok",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.448999404907227,
+        "LONG": 98.9229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 510607,
+        "SUB_DISTRICT_NAME_THA": "ท่าตุ้ม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Tum",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.47800064086914,
+        "LONG": 98.87300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 510608,
+        "SUB_DISTRICT_NAME_THA": "น้ำดิบ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Dip",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.423999786376953,
+        "LONG": 98.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 510611,
+        "SUB_DISTRICT_NAME_THA": "นครเจดีย์",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Chedi",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5106,
+        "LAT": 18.371000289916992,
+        "LONG": 98.89800262451172
+    }
+]

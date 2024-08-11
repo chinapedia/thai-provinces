@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 120601,
+        "SUB_DISTRICT_NAME_THA": "ปากเกร็ด",
+        "SUB_DISTRICT_NAME_ENG": "Pak Kret",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.911999702453613,
+        "LONG": 100.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 120602,
+        "SUB_DISTRICT_NAME_THA": "บางตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Talat",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.895999908447266,
+        "LONG": 100.52100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 120603,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.930000305175781,
+        "LONG": 100.5459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 120604,
+        "SUB_DISTRICT_NAME_THA": "บางพูด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phut",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.927000045776367,
+        "LONG": 100.51599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 120605,
+        "SUB_DISTRICT_NAME_THA": "บางตะไนย์",
+        "SUB_DISTRICT_NAME_ENG": "Bang Tanai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.930999755859375,
+        "LONG": 100.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 120606,
+        "SUB_DISTRICT_NAME_THA": "คลองพระอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phra Udom",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.930000305175781,
+        "LONG": 100.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 120607,
+        "SUB_DISTRICT_NAME_THA": "ท่าอิฐ",
+        "SUB_DISTRICT_NAME_ENG": "Tha It",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.894000053405762,
+        "LONG": 100.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 120608,
+        "SUB_DISTRICT_NAME_THA": "เกาะเกร็ด",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kret",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.90999984741211,
+        "LONG": 100.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 120609,
+        "SUB_DISTRICT_NAME_THA": "อ้อมเกร็ด",
+        "SUB_DISTRICT_NAME_ENG": "Om Kret",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.909000396728516,
+        "LONG": 100.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 120610,
+        "SUB_DISTRICT_NAME_THA": "คลองข่อย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khoi",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.958999633789062,
+        "LONG": 100.44999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 120611,
+        "SUB_DISTRICT_NAME_THA": "บางพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phlap",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.928999900817871,
+        "LONG": 100.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 120612,
+        "SUB_DISTRICT_NAME_THA": "คลองเกลือ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Kluea",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1206,
+        "LAT": 13.902000427246094,
+        "LONG": 100.55000305175781
+    }
+]

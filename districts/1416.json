@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 141601,
+        "SUB_DISTRICT_NAME_THA": "บ้านแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phraek",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1416,
+        "LAT": 14.640000343322754,
+        "LONG": 100.58499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 141602,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1416,
+        "LAT": 14.654999732971191,
+        "LONG": 100.58599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 141603,
+        "SUB_DISTRICT_NAME_THA": "สำพะเนียง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Phaniang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1416,
+        "LAT": 14.637999534606934,
+        "LONG": 100.56700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 141604,
+        "SUB_DISTRICT_NAME_THA": "คลองน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Noi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1416,
+        "LAT": 14.626999855041504,
+        "LONG": 100.5530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 141605,
+        "SUB_DISTRICT_NAME_THA": "สองห้อง",
+        "SUB_DISTRICT_NAME_ENG": "Song Hong",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1416,
+        "LAT": 14.645999908447266,
+        "LONG": 100.51899719238281
+    }
+]

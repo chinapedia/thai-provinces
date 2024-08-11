@@ -1,0 +1,173 @@
+[
+    {
+        "SUB_DISTRICT_ID": 370101,
+        "SUB_DISTRICT_NAME_THA": "บุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Bung",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.871999740600586,
+        "LONG": 104.63500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 370102,
+        "SUB_DISTRICT_NAME_THA": "ไก่คำ",
+        "SUB_DISTRICT_NAME_ENG": "Kai Kham",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.803999900817871,
+        "LONG": 104.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 370103,
+        "SUB_DISTRICT_NAME_THA": "นาจิก",
+        "SUB_DISTRICT_NAME_ENG": "Na Chik",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.786999702453613,
+        "LONG": 104.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 370104,
+        "SUB_DISTRICT_NAME_THA": "ปลาค้าว",
+        "SUB_DISTRICT_NAME_ENG": "Pla Khao",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.78499984741211,
+        "LONG": 104.79000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 370105,
+        "SUB_DISTRICT_NAME_THA": "เหล่าพรวน",
+        "SUB_DISTRICT_NAME_ENG": "Lao Phruan",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.866999626159668,
+        "LONG": 104.79399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 370106,
+        "SUB_DISTRICT_NAME_THA": "สร้างนกทา",
+        "SUB_DISTRICT_NAME_ENG": "Sang Nok Tha",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.840999603271484,
+        "LONG": 104.75
+    },
+    {
+        "SUB_DISTRICT_ID": 370107,
+        "SUB_DISTRICT_NAME_THA": "คึมใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khuem Yai",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.947999954223633,
+        "LONG": 104.7509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 370108,
+        "SUB_DISTRICT_NAME_THA": "นาผือ",
+        "SUB_DISTRICT_NAME_ENG": "Na Phue",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.982000350952148,
+        "LONG": 104.6259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 370109,
+        "SUB_DISTRICT_NAME_THA": "น้ำปลีก",
+        "SUB_DISTRICT_NAME_ENG": "Nam Plik",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.810999870300293,
+        "LONG": 104.45999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 370110,
+        "SUB_DISTRICT_NAME_THA": "นาวัง",
+        "SUB_DISTRICT_NAME_ENG": "Na Wang",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.996999740600586,
+        "LONG": 104.5790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 370111,
+        "SUB_DISTRICT_NAME_THA": "นาหมอม้า",
+        "SUB_DISTRICT_NAME_ENG": "Na Mo Ma",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.885000228881836,
+        "LONG": 104.47799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 370112,
+        "SUB_DISTRICT_NAME_THA": "โนนโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Non Pho",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.873000144958496,
+        "LONG": 104.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 370113,
+        "SUB_DISTRICT_NAME_THA": "โนนหนามแท่ง",
+        "SUB_DISTRICT_NAME_ENG": "Non Nam Thaeng",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.928999900817871,
+        "LONG": 104.63099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 370114,
+        "SUB_DISTRICT_NAME_THA": "ห้วยไร่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rai",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.85099983215332,
+        "LONG": 104.68900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 370115,
+        "SUB_DISTRICT_NAME_THA": "หนองมะแซว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Masaeo",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.77400016784668,
+        "LONG": 104.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 370116,
+        "SUB_DISTRICT_NAME_THA": "กุดปลาดุก",
+        "SUB_DISTRICT_NAME_ENG": "Kut Pla Duk",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.944999694824219,
+        "LONG": 104.5250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 370117,
+        "SUB_DISTRICT_NAME_THA": "ดอนเมย",
+        "SUB_DISTRICT_NAME_ENG": "Don Moei",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.822999954223633,
+        "LONG": 104.56199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 370118,
+        "SUB_DISTRICT_NAME_THA": "นายม",
+        "SUB_DISTRICT_NAME_ENG": "Na Yom",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.878000259399414,
+        "LONG": 104.51300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 370119,
+        "SUB_DISTRICT_NAME_THA": "นาแต้",
+        "SUB_DISTRICT_NAME_ENG": "Na Tae",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3701,
+        "LAT": 15.954000473022461,
+        "LONG": 104.69200134277344
+    }
+]

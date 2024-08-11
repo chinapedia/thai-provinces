@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 961101,
+        "SUB_DISTRICT_NAME_THA": "ปะลุรู",
+        "SUB_DISTRICT_NAME_ENG": "Paluru",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9611,
+        "LAT": 6.072999954223633,
+        "LONG": 101.90499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 961102,
+        "SUB_DISTRICT_NAME_THA": "สุไหงปาดี",
+        "SUB_DISTRICT_NAME_ENG": "Su-Ngai Padi",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9611,
+        "LAT": 6.160999774932861,
+        "LONG": 101.93099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 961103,
+        "SUB_DISTRICT_NAME_THA": "โต๊ะเด็ง",
+        "SUB_DISTRICT_NAME_ENG": "To Deng",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9611,
+        "LAT": 6.116000175476074,
+        "LONG": 101.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 961104,
+        "SUB_DISTRICT_NAME_THA": "สากอ",
+        "SUB_DISTRICT_NAME_ENG": "Sako",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9611,
+        "LAT": 6.007999897003174,
+        "LONG": 101.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 961105,
+        "SUB_DISTRICT_NAME_THA": "ริโก๋",
+        "SUB_DISTRICT_NAME_ENG": "Ri Ko",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9611,
+        "LAT": 6.057000160217285,
+        "LONG": 101.84500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 961106,
+        "SUB_DISTRICT_NAME_THA": "กาวะ",
+        "SUB_DISTRICT_NAME_ENG": "Kawa",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9611,
+        "LAT": 6.019999980926514,
+        "LONG": 101.88899993896484
+    }
+]

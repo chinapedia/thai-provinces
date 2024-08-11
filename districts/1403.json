@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140301,
+        "SUB_DISTRICT_NAME_THA": "นครหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Luang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.468999862670898,
+        "LONG": 100.62200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 140302,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.51099967956543,
+        "LONG": 100.6520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 140303,
+        "SUB_DISTRICT_NAME_THA": "บ่อโพง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Phong",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.406000137329102,
+        "LONG": 100.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 140304,
+        "SUB_DISTRICT_NAME_THA": "บ้านชุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chung",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.458000183105469,
+        "LONG": 100.65499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 140305,
+        "SUB_DISTRICT_NAME_THA": "ปากจั่น",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chan",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.4399995803833,
+        "LONG": 100.62000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 140306,
+        "SUB_DISTRICT_NAME_THA": "บางระกำ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rakam",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.465999603271484,
+        "LONG": 100.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 140307,
+        "SUB_DISTRICT_NAME_THA": "บางพระครู",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phrakhru",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.482999801635742,
+        "LONG": 100.61299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 140308,
+        "SUB_DISTRICT_NAME_THA": "แม่ลา",
+        "SUB_DISTRICT_NAME_ENG": "Mae La",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.503000259399414,
+        "LONG": 100.61900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 140309,
+        "SUB_DISTRICT_NAME_THA": "หนองปลิง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pling",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.42300033569336,
+        "LONG": 100.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 140310,
+        "SUB_DISTRICT_NAME_THA": "คลองสะแก",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sakae",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.423999786376953,
+        "LONG": 100.60399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 140311,
+        "SUB_DISTRICT_NAME_THA": "สามไถ",
+        "SUB_DISTRICT_NAME_ENG": "Sam Thai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.48900032043457,
+        "LONG": 100.67500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 140312,
+        "SUB_DISTRICT_NAME_THA": "พระนอน",
+        "SUB_DISTRICT_NAME_ENG": "Phra Non",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1403,
+        "LAT": 14.484999656677246,
+        "LONG": 100.6500015258789
+    }
+]

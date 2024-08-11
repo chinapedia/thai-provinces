@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600801,
+        "SUB_DISTRICT_NAME_THA": "ท่าตะโก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Tako",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.630999565124512,
+        "LONG": 100.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 600802,
+        "SUB_DISTRICT_NAME_THA": "พนมรอก",
+        "SUB_DISTRICT_NAME_ENG": "Phanom Rok",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.704000473022461,
+        "LONG": 100.44200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 600803,
+        "SUB_DISTRICT_NAME_THA": "หัวถนน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Thanon",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.583000183105469,
+        "LONG": 100.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 600804,
+        "SUB_DISTRICT_NAME_THA": "สายลำโพง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Lamphong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.767999649047852,
+        "LONG": 100.48699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 600805,
+        "SUB_DISTRICT_NAME_THA": "วังมหากร",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mahakon",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.64900016784668,
+        "LONG": 100.3550033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 600806,
+        "SUB_DISTRICT_NAME_THA": "ดอนคา",
+        "SUB_DISTRICT_NAME_ENG": "Don Kha",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.6850004196167,
+        "LONG": 100.53800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 600807,
+        "SUB_DISTRICT_NAME_THA": "ทำนบ",
+        "SUB_DISTRICT_NAME_ENG": "Tham Nop",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.602999687194824,
+        "LONG": 100.51799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 600808,
+        "SUB_DISTRICT_NAME_THA": "วังใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.781000137329102,
+        "LONG": 100.41300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 600809,
+        "SUB_DISTRICT_NAME_THA": "พนมเศษ",
+        "SUB_DISTRICT_NAME_ENG": "Phanom Set",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.730999946594238,
+        "LONG": 100.33999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 600810,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6008,
+        "LAT": 15.486000061035156,
+        "LONG": 100.53299713134766
+    }
+]

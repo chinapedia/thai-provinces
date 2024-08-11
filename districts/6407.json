@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640701,
+        "SUB_DISTRICT_NAME_THA": "เมืองสวรรคโลก",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Sawankhalok",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.315000534057617,
+        "LONG": 99.83399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 640702,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.326000213623047,
+        "LONG": 99.87799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 640703,
+        "SUB_DISTRICT_NAME_THA": "คลองกระจง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Krachong",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.23900032043457,
+        "LONG": 99.8280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 640704,
+        "SUB_DISTRICT_NAME_THA": "วังพิณพาทย์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phin Phat",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.334999084472656,
+        "LONG": 99.81500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 640705,
+        "SUB_DISTRICT_NAME_THA": "วังไม้ขอน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mai Khon",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.309999465942383,
+        "LONG": 99.80699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 640706,
+        "SUB_DISTRICT_NAME_THA": "ย่านยาว",
+        "SUB_DISTRICT_NAME_ENG": "Yan Yao",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.273000717163086,
+        "LONG": 99.81600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 640707,
+        "SUB_DISTRICT_NAME_THA": "นาทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Thung",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.31100082397461,
+        "LONG": 99.73999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 640708,
+        "SUB_DISTRICT_NAME_THA": "คลองยาง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Yang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.413999557495117,
+        "LONG": 99.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 640709,
+        "SUB_DISTRICT_NAME_THA": "เมืองบางยม",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Bang Yom",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.214000701904297,
+        "LONG": 99.8759994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 640710,
+        "SUB_DISTRICT_NAME_THA": "ท่าทอง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Thong",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.211999893188477,
+        "LONG": 99.8499984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 640711,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.232999801635742,
+        "LONG": 99.92500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 640712,
+        "SUB_DISTRICT_NAME_THA": "ป่ากุมเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Pa Kum Ko",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.364999771118164,
+        "LONG": 99.79399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 640713,
+        "SUB_DISTRICT_NAME_THA": "เมืองบางขลัง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Bang Khlang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.242000579833984,
+        "LONG": 99.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 640714,
+        "SUB_DISTRICT_NAME_THA": "หนองกลับ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Klap",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6407,
+        "LAT": 17.2450008392334,
+        "LONG": 99.78199768066406
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 101001,
+        "SUB_DISTRICT_NAME_THA": "มีนบุรี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1010,
+        "LAT": 13.803999900817871,
+        "LONG": 100.7229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 101002,
+        "SUB_DISTRICT_NAME_THA": "แสนแสบ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1010,
+        "LAT": 13.812000274658203,
+        "LONG": 100.77400207519531
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 431701,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ตาก",
+        "SUB_DISTRICT_NAME_ENG": "Pho Tak",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4317,
+        "LAT": 17.84600067138672,
+        "LONG": 102.4219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 431702,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4317,
+        "LAT": 17.881000518798828,
+        "LONG": 102.4540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 431703,
+        "SUB_DISTRICT_NAME_THA": "ด่านศรีสุข",
+        "SUB_DISTRICT_NAME_ENG": "Dan Si Suk",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4317,
+        "LAT": 17.924999237060547,
+        "LONG": 102.39800262451172
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 941101,
+        "SUB_DISTRICT_NAME_THA": "กะรุบี",
+        "SUB_DISTRICT_NAME_ENG": "Karubi",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9411,
+        "LAT": 6.570000171661377,
+        "LONG": 101.55599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 941102,
+        "SUB_DISTRICT_NAME_THA": "ตะโละดือรามัน",
+        "SUB_DISTRICT_NAME_ENG": "Talo Due Raman",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9411,
+        "LAT": 6.603000164031982,
+        "LONG": 101.55400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 941103,
+        "SUB_DISTRICT_NAME_THA": "ปล่องหอย",
+        "SUB_DISTRICT_NAME_ENG": "Plong Hoi",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9411,
+        "LAT": 6.638000011444092,
+        "LONG": 101.50900268554688
+    }
+]

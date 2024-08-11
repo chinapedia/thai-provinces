@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 104301,
+        "SUB_DISTRICT_NAME_THA": "คันนายาว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1043,
+        "LAT": 13.821000099182129,
+        "LONG": 100.677001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 9999101,
+        "SUB_DISTRICT_NAME_THA": "รามอินทรา",
+        "SUB_DISTRICT_NAME_ENG": "Ramintra",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1043,
+        "LAT": 0.0,
+        "LONG": 0.0
+    }
+]

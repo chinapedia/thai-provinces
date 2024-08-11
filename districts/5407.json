@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540701,
+        "SUB_DISTRICT_NAME_THA": "วังชิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chin",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5407,
+        "LAT": 17.861000061035156,
+        "LONG": 99.64700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 540702,
+        "SUB_DISTRICT_NAME_THA": "สรอย",
+        "SUB_DISTRICT_NAME_ENG": "Soi",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5407,
+        "LAT": 17.759000778198242,
+        "LONG": 99.42500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 540703,
+        "SUB_DISTRICT_NAME_THA": "แม่ป้าก",
+        "SUB_DISTRICT_NAME_ENG": "Mae Pak",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5407,
+        "LAT": 18.0049991607666,
+        "LONG": 99.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 540704,
+        "SUB_DISTRICT_NAME_THA": "นาพูน",
+        "SUB_DISTRICT_NAME_ENG": "Na Phun",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5407,
+        "LAT": 17.850000381469727,
+        "LONG": 99.79000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 540705,
+        "SUB_DISTRICT_NAME_THA": "แม่พุง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Phung",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5407,
+        "LAT": 17.865999221801758,
+        "LONG": 99.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 540706,
+        "SUB_DISTRICT_NAME_THA": "ป่าสัก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sak",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5407,
+        "LAT": 17.826000213623047,
+        "LONG": 99.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 540707,
+        "SUB_DISTRICT_NAME_THA": "แม่เกิ๋ง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Koeng",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5407,
+        "LAT": 17.94499969482422,
+        "LONG": 99.55599975585938
+    }
+]

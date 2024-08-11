@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.232000350952148,
+        "LONG": 104.85900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 340104,
+        "SUB_DISTRICT_NAME_THA": "หัวเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Ruea",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.366999626159668,
+        "LONG": 104.84500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 340105,
+        "SUB_DISTRICT_NAME_THA": "หนองขอน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khon",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.319999694824219,
+        "LONG": 104.76599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 340107,
+        "SUB_DISTRICT_NAME_THA": "ปทุม",
+        "SUB_DISTRICT_NAME_ENG": "Pathum",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.244000434875488,
+        "LONG": 104.89399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 340108,
+        "SUB_DISTRICT_NAME_THA": "ขามใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Kham Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.302000045776367,
+        "LONG": 104.83599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 340109,
+        "SUB_DISTRICT_NAME_THA": "แจระแม",
+        "SUB_DISTRICT_NAME_ENG": "Chaeramae",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.25100040435791,
+        "LONG": 104.802001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 340111,
+        "SUB_DISTRICT_NAME_THA": "หนองบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bo",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.23900032043457,
+        "LONG": 104.72699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 340112,
+        "SUB_DISTRICT_NAME_THA": "ไร่น้อย",
+        "SUB_DISTRICT_NAME_ENG": "Rai Noi",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.314000129699707,
+        "LONG": 104.90499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 340113,
+        "SUB_DISTRICT_NAME_THA": "กระโสบ",
+        "SUB_DISTRICT_NAME_ENG": "Krasop",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.309000015258789,
+        "LONG": 104.97000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 340116,
+        "SUB_DISTRICT_NAME_THA": "กุดลาด",
+        "SUB_DISTRICT_NAME_ENG": "Kut Lat",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.291000366210938,
+        "LONG": 105.0
+    },
+    {
+        "SUB_DISTRICT_ID": 340119,
+        "SUB_DISTRICT_NAME_THA": "ขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Khi Lek",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.35099983215332,
+        "LONG": 104.81500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 340120,
+        "SUB_DISTRICT_NAME_THA": "ปะอาว",
+        "SUB_DISTRICT_NAME_ENG": "Pa-Ao",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3401,
+        "LAT": 15.364999771118164,
+        "LONG": 104.71600341796875
+    }
+]

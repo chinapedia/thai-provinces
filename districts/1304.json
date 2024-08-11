@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 130401,
+        "SUB_DISTRICT_NAME_THA": "บึงบา",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Ba",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1304,
+        "LAT": 14.112000465393066,
+        "LONG": 100.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 130402,
+        "SUB_DISTRICT_NAME_THA": "บึงบอน",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Bon",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1304,
+        "LAT": 14.086999893188477,
+        "LONG": 100.77799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 130403,
+        "SUB_DISTRICT_NAME_THA": "บึงกาสาม",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Ka Sam",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1304,
+        "LAT": 14.199999809265137,
+        "LONG": 100.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 130404,
+        "SUB_DISTRICT_NAME_THA": "บึงชำอ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Cham O",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1304,
+        "LAT": 14.17199993133545,
+        "LONG": 100.77799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 130405,
+        "SUB_DISTRICT_NAME_THA": "หนองสามวัง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sam Wang",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1304,
+        "LAT": 14.130000114440918,
+        "LONG": 100.88099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 130406,
+        "SUB_DISTRICT_NAME_THA": "ศาลาครุ",
+        "SUB_DISTRICT_NAME_ENG": "Sala Khru",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1304,
+        "LAT": 14.244000434875488,
+        "LONG": 100.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 130407,
+        "SUB_DISTRICT_NAME_THA": "นพรัตน์",
+        "SUB_DISTRICT_NAME_ENG": "Noppharat",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1304,
+        "LAT": 14.222999572753906,
+        "LONG": 100.86599731445312
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 580701,
+        "SUB_DISTRICT_NAME_THA": "สบป่อง",
+        "SUB_DISTRICT_NAME_ENG": "Sop Pong",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5807,
+        "LAT": 19.452999114990234,
+        "LONG": 98.16899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 580702,
+        "SUB_DISTRICT_NAME_THA": "ปางมะผ้า",
+        "SUB_DISTRICT_NAME_ENG": "Pang Mapha",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5807,
+        "LAT": 19.614999771118164,
+        "LONG": 98.2040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 580703,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำลอด",
+        "SUB_DISTRICT_NAME_ENG": "Tham Lot",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5807,
+        "LAT": 19.582000732421875,
+        "LONG": 98.30899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 580704,
+        "SUB_DISTRICT_NAME_THA": "นาปู่ป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Na Pu Pom",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5807,
+        "LAT": 19.659000396728516,
+        "LONG": 98.11399841308594
+    }
+]

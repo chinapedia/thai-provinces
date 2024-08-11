@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 840101,
+        "SUB_DISTRICT_NAME_THA": "ตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Talat",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.13700008392334,
+        "LONG": 99.31999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 840102,
+        "SUB_DISTRICT_NAME_THA": "มะขามเตี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Makham Tia",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.112000465393066,
+        "LONG": 99.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 840103,
+        "SUB_DISTRICT_NAME_THA": "วัดประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Wat Pradu",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 8.979000091552734,
+        "LONG": 99.3280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 840104,
+        "SUB_DISTRICT_NAME_THA": "ขุนทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Khun Thale",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.02299976348877,
+        "LONG": 99.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 840105,
+        "SUB_DISTRICT_NAME_THA": "บางใบไม้",
+        "SUB_DISTRICT_NAME_ENG": "Bang Bai Mai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.152000427246094,
+        "LONG": 99.29499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 840106,
+        "SUB_DISTRICT_NAME_THA": "บางชนะ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chana",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.154999732971191,
+        "LONG": 99.31099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 840107,
+        "SUB_DISTRICT_NAME_THA": "คลองน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Noi",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.135000228881836,
+        "LONG": 99.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 840108,
+        "SUB_DISTRICT_NAME_THA": "บางไทร",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.187999725341797,
+        "LONG": 99.30000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 840109,
+        "SUB_DISTRICT_NAME_THA": "บางโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pho",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.1850004196167,
+        "LONG": 99.27799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 840110,
+        "SUB_DISTRICT_NAME_THA": "บางกุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kung",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.159000396728516,
+        "LONG": 99.36000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 840111,
+        "SUB_DISTRICT_NAME_THA": "คลองฉนาก",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chanak",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8401,
+        "LAT": 9.190999984741211,
+        "LONG": 99.35099792480469
+    }
+]

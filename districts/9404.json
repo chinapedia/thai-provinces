@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940401,
+        "SUB_DISTRICT_NAME_THA": "ปะนาเระ",
+        "SUB_DISTRICT_NAME_ENG": "Panare",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.860000133514404,
+        "LONG": 101.48400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 940402,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.8379998207092285,
+        "LONG": 101.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 940403,
+        "SUB_DISTRICT_NAME_THA": "บ้านนอก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Nok",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.811999797821045,
+        "LONG": 101.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 940404,
+        "SUB_DISTRICT_NAME_THA": "ดอน",
+        "SUB_DISTRICT_NAME_ENG": "Don",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.785999774932861,
+        "LONG": 101.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 940405,
+        "SUB_DISTRICT_NAME_THA": "ควน",
+        "SUB_DISTRICT_NAME_ENG": "Khuan",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.76200008392334,
+        "LONG": 101.49299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 940406,
+        "SUB_DISTRICT_NAME_THA": "ท่าน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nam",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.770999908447266,
+        "LONG": 101.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 940407,
+        "SUB_DISTRICT_NAME_THA": "คอกกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Krabue",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.800000190734863,
+        "LONG": 101.5199966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 940408,
+        "SUB_DISTRICT_NAME_THA": "พ่อมิ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Ming",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.785999774932861,
+        "LONG": 101.55400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 940409,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.839000225067139,
+        "LONG": 101.52100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 940410,
+        "SUB_DISTRICT_NAME_THA": "บ้านน้ำบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Nam Bo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9404,
+        "LAT": 6.816999912261963,
+        "LONG": 101.56300354003906
+    }
+]

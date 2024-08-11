@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360201,
+        "SUB_DISTRICT_NAME_THA": "บ้านเขว้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khwao",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3602,
+        "LAT": 15.753000259399414,
+        "LONG": 101.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 360202,
+        "SUB_DISTRICT_NAME_THA": "ตลาดแร้ง",
+        "SUB_DISTRICT_NAME_ENG": "Talat Raeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3602,
+        "LAT": 15.777999877929688,
+        "LONG": 101.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 360203,
+        "SUB_DISTRICT_NAME_THA": "ลุ่มลำชี",
+        "SUB_DISTRICT_NAME_ENG": "Lum Lam Chi",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3602,
+        "LAT": 15.696999549865723,
+        "LONG": 101.93199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 360204,
+        "SUB_DISTRICT_NAME_THA": "ชีบน",
+        "SUB_DISTRICT_NAME_ENG": "Chi Bon",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3602,
+        "LAT": 15.866000175476074,
+        "LONG": 101.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 360205,
+        "SUB_DISTRICT_NAME_THA": "ภูแลนคา",
+        "SUB_DISTRICT_NAME_ENG": "Phu Laen Kha",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3602,
+        "LAT": 15.87600040435791,
+        "LONG": 101.83999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 360206,
+        "SUB_DISTRICT_NAME_THA": "โนนแดง",
+        "SUB_DISTRICT_NAME_ENG": "Non Daeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3602,
+        "LAT": 15.803999900817871,
+        "LONG": 101.93000030517578
+    }
+]

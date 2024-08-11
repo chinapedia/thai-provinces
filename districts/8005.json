@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 800501,
+        "SUB_DISTRICT_NAME_THA": "พิปูน",
+        "SUB_DISTRICT_NAME_ENG": "Phipun",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8005,
+        "LAT": 8.555000305175781,
+        "LONG": 99.65299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 800502,
+        "SUB_DISTRICT_NAME_THA": "กะทูน",
+        "SUB_DISTRICT_NAME_ENG": "Kathun",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8005,
+        "LAT": 8.637999534606934,
+        "LONG": 99.52999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 800503,
+        "SUB_DISTRICT_NAME_THA": "เขาพระ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phra",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8005,
+        "LAT": 8.633999824523926,
+        "LONG": 99.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 800504,
+        "SUB_DISTRICT_NAME_THA": "ยางค้อม",
+        "SUB_DISTRICT_NAME_ENG": "Yang Khom",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8005,
+        "LAT": 8.520000457763672,
+        "LONG": 99.70099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 800505,
+        "SUB_DISTRICT_NAME_THA": "ควนกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Klang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8005,
+        "LAT": 8.534000396728516,
+        "LONG": 99.5530014038086
+    }
+]

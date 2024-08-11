@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920301,
+        "SUB_DISTRICT_NAME_THA": "ย่านตาขาว",
+        "SUB_DISTRICT_NAME_ENG": "Yan Ta Khao",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.406000137329102,
+        "LONG": 99.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 920302,
+        "SUB_DISTRICT_NAME_THA": "หนองบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bo",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.415999889373779,
+        "LONG": 99.71800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 920303,
+        "SUB_DISTRICT_NAME_THA": "นาชุมเห็ด",
+        "SUB_DISTRICT_NAME_ENG": "Na Chum Het",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.4770002365112305,
+        "LONG": 99.8219985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 920304,
+        "SUB_DISTRICT_NAME_THA": "ในควน",
+        "SUB_DISTRICT_NAME_ENG": "Nai Khuan",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.375999927520752,
+        "LONG": 99.76799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 920305,
+        "SUB_DISTRICT_NAME_THA": "โพรงจรเข้",
+        "SUB_DISTRICT_NAME_ENG": "Phrong Chorakhe",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.4070000648498535,
+        "LONG": 99.83000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 920306,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Krabue",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.4039998054504395,
+        "LONG": 99.6259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 920307,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งค่าย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khai",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.473999977111816,
+        "LONG": 99.64800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 920308,
+        "SUB_DISTRICT_NAME_THA": "เกาะเปียะ",
+        "SUB_DISTRICT_NAME_ENG": "Ko Pia",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9203,
+        "LAT": 7.453000068664551,
+        "LONG": 99.70099639892578
+    }
+]

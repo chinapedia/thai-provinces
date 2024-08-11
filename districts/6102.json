@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 610201,
+        "SUB_DISTRICT_NAME_THA": "ทัพทัน",
+        "SUB_DISTRICT_NAME_ENG": "Thapthan",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.467000007629395,
+        "LONG": 99.88800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 610202,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งนาไทย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Na Thai",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.449999809265137,
+        "LONG": 99.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 610203,
+        "SUB_DISTRICT_NAME_THA": "เขาขี้ฝอย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Khi Foi",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.468999862670898,
+        "LONG": 99.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 610204,
+        "SUB_DISTRICT_NAME_THA": "หนองหญ้าปล้อง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ya Plong",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.494999885559082,
+        "LONG": 99.90899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 610205,
+        "SUB_DISTRICT_NAME_THA": "โคกหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Mo",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.550000190734863,
+        "LONG": 99.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 610206,
+        "SUB_DISTRICT_NAME_THA": "หนองยายดา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai Da",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.519000053405762,
+        "LONG": 99.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 610207,
+        "SUB_DISTRICT_NAME_THA": "หนองกลางดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Klang Dong",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.46500015258789,
+        "LONG": 99.84400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 610208,
+        "SUB_DISTRICT_NAME_THA": "หนองกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krathum",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.508000373840332,
+        "LONG": 99.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 610209,
+        "SUB_DISTRICT_NAME_THA": "หนองสระ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sa",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.444999694824219,
+        "LONG": 99.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 610210,
+        "SUB_DISTRICT_NAME_THA": "ตลุกดู่",
+        "SUB_DISTRICT_NAME_ENG": "Taluk Duk",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6102,
+        "LAT": 15.45199966430664,
+        "LONG": 99.73999786376953
+    }
+]

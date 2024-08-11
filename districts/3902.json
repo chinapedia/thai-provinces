@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 390201,
+        "SUB_DISTRICT_NAME_THA": "นากลาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Klang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.312000274658203,
+        "LONG": 102.21399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 390202,
+        "SUB_DISTRICT_NAME_THA": "ด่านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Dan Chang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.315000534057617,
+        "LONG": 102.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 390205,
+        "SUB_DISTRICT_NAME_THA": "กุดดินจี่",
+        "SUB_DISTRICT_NAME_ENG": "Kut Din Chi",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.349000930786133,
+        "LONG": 102.27300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 390206,
+        "SUB_DISTRICT_NAME_THA": "ฝั่งแดง",
+        "SUB_DISTRICT_NAME_ENG": "Fang Daeng",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.22100067138672,
+        "LONG": 102.2229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 390207,
+        "SUB_DISTRICT_NAME_THA": "เก่ากลอย",
+        "SUB_DISTRICT_NAME_ENG": "Kao Kloi",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.39699935913086,
+        "LONG": 102.33899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 390209,
+        "SUB_DISTRICT_NAME_THA": "โนนเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Non Mueang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.180999755859375,
+        "LONG": 102.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 390210,
+        "SUB_DISTRICT_NAME_THA": "อุทัยสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Uthai Sawan",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.235000610351562,
+        "LONG": 102.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 390211,
+        "SUB_DISTRICT_NAME_THA": "ดงสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Dong Sawan",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.44300079345703,
+        "LONG": 102.19300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 390213,
+        "SUB_DISTRICT_NAME_THA": "กุดแห่",
+        "SUB_DISTRICT_NAME_ENG": "Kut Hae",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3902,
+        "LAT": 17.391000747680664,
+        "LONG": 102.14900207519531
+    }
+]

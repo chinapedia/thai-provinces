@@ -1,0 +1,164 @@
+[
+    {
+        "SUB_DISTRICT_ID": 740101,
+        "SUB_DISTRICT_NAME_THA": "มหาชัย",
+        "SUB_DISTRICT_NAME_ENG": "Mahachai",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.552000045776367,
+        "LONG": 100.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 740102,
+        "SUB_DISTRICT_NAME_THA": "ท่าฉลอม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chalom",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.538000106811523,
+        "LONG": 100.26899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 740103,
+        "SUB_DISTRICT_NAME_THA": "โกรกกราก",
+        "SUB_DISTRICT_NAME_ENG": "Krok Krak",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.532999992370605,
+        "LONG": 100.2760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 740104,
+        "SUB_DISTRICT_NAME_THA": "บ้านบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bo",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.487000465393066,
+        "LONG": 100.19200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 740105,
+        "SUB_DISTRICT_NAME_THA": "บางโทรัด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Thorat",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.491999626159668,
+        "LONG": 100.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 740106,
+        "SUB_DISTRICT_NAME_THA": "กาหลง",
+        "SUB_DISTRICT_NAME_ENG": "Kalong",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.482999801635742,
+        "LONG": 100.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 740107,
+        "SUB_DISTRICT_NAME_THA": "นาโคก",
+        "SUB_DISTRICT_NAME_ENG": "Na Khok",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.46399974822998,
+        "LONG": 100.09600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 740108,
+        "SUB_DISTRICT_NAME_THA": "ท่าจีน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chin",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.538999557495117,
+        "LONG": 100.25199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 740109,
+        "SUB_DISTRICT_NAME_THA": "นาดี",
+        "SUB_DISTRICT_NAME_ENG": "Na Di",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.595000267028809,
+        "LONG": 100.29499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 740110,
+        "SUB_DISTRICT_NAME_THA": "ท่าทราย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sai",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.571000099182129,
+        "LONG": 100.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 740111,
+        "SUB_DISTRICT_NAME_THA": "คอกกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Krabue",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.598999977111816,
+        "LONG": 100.33300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 740112,
+        "SUB_DISTRICT_NAME_THA": "บางน้ำจืด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nam Chuet",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.61400032043457,
+        "LONG": 100.36299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 740113,
+        "SUB_DISTRICT_NAME_THA": "พันท้ายนรสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Phanthai Norasing",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.538999557495117,
+        "LONG": 100.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 740114,
+        "SUB_DISTRICT_NAME_THA": "โคกขาม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kham",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.531000137329102,
+        "LONG": 100.32599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 740115,
+        "SUB_DISTRICT_NAME_THA": "บ้านเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ko",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.590999603271484,
+        "LONG": 100.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 740116,
+        "SUB_DISTRICT_NAME_THA": "บางกระเจ้า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krachao",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.51200008392334,
+        "LONG": 100.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 740117,
+        "SUB_DISTRICT_NAME_THA": "บางหญ้าแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ya Phraek",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.50100040435791,
+        "LONG": 100.25
+    },
+    {
+        "SUB_DISTRICT_ID": 740118,
+        "SUB_DISTRICT_NAME_THA": "ชัยมงคล",
+        "SUB_DISTRICT_NAME_ENG": "Chai Mongkhon",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7401,
+        "LAT": 13.539999961853027,
+        "LONG": 100.18499755859375
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160101,
+        "SUB_DISTRICT_NAME_THA": "ทะเลชุบศร",
+        "SUB_DISTRICT_NAME_ENG": "Thale Chup Son",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.803999900817871,
+        "LONG": 100.63400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 160102,
+        "SUB_DISTRICT_NAME_THA": "ท่าหิน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Hin",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.802000045776367,
+        "LONG": 100.61100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 160103,
+        "SUB_DISTRICT_NAME_THA": "กกโก",
+        "SUB_DISTRICT_NAME_ENG": "Kok Ko",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.767000198364258,
+        "LONG": 100.68399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 160104,
+        "SUB_DISTRICT_NAME_THA": "โก่งธนู",
+        "SUB_DISTRICT_NAME_ENG": "Kong Thanu",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.673999786376953,
+        "LONG": 100.59700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 160105,
+        "SUB_DISTRICT_NAME_THA": "เขาพระงาม",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phra Ngam",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.901000022888184,
+        "LONG": 100.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 160106,
+        "SUB_DISTRICT_NAME_THA": "เขาสามยอด",
+        "SUB_DISTRICT_NAME_ENG": "Khao Sam Yot",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.829999923706055,
+        "LONG": 100.6709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 160107,
+        "SUB_DISTRICT_NAME_THA": "โคกกระเทียม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kathiam",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.890000343322754,
+        "LONG": 100.58000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 160108,
+        "SUB_DISTRICT_NAME_THA": "โคกลำพาน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Lamphan",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.739999771118164,
+        "LONG": 100.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 160109,
+        "SUB_DISTRICT_NAME_THA": "โคกตูม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Tum",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.866000175476074,
+        "LONG": 100.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 160110,
+        "SUB_DISTRICT_NAME_THA": "งิ้วราย",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Rai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.704000473022461,
+        "LONG": 100.59200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 160111,
+        "SUB_DISTRICT_NAME_THA": "ดอนโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Don Pho",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.690999984741211,
+        "LONG": 100.62699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 160112,
+        "SUB_DISTRICT_NAME_THA": "ตะลุง",
+        "SUB_DISTRICT_NAME_ENG": "Talung",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.737000465393066,
+        "LONG": 100.60099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 160114,
+        "SUB_DISTRICT_NAME_THA": "ท่าแค",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khae",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.864999771118164,
+        "LONG": 100.61900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 160115,
+        "SUB_DISTRICT_NAME_THA": "ท่าศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sala",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.791999816894531,
+        "LONG": 100.6709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 160116,
+        "SUB_DISTRICT_NAME_THA": "นิคมสร้างตนเอง",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Sang Ton-Eng",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.824000358581543,
+        "LONG": 100.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 160117,
+        "SUB_DISTRICT_NAME_THA": "บางขันหมาก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khan Mak",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.819999694824219,
+        "LONG": 100.58300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 160118,
+        "SUB_DISTRICT_NAME_THA": "บ้านข่อย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khoi",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.682999610900879,
+        "LONG": 100.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 160119,
+        "SUB_DISTRICT_NAME_THA": "ท้ายตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Thai Talat",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.725000381469727,
+        "LONG": 100.56300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 160120,
+        "SUB_DISTRICT_NAME_THA": "ป่าตาล",
+        "SUB_DISTRICT_NAME_ENG": "Pa Tan",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.777999877929688,
+        "LONG": 100.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 160121,
+        "SUB_DISTRICT_NAME_THA": "พรหมมาสตร์",
+        "SUB_DISTRICT_NAME_ENG": "Phrommat",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.819999694824219,
+        "LONG": 100.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 160122,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์เก้าต้น",
+        "SUB_DISTRICT_NAME_ENG": "Pho Kao Ton",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.774999618530273,
+        "LONG": 100.5989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 160123,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ตรุ",
+        "SUB_DISTRICT_NAME_ENG": "Pho Tru",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.725000381469727,
+        "LONG": 100.53199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 160124,
+        "SUB_DISTRICT_NAME_THA": "สี่คลอง",
+        "SUB_DISTRICT_NAME_ENG": "Si Khlong",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.680999755859375,
+        "LONG": 100.56300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 160125,
+        "SUB_DISTRICT_NAME_THA": "ถนนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Thanon Yai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1601,
+        "LAT": 14.831000328063965,
+        "LONG": 100.62899780273438
+    }
+]

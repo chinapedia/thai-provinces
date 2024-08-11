@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 901601,
+        "SUB_DISTRICT_NAME_THA": "คลองหอยโข่ง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Hoi Khong",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9016,
+        "LAT": 6.829999923706055,
+        "LONG": 100.31300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 901602,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งลาน",
+        "SUB_DISTRICT_NAME_ENG": "Thung Lan",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9016,
+        "LAT": 6.886000156402588,
+        "LONG": 100.44200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 901603,
+        "SUB_DISTRICT_NAME_THA": "โคกม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Muang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9016,
+        "LAT": 6.875,
+        "LONG": 100.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 901604,
+        "SUB_DISTRICT_NAME_THA": "คลองหลา",
+        "SUB_DISTRICT_NAME_ENG": "Khlong La",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9016,
+        "LAT": 6.881999969482422,
+        "LONG": 100.30999755859375
+    }
+]

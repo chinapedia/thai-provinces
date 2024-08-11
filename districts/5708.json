@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570801,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5708,
+        "LAT": 20.30500030517578,
+        "LONG": 100.08100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 570802,
+        "SUB_DISTRICT_NAME_THA": "ป่าสัก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sak",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5708,
+        "LAT": 20.280000686645508,
+        "LONG": 100.00299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 570803,
+        "SUB_DISTRICT_NAME_THA": "บ้านแซว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Saeo",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5708,
+        "LAT": 20.211999893188477,
+        "LONG": 100.26499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 570804,
+        "SUB_DISTRICT_NAME_THA": "ศรีดอนมูล",
+        "SUB_DISTRICT_NAME_ENG": "Si Don Mun",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5708,
+        "LAT": 20.336000442504883,
+        "LONG": 100.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 570805,
+        "SUB_DISTRICT_NAME_THA": "แม่เงิน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ngoen",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5708,
+        "LAT": 20.29800033569336,
+        "LONG": 100.26200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 570806,
+        "SUB_DISTRICT_NAME_THA": "โยนก",
+        "SUB_DISTRICT_NAME_ENG": "Yonok",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5708,
+        "LAT": 20.238000869750977,
+        "LONG": 100.06199645996094
+    }
+]

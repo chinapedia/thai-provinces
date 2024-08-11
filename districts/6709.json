@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670901,
+        "SUB_DISTRICT_NAME_THA": "น้ำหนาว",
+        "SUB_DISTRICT_NAME_ENG": "Nam Nao",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6709,
+        "LAT": 16.763999938964844,
+        "LONG": 101.68099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 670902,
+        "SUB_DISTRICT_NAME_THA": "หลักด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Lak Dan",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6709,
+        "LAT": 16.937000274658203,
+        "LONG": 101.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 670903,
+        "SUB_DISTRICT_NAME_THA": "วังกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Kwang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6709,
+        "LAT": 16.93600082397461,
+        "LONG": 101.59500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 670904,
+        "SUB_DISTRICT_NAME_THA": "โคกมน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Mon",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6709,
+        "LAT": 16.708999633789062,
+        "LONG": 101.70999908447266
+    }
+]

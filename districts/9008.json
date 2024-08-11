@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900801,
+        "SUB_DISTRICT_NAME_THA": "เกาะใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Koyai",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9008,
+        "LAT": 7.539999961853027,
+        "LONG": 100.322998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 900802,
+        "SUB_DISTRICT_NAME_THA": "โรง",
+        "SUB_DISTRICT_NAME_ENG": "Rong",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9008,
+        "LAT": 7.677000045776367,
+        "LONG": 100.27100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 900803,
+        "SUB_DISTRICT_NAME_THA": "เชิงแส",
+        "SUB_DISTRICT_NAME_ENG": "Choeng Sae",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9008,
+        "LAT": 7.633999824523926,
+        "LONG": 100.33200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 900804,
+        "SUB_DISTRICT_NAME_THA": "กระแสสินธุ์",
+        "SUB_DISTRICT_NAME_ENG": "Krasae Sin",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9008,
+        "LAT": 7.565999984741211,
+        "LONG": 100.33699798583984
+    }
+]

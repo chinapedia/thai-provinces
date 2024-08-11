@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 441101,
+        "SUB_DISTRICT_NAME_THA": "ยางสีสุราช",
+        "SUB_DISTRICT_NAME_ENG": "Yang Sisurat",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4411,
+        "LAT": 15.677000045776367,
+        "LONG": 103.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 441102,
+        "SUB_DISTRICT_NAME_THA": "นาภู",
+        "SUB_DISTRICT_NAME_ENG": "Na Phu",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4411,
+        "LAT": 15.682000160217285,
+        "LONG": 103.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 441103,
+        "SUB_DISTRICT_NAME_THA": "แวงดง",
+        "SUB_DISTRICT_NAME_ENG": "Waeng Dong",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4411,
+        "LAT": 15.637999534606934,
+        "LONG": 103.03500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 441104,
+        "SUB_DISTRICT_NAME_THA": "บ้านกู่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ku",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4411,
+        "LAT": 15.685999870300293,
+        "LONG": 103.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 441105,
+        "SUB_DISTRICT_NAME_THA": "ดงเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mueang",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4411,
+        "LAT": 15.64900016784668,
+        "LONG": 103.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 441106,
+        "SUB_DISTRICT_NAME_THA": "ขามเรียน",
+        "SUB_DISTRICT_NAME_ENG": "Kham Rian",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4411,
+        "LAT": 15.626999855041504,
+        "LONG": 103.11299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 441107,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวสันตุ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Santu",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4411,
+        "LAT": 15.63700008392334,
+        "LONG": 103.177001953125
+    }
+]

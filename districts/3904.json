@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 390401,
+        "SUB_DISTRICT_NAME_THA": "เมืองใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Mai",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 16.992000579833984,
+        "LONG": 102.29100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 390402,
+        "SUB_DISTRICT_NAME_THA": "ศรีบุญเรือง",
+        "SUB_DISTRICT_NAME_ENG": "Si Bunrueang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 16.922000885009766,
+        "LONG": 102.302001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 390403,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวใต้",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Tai",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 16.920000076293945,
+        "LONG": 102.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 390404,
+        "SUB_DISTRICT_NAME_THA": "กุดสะเทียน",
+        "SUB_DISTRICT_NAME_ENG": "Kut Sathian",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 17.055999755859375,
+        "LONG": 102.23799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 390405,
+        "SUB_DISTRICT_NAME_THA": "นากอก",
+        "SUB_DISTRICT_NAME_ENG": "Na Kok",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 16.90399932861328,
+        "LONG": 102.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 390406,
+        "SUB_DISTRICT_NAME_THA": "โนนสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Non Sa-At",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 16.976999282836914,
+        "LONG": 102.1760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 390407,
+        "SUB_DISTRICT_NAME_THA": "ยางหล่อ",
+        "SUB_DISTRICT_NAME_ENG": "Yang Lo",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 17.062000274658203,
+        "LONG": 102.15899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 390408,
+        "SUB_DISTRICT_NAME_THA": "โนนม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Non Muang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 17.128000259399414,
+        "LONG": 102.18099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 390409,
+        "SUB_DISTRICT_NAME_THA": "หนองกุงแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung Kaeo",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 17.14900016784668,
+        "LONG": 102.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 390410,
+        "SUB_DISTRICT_NAME_THA": "หนองแก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kae",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 17.08300018310547,
+        "LONG": 102.29399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 390411,
+        "SUB_DISTRICT_NAME_THA": "ทรายทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Thong",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 16.856000900268555,
+        "LONG": 102.3489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 390412,
+        "SUB_DISTRICT_NAME_THA": "หันนางาม",
+        "SUB_DISTRICT_NAME_ENG": "Han Na Ngam",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3904,
+        "LAT": 16.985000610351562,
+        "LONG": 102.24600219726562
+    }
+]

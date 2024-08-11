@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 802301,
+        "SUB_DISTRICT_NAME_THA": "เชียรเขา",
+        "SUB_DISTRICT_NAME_ENG": "Chian Khao",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8023,
+        "LAT": 8.184000015258789,
+        "LONG": 100.0780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 802302,
+        "SUB_DISTRICT_NAME_THA": "ดอนตรอ",
+        "SUB_DISTRICT_NAME_ENG": "Don Tro",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8023,
+        "LAT": 8.213000297546387,
+        "LONG": 100.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 802303,
+        "SUB_DISTRICT_NAME_THA": "สวนหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Suan Luang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8023,
+        "LAT": 8.138999938964844,
+        "LONG": 100.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 802304,
+        "SUB_DISTRICT_NAME_THA": "ทางพูน",
+        "SUB_DISTRICT_NAME_ENG": "Thang Phun",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8023,
+        "LAT": 8.23900032043457,
+        "LONG": 99.98100280761719
+    }
+]

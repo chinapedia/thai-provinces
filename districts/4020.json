@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 402001,
+        "SUB_DISTRICT_NAME_THA": "โนนคอม",
+        "SUB_DISTRICT_NAME_ENG": "Non Khom",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4020,
+        "LAT": 16.648000717163086,
+        "LONG": 101.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 402002,
+        "SUB_DISTRICT_NAME_THA": "นาฝาย",
+        "SUB_DISTRICT_NAME_ENG": "Na Fai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4020,
+        "LAT": 16.68000030517578,
+        "LONG": 101.87100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 402003,
+        "SUB_DISTRICT_NAME_THA": "ภูผาม่าน",
+        "SUB_DISTRICT_NAME_ENG": "Phu Pha Man",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4020,
+        "LAT": 16.677000045776367,
+        "LONG": 101.91000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 402004,
+        "SUB_DISTRICT_NAME_THA": "วังสวาบ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sawap",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4020,
+        "LAT": 16.714000701904297,
+        "LONG": 101.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 402005,
+        "SUB_DISTRICT_NAME_THA": "ห้วยม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Muang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4020,
+        "LAT": 16.764999389648438,
+        "LONG": 101.90899658203125
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 250101,
+        "SUB_DISTRICT_NAME_THA": "หน้าเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Na Mueang",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.057000160217285,
+        "LONG": 101.3740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 250102,
+        "SUB_DISTRICT_NAME_THA": "รอบเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Rop Mueang",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.065999984741211,
+        "LONG": 101.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 250103,
+        "SUB_DISTRICT_NAME_THA": "วัดโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Bot",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.034000396728516,
+        "LONG": 101.30999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 250104,
+        "SUB_DISTRICT_NAME_THA": "บางเดชะ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Decha",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 13.991000175476074,
+        "LONG": 101.33000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 250105,
+        "SUB_DISTRICT_NAME_THA": "ท่างาม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ngam",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.017000198364258,
+        "LONG": 101.41300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 250106,
+        "SUB_DISTRICT_NAME_THA": "บางบริบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Bang Boribun",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.038999557495117,
+        "LONG": 101.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 250107,
+        "SUB_DISTRICT_NAME_THA": "ดงพระราม",
+        "SUB_DISTRICT_NAME_ENG": "Dong Phraram",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.071999549865723,
+        "LONG": 101.39399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 250108,
+        "SUB_DISTRICT_NAME_THA": "บ้านพระ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phra",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.116000175476074,
+        "LONG": 101.36100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 250109,
+        "SUB_DISTRICT_NAME_THA": "โคกไม้ลาย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Mai Lai",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.140000343322754,
+        "LONG": 101.2979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 250111,
+        "SUB_DISTRICT_NAME_THA": "ดงขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Dong Khi Lek",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.131999969482422,
+        "LONG": 101.43900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 250112,
+        "SUB_DISTRICT_NAME_THA": "เนินหอม",
+        "SUB_DISTRICT_NAME_ENG": "Noen Hom",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.180999755859375,
+        "LONG": 101.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 250113,
+        "SUB_DISTRICT_NAME_THA": "โนนห้อม",
+        "SUB_DISTRICT_NAME_ENG": "Non Hom",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2501,
+        "LAT": 14.093999862670898,
+        "LONG": 101.46299743652344
+    }
+]

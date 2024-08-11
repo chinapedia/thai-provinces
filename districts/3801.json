@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 380101,
+        "SUB_DISTRICT_NAME_THA": "บึงกาฬ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.33099937438965,
+        "LONG": 103.67900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 380102,
+        "SUB_DISTRICT_NAME_THA": "โนนสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.284000396728516,
+        "LONG": 103.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 380103,
+        "SUB_DISTRICT_NAME_THA": "หนองเข็ง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.356000900268555,
+        "LONG": 103.46800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 380104,
+        "SUB_DISTRICT_NAME_THA": "หอคำ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.4060001373291,
+        "LONG": 103.37999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 380105,
+        "SUB_DISTRICT_NAME_THA": "หนองเลิง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.327999114990234,
+        "LONG": 103.39299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 380106,
+        "SUB_DISTRICT_NAME_THA": "โคกก่อง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.29800033569336,
+        "LONG": 103.77200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 380107,
+        "SUB_DISTRICT_NAME_THA": "นาสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.264999389648438,
+        "LONG": 103.58100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 380108,
+        "SUB_DISTRICT_NAME_THA": "ไคสี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.402999877929688,
+        "LONG": 103.50800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 380109,
+        "SUB_DISTRICT_NAME_THA": "ชัยพร",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.239999771118164,
+        "LONG": 103.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 380110,
+        "SUB_DISTRICT_NAME_THA": "วิศิษฐ์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.358999252319336,
+        "LONG": 103.59200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 380111,
+        "SUB_DISTRICT_NAME_THA": "คำนาดี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.2189998626709,
+        "LONG": 103.59300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 380112,
+        "SUB_DISTRICT_NAME_THA": "โป่งเปือย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3801,
+        "LAT": 18.332000732421875,
+        "LONG": 103.53099822998047
+    }
+]

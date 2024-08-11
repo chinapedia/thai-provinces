@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 810301,
+        "SUB_DISTRICT_NAME_THA": "เกาะลันตาใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Ko Lanta Yai",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8103,
+        "LAT": 7.533999919891357,
+        "LONG": 99.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 810302,
+        "SUB_DISTRICT_NAME_THA": "เกาะลันตาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Ko Lanta Noi",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8103,
+        "LAT": 7.639999866485596,
+        "LONG": 99.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 810303,
+        "SUB_DISTRICT_NAME_THA": "เกาะกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ko Klang",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8103,
+        "LAT": 7.750999927520752,
+        "LONG": 99.06300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 810304,
+        "SUB_DISTRICT_NAME_THA": "คลองยาง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Yang",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8103,
+        "LAT": 7.8480000495910645,
+        "LONG": 99.06900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 810305,
+        "SUB_DISTRICT_NAME_THA": "ศาลาด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Sala Dan",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8103,
+        "LAT": 7.603000164031982,
+        "LONG": 99.05000305175781
+    }
+]

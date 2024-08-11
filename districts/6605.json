@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660502,
+        "SUB_DISTRICT_NAME_THA": "บางไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 16.12299919128418,
+        "LONG": 100.40299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 660503,
+        "SUB_DISTRICT_NAME_THA": "หอไกร",
+        "SUB_DISTRICT_NAME_ENG": "Ho Krai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 16.06800079345703,
+        "LONG": 100.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 660504,
+        "SUB_DISTRICT_NAME_THA": "เนินมะกอก",
+        "SUB_DISTRICT_NAME_ENG": "Noen Makok",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 15.991000175476074,
+        "LONG": 100.36199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 660505,
+        "SUB_DISTRICT_NAME_THA": "วังสำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Samrong",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 15.968000411987305,
+        "LONG": 100.43299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 660506,
+        "SUB_DISTRICT_NAME_THA": "ภูมิ",
+        "SUB_DISTRICT_NAME_ENG": "Phum",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 16.03700065612793,
+        "LONG": 100.44499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 660507,
+        "SUB_DISTRICT_NAME_THA": "วังกรด",
+        "SUB_DISTRICT_NAME_ENG": "Wang Krot",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 15.996999740600586,
+        "LONG": 100.46499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 660508,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเขน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khen",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 16.033000946044922,
+        "LONG": 100.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 660509,
+        "SUB_DISTRICT_NAME_THA": "วังตะกู",
+        "SUB_DISTRICT_NAME_ENG": "Wang Taku",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 16.048999786376953,
+        "LONG": 100.51399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 660514,
+        "SUB_DISTRICT_NAME_THA": "ลำประดา",
+        "SUB_DISTRICT_NAME_ENG": "Lam Prada",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6605,
+        "LAT": 16.082000732421875,
+        "LONG": 100.46399688720703
+    }
+]

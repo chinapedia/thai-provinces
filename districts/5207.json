@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520701,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งฮั้ว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Hua",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 19.229000091552734,
+        "LONG": 99.63099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 520702,
+        "SUB_DISTRICT_NAME_THA": "วังเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nuea",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 19.15999984741211,
+        "LONG": 99.58499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 520703,
+        "SUB_DISTRICT_NAME_THA": "วังใต้",
+        "SUB_DISTRICT_NAME_ENG": "Wang Tai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 19.083999633789062,
+        "LONG": 99.5770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 520704,
+        "SUB_DISTRICT_NAME_THA": "ร่องเคาะ",
+        "SUB_DISTRICT_NAME_ENG": "Rong Kho",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 18.992000579833984,
+        "LONG": 99.60099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 520705,
+        "SUB_DISTRICT_NAME_THA": "วังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 19.06999969482422,
+        "LONG": 99.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 520706,
+        "SUB_DISTRICT_NAME_THA": "วังซ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 19.156999588012695,
+        "LONG": 99.6449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 520707,
+        "SUB_DISTRICT_NAME_THA": "วังแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Kaeo",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 19.32900047302246,
+        "LONG": 99.63600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 520708,
+        "SUB_DISTRICT_NAME_THA": "วังทรายคำ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sai Thong",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5207,
+        "LAT": 19.079999923706055,
+        "LONG": 99.64900207519531
+    }
+]

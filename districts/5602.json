@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560201,
+        "SUB_DISTRICT_NAME_THA": "ห้วยข้าวก่ำ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khao Kam",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5602,
+        "LAT": 19.351999282836914,
+        "LONG": 100.12000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 560202,
+        "SUB_DISTRICT_NAME_THA": "จุน",
+        "SUB_DISTRICT_NAME_ENG": "Chun",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5602,
+        "LAT": 19.281999588012695,
+        "LONG": 100.1520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 560203,
+        "SUB_DISTRICT_NAME_THA": "ลอ",
+        "SUB_DISTRICT_NAME_ENG": "Lo",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5602,
+        "LAT": 19.413999557495117,
+        "LONG": 100.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 560204,
+        "SUB_DISTRICT_NAME_THA": "หงส์หิน",
+        "SUB_DISTRICT_NAME_ENG": "Hong Hin",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5602,
+        "LAT": 19.506999969482422,
+        "LONG": 100.10299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 560205,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งรวงทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Ruang Thong",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5602,
+        "LAT": 19.43600082397461,
+        "LONG": 100.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 560206,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยางขาม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang Kham",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5602,
+        "LAT": 19.378000259399414,
+        "LONG": 100.16300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 560207,
+        "SUB_DISTRICT_NAME_THA": "พระธาตุขิงแกง",
+        "SUB_DISTRICT_NAME_ENG": "Phrathat Khing Kaeng",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5602,
+        "LAT": 19.273000717163086,
+        "LONG": 100.18599700927734
+    }
+]

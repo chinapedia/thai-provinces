@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710301,
+        "SUB_DISTRICT_NAME_THA": "บ่อพลอย",
+        "SUB_DISTRICT_NAME_ENG": "Bo Phloi",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7103,
+        "LAT": 14.305000305175781,
+        "LONG": 99.46600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 710302,
+        "SUB_DISTRICT_NAME_THA": "หนองกุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kum",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7103,
+        "LAT": 14.204999923706055,
+        "LONG": 99.46199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 710303,
+        "SUB_DISTRICT_NAME_THA": "หนองรี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ri",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7103,
+        "LAT": 14.539999961853027,
+        "LONG": 99.35600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 710305,
+        "SUB_DISTRICT_NAME_THA": "หลุมรัง",
+        "SUB_DISTRICT_NAME_ENG": "Lum Rang",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7103,
+        "LAT": 14.484999656677246,
+        "LONG": 99.48100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 710308,
+        "SUB_DISTRICT_NAME_THA": "ช่องด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Chong Dan",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7103,
+        "LAT": 14.411999702453613,
+        "LONG": 99.43699645996094
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 240201,
+        "SUB_DISTRICT_NAME_THA": "บางคล้า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khla",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.722000122070312,
+        "LONG": 101.20999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 240204,
+        "SUB_DISTRICT_NAME_THA": "บางสวน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Suan",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.696000099182129,
+        "LONG": 101.177001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 240208,
+        "SUB_DISTRICT_NAME_THA": "บางกระเจ็ด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krachet",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.85200023651123,
+        "LONG": 101.20800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 240209,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.753000259399414,
+        "LONG": 101.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 240210,
+        "SUB_DISTRICT_NAME_THA": "ท่าทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Thong Lang",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.694000244140625,
+        "LONG": 101.22899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 240211,
+        "SUB_DISTRICT_NAME_THA": "สาวชะโงก",
+        "SUB_DISTRICT_NAME_ENG": "Sao Cha-Ngo",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.682999610900879,
+        "LONG": 101.1520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 240212,
+        "SUB_DISTRICT_NAME_THA": "เสม็ดเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Samet Nuea",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.67300033569336,
+        "LONG": 101.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 240213,
+        "SUB_DISTRICT_NAME_THA": "เสม็ดใต้",
+        "SUB_DISTRICT_NAME_ENG": "Samet Tai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.652999877929688,
+        "LONG": 101.16200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 240214,
+        "SUB_DISTRICT_NAME_THA": "หัวไทร",
+        "SUB_DISTRICT_NAME_ENG": "Hua Sai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2402,
+        "LAT": 13.798999786376953,
+        "LONG": 101.22100067138672
+    }
+]

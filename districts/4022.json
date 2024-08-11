@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 402201,
+        "SUB_DISTRICT_NAME_THA": "บ้านโคก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khok",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4022,
+        "LAT": 16.11199951171875,
+        "LONG": 102.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 402202,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ไชย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4022,
+        "LAT": 16.027000427246094,
+        "LONG": 102.39900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 402203,
+        "SUB_DISTRICT_NAME_THA": "ซับสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Sap Sombun",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4022,
+        "LAT": 16.073999404907227,
+        "LONG": 102.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 402204,
+        "SUB_DISTRICT_NAME_THA": "นาแพง",
+        "SUB_DISTRICT_NAME_ENG": "Na Phaeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4022,
+        "LAT": 16.077999114990234,
+        "LONG": 102.47200012207031
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160501,
+        "SUB_DISTRICT_NAME_THA": "ท่าวุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wung",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.819999694824219,
+        "LONG": 100.49600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 160502,
+        "SUB_DISTRICT_NAME_THA": "บางคู้",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khu",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.803999900817871,
+        "LONG": 100.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 160503,
+        "SUB_DISTRICT_NAME_THA": "โพตลาดแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Pho Talat Kaeo",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.795000076293945,
+        "LONG": 100.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 160504,
+        "SUB_DISTRICT_NAME_THA": "บางลี่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Li",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.848999977111816,
+        "LONG": 100.5260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 160505,
+        "SUB_DISTRICT_NAME_THA": "บางงา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nga",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.850000381469727,
+        "LONG": 100.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 160506,
+        "SUB_DISTRICT_NAME_THA": "โคกสลุด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Salut",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.880999565124512,
+        "LONG": 100.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 160507,
+        "SUB_DISTRICT_NAME_THA": "เขาสมอคอน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Samo Khon",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.906000137329102,
+        "LONG": 100.4469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 160508,
+        "SUB_DISTRICT_NAME_THA": "หัวสำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Samrong",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.776000022888184,
+        "LONG": 100.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 160509,
+        "SUB_DISTRICT_NAME_THA": "ลาดสาลี",
+        "SUB_DISTRICT_NAME_ENG": "Lat Sali",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.722999572753906,
+        "LONG": 100.48699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 160511,
+        "SUB_DISTRICT_NAME_THA": "มุจลินท์",
+        "SUB_DISTRICT_NAME_ENG": "Mutchalin",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1605,
+        "LAT": 14.87600040435791,
+        "LONG": 100.50900268554688
+    }
+]

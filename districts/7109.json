@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710901,
+        "SUB_DISTRICT_NAME_THA": "พนมทวน",
+        "SUB_DISTRICT_NAME_ENG": "Phanom Thuan",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.128999710083008,
+        "LONG": 99.70500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 710902,
+        "SUB_DISTRICT_NAME_THA": "หนองโรง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Rong",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.161999702453613,
+        "LONG": 99.62200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 710903,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสมอ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Samo",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.076000213623047,
+        "LONG": 99.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 710904,
+        "SUB_DISTRICT_NAME_THA": "ดอนเจดีย์",
+        "SUB_DISTRICT_NAME_ENG": "Don Chedi",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.03600025177002,
+        "LONG": 99.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 710905,
+        "SUB_DISTRICT_NAME_THA": "พังตรุ",
+        "SUB_DISTRICT_NAME_ENG": "Phang Tru",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.133999824523926,
+        "LONG": 99.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 710906,
+        "SUB_DISTRICT_NAME_THA": "รางหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Rang Wai",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.232000350952148,
+        "LONG": 99.76699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 710911,
+        "SUB_DISTRICT_NAME_THA": "หนองสาหร่าย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sarai",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.067000389099121,
+        "LONG": 99.72799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 710912,
+        "SUB_DISTRICT_NAME_THA": "ดอนตาเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Don Ta Phet",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7109,
+        "LAT": 14.192000389099121,
+        "LONG": 99.6780014038086
+    }
+]

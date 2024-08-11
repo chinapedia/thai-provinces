@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 370701,
+        "SUB_DISTRICT_NAME_THA": "อำนาจ",
+        "SUB_DISTRICT_NAME_ENG": "Amnat",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3707,
+        "LAT": 15.710000038146973,
+        "LONG": 104.66799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 370702,
+        "SUB_DISTRICT_NAME_THA": "ดงมะยาง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mayang",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3707,
+        "LAT": 15.715999603271484,
+        "LONG": 104.61699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 370703,
+        "SUB_DISTRICT_NAME_THA": "เปือย",
+        "SUB_DISTRICT_NAME_ENG": "Pueai",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3707,
+        "LAT": 15.687000274658203,
+        "LONG": 104.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 370704,
+        "SUB_DISTRICT_NAME_THA": "ดงบัง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Bang",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3707,
+        "LAT": 15.715999603271484,
+        "LONG": 104.76499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 370705,
+        "SUB_DISTRICT_NAME_THA": "ไร่ขี",
+        "SUB_DISTRICT_NAME_ENG": "Rai Khi",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3707,
+        "LAT": 15.663000106811523,
+        "LONG": 104.77999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 370706,
+        "SUB_DISTRICT_NAME_THA": "แมด",
+        "SUB_DISTRICT_NAME_ENG": "Maet",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3707,
+        "LAT": 15.76099967956543,
+        "LONG": 104.68900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 370707,
+        "SUB_DISTRICT_NAME_THA": "โคกกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Klang",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3707,
+        "LAT": 15.75100040435791,
+        "LONG": 104.63700103759766
+    }
+]

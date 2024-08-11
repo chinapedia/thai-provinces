@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 740301,
+        "SUB_DISTRICT_NAME_THA": "บ้านแพ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phaeo",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.618000030517578,
+        "LONG": 100.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 740302,
+        "SUB_DISTRICT_NAME_THA": "หลักสาม",
+        "SUB_DISTRICT_NAME_ENG": "Lak Sam",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.571000099182129,
+        "LONG": 100.13899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 740303,
+        "SUB_DISTRICT_NAME_THA": "ยกกระบัตร",
+        "SUB_DISTRICT_NAME_ENG": "Yok Krabat",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.559000015258789,
+        "LONG": 100.08200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 740304,
+        "SUB_DISTRICT_NAME_THA": "โรงเข้",
+        "SUB_DISTRICT_NAME_ENG": "Rong Khe",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.520999908447266,
+        "LONG": 100.06900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 740305,
+        "SUB_DISTRICT_NAME_THA": "หนองสองห้อง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Song Hong",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.581000328063965,
+        "LONG": 100.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 740306,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.597999572753906,
+        "LONG": 100.07499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 740307,
+        "SUB_DISTRICT_NAME_THA": "หลักสอง",
+        "SUB_DISTRICT_NAME_ENG": "Lak Song",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.61400032043457,
+        "LONG": 100.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 740308,
+        "SUB_DISTRICT_NAME_THA": "เจ็ดริ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Chet Rio",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.638999938964844,
+        "LONG": 100.14099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 740309,
+        "SUB_DISTRICT_NAME_THA": "คลองตัน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Tan",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.640999794006348,
+        "LONG": 100.1709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 740310,
+        "SUB_DISTRICT_NAME_THA": "อำแพง",
+        "SUB_DISTRICT_NAME_ENG": "Amphaeng",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.600000381469727,
+        "LONG": 100.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 740311,
+        "SUB_DISTRICT_NAME_THA": "สวนส้ม",
+        "SUB_DISTRICT_NAME_ENG": "Suan Som",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.62399959564209,
+        "LONG": 100.18599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 740312,
+        "SUB_DISTRICT_NAME_THA": "เกษตรพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Kaset Phatthana",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7403,
+        "LAT": 13.666000366210938,
+        "LONG": 100.15299987792969
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 412401,
+        "SUB_DISTRICT_NAME_THA": "บ้านจีต",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chiet",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4124,
+        "LAT": 17.135000228881836,
+        "LONG": 103.1969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 412402,
+        "SUB_DISTRICT_NAME_THA": "โนนทองอินทร์",
+        "SUB_DISTRICT_NAME_ENG": "Non Thong In",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4124,
+        "LAT": 17.19700050354004,
+        "LONG": 103.177001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 412403,
+        "SUB_DISTRICT_NAME_THA": "ค้อใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Kho Yai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4124,
+        "LAT": 17.204999923706055,
+        "LONG": 103.14099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 412404,
+        "SUB_DISTRICT_NAME_THA": "คอนสาย",
+        "SUB_DISTRICT_NAME_ENG": "Khon Sai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4124,
+        "LAT": 17.158000946044922,
+        "LONG": 103.13400268554688
+    }
+]

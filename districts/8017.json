@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 801701,
+        "SUB_DISTRICT_NAME_THA": "บางขัน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khan",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8017,
+        "LAT": 8.069000244140625,
+        "LONG": 99.4219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 801702,
+        "SUB_DISTRICT_NAME_THA": "บ้านลำนาว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lamnao",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8017,
+        "LAT": 7.9679999351501465,
+        "LONG": 99.41699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 801703,
+        "SUB_DISTRICT_NAME_THA": "วังหิน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Hin",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8017,
+        "LAT": 7.984000205993652,
+        "LONG": 99.55400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 801704,
+        "SUB_DISTRICT_NAME_THA": "บ้านนิคม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Nikhom",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8017,
+        "LAT": 7.933000087738037,
+        "LONG": 99.50700378417969
+    }
+]

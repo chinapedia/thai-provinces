@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 810501,
+        "SUB_DISTRICT_NAME_THA": "อ่าวลึกใต้",
+        "SUB_DISTRICT_NAME_ENG": "Ao Luek Tai",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.38599967956543,
+        "LONG": 98.70700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 810502,
+        "SUB_DISTRICT_NAME_THA": "แหลมสัก",
+        "SUB_DISTRICT_NAME_ENG": "Laem Sak",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.26200008392334,
+        "LONG": 98.62999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 810503,
+        "SUB_DISTRICT_NAME_THA": "นาเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Na Nuea",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.529000282287598,
+        "LONG": 98.73600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 810504,
+        "SUB_DISTRICT_NAME_THA": "คลองหิน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Hin",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.324000358581543,
+        "LONG": 98.83699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 810505,
+        "SUB_DISTRICT_NAME_THA": "อ่าวลึกน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Ao Luek Noi",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.293999671936035,
+        "LONG": 98.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 810506,
+        "SUB_DISTRICT_NAME_THA": "อ่าวลึกเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Ao Luek Nuea",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.39900016784668,
+        "LONG": 98.82499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 810507,
+        "SUB_DISTRICT_NAME_THA": "เขาใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khao Yai",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.46500015258789,
+        "LONG": 98.71900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 810508,
+        "SUB_DISTRICT_NAME_THA": "คลองยา",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Ya",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.378999710083008,
+        "LONG": 98.88300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 810509,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8105,
+        "LAT": 8.35200023651123,
+        "LONG": 98.79199981689453
+    }
+]

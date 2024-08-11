@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 471101,
+        "SUB_DISTRICT_NAME_THA": "อากาศ",
+        "SUB_DISTRICT_NAME_ENG": "Akat",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.57200050354004,
+        "LONG": 104.01300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 471102,
+        "SUB_DISTRICT_NAME_THA": "โพนแพง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Phaeng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.538000106811523,
+        "LONG": 103.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 471103,
+        "SUB_DISTRICT_NAME_THA": "วาใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Wa Yai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.6299991607666,
+        "LONG": 103.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 471104,
+        "SUB_DISTRICT_NAME_THA": "โพนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Phon Ngam",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.756999969482422,
+        "LONG": 104.00599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 471105,
+        "SUB_DISTRICT_NAME_THA": "ท่าก้อน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kon",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.759000778198242,
+        "LONG": 103.96099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 471106,
+        "SUB_DISTRICT_NAME_THA": "นาฮี",
+        "SUB_DISTRICT_NAME_ENG": "Na Hi",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.718000411987305,
+        "LONG": 103.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 471107,
+        "SUB_DISTRICT_NAME_THA": "บะหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Bawa",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.4950008392334,
+        "LONG": 103.98699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 471108,
+        "SUB_DISTRICT_NAME_THA": "สามัคคีพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Samakkhi Phatthana",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4711,
+        "LAT": 17.66900062561035,
+        "LONG": 104.01899719238281
+    }
+]

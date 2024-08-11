@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600501,
+        "SUB_DISTRICT_NAME_THA": "ท่างิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ngio",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.918000221252441,
+        "LONG": 99.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 600502,
+        "SUB_DISTRICT_NAME_THA": "บางตาหงาย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ta Ngai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.942999839782715,
+        "LONG": 100.02200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 600503,
+        "SUB_DISTRICT_NAME_THA": "หูกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Hu Kwang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.878999710083008,
+        "LONG": 100.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 600504,
+        "SUB_DISTRICT_NAME_THA": "อ่างทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ang Thong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.871000289916992,
+        "LONG": 99.94200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 600505,
+        "SUB_DISTRICT_NAME_THA": "บ้านแดน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Daen",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.937000274658203,
+        "LONG": 99.88999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 600506,
+        "SUB_DISTRICT_NAME_THA": "บางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.982000350952148,
+        "LONG": 99.87200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 600507,
+        "SUB_DISTRICT_NAME_THA": "ตาขีด",
+        "SUB_DISTRICT_NAME_ENG": "Ta Khit",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 16.017000198364258,
+        "LONG": 99.91699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 600508,
+        "SUB_DISTRICT_NAME_THA": "ตาสัง",
+        "SUB_DISTRICT_NAME_ENG": "Ta Sang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.993000030517578,
+        "LONG": 99.96700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 600509,
+        "SUB_DISTRICT_NAME_THA": "ด่านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Dan Chang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 16.079999923706055,
+        "LONG": 99.9990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 600510,
+        "SUB_DISTRICT_NAME_THA": "หนองกรด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krot",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.996999740600586,
+        "LONG": 100.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 600511,
+        "SUB_DISTRICT_NAME_THA": "หนองตางู",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ta Ngu",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 16.1299991607666,
+        "LONG": 100.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 600512,
+        "SUB_DISTRICT_NAME_THA": "บึงปลาทู",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Pla Thu",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 16.072999954223633,
+        "LONG": 100.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 600513,
+        "SUB_DISTRICT_NAME_THA": "เจริญผล",
+        "SUB_DISTRICT_NAME_ENG": "Charoen Phon",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6005,
+        "LAT": 15.956000328063965,
+        "LONG": 99.98799896240234
+    }
+]

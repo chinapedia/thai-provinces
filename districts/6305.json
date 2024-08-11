@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630501,
+        "SUB_DISTRICT_NAME_THA": "ท่าสองยาง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Song Yang",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6305,
+        "LAT": 17.724000930786133,
+        "LONG": 97.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 630502,
+        "SUB_DISTRICT_NAME_THA": "แม่ต้าน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tan",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6305,
+        "LAT": 17.26799964904785,
+        "LONG": 98.2750015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 630503,
+        "SUB_DISTRICT_NAME_THA": "แม่สอง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Song",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6305,
+        "LAT": 17.493999481201172,
+        "LONG": 98.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 630504,
+        "SUB_DISTRICT_NAME_THA": "แม่หละ",
+        "SUB_DISTRICT_NAME_ENG": "Mae La",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6305,
+        "LAT": 17.170000076293945,
+        "LONG": 98.35900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 630505,
+        "SUB_DISTRICT_NAME_THA": "แม่วะหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Wa Luang",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6305,
+        "LAT": 17.76300048828125,
+        "LONG": 97.9229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 630506,
+        "SUB_DISTRICT_NAME_THA": "แม่อุสุ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Usu",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6305,
+        "LAT": 17.361000061035156,
+        "LONG": 98.21399688720703
+    }
+]

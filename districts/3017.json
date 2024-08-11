@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 301701,
+        "SUB_DISTRICT_NAME_THA": "ชุมพวง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Phuang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.343999862670898,
+        "LONG": 102.75
+    },
+    {
+        "SUB_DISTRICT_ID": 301702,
+        "SUB_DISTRICT_NAME_THA": "ประสุข",
+        "SUB_DISTRICT_NAME_ENG": "Prasuk",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.342000007629395,
+        "LONG": 102.68499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 301703,
+        "SUB_DISTRICT_NAME_THA": "ท่าลาด",
+        "SUB_DISTRICT_NAME_ENG": "Tha Lat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.243000030517578,
+        "LONG": 102.72000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 301704,
+        "SUB_DISTRICT_NAME_THA": "สาหร่าย",
+        "SUB_DISTRICT_NAME_ENG": "Sarai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.184000015258789,
+        "LONG": 102.73500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 301705,
+        "SUB_DISTRICT_NAME_THA": "ตลาดไทร",
+        "SUB_DISTRICT_NAME_ENG": "Talat Sai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.109000205993652,
+        "LONG": 102.77300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 301710,
+        "SUB_DISTRICT_NAME_THA": "โนนรัง",
+        "SUB_DISTRICT_NAME_ENG": "Non Rang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.258000373840332,
+        "LONG": 102.80999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 301714,
+        "SUB_DISTRICT_NAME_THA": "หนองหลัก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lak",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.41100025177002,
+        "LONG": 102.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 301716,
+        "SUB_DISTRICT_NAME_THA": "โนนตูม",
+        "SUB_DISTRICT_NAME_ENG": "Non Tum",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.166999816894531,
+        "LONG": 102.76899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 301717,
+        "SUB_DISTRICT_NAME_THA": "โนนยอ",
+        "SUB_DISTRICT_NAME_ENG": "Non Yo",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3017,
+        "LAT": 15.33899974822998,
+        "LONG": 102.8280029296875
+    }
+]

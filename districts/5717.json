@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571701,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งก่อ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Ko",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5717,
+        "LAT": 19.983999252319336,
+        "LONG": 100.04900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 571702,
+        "SUB_DISTRICT_NAME_THA": "ดงมหาวัน",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mahawan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5717,
+        "LAT": 20.041000366210938,
+        "LONG": 100.00599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 571703,
+        "SUB_DISTRICT_NAME_THA": "ป่าซาง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5717,
+        "LAT": 20.04800033569336,
+        "LONG": 100.12000274658203
+    }
+]

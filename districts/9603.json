@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 960301,
+        "SUB_DISTRICT_NAME_THA": "บาเจาะ",
+        "SUB_DISTRICT_NAME_ENG": "Bacho",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9603,
+        "LAT": 6.513999938964844,
+        "LONG": 101.63600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 960302,
+        "SUB_DISTRICT_NAME_THA": "ลุโบะสาวอ",
+        "SUB_DISTRICT_NAME_ENG": "Lubo Sawo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9603,
+        "LAT": 6.486000061035156,
+        "LONG": 101.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 960303,
+        "SUB_DISTRICT_NAME_THA": "กาเยาะมาตี",
+        "SUB_DISTRICT_NAME_ENG": "Kayo Mati",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9603,
+        "LAT": 6.545000076293945,
+        "LONG": 101.625
+    },
+    {
+        "SUB_DISTRICT_ID": 960304,
+        "SUB_DISTRICT_NAME_THA": "ปะลุกาสาเมาะ",
+        "SUB_DISTRICT_NAME_ENG": "Paluka Samo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9603,
+        "LAT": 6.607999801635742,
+        "LONG": 101.60900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 960305,
+        "SUB_DISTRICT_NAME_THA": "บาเระเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Bare Nuea",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9603,
+        "LAT": 6.571000099182129,
+        "LONG": 101.61299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 960306,
+        "SUB_DISTRICT_NAME_THA": "บาเระใต้",
+        "SUB_DISTRICT_NAME_ENG": "Bare Tai",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9603,
+        "LAT": 6.539000034332275,
+        "LONG": 101.69300079345703
+    }
+]

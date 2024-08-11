@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321501,
+        "SUB_DISTRICT_NAME_THA": "ณรงค์",
+        "SUB_DISTRICT_NAME_ENG": "Narong",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3215,
+        "LAT": 14.753999710083008,
+        "LONG": 103.88200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 321502,
+        "SUB_DISTRICT_NAME_THA": "แจนแวน",
+        "SUB_DISTRICT_NAME_ENG": "Chaen Waen",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3215,
+        "LAT": 14.79699993133545,
+        "LONG": 103.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 321503,
+        "SUB_DISTRICT_NAME_THA": "ตรวจ",
+        "SUB_DISTRICT_NAME_ENG": "Truat",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3215,
+        "LAT": 14.802000045776367,
+        "LONG": 103.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 321504,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3215,
+        "LAT": 14.756999969482422,
+        "LONG": 103.97699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 321505,
+        "SUB_DISTRICT_NAME_THA": "ศรีสุข",
+        "SUB_DISTRICT_NAME_ENG": "Si Suk",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3215,
+        "LAT": 14.73799991607666,
+        "LONG": 103.81800079345703
+    }
+]

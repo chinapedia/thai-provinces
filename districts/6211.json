@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 621101,
+        "SUB_DISTRICT_NAME_THA": "โกสัมพี",
+        "SUB_DISTRICT_NAME_ENG": "Kosamphi",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6211,
+        "LAT": 16.500999450683594,
+        "LONG": 99.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 621102,
+        "SUB_DISTRICT_NAME_THA": "เพชรชมภู",
+        "SUB_DISTRICT_NAME_ENG": "Phet Chomphu",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6211,
+        "LAT": 16.579999923706055,
+        "LONG": 99.36100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 621103,
+        "SUB_DISTRICT_NAME_THA": "ลานดอกไม้ตก",
+        "SUB_DISTRICT_NAME_ENG": "Lan Dokmai Tok",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6211,
+        "LAT": 16.58099937438965,
+        "LONG": 99.42900085449219
+    }
+]

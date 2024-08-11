@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480801,
+        "SUB_DISTRICT_NAME_THA": "ศรีสงคราม",
+        "SUB_DISTRICT_NAME_ENG": "Si Songkhram",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.641000747680664,
+        "LONG": 104.28900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 480802,
+        "SUB_DISTRICT_NAME_THA": "นาเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Na Duea",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.55500030517578,
+        "LONG": 104.33300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 480803,
+        "SUB_DISTRICT_NAME_THA": "บ้านเอื้อง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ueang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.54800033569336,
+        "LONG": 104.23200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 480804,
+        "SUB_DISTRICT_NAME_THA": "สามผง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Phong",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.729999542236328,
+        "LONG": 104.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 480805,
+        "SUB_DISTRICT_NAME_THA": "ท่าบ่อสงคราม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Bo Songkhram",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.632999420166016,
+        "LONG": 104.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 480806,
+        "SUB_DISTRICT_NAME_THA": "บ้านข่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kha",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.666000366210938,
+        "LONG": 104.12100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 480807,
+        "SUB_DISTRICT_NAME_THA": "นาคำ",
+        "SUB_DISTRICT_NAME_ENG": "Na Kham",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.618999481201172,
+        "LONG": 104.35399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 480808,
+        "SUB_DISTRICT_NAME_THA": "โพนสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sawang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.54199981689453,
+        "LONG": 104.16699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 480809,
+        "SUB_DISTRICT_NAME_THA": "หาดแพง",
+        "SUB_DISTRICT_NAME_ENG": "Hat Phaeng",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4808,
+        "LAT": 17.711999893188477,
+        "LONG": 104.30000305175781
+    }
+]

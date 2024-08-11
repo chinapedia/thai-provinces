@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 230701,
+        "SUB_DISTRICT_NAME_THA": "เกาะช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Ko Chang",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2307,
+        "LAT": 12.16100025177002,
+        "LONG": 102.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 230702,
+        "SUB_DISTRICT_NAME_THA": "เกาะช้างใต้",
+        "SUB_DISTRICT_NAME_ENG": "Ko Chang Tai",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2307,
+        "LAT": 11.996000289916992,
+        "LONG": 102.33100128173828
+    }
+]

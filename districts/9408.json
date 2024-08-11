@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940801,
+        "SUB_DISTRICT_NAME_THA": "ไทรทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Thong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9408,
+        "LAT": 6.604000091552734,
+        "LONG": 101.6729965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 940802,
+        "SUB_DISTRICT_NAME_THA": "ไม้แก่น",
+        "SUB_DISTRICT_NAME_ENG": "Mai Kaen",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9408,
+        "LAT": 6.646999835968018,
+        "LONG": 101.66899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 940803,
+        "SUB_DISTRICT_NAME_THA": "ตะโละไกรทอง",
+        "SUB_DISTRICT_NAME_ENG": "Talo Krai Thong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9408,
+        "LAT": 6.626999855041504,
+        "LONG": 101.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 940804,
+        "SUB_DISTRICT_NAME_THA": "คอนทราย",
+        "SUB_DISTRICT_NAME_ENG": "Don Sai",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9408,
+        "LAT": 6.5970001220703125,
+        "LONG": 101.70099639892578
+    }
+]

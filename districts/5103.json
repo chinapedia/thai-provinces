@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 510301,
+        "SUB_DISTRICT_NAME_THA": "บ้านโฮ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Hong",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5103,
+        "LAT": 18.308000564575195,
+        "LONG": 98.81500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 510302,
+        "SUB_DISTRICT_NAME_THA": "ป่าพลู",
+        "SUB_DISTRICT_NAME_ENG": "Pa Phlu",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5103,
+        "LAT": 18.211000442504883,
+        "LONG": 98.86699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 510303,
+        "SUB_DISTRICT_NAME_THA": "เหล่ายาว",
+        "SUB_DISTRICT_NAME_ENG": "Lao Yao",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5103,
+        "LAT": 18.360000610351562,
+        "LONG": 98.79399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 510304,
+        "SUB_DISTRICT_NAME_THA": "ศรีเตี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Si Tia",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5103,
+        "LAT": 18.382999420166016,
+        "LONG": 98.75
+    },
+    {
+        "SUB_DISTRICT_ID": 510305,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาสะวาย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Sawai",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5103,
+        "LAT": 18.31399917602539,
+        "LONG": 98.6969985961914
+    }
+]

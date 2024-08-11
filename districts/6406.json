@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640601,
+        "SUB_DISTRICT_NAME_THA": "คลองตาล",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Tan",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.158000946044922,
+        "LONG": 99.85800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 640602,
+        "SUB_DISTRICT_NAME_THA": "วังลึก",
+        "SUB_DISTRICT_NAME_ENG": "Wang Luek",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.14699935913086,
+        "LONG": 99.88300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 640603,
+        "SUB_DISTRICT_NAME_THA": "สามเรือน",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ruean",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.183000564575195,
+        "LONG": 99.87200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 640604,
+        "SUB_DISTRICT_NAME_THA": "บ้านนา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Na",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.17099952697754,
+        "LONG": 99.83499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 640605,
+        "SUB_DISTRICT_NAME_THA": "วังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.138999938964844,
+        "LONG": 99.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 640606,
+        "SUB_DISTRICT_NAME_THA": "นาขุนไกร",
+        "SUB_DISTRICT_NAME_ENG": "Na Khun Krai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.195999145507812,
+        "LONG": 99.58200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 640607,
+        "SUB_DISTRICT_NAME_THA": "เกาะตาเลี้ยง",
+        "SUB_DISTRICT_NAME_ENG": "Ko Ta Liang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.111000061035156,
+        "LONG": 99.90799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 640608,
+        "SUB_DISTRICT_NAME_THA": "วัดเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Wat Ko",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.187999725341797,
+        "LONG": 99.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 640609,
+        "SUB_DISTRICT_NAME_THA": "บ้านไร่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.163999557495117,
+        "LONG": 99.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 640610,
+        "SUB_DISTRICT_NAME_THA": "ทับผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Phueng",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.083999633789062,
+        "LONG": 99.83000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 640611,
+        "SUB_DISTRICT_NAME_THA": "บ้านซ่าน",
+        "SUB_DISTRICT_NAME_ENG": "Ban San",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.202999114990234,
+        "LONG": 99.7699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 640612,
+        "SUB_DISTRICT_NAME_THA": "วังใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.118000030517578,
+        "LONG": 99.76499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 640613,
+        "SUB_DISTRICT_NAME_THA": "ราวต้นจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Rao Ton Chan",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6406,
+        "LAT": 17.173999786376953,
+        "LONG": 99.7229995727539
+    }
+]

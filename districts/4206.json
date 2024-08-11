@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 420601,
+        "SUB_DISTRICT_NAME_THA": "นาแห้ว",
+        "SUB_DISTRICT_NAME_ENG": "Na Haeo",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4206,
+        "LAT": 17.483999252319336,
+        "LONG": 101.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 420602,
+        "SUB_DISTRICT_NAME_THA": "แสงภา",
+        "SUB_DISTRICT_NAME_ENG": "Saeng Pha",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4206,
+        "LAT": 17.506999969482422,
+        "LONG": 100.96499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 420603,
+        "SUB_DISTRICT_NAME_THA": "นาพึง",
+        "SUB_DISTRICT_NAME_ENG": "Na Phueng",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4206,
+        "LAT": 17.416000366210938,
+        "LONG": 101.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 420604,
+        "SUB_DISTRICT_NAME_THA": "นามาลา",
+        "SUB_DISTRICT_NAME_ENG": "Na Mala",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4206,
+        "LAT": 17.336000442504883,
+        "LONG": 101.07099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 420605,
+        "SUB_DISTRICT_NAME_THA": "เหล่ากอหก",
+        "SUB_DISTRICT_NAME_ENG": "Lao Ko Hok",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4206,
+        "LAT": 17.485000610351562,
+        "LONG": 100.86399841308594
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 210401,
+        "SUB_DISTRICT_NAME_THA": "วังจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chan",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2104,
+        "LAT": 12.857999801635742,
+        "LONG": 101.52799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 210402,
+        "SUB_DISTRICT_NAME_THA": "ชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Saeng",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2104,
+        "LAT": 12.956000328063965,
+        "LONG": 101.5260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 210403,
+        "SUB_DISTRICT_NAME_THA": "ป่ายุบใน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Yup Nai",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2104,
+        "LAT": 13.005000114440918,
+        "LONG": 101.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 210404,
+        "SUB_DISTRICT_NAME_THA": "พลงตาเอี่ยม",
+        "SUB_DISTRICT_NAME_ENG": "Phong Ta Iam",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2104,
+        "LAT": 12.911999702453613,
+        "LONG": 101.54100036621094
+    }
+]

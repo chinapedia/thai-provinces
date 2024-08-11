@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650201,
+        "SUB_DISTRICT_NAME_THA": "นครไทย",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Thai",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.125999450683594,
+        "LONG": 100.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 650202,
+        "SUB_DISTRICT_NAME_THA": "หนองกะท้าว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kathao",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.09600067138672,
+        "LONG": 100.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 650203,
+        "SUB_DISTRICT_NAME_THA": "บ้านแยง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yaeng",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 16.941999435424805,
+        "LONG": 100.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 650204,
+        "SUB_DISTRICT_NAME_THA": "เนินเพิ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Noen Phoem",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.033000946044922,
+        "LONG": 100.94599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 650205,
+        "SUB_DISTRICT_NAME_THA": "นาบัว",
+        "SUB_DISTRICT_NAME_ENG": "Na Bua",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.202999114990234,
+        "LONG": 100.85099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 650206,
+        "SUB_DISTRICT_NAME_THA": "นครชุม",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Chum",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.260000228881836,
+        "LONG": 100.80599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 650207,
+        "SUB_DISTRICT_NAME_THA": "น้ำกุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nam Kum",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.398000717163086,
+        "LONG": 100.86599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 650208,
+        "SUB_DISTRICT_NAME_THA": "ยางโกลน",
+        "SUB_DISTRICT_NAME_ENG": "Yang Klon",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.207000732421875,
+        "LONG": 100.94999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 650209,
+        "SUB_DISTRICT_NAME_THA": "บ่อโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Bo Pho",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.160999298095703,
+        "LONG": 101.01699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 650210,
+        "SUB_DISTRICT_NAME_THA": "บ้านพร้าว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phrao",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 17.145999908447266,
+        "LONG": 100.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 650211,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเฮี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Hia",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6502,
+        "LAT": 16.89900016784668,
+        "LONG": 100.9229965209961
+    }
+]

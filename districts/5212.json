@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 521201,
+        "SUB_DISTRICT_NAME_THA": "ห้างฉัตร",
+        "SUB_DISTRICT_NAME_ENG": "Hang Chat",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5212,
+        "LAT": 18.336999893188477,
+        "LONG": 99.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 521202,
+        "SUB_DISTRICT_NAME_THA": "หนองหล่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lom",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5212,
+        "LAT": 18.349000930786133,
+        "LONG": 99.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 521203,
+        "SUB_DISTRICT_NAME_THA": "เมืองยาว",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Yao",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5212,
+        "LAT": 18.268999099731445,
+        "LONG": 99.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 521204,
+        "SUB_DISTRICT_NAME_THA": "ปงยางคก",
+        "SUB_DISTRICT_NAME_ENG": "Pong Yang Khok",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5212,
+        "LAT": 18.284000396728516,
+        "LONG": 99.36499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 521205,
+        "SUB_DISTRICT_NAME_THA": "เวียงตาล",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Tan",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5212,
+        "LAT": 18.408000946044922,
+        "LONG": 99.2770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 521206,
+        "SUB_DISTRICT_NAME_THA": "แม่สัน",
+        "SUB_DISTRICT_NAME_ENG": "Mae San",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5212,
+        "LAT": 18.291000366210938,
+        "LONG": 99.27300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 521207,
+        "SUB_DISTRICT_NAME_THA": "วอแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Wo Kaeo",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5212,
+        "LAT": 18.42099952697754,
+        "LONG": 99.33899688720703
+    }
+]

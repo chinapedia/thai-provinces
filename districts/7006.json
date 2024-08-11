@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 700601,
+        "SUB_DISTRICT_NAME_THA": "บางแพ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phae",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7006,
+        "LAT": 13.690999984741211,
+        "LONG": 99.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 700602,
+        "SUB_DISTRICT_NAME_THA": "วังเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yen",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7006,
+        "LAT": 13.704999923706055,
+        "LONG": 99.90899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 700603,
+        "SUB_DISTRICT_NAME_THA": "หัวโพ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Pho",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7006,
+        "LAT": 13.654000282287598,
+        "LONG": 99.97799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 700604,
+        "SUB_DISTRICT_NAME_THA": "วัดแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Wat Kaeo",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7006,
+        "LAT": 13.656999588012695,
+        "LONG": 99.91799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 700605,
+        "SUB_DISTRICT_NAME_THA": "ดอนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Don Yai",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7006,
+        "LAT": 13.708999633789062,
+        "LONG": 100.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 700606,
+        "SUB_DISTRICT_NAME_THA": "ดอนคา",
+        "SUB_DISTRICT_NAME_ENG": "Don Kha",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7006,
+        "LAT": 13.668000221252441,
+        "LONG": 100.00599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 700607,
+        "SUB_DISTRICT_NAME_THA": "โพหัก",
+        "SUB_DISTRICT_NAME_ENG": "Pho Hak",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7006,
+        "LAT": 13.640000343322754,
+        "LONG": 100.04299926757812
+    }
+]

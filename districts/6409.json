@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640901,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่ไชยมงคล",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai Chai Mongkhon",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6409,
+        "LAT": 17.250999450683594,
+        "LONG": 99.6520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 640902,
+        "SUB_DISTRICT_NAME_THA": "ไทยชนะศึก",
+        "SUB_DISTRICT_NAME_ENG": "Thai Chana Suek",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6409,
+        "LAT": 17.375999450683594,
+        "LONG": 99.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 640903,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งเสลี่ยม",
+        "SUB_DISTRICT_NAME_ENG": "Thung Saliam",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6409,
+        "LAT": 17.301000595092773,
+        "LONG": 99.5479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 640904,
+        "SUB_DISTRICT_NAME_THA": "กลางดง",
+        "SUB_DISTRICT_NAME_ENG": "Klang Dong",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6409,
+        "LAT": 17.393999099731445,
+        "LONG": 99.49099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 640905,
+        "SUB_DISTRICT_NAME_THA": "เขาแก้วศรีสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Khao Kaeo Si Sombun",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6409,
+        "LAT": 17.31999969482422,
+        "LONG": 99.64299774169922
+    }
+]

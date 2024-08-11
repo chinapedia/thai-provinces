@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 301301,
+        "SUB_DISTRICT_NAME_THA": "ประทาย",
+        "SUB_DISTRICT_NAME_ENG": "Prathai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.53600025177002,
+        "LONG": 102.7239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 301303,
+        "SUB_DISTRICT_NAME_THA": "กระทุ่มราย",
+        "SUB_DISTRICT_NAME_ENG": "Krathum Rai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.529999732971191,
+        "LONG": 102.65899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 301304,
+        "SUB_DISTRICT_NAME_THA": "วังไม้แดง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mai Daeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.684000015258789,
+        "LONG": 102.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 301306,
+        "SUB_DISTRICT_NAME_THA": "ตลาดไทร",
+        "SUB_DISTRICT_NAME_ENG": "Talat Sai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.527999877929688,
+        "LONG": 102.77999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 301307,
+        "SUB_DISTRICT_NAME_THA": "หนองพลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phluang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.583000183105469,
+        "LONG": 102.70700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 301308,
+        "SUB_DISTRICT_NAME_THA": "หนองค่าย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.595999717712402,
+        "LONG": 102.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 301309,
+        "SUB_DISTRICT_NAME_THA": "หันห้วยทราย",
+        "SUB_DISTRICT_NAME_ENG": "Han Huai Sai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.611000061035156,
+        "LONG": 102.65599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 301310,
+        "SUB_DISTRICT_NAME_THA": "ดอนมัน",
+        "SUB_DISTRICT_NAME_ENG": "Don Man",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.491000175476074,
+        "LONG": 102.8219985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 301313,
+        "SUB_DISTRICT_NAME_THA": "นางรำ",
+        "SUB_DISTRICT_NAME_ENG": "Nang Ram",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.484000205993652,
+        "LONG": 102.62300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 301314,
+        "SUB_DISTRICT_NAME_THA": "โนนเพ็ด",
+        "SUB_DISTRICT_NAME_ENG": "Non Phet",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.677000045776367,
+        "LONG": 102.68399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 301315,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Sawang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.493000030517578,
+        "LONG": 102.68599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 301317,
+        "SUB_DISTRICT_NAME_THA": "โคกกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Klang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.463000297546387,
+        "LONG": 102.73699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 301318,
+        "SUB_DISTRICT_NAME_THA": "เมืองโดน",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Don",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3013,
+        "LAT": 15.635000228881836,
+        "LONG": 102.71199798583984
+    }
+]

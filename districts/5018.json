@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501801,
+        "SUB_DISTRICT_NAME_THA": "อมก๋อย",
+        "SUB_DISTRICT_NAME_ENG": "Omkoi",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5018,
+        "LAT": 17.915000915527344,
+        "LONG": 98.33499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 501802,
+        "SUB_DISTRICT_NAME_THA": "ยางเปียง",
+        "SUB_DISTRICT_NAME_ENG": "Yang Piang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5018,
+        "LAT": 17.68199920654297,
+        "LONG": 98.39199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 501803,
+        "SUB_DISTRICT_NAME_THA": "แม่ตื่น",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tuen",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5018,
+        "LAT": 17.398000717163086,
+        "LONG": 98.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 501804,
+        "SUB_DISTRICT_NAME_THA": "ม่อนจอง",
+        "SUB_DISTRICT_NAME_ENG": "Mon Chong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5018,
+        "LAT": 17.43000030517578,
+        "LONG": 98.5
+    },
+    {
+        "SUB_DISTRICT_ID": 501805,
+        "SUB_DISTRICT_NAME_THA": "สบโขง",
+        "SUB_DISTRICT_NAME_ENG": "Sop Khong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5018,
+        "LAT": 17.65399932861328,
+        "LONG": 98.21700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 501806,
+        "SUB_DISTRICT_NAME_THA": "นาเกียน",
+        "SUB_DISTRICT_NAME_ENG": "Na Kian",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5018,
+        "LAT": 17.86400032043457,
+        "LONG": 98.15599822998047
+    }
+]

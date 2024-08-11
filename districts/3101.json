@@ -1,0 +1,173 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.99899959564209,
+        "LONG": 103.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 310102,
+        "SUB_DISTRICT_NAME_THA": "อิสาณ",
+        "SUB_DISTRICT_NAME_ENG": "I San",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.979000091552734,
+        "LONG": 103.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 310103,
+        "SUB_DISTRICT_NAME_THA": "เสม็ด",
+        "SUB_DISTRICT_NAME_ENG": "Samet",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.940999984741211,
+        "LONG": 103.0979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 310104,
+        "SUB_DISTRICT_NAME_THA": "บ้านบัว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bua",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.949000358581543,
+        "LONG": 102.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 310105,
+        "SUB_DISTRICT_NAME_THA": "สะแกโพรง",
+        "SUB_DISTRICT_NAME_ENG": "Sakae Phrong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.852999687194824,
+        "LONG": 102.94200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 310106,
+        "SUB_DISTRICT_NAME_THA": "สวายจึก",
+        "SUB_DISTRICT_NAME_ENG": "Sawai Chik",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.895999908447266,
+        "LONG": 103.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 310108,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 15.017999649047852,
+        "LONG": 103.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 310112,
+        "SUB_DISTRICT_NAME_THA": "พระครู",
+        "SUB_DISTRICT_NAME_ENG": "Phrakhru",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 15.098999977111816,
+        "LONG": 103.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 310113,
+        "SUB_DISTRICT_NAME_THA": "ถลุงเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Thalung Lek",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 15.116000175476074,
+        "LONG": 103.0780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 310114,
+        "SUB_DISTRICT_NAME_THA": "หนองตาด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 15.031000137329102,
+        "LONG": 103.02400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 310117,
+        "SUB_DISTRICT_NAME_THA": "ลุมปุ๊ก",
+        "SUB_DISTRICT_NAME_ENG": "Lumpuk",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.907999992370605,
+        "LONG": 102.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 310118,
+        "SUB_DISTRICT_NAME_THA": "สองห้อง",
+        "SUB_DISTRICT_NAME_ENG": "Song Hong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.807999610900879,
+        "LONG": 102.9530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 310119,
+        "SUB_DISTRICT_NAME_THA": "บัวทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bua Thong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 15.057999610900879,
+        "LONG": 103.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 310120,
+        "SUB_DISTRICT_NAME_THA": "ชุมเห็ด",
+        "SUB_DISTRICT_NAME_ENG": "Chum Het",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 15.032999992370605,
+        "LONG": 103.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 310122,
+        "SUB_DISTRICT_NAME_THA": "หลักเขต",
+        "SUB_DISTRICT_NAME_ENG": "Lak Khet",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.824000358581543,
+        "LONG": 103.15899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 310125,
+        "SUB_DISTRICT_NAME_THA": "สะแกซำ",
+        "SUB_DISTRICT_NAME_ENG": "Sakae Sam",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.871000289916992,
+        "LONG": 103.0989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 310126,
+        "SUB_DISTRICT_NAME_THA": "กลันทา",
+        "SUB_DISTRICT_NAME_ENG": "Kalantha",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 15.095000267028809,
+        "LONG": 103.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 310127,
+        "SUB_DISTRICT_NAME_THA": "กระสัง",
+        "SUB_DISTRICT_NAME_ENG": "Krasang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.973999977111816,
+        "LONG": 103.0469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 310128,
+        "SUB_DISTRICT_NAME_THA": "เมืองฝาง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Fang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3101,
+        "LAT": 14.781999588012695,
+        "LONG": 102.98200225830078
+    }
+]

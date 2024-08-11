@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 510101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.572999954223633,
+        "LONG": 99.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 510102,
+        "SUB_DISTRICT_NAME_THA": "เหมืองง่า",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Nga",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.613000869750977,
+        "LONG": 99.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 510103,
+        "SUB_DISTRICT_NAME_THA": "อุโมงค์",
+        "SUB_DISTRICT_NAME_ENG": "Umong",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.648000717163086,
+        "LONG": 99.04199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 510104,
+        "SUB_DISTRICT_NAME_THA": "หนองช้างคืน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chang Khuen",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.6560001373291,
+        "LONG": 99.01300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 510105,
+        "SUB_DISTRICT_NAME_THA": "ประตูป่า",
+        "SUB_DISTRICT_NAME_ENG": "Pratu Pa",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.62299919128418,
+        "LONG": 98.98600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 510106,
+        "SUB_DISTRICT_NAME_THA": "ริมปิง",
+        "SUB_DISTRICT_NAME_ENG": "Rim Ping",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.597999572753906,
+        "LONG": 98.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 510107,
+        "SUB_DISTRICT_NAME_THA": "ต้นธง",
+        "SUB_DISTRICT_NAME_ENG": "Ton Thong",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.57200050354004,
+        "LONG": 98.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 510108,
+        "SUB_DISTRICT_NAME_THA": "บ้านแป้น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Paen",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.523000717163086,
+        "LONG": 98.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 510109,
+        "SUB_DISTRICT_NAME_THA": "เหมืองจี้",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Chi",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.468000411987305,
+        "LONG": 98.97100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 510110,
+        "SUB_DISTRICT_NAME_THA": "ป่าสัก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sak",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.518999099731445,
+        "LONG": 99.02999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 510111,
+        "SUB_DISTRICT_NAME_THA": "เวียงยอง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Yong",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.558000564575195,
+        "LONG": 99.00900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 510112,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.575000762939453,
+        "LONG": 99.06300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 510113,
+        "SUB_DISTRICT_NAME_THA": "มะเขือแจ้",
+        "SUB_DISTRICT_NAME_ENG": "Makhuea Chae",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.591999053955078,
+        "LONG": 99.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 510116,
+        "SUB_DISTRICT_NAME_THA": "ศรีบัวบาน",
+        "SUB_DISTRICT_NAME_ENG": "Si Bua Ban",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.517000198364258,
+        "LONG": 99.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 510117,
+        "SUB_DISTRICT_NAME_THA": "หนองหนาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5101,
+        "LAT": 18.50200080871582,
+        "LONG": 98.98899841308594
+    }
+]

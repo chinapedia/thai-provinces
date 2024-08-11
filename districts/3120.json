@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 312001,
+        "SUB_DISTRICT_NAME_THA": "โนนดินแดง",
+        "SUB_DISTRICT_NAME_ENG": "Non Din Daeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3120,
+        "LAT": 14.315999984741211,
+        "LONG": 102.72100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 312002,
+        "SUB_DISTRICT_NAME_THA": "ส้มป่อย",
+        "SUB_DISTRICT_NAME_ENG": "Som Poi",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3120,
+        "LAT": 14.345999717712402,
+        "LONG": 102.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 312003,
+        "SUB_DISTRICT_NAME_THA": "ลำนางรอง",
+        "SUB_DISTRICT_NAME_ENG": "Lam Nang Rong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3120,
+        "LAT": 14.213000297546387,
+        "LONG": 102.697998046875
+    }
+]

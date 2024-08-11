@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 661001,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Huai Kaeo",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6610,
+        "LAT": 16.16200065612793,
+        "LONG": 100.11100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 661002,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ไทรงาม",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sai Ngam",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6610,
+        "LAT": 16.121000289916992,
+        "LONG": 100.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 661003,
+        "SUB_DISTRICT_NAME_THA": "แหลมรัง",
+        "SUB_DISTRICT_NAME_ENG": "Laem Rang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6610,
+        "LAT": 16.225000381469727,
+        "LONG": 100.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 661004,
+        "SUB_DISTRICT_NAME_THA": "บางลาย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Lai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6610,
+        "LAT": 16.20800018310547,
+        "LONG": 100.23100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 661005,
+        "SUB_DISTRICT_NAME_THA": "บึงนาราง",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Na Rang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6610,
+        "LAT": 16.204999923706055,
+        "LONG": 100.16300201416016
+    }
+]

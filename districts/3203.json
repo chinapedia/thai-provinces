@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 320301,
+        "SUB_DISTRICT_NAME_THA": "ท่าตูม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Tum",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.295000076293945,
+        "LONG": 103.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 320302,
+        "SUB_DISTRICT_NAME_THA": "กระโพ",
+        "SUB_DISTRICT_NAME_ENG": "Krapho",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.244999885559082,
+        "LONG": 103.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 320303,
+        "SUB_DISTRICT_NAME_THA": "พรมเทพ",
+        "SUB_DISTRICT_NAME_ENG": "Phrom Thep",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.35099983215332,
+        "LONG": 103.62200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 320304,
+        "SUB_DISTRICT_NAME_THA": "โพนครก",
+        "SUB_DISTRICT_NAME_ENG": "Phon Khrok",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.401000022888184,
+        "LONG": 103.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 320305,
+        "SUB_DISTRICT_NAME_THA": "เมืองแก",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kae",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.220999717712402,
+        "LONG": 103.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 320306,
+        "SUB_DISTRICT_NAME_THA": "บะ",
+        "SUB_DISTRICT_NAME_ENG": "Ba",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.241999626159668,
+        "LONG": 103.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 320307,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.32699966430664,
+        "LONG": 103.74199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 320308,
+        "SUB_DISTRICT_NAME_THA": "บัวโคก",
+        "SUB_DISTRICT_NAME_ENG": "Bua Khok",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.227999687194824,
+        "LONG": 103.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 320309,
+        "SUB_DISTRICT_NAME_THA": "หนองเมธี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Methi",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.232000350952148,
+        "LONG": 103.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 320310,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกุลา",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kula",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3203,
+        "LAT": 15.428999900817871,
+        "LONG": 103.62000274658203
+    }
+]

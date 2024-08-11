@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 450601,
+        "SUB_DISTRICT_NAME_THA": "พนมไพร",
+        "SUB_DISTRICT_NAME_ENG": "Phanom Phrai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.687999725341797,
+        "LONG": 104.11799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 450602,
+        "SUB_DISTRICT_NAME_THA": "แสนสุข",
+        "SUB_DISTRICT_NAME_ENG": "Saen Suk",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.732999801635742,
+        "LONG": 104.07599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 450603,
+        "SUB_DISTRICT_NAME_THA": "กุดน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Kut Nam Sai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.76200008392334,
+        "LONG": 104.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 450604,
+        "SUB_DISTRICT_NAME_THA": "หนองทัพไทย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Thap Thai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.689000129699707,
+        "LONG": 103.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 450605,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Pho Yai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.756999969482422,
+        "LONG": 104.01300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 450606,
+        "SUB_DISTRICT_NAME_THA": "วารีสวัสดิ์",
+        "SUB_DISTRICT_NAME_ENG": "Wari Sawat",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.684000015258789,
+        "LONG": 104.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 450607,
+        "SUB_DISTRICT_NAME_THA": "โคกสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sawang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.63700008392334,
+        "LONG": 104.0739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 450611,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.590999603271484,
+        "LONG": 104.08000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 450612,
+        "SUB_DISTRICT_NAME_THA": "นานวล",
+        "SUB_DISTRICT_NAME_ENG": "Na Nuan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.638999938964844,
+        "LONG": 104.1240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 450613,
+        "SUB_DISTRICT_NAME_THA": "คำไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Kham Hai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.638999938964844,
+        "LONG": 104.15899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 450614,
+        "SUB_DISTRICT_NAME_THA": "สระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kaeo",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.704000473022461,
+        "LONG": 104.08000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 450615,
+        "SUB_DISTRICT_NAME_THA": "ค้อใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Kho Yai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.600000381469727,
+        "LONG": 104.13899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 450617,
+        "SUB_DISTRICT_NAME_THA": "ชานุวรรณ",
+        "SUB_DISTRICT_NAME_ENG": "Chanuwan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4506,
+        "LAT": 15.803000450134277,
+        "LONG": 104.08799743652344
+    }
+]

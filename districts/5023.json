@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 502301,
+        "SUB_DISTRICT_NAME_THA": "ออนเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "On Nuea",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5023,
+        "LAT": 18.792999267578125,
+        "LONG": 99.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 502302,
+        "SUB_DISTRICT_NAME_THA": "ออนกลาง",
+        "SUB_DISTRICT_NAME_ENG": "On Klang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5023,
+        "LAT": 18.757999420166016,
+        "LONG": 99.26300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 502303,
+        "SUB_DISTRICT_NAME_THA": "บ้านสหกรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sahakon",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5023,
+        "LAT": 18.825000762939453,
+        "LONG": 99.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 502304,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Huai Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5023,
+        "LAT": 18.884000778198242,
+        "LONG": 99.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 502305,
+        "SUB_DISTRICT_NAME_THA": "แม่ทา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tha",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5023,
+        "LAT": 18.590999603271484,
+        "LONG": 99.28900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 502306,
+        "SUB_DISTRICT_NAME_THA": "ทาเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nuea",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5023,
+        "LAT": 18.70199966430664,
+        "LONG": 99.30799865722656
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 103101,
+        "SUB_DISTRICT_NAME_THA": "บางคอแหลม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1031,
+        "LAT": 13.696000099182129,
+        "LONG": 100.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 103102,
+        "SUB_DISTRICT_NAME_THA": "วัดพระยาไกร",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1031,
+        "LAT": 13.706000328063965,
+        "LONG": 100.50800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 103103,
+        "SUB_DISTRICT_NAME_THA": "บางโคล่",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1031,
+        "LAT": 13.694000244140625,
+        "LONG": 100.51599884033203
+    }
+]

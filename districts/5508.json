@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550801,
+        "SUB_DISTRICT_NAME_THA": "ปอน",
+        "SUB_DISTRICT_NAME_ENG": "Pon",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5508,
+        "LAT": 19.53499984741211,
+        "LONG": 100.9749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 550802,
+        "SUB_DISTRICT_NAME_THA": "งอบ",
+        "SUB_DISTRICT_NAME_ENG": "Ngop",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5508,
+        "LAT": 19.513999938964844,
+        "LONG": 100.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 550803,
+        "SUB_DISTRICT_NAME_THA": "และ",
+        "SUB_DISTRICT_NAME_ENG": "Lae",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5508,
+        "LAT": 19.44700050354004,
+        "LONG": 100.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 550804,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Chang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5508,
+        "LAT": 19.389999389648438,
+        "LONG": 100.83399963378906
+    }
+]

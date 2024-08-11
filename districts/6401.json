@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640101,
+        "SUB_DISTRICT_NAME_THA": "ธานี",
+        "SUB_DISTRICT_NAME_ENG": "Thani",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 17.011999130249023,
+        "LONG": 99.8219985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 640102,
+        "SUB_DISTRICT_NAME_THA": "บ้านสวน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Suan",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 17.045000076293945,
+        "LONG": 99.90299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 640103,
+        "SUB_DISTRICT_NAME_THA": "เมืองเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kao",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 17.020999908447266,
+        "LONG": 99.68199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 640104,
+        "SUB_DISTRICT_NAME_THA": "ปากแคว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 17.042999267578125,
+        "LONG": 99.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 640105,
+        "SUB_DISTRICT_NAME_THA": "ยางซ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Yang Sai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 16.974000930786133,
+        "LONG": 99.82099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 640106,
+        "SUB_DISTRICT_NAME_THA": "บ้านกล้วย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kluai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 17.02899932861328,
+        "LONG": 99.7760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 640107,
+        "SUB_DISTRICT_NAME_THA": "บ้านหลุม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lum",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 16.982999801635742,
+        "LONG": 99.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 640108,
+        "SUB_DISTRICT_NAME_THA": "ตาลเตี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Tan Tia",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 17.062999725341797,
+        "LONG": 99.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 640109,
+        "SUB_DISTRICT_NAME_THA": "ปากพระ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phra",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 16.915000915527344,
+        "LONG": 99.83599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 640110,
+        "SUB_DISTRICT_NAME_THA": "วังทองแดง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong Daeng",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6401,
+        "LAT": 17.10700035095215,
+        "LONG": 99.68699645996094
+    }
+]

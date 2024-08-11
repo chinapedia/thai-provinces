@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340901,
+        "SUB_DISTRICT_NAME_THA": "โซง",
+        "SUB_DISTRICT_NAME_ENG": "Song",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3409,
+        "LAT": 14.460000038146973,
+        "LONG": 104.9469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 340903,
+        "SUB_DISTRICT_NAME_THA": "ยาง",
+        "SUB_DISTRICT_NAME_ENG": "Yang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3409,
+        "LAT": 14.633999824523926,
+        "LONG": 105.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 340904,
+        "SUB_DISTRICT_NAME_THA": "โดมประดิษฐ์",
+        "SUB_DISTRICT_NAME_ENG": "Dom Pradit",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3409,
+        "LAT": 14.336999893188477,
+        "LONG": 105.05899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 340906,
+        "SUB_DISTRICT_NAME_THA": "บุเปือย",
+        "SUB_DISTRICT_NAME_ENG": "Bu Pueai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3409,
+        "LAT": 14.538000106811523,
+        "LONG": 105.05599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 340907,
+        "SUB_DISTRICT_NAME_THA": "สีวิเชียร",
+        "SUB_DISTRICT_NAME_ENG": "Si Wichian",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3409,
+        "LAT": 14.482999801635742,
+        "LONG": 105.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 340909,
+        "SUB_DISTRICT_NAME_THA": "ยางใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Yang Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3409,
+        "LAT": 14.574999809265137,
+        "LONG": 105.09400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 340911,
+        "SUB_DISTRICT_NAME_THA": "เก่าขาม",
+        "SUB_DISTRICT_NAME_ENG": "Kao Kham",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3409,
+        "LAT": 14.57699966430664,
+        "LONG": 105.0199966430664
+    }
+]

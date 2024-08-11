@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 820401,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Tham",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8204,
+        "LAT": 8.409000396728516,
+        "LONG": 98.41200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 820402,
+        "SUB_DISTRICT_NAME_THA": "กระโสม",
+        "SUB_DISTRICT_NAME_ENG": "Krasom",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8204,
+        "LAT": 8.331000328063965,
+        "LONG": 98.48300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 820403,
+        "SUB_DISTRICT_NAME_THA": "กะไหล",
+        "SUB_DISTRICT_NAME_ENG": "Kalai",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8204,
+        "LAT": 8.28499984741211,
+        "LONG": 98.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 820404,
+        "SUB_DISTRICT_NAME_THA": "ท่าอยู่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yu",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8204,
+        "LAT": 8.26099967956543,
+        "LONG": 98.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 820405,
+        "SUB_DISTRICT_NAME_THA": "หล่อยูง",
+        "SUB_DISTRICT_NAME_ENG": "Lo Yung",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8204,
+        "LAT": 8.197999954223633,
+        "LONG": 98.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 820406,
+        "SUB_DISTRICT_NAME_THA": "โคกกลอย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kloi",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8204,
+        "LAT": 8.251999855041504,
+        "LONG": 98.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 820407,
+        "SUB_DISTRICT_NAME_THA": "คลองเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khian",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8204,
+        "LAT": 8.178999900817871,
+        "LONG": 98.45500183105469
+    }
+]

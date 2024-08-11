@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321701,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3217,
+        "LAT": 15.227999687194824,
+        "LONG": 103.927001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 321702,
+        "SUB_DISTRICT_NAME_THA": "คำผง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Phong",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3217,
+        "LAT": 15.185999870300293,
+        "LONG": 103.94200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 321703,
+        "SUB_DISTRICT_NAME_THA": "โนน",
+        "SUB_DISTRICT_NAME_ENG": "Non",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3217,
+        "LAT": 15.17300033569336,
+        "LONG": 103.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 321704,
+        "SUB_DISTRICT_NAME_THA": "ระเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Rawiang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3217,
+        "LAT": 15.25100040435791,
+        "LONG": 103.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 321705,
+        "SUB_DISTRICT_NAME_THA": "หนองเทพ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Thep",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3217,
+        "LAT": 15.140000343322754,
+        "LONG": 103.87999725341797
+    }
+]

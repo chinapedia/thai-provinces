@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501201,
+        "SUB_DISTRICT_NAME_THA": "ยุหว่า",
+        "SUB_DISTRICT_NAME_ENG": "Yu Wa",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.6200008392334,
+        "LONG": 98.875
+    },
+    {
+        "SUB_DISTRICT_ID": 501202,
+        "SUB_DISTRICT_NAME_THA": "สันกลาง",
+        "SUB_DISTRICT_NAME_ENG": "San Klang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.665000915527344,
+        "LONG": 98.87100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 501203,
+        "SUB_DISTRICT_NAME_THA": "ท่าวังพร้าว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wang Phrao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.5310001373291,
+        "LONG": 98.86399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 501204,
+        "SUB_DISTRICT_NAME_THA": "มะขามหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Makham Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.60099983215332,
+        "LONG": 98.90699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 501205,
+        "SUB_DISTRICT_NAME_THA": "แม่ก๊า",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ka",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.573999404907227,
+        "LONG": 98.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 501206,
+        "SUB_DISTRICT_NAME_THA": "บ้านแม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mae",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.625999450683594,
+        "LONG": 98.85399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 501207,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.55699920654297,
+        "LONG": 98.88700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 501208,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสะโตก",
+        "SUB_DISTRICT_NAME_ENG": "Thung Satok",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.586000442504883,
+        "LONG": 98.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 501210,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งต้อม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.613000869750977,
+        "LONG": 98.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 501214,
+        "SUB_DISTRICT_NAME_THA": "น้ำบ่อหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Bo Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.673999786376953,
+        "LONG": 98.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 501215,
+        "SUB_DISTRICT_NAME_THA": "มะขุนหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Makhun Wan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5012,
+        "LAT": 18.573999404907227,
+        "LONG": 98.90699768066406
+    }
+]

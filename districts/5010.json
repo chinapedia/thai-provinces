@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501001,
+        "SUB_DISTRICT_NAME_THA": "แม่อาย",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5010,
+        "LAT": 20.065000534057617,
+        "LONG": 99.26200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 501002,
+        "SUB_DISTRICT_NAME_THA": "แม่สาว",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5010,
+        "LAT": 20.059999465942383,
+        "LONG": 99.16799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 501003,
+        "SUB_DISTRICT_NAME_THA": "สันต้นหมื้อ",
+        "SUB_DISTRICT_NAME_ENG": "San Ton Mue",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5010,
+        "LAT": 19.947999954223633,
+        "LONG": 99.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 501004,
+        "SUB_DISTRICT_NAME_THA": "แม่นาวาง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Na Wang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5010,
+        "LAT": 19.979999542236328,
+        "LONG": 99.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 501005,
+        "SUB_DISTRICT_NAME_THA": "ท่าตอน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ton",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5010,
+        "LAT": 20.06599998474121,
+        "LONG": 99.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 501006,
+        "SUB_DISTRICT_NAME_THA": "บ้านหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5010,
+        "LAT": 19.871000289916992,
+        "LONG": 99.34300231933594
+    }
+]

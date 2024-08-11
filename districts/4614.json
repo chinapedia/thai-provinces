@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 461401,
+        "SUB_DISTRICT_NAME_THA": "คำบง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Bong",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4614,
+        "LAT": 16.757999420166016,
+        "LONG": 103.91200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 461402,
+        "SUB_DISTRICT_NAME_THA": "ไค้นุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Khai Nun",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4614,
+        "LAT": 16.61199951171875,
+        "LONG": 103.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 461403,
+        "SUB_DISTRICT_NAME_THA": "นิคมห้วยผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Huai Phueng",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4614,
+        "LAT": 16.674999237060547,
+        "LONG": 103.90899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 461404,
+        "SUB_DISTRICT_NAME_THA": "หนองอีบุตร",
+        "SUB_DISTRICT_NAME_ENG": "Nong I But",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4614,
+        "LAT": 16.597000122070312,
+        "LONG": 103.87300109863281
+    }
+]

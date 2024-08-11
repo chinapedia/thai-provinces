@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 170501,
+        "SUB_DISTRICT_NAME_THA": "ถอนสมอ",
+        "SUB_DISTRICT_NAME_ENG": "Thon Samo",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1705,
+        "LAT": 14.765000343322754,
+        "LONG": 100.38400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 170502,
+        "SUB_DISTRICT_NAME_THA": "โพประจักษ์",
+        "SUB_DISTRICT_NAME_ENG": "Pho Prachak",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1705,
+        "LAT": 14.77400016784668,
+        "LONG": 100.36000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 170503,
+        "SUB_DISTRICT_NAME_THA": "วิหารขาว",
+        "SUB_DISTRICT_NAME_ENG": "Wihan Khao",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1705,
+        "LAT": 14.800999641418457,
+        "LONG": 100.40899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 170504,
+        "SUB_DISTRICT_NAME_THA": "พิกุลทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phikun Thong",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1705,
+        "LAT": 14.772000312805176,
+        "LONG": 100.41000366210938
+    }
+]

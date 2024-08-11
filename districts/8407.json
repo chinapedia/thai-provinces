@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 840701,
+        "SUB_DISTRICT_NAME_THA": "ท่าชนะ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chana",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8407,
+        "LAT": 9.593000411987305,
+        "LONG": 99.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 840702,
+        "SUB_DISTRICT_NAME_THA": "สมอทอง",
+        "SUB_DISTRICT_NAME_ENG": "Samo Thong",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8407,
+        "LAT": 9.581000328063965,
+        "LONG": 99.0530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 840703,
+        "SUB_DISTRICT_NAME_THA": "ประสงค์",
+        "SUB_DISTRICT_NAME_ENG": "Prasong",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8407,
+        "LAT": 9.586000442504883,
+        "LONG": 98.85099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 840704,
+        "SUB_DISTRICT_NAME_THA": "คันธุลี",
+        "SUB_DISTRICT_NAME_ENG": "Khan Thuli",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8407,
+        "LAT": 9.66100025177002,
+        "LONG": 99.08799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 840705,
+        "SUB_DISTRICT_NAME_THA": "วัง",
+        "SUB_DISTRICT_NAME_ENG": "Wang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8407,
+        "LAT": 9.520000457763672,
+        "LONG": 99.197998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 840706,
+        "SUB_DISTRICT_NAME_THA": "คลองพา",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Pha",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8407,
+        "LAT": 9.6850004196167,
+        "LONG": 98.86499786376953
+    }
+]

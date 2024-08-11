@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 250801,
+        "SUB_DISTRICT_NAME_THA": "ศรีมหาโพธิ",
+        "SUB_DISTRICT_NAME_ENG": "Si Mahapho",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.848999977111816,
+        "LONG": 101.56700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 250802,
+        "SUB_DISTRICT_NAME_THA": "สัมพันธ์",
+        "SUB_DISTRICT_NAME_ENG": "Samphan",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.996999740600586,
+        "LONG": 101.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 250803,
+        "SUB_DISTRICT_NAME_THA": "บ้านทาม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tham",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.97599983215332,
+        "LONG": 101.552001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 250804,
+        "SUB_DISTRICT_NAME_THA": "ท่าตูม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Tum",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.932000160217285,
+        "LONG": 101.57099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 250805,
+        "SUB_DISTRICT_NAME_THA": "บางกุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kung",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.96399974822998,
+        "LONG": 101.48300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 250806,
+        "SUB_DISTRICT_NAME_THA": "ดงกระทงยาม",
+        "SUB_DISTRICT_NAME_ENG": "Dong Krathong Yam",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.958000183105469,
+        "LONG": 101.4260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 250807,
+        "SUB_DISTRICT_NAME_THA": "หนองโพรง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phrong",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.786999702453613,
+        "LONG": 101.58100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 250808,
+        "SUB_DISTRICT_NAME_THA": "หัวหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Hua Wa",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.907999992370605,
+        "LONG": 101.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 250809,
+        "SUB_DISTRICT_NAME_THA": "หาดยาง",
+        "SUB_DISTRICT_NAME_ENG": "Hat Yang",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.98799991607666,
+        "LONG": 101.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 250810,
+        "SUB_DISTRICT_NAME_THA": "กรอกสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Krok Sombun",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2508,
+        "LAT": 13.767000198364258,
+        "LONG": 101.66000366210938
+    }
+]

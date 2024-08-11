@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940601,
+        "SUB_DISTRICT_NAME_THA": "ตะโละแมะนา",
+        "SUB_DISTRICT_NAME_ENG": "Talo Maena",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9406,
+        "LAT": 6.604000091552734,
+        "LONG": 101.4010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 940602,
+        "SUB_DISTRICT_NAME_THA": "พิเทน",
+        "SUB_DISTRICT_NAME_ENG": "Phithen",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9406,
+        "LAT": 6.678999900817871,
+        "LONG": 101.46700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 940603,
+        "SUB_DISTRICT_NAME_THA": "น้ำดำ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Dam",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9406,
+        "LAT": 6.605000019073486,
+        "LONG": 101.447998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 940604,
+        "SUB_DISTRICT_NAME_THA": "ปากู",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ku",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9406,
+        "LAT": 6.624000072479248,
+        "LONG": 101.4739990234375
+    }
+]

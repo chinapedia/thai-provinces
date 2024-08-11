@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 521001,
+        "SUB_DISTRICT_NAME_THA": "แม่ทะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tha",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.16200065612793,
+        "LONG": 99.56300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 521002,
+        "SUB_DISTRICT_NAME_THA": "นาครัว",
+        "SUB_DISTRICT_NAME_ENG": "Na Khrua",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.108999252319336,
+        "LONG": 99.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 521003,
+        "SUB_DISTRICT_NAME_THA": "ป่าตัน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Tan",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.121999740600586,
+        "LONG": 99.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 521004,
+        "SUB_DISTRICT_NAME_THA": "บ้านกิ่ว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kio",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.089000701904297,
+        "LONG": 99.49099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 521005,
+        "SUB_DISTRICT_NAME_THA": "บ้านบอม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bom",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.054000854492188,
+        "LONG": 99.48899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 521006,
+        "SUB_DISTRICT_NAME_THA": "น้ำโจ้",
+        "SUB_DISTRICT_NAME_ENG": "Nam Cho",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.170000076293945,
+        "LONG": 99.45999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 521007,
+        "SUB_DISTRICT_NAME_THA": "ดอนไฟ",
+        "SUB_DISTRICT_NAME_ENG": "Don Fai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.104000091552734,
+        "LONG": 99.6709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 521008,
+        "SUB_DISTRICT_NAME_THA": "หัวเสือ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Suea",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.17300033569336,
+        "LONG": 99.69599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 521010,
+        "SUB_DISTRICT_NAME_THA": "วังเงิน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Ngoen",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 18.09000015258789,
+        "LONG": 99.61399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 521011,
+        "SUB_DISTRICT_NAME_THA": "สันดอนแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "San Don Kaeo",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5210,
+        "LAT": 17.983999252319336,
+        "LONG": 99.48400115966797
+    }
+]

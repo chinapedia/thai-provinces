@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540801,
+        "SUB_DISTRICT_NAME_THA": "แม่คำมี",
+        "SUB_DISTRICT_NAME_ENG": "Mae Kham Mi",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5408,
+        "LAT": 18.270999908447266,
+        "LONG": 100.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 540802,
+        "SUB_DISTRICT_NAME_THA": "หนองม่วงไข่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Muang Khai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5408,
+        "LAT": 18.295000076293945,
+        "LONG": 100.20800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 540803,
+        "SUB_DISTRICT_NAME_THA": "น้ำรัด",
+        "SUB_DISTRICT_NAME_ENG": "Nam Rat",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5408,
+        "LAT": 18.26799964904785,
+        "LONG": 100.13800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 540804,
+        "SUB_DISTRICT_NAME_THA": "วังหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Luang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5408,
+        "LAT": 18.29400062561035,
+        "LONG": 100.11499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 540805,
+        "SUB_DISTRICT_NAME_THA": "ตำหนักธรรม",
+        "SUB_DISTRICT_NAME_ENG": "Tamnak Tham",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5408,
+        "LAT": 18.270999908447266,
+        "LONG": 100.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 540806,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งแค้ว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khaeo",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5408,
+        "LAT": 18.31999969482422,
+        "LONG": 100.12000274658203
+    }
+]

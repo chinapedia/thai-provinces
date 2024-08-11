@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 820601,
+        "SUB_DISTRICT_NAME_THA": "คุระ",
+        "SUB_DISTRICT_NAME_ENG": "Khu Ra",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8206,
+        "LAT": 9.26200008392334,
+        "LONG": 98.41400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 820602,
+        "SUB_DISTRICT_NAME_THA": "บางวัน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Wan",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8206,
+        "LAT": 9.045999526977539,
+        "LONG": 98.40499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 820603,
+        "SUB_DISTRICT_NAME_THA": "เกาะพระทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ko Phra Thong",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8206,
+        "LAT": 9.126999855041504,
+        "LONG": 98.29399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 820605,
+        "SUB_DISTRICT_NAME_THA": "แม่นางขาว",
+        "SUB_DISTRICT_NAME_ENG": "Mae Nang Khao",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8206,
+        "LAT": 9.154000282287598,
+        "LONG": 98.40399932861328
+    }
+]

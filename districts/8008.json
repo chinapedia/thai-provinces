@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 800801,
+        "SUB_DISTRICT_NAME_THA": "ท่าศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sala",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.668999671936035,
+        "LONG": 99.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 800802,
+        "SUB_DISTRICT_NAME_THA": "กลาย",
+        "SUB_DISTRICT_NAME_ENG": "Klai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.812000274658203,
+        "LONG": 99.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 800803,
+        "SUB_DISTRICT_NAME_THA": "ท่าขึ้น",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khuen",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.71399974822998,
+        "LONG": 99.88700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 800804,
+        "SUB_DISTRICT_NAME_THA": "หัวตะพาน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Taphan",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.628000259399414,
+        "LONG": 99.88899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 800806,
+        "SUB_DISTRICT_NAME_THA": "สระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kaeo",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.751999855041504,
+        "LONG": 99.86699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 800807,
+        "SUB_DISTRICT_NAME_THA": "โมคลาน",
+        "SUB_DISTRICT_NAME_ENG": "Mo Khlan",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.58899974822998,
+        "LONG": 99.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 800809,
+        "SUB_DISTRICT_NAME_THA": "ไทยบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Thai Buri",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.664999961853027,
+        "LONG": 99.87899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 800810,
+        "SUB_DISTRICT_NAME_THA": "ดอนตะโก",
+        "SUB_DISTRICT_NAME_ENG": "Don Tako",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.5600004196167,
+        "LONG": 99.90299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 800811,
+        "SUB_DISTRICT_NAME_THA": "ตลิ่งชัน",
+        "SUB_DISTRICT_NAME_ENG": "Taling Chan",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.782999992370605,
+        "LONG": 99.82099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 800813,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ทอง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Thong",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8008,
+        "LAT": 8.61299991607666,
+        "LONG": 99.9229965209961
+    }
+]

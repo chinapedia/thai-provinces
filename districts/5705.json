@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570501,
+        "SUB_DISTRICT_NAME_THA": "สันมะเค็ด",
+        "SUB_DISTRICT_NAME_ENG": "San Makhet",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.608999252319336,
+        "LONG": 99.86399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 570502,
+        "SUB_DISTRICT_NAME_THA": "แม่อ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Mae O",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.672000885009766,
+        "LONG": 99.82099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 570503,
+        "SUB_DISTRICT_NAME_THA": "ธารทอง",
+        "SUB_DISTRICT_NAME_ENG": "Than Thong",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.709999084472656,
+        "LONG": 99.7229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 570504,
+        "SUB_DISTRICT_NAME_THA": "สันติสุข",
+        "SUB_DISTRICT_NAME_ENG": "Santi Suk",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.575000762939453,
+        "LONG": 99.76499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 570505,
+        "SUB_DISTRICT_NAME_THA": "ดอยงาม",
+        "SUB_DISTRICT_NAME_ENG": "Doi Ngam",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.54800033569336,
+        "LONG": 99.80799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 570506,
+        "SUB_DISTRICT_NAME_THA": "หัวง้ม",
+        "SUB_DISTRICT_NAME_ENG": "Hua Ngom",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.538000106811523,
+        "LONG": 99.77100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 570507,
+        "SUB_DISTRICT_NAME_THA": "เจริญเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Charoen Mueang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.615999221801758,
+        "LONG": 99.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 570508,
+        "SUB_DISTRICT_NAME_THA": "ป่าหุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Hung",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.4950008392334,
+        "LONG": 99.64800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 570509,
+        "SUB_DISTRICT_NAME_THA": "ม่วงคำ",
+        "SUB_DISTRICT_NAME_ENG": "Muang Kham",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.489999771118164,
+        "LONG": 99.71099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 570510,
+        "SUB_DISTRICT_NAME_THA": "ทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Khao",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.663000106811523,
+        "LONG": 99.73300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 570511,
+        "SUB_DISTRICT_NAME_THA": "สันกลาง",
+        "SUB_DISTRICT_NAME_ENG": "San Klang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.60700035095215,
+        "LONG": 99.68399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 570512,
+        "SUB_DISTRICT_NAME_THA": "แม่เย็น",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yen",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.45400047302246,
+        "LONG": 99.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 570513,
+        "SUB_DISTRICT_NAME_THA": "เมืองพาน",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.554000854492188,
+        "LONG": 99.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 570514,
+        "SUB_DISTRICT_NAME_THA": "ทานตะวัน",
+        "SUB_DISTRICT_NAME_ENG": "Than Tawan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.469999313354492,
+        "LONG": 99.83200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 570515,
+        "SUB_DISTRICT_NAME_THA": "เวียงห้าว",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Hao",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5705,
+        "LAT": 19.52400016784668,
+        "LONG": 99.87999725341797
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400701,
+        "SUB_DISTRICT_NAME_THA": "น้ำพอง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Phong",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.760000228881836,
+        "LONG": 102.82499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 400702,
+        "SUB_DISTRICT_NAME_THA": "วังชัย",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.72800064086914,
+        "LONG": 102.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 400703,
+        "SUB_DISTRICT_NAME_THA": "หนองกุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.729999542236328,
+        "LONG": 102.89700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 400704,
+        "SUB_DISTRICT_NAME_THA": "บัวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bua Yai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.631999969482422,
+        "LONG": 102.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 400705,
+        "SUB_DISTRICT_NAME_THA": "สะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Sa-At",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.788000106811523,
+        "LONG": 102.76799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 400706,
+        "SUB_DISTRICT_NAME_THA": "ม่วงหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Muang Wan",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.645999908447266,
+        "LONG": 102.77899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 400707,
+        "SUB_DISTRICT_NAME_THA": "บ้านขาม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kham",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.56800079345703,
+        "LONG": 102.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 400708,
+        "SUB_DISTRICT_NAME_THA": "บัวเงิน",
+        "SUB_DISTRICT_NAME_ENG": "Bua Ngoen",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.792999267578125,
+        "LONG": 102.99500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 400709,
+        "SUB_DISTRICT_NAME_THA": "ทรายมูล",
+        "SUB_DISTRICT_NAME_ENG": "Sai Mun",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.66900062561035,
+        "LONG": 102.91300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 400710,
+        "SUB_DISTRICT_NAME_THA": "ท่ากระเสริม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Krasoem",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.613000869750977,
+        "LONG": 102.87799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 400711,
+        "SUB_DISTRICT_NAME_THA": "พังทุย",
+        "SUB_DISTRICT_NAME_ENG": "Phang Thui",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.77400016784668,
+        "LONG": 102.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 400712,
+        "SUB_DISTRICT_NAME_THA": "กุดน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Kut Nam Sai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4007,
+        "LAT": 16.69700050354004,
+        "LONG": 102.78900146484375
+    }
+]

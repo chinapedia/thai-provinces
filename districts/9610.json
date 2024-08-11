@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 961001,
+        "SUB_DISTRICT_NAME_THA": "สุไหงโกลก",
+        "SUB_DISTRICT_NAME_ENG": "Su-Ngai Ko-Lok",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9610,
+        "LAT": 6.007999897003174,
+        "LONG": 101.9489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 961002,
+        "SUB_DISTRICT_NAME_THA": "ป่าเสมัส",
+        "SUB_DISTRICT_NAME_ENG": "Pa Semat",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9610,
+        "LAT": 6.053999900817871,
+        "LONG": 101.9749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 961003,
+        "SUB_DISTRICT_NAME_THA": "มูโนะ",
+        "SUB_DISTRICT_NAME_ENG": "Mu No",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9610,
+        "LAT": 6.107999801635742,
+        "LONG": 102.052001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 961004,
+        "SUB_DISTRICT_NAME_THA": "ปูโยะ",
+        "SUB_DISTRICT_NAME_ENG": "Puyo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9610,
+        "LAT": 6.109000205993652,
+        "LONG": 101.99299621582031
+    }
+]

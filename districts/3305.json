@@ -1,0 +1,200 @@
+[
+    {
+        "SUB_DISTRICT_ID": 330501,
+        "SUB_DISTRICT_NAME_THA": "กันทรารมย์",
+        "SUB_DISTRICT_NAME_ENG": "Kanthararom",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.717000007629395,
+        "LONG": 104.06999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 330502,
+        "SUB_DISTRICT_NAME_THA": "จะกง",
+        "SUB_DISTRICT_NAME_ENG": "Cha Kong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.821000099182129,
+        "LONG": 104.25299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 330503,
+        "SUB_DISTRICT_NAME_THA": "ใจดี",
+        "SUB_DISTRICT_NAME_ENG": "Chai Di",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.753000259399414,
+        "LONG": 104.1500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 330504,
+        "SUB_DISTRICT_NAME_THA": "ดองกำเม็ด",
+        "SUB_DISTRICT_NAME_ENG": "Dong Kammet",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.774999618530273,
+        "LONG": 104.18599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 330505,
+        "SUB_DISTRICT_NAME_THA": "โสน",
+        "SUB_DISTRICT_NAME_ENG": "Sano",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.656999588012695,
+        "LONG": 104.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 330506,
+        "SUB_DISTRICT_NAME_THA": "ปรือใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Prue Yai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.60099983215332,
+        "LONG": 104.24600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 330507,
+        "SUB_DISTRICT_NAME_THA": "สะเดาใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Sadao Yai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.711999893188477,
+        "LONG": 104.26799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 330508,
+        "SUB_DISTRICT_NAME_THA": "ตาอุด",
+        "SUB_DISTRICT_NAME_ENG": "Ta Ut",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.668999671936035,
+        "LONG": 104.27100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 330509,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Nuea",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.720000267028809,
+        "LONG": 104.20500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 330510,
+        "SUB_DISTRICT_NAME_THA": "ห้วยใต้",
+        "SUB_DISTRICT_NAME_ENG": "Huai Tai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.661999702453613,
+        "LONG": 104.17900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 330511,
+        "SUB_DISTRICT_NAME_THA": "หัวเสือ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Suea",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.833999633789062,
+        "LONG": 104.18599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 330513,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Takhian",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.77299976348877,
+        "LONG": 104.24800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 330515,
+        "SUB_DISTRICT_NAME_THA": "นิคมพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Phatthana",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.644000053405762,
+        "LONG": 104.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 330517,
+        "SUB_DISTRICT_NAME_THA": "โคกเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Khok Phet",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.803999900817871,
+        "LONG": 104.14900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 330518,
+        "SUB_DISTRICT_NAME_THA": "ปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Prasat",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.72700023651123,
+        "LONG": 104.01599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 330521,
+        "SUB_DISTRICT_NAME_THA": "สำโรงตาเจ็น",
+        "SUB_DISTRICT_NAME_ENG": "Samrong Ta Chen",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.871999740600586,
+        "LONG": 104.16999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 330522,
+        "SUB_DISTRICT_NAME_THA": "ห้วยสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Samran",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.71500015258789,
+        "LONG": 104.11499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 330524,
+        "SUB_DISTRICT_NAME_THA": "กฤษณา",
+        "SUB_DISTRICT_NAME_ENG": "Kritsana",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.87399959564209,
+        "LONG": 104.25499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 330525,
+        "SUB_DISTRICT_NAME_THA": "ลมศักดิ์",
+        "SUB_DISTRICT_NAME_ENG": "Lom Sak",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.76200008392334,
+        "LONG": 104.28299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 330526,
+        "SUB_DISTRICT_NAME_THA": "หนองฉลอง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chalong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.684000015258789,
+        "LONG": 104.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 330527,
+        "SUB_DISTRICT_NAME_THA": "ศรีตระกูล",
+        "SUB_DISTRICT_NAME_ENG": "Si Trakun",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.638999938964844,
+        "LONG": 104.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 330528,
+        "SUB_DISTRICT_NAME_THA": "ศรีสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Si Sa-At",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3305,
+        "LAT": 14.753999710083008,
+        "LONG": 104.10199737548828
+    }
+]

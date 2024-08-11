@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 343301,
+        "SUB_DISTRICT_NAME_THA": "ตาเกา",
+        "SUB_DISTRICT_NAME_ENG": "Ta Kao",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3433,
+        "LAT": 14.567999839782715,
+        "LONG": 104.91899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 343302,
+        "SUB_DISTRICT_NAME_THA": "ไพบูลย์",
+        "SUB_DISTRICT_NAME_ENG": "Phaibun",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3433,
+        "LAT": 14.602999687194824,
+        "LONG": 104.85399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 343303,
+        "SUB_DISTRICT_NAME_THA": "ขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Khi Lek",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3433,
+        "LAT": 14.62399959564209,
+        "LONG": 104.89900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 343304,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3433,
+        "LAT": 14.442999839782715,
+        "LONG": 104.8479995727539
+    }
+]

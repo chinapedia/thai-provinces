@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300601,
+        "SUB_DISTRICT_NAME_THA": "จักราช",
+        "SUB_DISTRICT_NAME_ENG": "Chakkarat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 15.027000427246094,
+        "LONG": 102.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 300603,
+        "SUB_DISTRICT_NAME_THA": "ทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Thong Lang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 15.052000045776367,
+        "LONG": 102.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 300604,
+        "SUB_DISTRICT_NAME_THA": "สีสุก",
+        "SUB_DISTRICT_NAME_ENG": "Si Suk",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 14.87399959564209,
+        "LONG": 102.38500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 300605,
+        "SUB_DISTRICT_NAME_THA": "หนองขาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kham",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 14.930999755859375,
+        "LONG": 102.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 300607,
+        "SUB_DISTRICT_NAME_THA": "หนองพลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phluang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 15.069999694824219,
+        "LONG": 102.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 300610,
+        "SUB_DISTRICT_NAME_THA": "ศรีละกอ",
+        "SUB_DISTRICT_NAME_ENG": "Si Lako",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 14.937999725341797,
+        "LONG": 102.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 300611,
+        "SUB_DISTRICT_NAME_THA": "คลองเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Mueang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 14.85200023651123,
+        "LONG": 102.50199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 300613,
+        "SUB_DISTRICT_NAME_THA": "หินโคน",
+        "SUB_DISTRICT_NAME_ENG": "Hin Khon",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3006,
+        "LAT": 15.012999534606934,
+        "LONG": 102.49800109863281
+    }
+]

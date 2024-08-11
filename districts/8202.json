@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 820201,
+        "SUB_DISTRICT_NAME_THA": "เกาะยาวน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Ko Yao Noi",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8202,
+        "LAT": 8.1899995803833,
+        "LONG": 98.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 820202,
+        "SUB_DISTRICT_NAME_THA": "เกาะยาวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Ko Yao Yai",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8202,
+        "LAT": 8.039999961853027,
+        "LONG": 98.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 820203,
+        "SUB_DISTRICT_NAME_THA": "พรุใน",
+        "SUB_DISTRICT_NAME_ENG": "Phru Nai",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8202,
+        "LAT": 7.829999923706055,
+        "LONG": 98.5999984741211
+    }
+]

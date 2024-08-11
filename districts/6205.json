@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620501,
+        "SUB_DISTRICT_NAME_THA": "คลองขลุง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khlung",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.176000595092773,
+        "LONG": 99.697998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 620502,
+        "SUB_DISTRICT_NAME_THA": "ท่ามะเขือ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Makhuea",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.26099967956543,
+        "LONG": 99.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 620504,
+        "SUB_DISTRICT_NAME_THA": "ท่าพุทรา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phutsa",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.268999099731445,
+        "LONG": 99.67900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 620505,
+        "SUB_DISTRICT_NAME_THA": "แม่ลาด",
+        "SUB_DISTRICT_NAME_ENG": "Mae Lat",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.152999877929688,
+        "LONG": 99.78500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 620506,
+        "SUB_DISTRICT_NAME_THA": "วังยาง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yang",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.20400047302246,
+        "LONG": 99.77400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 620507,
+        "SUB_DISTRICT_NAME_THA": "วังแขม",
+        "SUB_DISTRICT_NAME_ENG": "Wang Khaem",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.20800018310547,
+        "LONG": 99.83699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 620508,
+        "SUB_DISTRICT_NAME_THA": "หัวถนน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Thanon",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.267000198364258,
+        "LONG": 99.63099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 620509,
+        "SUB_DISTRICT_NAME_THA": "วังไทร",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.200000762939453,
+        "LONG": 99.63099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 620513,
+        "SUB_DISTRICT_NAME_THA": "วังบัว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Bua",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.308000564575195,
+        "LONG": 99.72899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 620516,
+        "SUB_DISTRICT_NAME_THA": "คลองสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sombun",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6205,
+        "LAT": 16.25,
+        "LONG": 99.54299926757812
+    }
+]

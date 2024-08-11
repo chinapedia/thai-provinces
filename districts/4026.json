@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 402602,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4026,
+        "LAT": 16.742000579833984,
+        "LONG": 102.25900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 402608,
+        "SUB_DISTRICT_NAME_THA": "เขาน้อย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4026,
+        "LAT": 16.722999572753906,
+        "LONG": 102.33000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 402615,
+        "SUB_DISTRICT_NAME_THA": "เมืองเก่าพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4026,
+        "LAT": 16.625,
+        "LONG": 102.20600128173828
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200401,
+        "SUB_DISTRICT_NAME_THA": "บางละมุง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 13.052000045776367,
+        "LONG": 100.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 200402,
+        "SUB_DISTRICT_NAME_THA": "หนองปรือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Prue",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 12.920000076293945,
+        "LONG": 100.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 200403,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาไหล",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Lai",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 12.982000350952148,
+        "LONG": 100.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 200404,
+        "SUB_DISTRICT_NAME_THA": "โป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Pong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 12.932999610900879,
+        "LONG": 100.98699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 200405,
+        "SUB_DISTRICT_NAME_THA": "เขาไม้แก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Mai Kaeo",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 12.951000213623047,
+        "LONG": 101.05699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 200406,
+        "SUB_DISTRICT_NAME_THA": "ห้วยใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yai",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 12.835000038146973,
+        "LONG": 100.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 200407,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียนเตี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Takhian Tia",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 13.001999855041504,
+        "LONG": 101.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 200408,
+        "SUB_DISTRICT_NAME_THA": "นาเกลือ",
+        "SUB_DISTRICT_NAME_ENG": "Na Kluea",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 12.911999702453613,
+        "LONG": 100.77799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 200409,
+        "SUB_DISTRICT_NAME_THA": "เขตการปกคองพิเศษพัทยา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2004,
+        "LAT": 12.90999984741211,
+        "LONG": 100.88400268554688
+    }
+]

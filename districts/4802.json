@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480201,
+        "SUB_DISTRICT_NAME_THA": "ปลาปาก",
+        "SUB_DISTRICT_NAME_ENG": "Pla Pak",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.19700050354004,
+        "LONG": 104.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 480202,
+        "SUB_DISTRICT_NAME_THA": "หนองฮี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hi",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.128000259399414,
+        "LONG": 104.58699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 480203,
+        "SUB_DISTRICT_NAME_THA": "กุตาไก้",
+        "SUB_DISTRICT_NAME_ENG": "Kut Takai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.216999053955078,
+        "LONG": 104.60800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 480204,
+        "SUB_DISTRICT_NAME_THA": "โคกสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sawang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.145000457763672,
+        "LONG": 104.46499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 480205,
+        "SUB_DISTRICT_NAME_THA": "โคกสูง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sung",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.17799949645996,
+        "LONG": 104.41300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 480206,
+        "SUB_DISTRICT_NAME_THA": "มหาชัย",
+        "SUB_DISTRICT_NAME_ENG": "Mahachai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.246999740600586,
+        "LONG": 104.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 480207,
+        "SUB_DISTRICT_NAME_THA": "นามะเขือ",
+        "SUB_DISTRICT_NAME_ENG": "Na Makhuea",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.273000717163086,
+        "LONG": 104.65399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 480208,
+        "SUB_DISTRICT_NAME_THA": "หนองเทาใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Thao Yai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4802,
+        "LAT": 17.121000289916992,
+        "LONG": 104.52300262451172
+    }
+]

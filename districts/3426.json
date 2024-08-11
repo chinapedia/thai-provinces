@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 342602,
+        "SUB_DISTRICT_NAME_THA": "หนองอ้ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Om",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3426,
+        "LAT": 14.803999900817871,
+        "LONG": 104.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 342603,
+        "SUB_DISTRICT_NAME_THA": "นาเกษม",
+        "SUB_DISTRICT_NAME_ENG": "Na Kasem",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3426,
+        "LAT": 14.722999572753906,
+        "LONG": 104.93099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 342604,
+        "SUB_DISTRICT_NAME_THA": "กุดเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Kut Ruea",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3426,
+        "LAT": 14.678000450134277,
+        "LONG": 104.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 342605,
+        "SUB_DISTRICT_NAME_THA": "โคกชำแระ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Chamrae",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3426,
+        "LAT": 14.751999855041504,
+        "LONG": 104.90799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 342606,
+        "SUB_DISTRICT_NAME_THA": "นาห่อม",
+        "SUB_DISTRICT_NAME_ENG": "Na Hom",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3426,
+        "LAT": 14.760000228881836,
+        "LONG": 104.8550033569336
+    }
+]

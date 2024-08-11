@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 100301,
+        "SUB_DISTRICT_NAME_THA": "กระทุ่มราย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.822999954223633,
+        "LONG": 100.89700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 100302,
+        "SUB_DISTRICT_NAME_THA": "หนองจอก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.869000434875488,
+        "LONG": 100.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 100303,
+        "SUB_DISTRICT_NAME_THA": "คลองสิบ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.913999557495117,
+        "LONG": 100.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 100304,
+        "SUB_DISTRICT_NAME_THA": "คลองสิบสอง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.913999557495117,
+        "LONG": 100.87999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 100305,
+        "SUB_DISTRICT_NAME_THA": "โคกแฝด",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.84000015258789,
+        "LONG": 100.83599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 100306,
+        "SUB_DISTRICT_NAME_THA": "คู้ฝั่งเหนือ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.871999740600586,
+        "LONG": 100.80999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 100307,
+        "SUB_DISTRICT_NAME_THA": "ลำผักชี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.79699993133545,
+        "LONG": 100.84400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 100308,
+        "SUB_DISTRICT_NAME_THA": "ลำต้อยติ่ง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1003,
+        "LAT": 13.781000137329102,
+        "LONG": 100.87699890136719
+    }
+]

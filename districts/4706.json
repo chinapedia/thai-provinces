@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470601,
+        "SUB_DISTRICT_NAME_THA": "วาริชภูมิ",
+        "SUB_DISTRICT_NAME_ENG": "Waritchaphum",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4706,
+        "LAT": 17.23200035095215,
+        "LONG": 103.64199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 470602,
+        "SUB_DISTRICT_NAME_THA": "ปลาโหล",
+        "SUB_DISTRICT_NAME_ENG": "Pla Lo",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4706,
+        "LAT": 17.32699966430664,
+        "LONG": 103.6709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 470603,
+        "SUB_DISTRICT_NAME_THA": "หนองลาด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lat",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4706,
+        "LAT": 17.319000244140625,
+        "LONG": 103.54299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 470604,
+        "SUB_DISTRICT_NAME_THA": "คำบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Kham Bo",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4706,
+        "LAT": 17.225000381469727,
+        "LONG": 103.5510025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 470605,
+        "SUB_DISTRICT_NAME_THA": "ค้อเขียว",
+        "SUB_DISTRICT_NAME_ENG": "Kho Khiao",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4706,
+        "LAT": 17.275999069213867,
+        "LONG": 103.5270004272461
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 380301,
+        "SUB_DISTRICT_NAME_THA": "โซ่",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3803,
+        "LAT": 18.038999557495117,
+        "LONG": 103.39099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 380302,
+        "SUB_DISTRICT_NAME_THA": "หนองพันทา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3803,
+        "LAT": 18.128999710083008,
+        "LONG": 103.38400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 380303,
+        "SUB_DISTRICT_NAME_THA": "ศรีชมภู",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3803,
+        "LAT": 18.270999908447266,
+        "LONG": 103.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 380304,
+        "SUB_DISTRICT_NAME_THA": "คำแก้ว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3803,
+        "LAT": 18.093000411987305,
+        "LONG": 103.48899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 380305,
+        "SUB_DISTRICT_NAME_THA": "บัวตูม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3803,
+        "LAT": 18.07200050354004,
+        "LONG": 103.36399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 380306,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำเจริญ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3803,
+        "LAT": 18.20800018310547,
+        "LONG": 103.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 380307,
+        "SUB_DISTRICT_NAME_THA": "เหล่าทอง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3803,
+        "LAT": 18.143999099731445,
+        "LONG": 103.44200134277344
+    }
+]

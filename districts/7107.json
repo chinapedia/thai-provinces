@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710701,
+        "SUB_DISTRICT_NAME_THA": "ท่าขนุน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khanun",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7107,
+        "LAT": 14.76200008392334,
+        "LONG": 98.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 710702,
+        "SUB_DISTRICT_NAME_THA": "ปิล๊อก",
+        "SUB_DISTRICT_NAME_ENG": "Pi Lok",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7107,
+        "LAT": 14.779000282287598,
+        "LONG": 98.40299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 710703,
+        "SUB_DISTRICT_NAME_THA": "หินดาด",
+        "SUB_DISTRICT_NAME_ENG": "Hin Dat",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7107,
+        "LAT": 14.607999801635742,
+        "LONG": 98.7229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 710704,
+        "SUB_DISTRICT_NAME_THA": "ลิ่นถิ่น",
+        "SUB_DISTRICT_NAME_ENG": "Lin Thin",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7107,
+        "LAT": 14.583999633789062,
+        "LONG": 98.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 710705,
+        "SUB_DISTRICT_NAME_THA": "ชะแล",
+        "SUB_DISTRICT_NAME_ENG": "Chalae",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7107,
+        "LAT": 14.996000289916992,
+        "LONG": 98.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 710706,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเขย่ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khayeng",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7107,
+        "LAT": 14.635000228881836,
+        "LONG": 98.58300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 710707,
+        "SUB_DISTRICT_NAME_THA": "สหกรณ์นิคม",
+        "SUB_DISTRICT_NAME_ENG": "Sahakon Nikhom",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7107,
+        "LAT": 14.734999656677246,
+        "LONG": 98.76300048828125
+    }
+]

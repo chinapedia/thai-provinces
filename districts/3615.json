@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 361501,
+        "SUB_DISTRICT_NAME_THA": "หนองฉิม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chim",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3615,
+        "LAT": 15.559000015258789,
+        "LONG": 101.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 361502,
+        "SUB_DISTRICT_NAME_THA": "ตาเนิน",
+        "SUB_DISTRICT_NAME_ENG": "Ta Noen",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3615,
+        "LAT": 15.527000427246094,
+        "LONG": 102.01599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 361503,
+        "SUB_DISTRICT_NAME_THA": "กะฮาด",
+        "SUB_DISTRICT_NAME_ENG": "Kahat",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3615,
+        "LAT": 15.631999969482422,
+        "LONG": 102.0260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 361504,
+        "SUB_DISTRICT_NAME_THA": "รังงาม",
+        "SUB_DISTRICT_NAME_ENG": "Rang Ngam",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3615,
+        "LAT": 15.487000465393066,
+        "LONG": 101.96399688720703
+    }
+]

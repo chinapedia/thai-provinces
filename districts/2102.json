@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 210201,
+        "SUB_DISTRICT_NAME_THA": "สำนักท้อน",
+        "SUB_DISTRICT_NAME_ENG": "Samnak Thon",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2102,
+        "LAT": 12.803999900817871,
+        "LONG": 101.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 210202,
+        "SUB_DISTRICT_NAME_THA": "พลา",
+        "SUB_DISTRICT_NAME_ENG": "Phla",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2102,
+        "LAT": 12.687999725341797,
+        "LONG": 101.0250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 210203,
+        "SUB_DISTRICT_NAME_THA": "บ้านฉาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chang",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2102,
+        "LAT": 12.732000350952148,
+        "LONG": 101.07599639892578
+    }
+]

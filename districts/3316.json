@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331601,
+        "SUB_DISTRICT_NAME_THA": "บุสูง",
+        "SUB_DISTRICT_NAME_ENG": "Bu Sung",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 14.956999778747559,
+        "LONG": 104.20899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 331602,
+        "SUB_DISTRICT_NAME_THA": "ธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "That",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 14.98799991607666,
+        "LONG": 104.18599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 331603,
+        "SUB_DISTRICT_NAME_THA": "ดวนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Duan Yai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 14.944999694824219,
+        "LONG": 104.27100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 331604,
+        "SUB_DISTRICT_NAME_THA": "บ่อแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kaeo",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 14.991999626159668,
+        "LONG": 104.2699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 331605,
+        "SUB_DISTRICT_NAME_THA": "ศรีสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Si Samran",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 14.909000396728516,
+        "LONG": 104.15499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 331606,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Sawang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 15.017999649047852,
+        "LONG": 104.2239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 331607,
+        "SUB_DISTRICT_NAME_THA": "วังหิน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Hin",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 14.920000076293945,
+        "LONG": 104.23999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 331608,
+        "SUB_DISTRICT_NAME_THA": "โพนยาง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Yang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3316,
+        "LAT": 14.925999641418457,
+        "LONG": 104.2040023803711
+    }
+]

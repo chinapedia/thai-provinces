@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 110101,
+        "SUB_DISTRICT_NAME_THA": "เทศบาลนครสมุทรปราการ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.593000411987305,
+        "LONG": 100.59700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 110102,
+        "SUB_DISTRICT_NAME_THA": "สำโรงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.64900016784668,
+        "LONG": 100.61699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 110103,
+        "SUB_DISTRICT_NAME_THA": "บางเมือง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.60099983215332,
+        "LONG": 100.62200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 110104,
+        "SUB_DISTRICT_NAME_THA": "ท้ายบ้าน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.555999755859375,
+        "LONG": 100.5989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 110105,
+        "SUB_DISTRICT_NAME_THA": "ท้ายบ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.571999549865723,
+        "LONG": 100.62100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 110108,
+        "SUB_DISTRICT_NAME_THA": "บางปูใหม่",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.526000022888184,
+        "LONG": 100.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 110110,
+        "SUB_DISTRICT_NAME_THA": "แพรกษา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.564000129699707,
+        "LONG": 100.65299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 110111,
+        "SUB_DISTRICT_NAME_THA": "บางโปรง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.623000144958496,
+        "LONG": 100.56500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 110112,
+        "SUB_DISTRICT_NAME_THA": "เทศบาลบางปู",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pu",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.510000228881836,
+        "LONG": 100.7509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 110113,
+        "SUB_DISTRICT_NAME_THA": "บางด้วน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.621999740600586,
+        "LONG": 100.58100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 110114,
+        "SUB_DISTRICT_NAME_THA": "เทศบาลบางเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Mueang Mai",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.621999740600586,
+        "LONG": 100.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 110115,
+        "SUB_DISTRICT_NAME_THA": "เทพารักษ์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.633999824523926,
+        "LONG": 100.61000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 110117,
+        "SUB_DISTRICT_NAME_THA": "แพรกษาใหม่",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1101,
+        "LAT": 13.559000015258789,
+        "LONG": 100.69100189208984
+    }
+]

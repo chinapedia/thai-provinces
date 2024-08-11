@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 551301,
+        "SUB_DISTRICT_NAME_THA": "นาไร่หลวง",
+        "SUB_DISTRICT_NAME_ENG": "Na Rai Luang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5513,
+        "LAT": 19.339000701904297,
+        "LONG": 100.7040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 551302,
+        "SUB_DISTRICT_NAME_THA": "ชนแดน",
+        "SUB_DISTRICT_NAME_ENG": "Chon Daen",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5513,
+        "LAT": 19.461999893188477,
+        "LONG": 100.69100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 551303,
+        "SUB_DISTRICT_NAME_THA": "ยอด",
+        "SUB_DISTRICT_NAME_ENG": "Yot",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5513,
+        "LAT": 19.384000778198242,
+        "LONG": 100.56700134277344
+    }
+]

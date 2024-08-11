@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 430101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.889999389648438,
+        "LONG": 102.76100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 430102,
+        "SUB_DISTRICT_NAME_THA": "มีชัย",
+        "SUB_DISTRICT_NAME_ENG": "Mi Chai",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.868000030517578,
+        "LONG": 102.72899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 430103,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chai",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.847000122070312,
+        "LONG": 102.77300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 430104,
+        "SUB_DISTRICT_NAME_THA": "กวนวัน",
+        "SUB_DISTRICT_NAME_ENG": "Kuan Wan",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.857999801635742,
+        "LONG": 102.69999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 430105,
+        "SUB_DISTRICT_NAME_THA": "เวียงคุก",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Khuk",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.783000946044922,
+        "LONG": 102.6729965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 430106,
+        "SUB_DISTRICT_NAME_THA": "วัดธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Wat That",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.85099983215332,
+        "LONG": 102.82599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 430107,
+        "SUB_DISTRICT_NAME_THA": "หาดคำ",
+        "SUB_DISTRICT_NAME_ENG": "Hat Kham",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.899999618530273,
+        "LONG": 102.82499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 430108,
+        "SUB_DISTRICT_NAME_THA": "หินโงม",
+        "SUB_DISTRICT_NAME_ENG": "Hin Ngom",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.940000534057617,
+        "LONG": 102.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 430109,
+        "SUB_DISTRICT_NAME_THA": "บ้านเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Duea",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.985000610351562,
+        "LONG": 102.9540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 430110,
+        "SUB_DISTRICT_NAME_THA": "ค่ายบกหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Khai Bok Wan",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.7810001373291,
+        "LONG": 102.78299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 430111,
+        "SUB_DISTRICT_NAME_THA": "สองห้อง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sawang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.71500015258789,
+        "LONG": 102.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 430113,
+        "SUB_DISTRICT_NAME_THA": "พระธาตุบังพวน",
+        "SUB_DISTRICT_NAME_ENG": "Phrathat Bang Phuan",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.736000061035156,
+        "LONG": 102.69300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 430116,
+        "SUB_DISTRICT_NAME_THA": "หนองกอมเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kom Ko",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.829999923706055,
+        "LONG": 102.74199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 430117,
+        "SUB_DISTRICT_NAME_THA": "ปะโค",
+        "SUB_DISTRICT_NAME_ENG": "Pakho",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.801000595092773,
+        "LONG": 102.71600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 430118,
+        "SUB_DISTRICT_NAME_THA": "เมืองหมี",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Mi",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.83300018310547,
+        "LONG": 102.7020034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 430119,
+        "SUB_DISTRICT_NAME_THA": "สีกาย",
+        "SUB_DISTRICT_NAME_ENG": "Si Kai",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4301,
+        "LAT": 17.95800018310547,
+        "LONG": 102.88400268554688
+    }
+]

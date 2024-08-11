@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 240901,
+        "SUB_DISTRICT_NAME_THA": "แปลงยาว",
+        "SUB_DISTRICT_NAME_ENG": "Plaeng Yao",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2409,
+        "LAT": 13.598999977111816,
+        "LONG": 101.29299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 240902,
+        "SUB_DISTRICT_NAME_THA": "วังเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yen",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2409,
+        "LAT": 13.53600025177002,
+        "LONG": 101.33399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 240903,
+        "SUB_DISTRICT_NAME_THA": "หัวสำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Samrong",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2409,
+        "LAT": 13.62399959564209,
+        "LONG": 101.31500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 240904,
+        "SUB_DISTRICT_NAME_THA": "หนองไม้แก่น",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mai Kaen",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2409,
+        "LAT": 13.503999710083008,
+        "LONG": 101.40399932861328
+    }
+]

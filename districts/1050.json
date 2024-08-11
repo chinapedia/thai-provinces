@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 105001,
+        "SUB_DISTRICT_NAME_THA": "บางบอน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1050,
+        "LAT": 13.645999908447266,
+        "LONG": 100.37000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 961313,
+        "SUB_DISTRICT_NAME_THA": "คลองบางพราน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Bang Phran",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1050,
+        "LAT": 13.675000190734863,
+        "LONG": 100.4010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 961314,
+        "SUB_DISTRICT_NAME_THA": "คลองบางบอน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Bang Bon",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1050,
+        "LAT": 13.666000366210938,
+        "LONG": 100.38999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 961315,
+        "SUB_DISTRICT_NAME_THA": "บางบอนเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Bon Nuea",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1050,
+        "LAT": 13.654000282287598,
+        "LONG": 100.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 961316,
+        "SUB_DISTRICT_NAME_THA": "บางบอนใต้",
+        "SUB_DISTRICT_NAME_ENG": "Bang Bon Tai",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1050,
+        "LAT": 13.642000198364258,
+        "LONG": 100.36900329589844
+    }
+]

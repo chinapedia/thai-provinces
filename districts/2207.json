@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220701,
+        "SUB_DISTRICT_NAME_THA": "ปะตง",
+        "SUB_DISTRICT_NAME_ENG": "Patong",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2207,
+        "LAT": 13.170000076293945,
+        "LONG": 102.19400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 220702,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งขนาน",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khanan",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2207,
+        "LAT": 13.232000350952148,
+        "LONG": 102.31900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 220703,
+        "SUB_DISTRICT_NAME_THA": "ทับช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Chang",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2207,
+        "LAT": 13.265000343322754,
+        "LONG": 102.16100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 220704,
+        "SUB_DISTRICT_NAME_THA": "ทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Khao",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2207,
+        "LAT": 13.086000442504883,
+        "LONG": 102.1969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 220705,
+        "SUB_DISTRICT_NAME_THA": "สะตอน",
+        "SUB_DISTRICT_NAME_ENG": "Saton",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2207,
+        "LAT": 13.173999786376953,
+        "LONG": 102.37100219726562
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190801,
+        "SUB_DISTRICT_NAME_THA": "หนองโดน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Don",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1908,
+        "LAT": 14.687999725341797,
+        "LONG": 100.69300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 190802,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลับ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klap",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1908,
+        "LAT": 14.729999542236328,
+        "LONG": 100.68399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 190803,
+        "SUB_DISTRICT_NAME_THA": "ดอนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Don Thong",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1908,
+        "LAT": 14.663999557495117,
+        "LONG": 100.65399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 190804,
+        "SUB_DISTRICT_NAME_THA": "บ้านโปร่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Prong",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1908,
+        "LAT": 14.715999603271484,
+        "LONG": 100.73400115966797
+    }
+]

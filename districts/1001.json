@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 100101,
+        "SUB_DISTRICT_NAME_THA": "พระบรมมหาราชวัง",
+        "SUB_DISTRICT_NAME_ENG": "Phra Borom Maha Ratchawang",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.75100040435791,
+        "LONG": 100.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 100102,
+        "SUB_DISTRICT_NAME_THA": "วังบูรพาภิรมย์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Burapha Phirom",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.744000434875488,
+        "LONG": 100.4990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 100103,
+        "SUB_DISTRICT_NAME_THA": "วัดราชบพิธ",
+        "SUB_DISTRICT_NAME_ENG": "Wat Ratchabophit",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.75,
+        "LONG": 100.4990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 100104,
+        "SUB_DISTRICT_NAME_THA": "สำราญราษฎร์",
+        "SUB_DISTRICT_NAME_ENG": "Samran Rat",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.75100040435791,
+        "LONG": 100.50299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 100105,
+        "SUB_DISTRICT_NAME_THA": "ศาลเจ้าพ่อเสือ",
+        "SUB_DISTRICT_NAME_ENG": "San Chaopho Suea",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.753999710083008,
+        "LONG": 100.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 100106,
+        "SUB_DISTRICT_NAME_THA": "เสาชิงช้า",
+        "SUB_DISTRICT_NAME_ENG": "Sao Chingcha",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.753000259399414,
+        "LONG": 100.5
+    },
+    {
+        "SUB_DISTRICT_ID": 100107,
+        "SUB_DISTRICT_NAME_THA": "บวรนิเวศ",
+        "SUB_DISTRICT_NAME_ENG": "Bowon Niwet",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.756999969482422,
+        "LONG": 100.5009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 100108,
+        "SUB_DISTRICT_NAME_THA": "ตลาดยอด",
+        "SUB_DISTRICT_NAME_ENG": "Talat Yot",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.760000228881836,
+        "LONG": 100.49800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 100109,
+        "SUB_DISTRICT_NAME_THA": "ชนะสงคราม",
+        "SUB_DISTRICT_NAME_ENG": "Chana Songkhram",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.76200008392334,
+        "LONG": 100.49500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 100110,
+        "SUB_DISTRICT_NAME_THA": "บ้านพานถม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phan Thom",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.76200008392334,
+        "LONG": 100.50299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 100111,
+        "SUB_DISTRICT_NAME_THA": "บางขุนพรหม",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khun Phrom",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.765000343322754,
+        "LONG": 100.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 100112,
+        "SUB_DISTRICT_NAME_THA": "วัดสามพระยา",
+        "SUB_DISTRICT_NAME_ENG": "Wat Sam Phraya",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1001,
+        "LAT": 13.767999649047852,
+        "LONG": 100.4990005493164
+    }
+]

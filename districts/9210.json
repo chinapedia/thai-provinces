@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 921001,
+        "SUB_DISTRICT_NAME_THA": "หาดสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Hat Samran",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9210,
+        "LAT": 7.25600004196167,
+        "LONG": 99.552001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 921002,
+        "SUB_DISTRICT_NAME_THA": "บ้าหวี",
+        "SUB_DISTRICT_NAME_ENG": "Ba Wi",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9210,
+        "LAT": 7.2829999923706055,
+        "LONG": 99.59700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 921003,
+        "SUB_DISTRICT_NAME_THA": "ตะเสะ",
+        "SUB_DISTRICT_NAME_ENG": "Tase",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9210,
+        "LAT": 7.046999931335449,
+        "LONG": 99.47100067138672
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841801,
+        "SUB_DISTRICT_NAME_THA": "สองแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Song Phraek",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8418,
+        "LAT": 8.482999801635742,
+        "LONG": 99.125
+    },
+    {
+        "SUB_DISTRICT_ID": 841802,
+        "SUB_DISTRICT_NAME_THA": "ชัยบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Chai Buri",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8418,
+        "LAT": 8.434000015258789,
+        "LONG": 99.07099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 841803,
+        "SUB_DISTRICT_NAME_THA": "คลองน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Noi",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8418,
+        "LAT": 8.503000259399414,
+        "LONG": 98.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 841804,
+        "SUB_DISTRICT_NAME_THA": "ไทรทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Thong",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8418,
+        "LAT": 8.388999938964844,
+        "LONG": 99.072998046875
+    }
+]

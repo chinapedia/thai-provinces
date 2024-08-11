@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770401,
+        "SUB_DISTRICT_NAME_THA": "กำเนิดนพคุณ",
+        "SUB_DISTRICT_NAME_ENG": "Kamnoet Nopphakhun",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7704,
+        "LAT": 11.248000144958496,
+        "LONG": 99.51599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 770402,
+        "SUB_DISTRICT_NAME_THA": "พงศ์ประศาสน์",
+        "SUB_DISTRICT_NAME_ENG": "Phong Prasat",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7704,
+        "LAT": 11.187999725341797,
+        "LONG": 99.46600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 770403,
+        "SUB_DISTRICT_NAME_THA": "ร่อนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ron Thong",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7704,
+        "LAT": 11.298999786376953,
+        "LONG": 99.39299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 770404,
+        "SUB_DISTRICT_NAME_THA": "ธงชัย",
+        "SUB_DISTRICT_NAME_ENG": "Thong Chai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7704,
+        "LAT": 11.317999839782715,
+        "LONG": 99.5250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 770405,
+        "SUB_DISTRICT_NAME_THA": "ชัยเกษม",
+        "SUB_DISTRICT_NAME_ENG": "Chai Kasem",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7704,
+        "LAT": 11.375,
+        "LONG": 99.4729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 770406,
+        "SUB_DISTRICT_NAME_THA": "ทองมงคล",
+        "SUB_DISTRICT_NAME_ENG": "Thong Mongkhon",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7704,
+        "LAT": 11.204000473022461,
+        "LONG": 99.36900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 770407,
+        "SUB_DISTRICT_NAME_THA": "แม่รำพึง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ramphueng",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7704,
+        "LAT": 11.22700023651123,
+        "LONG": 99.54399871826172
+    }
+]

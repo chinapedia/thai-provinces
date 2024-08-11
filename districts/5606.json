@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560601,
+        "SUB_DISTRICT_NAME_THA": "ปง",
+        "SUB_DISTRICT_NAME_ENG": "Pong",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5606,
+        "LAT": 19.101999282836914,
+        "LONG": 100.20500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 560602,
+        "SUB_DISTRICT_NAME_THA": "ควร",
+        "SUB_DISTRICT_NAME_ENG": "Khuan",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5606,
+        "LAT": 19.18199920654297,
+        "LONG": 100.3740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 560603,
+        "SUB_DISTRICT_NAME_THA": "ออย",
+        "SUB_DISTRICT_NAME_ENG": "Oi",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5606,
+        "LAT": 19.211000442504883,
+        "LONG": 100.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 560604,
+        "SUB_DISTRICT_NAME_THA": "งิม",
+        "SUB_DISTRICT_NAME_ENG": "Ngim",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5606,
+        "LAT": 19.284000396728516,
+        "LONG": 100.40299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 560605,
+        "SUB_DISTRICT_NAME_THA": "ผาช้างน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Pha Chang Noi",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5606,
+        "LAT": 19.281999588012695,
+        "LONG": 100.50199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 560606,
+        "SUB_DISTRICT_NAME_THA": "นาปรัง",
+        "SUB_DISTRICT_NAME_ENG": "Na Prang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5606,
+        "LAT": 19.2189998626709,
+        "LONG": 100.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 560607,
+        "SUB_DISTRICT_NAME_THA": "ขุนควร",
+        "SUB_DISTRICT_NAME_ENG": "Khun Khuan",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5606,
+        "LAT": 19.111000061035156,
+        "LONG": 100.45700073242188
+    }
+]

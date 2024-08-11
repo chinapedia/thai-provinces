@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 750201,
+        "SUB_DISTRICT_NAME_THA": "กระดังงา",
+        "SUB_DISTRICT_NAME_ENG": "Kradang Nga",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.472000122070312,
+        "LONG": 99.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 750202,
+        "SUB_DISTRICT_NAME_THA": "บางสะแก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sakae",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.449999809265137,
+        "LONG": 99.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 750203,
+        "SUB_DISTRICT_NAME_THA": "บางยี่รงค์",
+        "SUB_DISTRICT_NAME_ENG": "Bang Yi Rong",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.480999946594238,
+        "LONG": 99.91200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 750204,
+        "SUB_DISTRICT_NAME_THA": "โรงหีบ",
+        "SUB_DISTRICT_NAME_ENG": "Rong Hip",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.470000267028809,
+        "LONG": 99.93099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 750205,
+        "SUB_DISTRICT_NAME_THA": "บางคนที",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khonthi",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.493000030517578,
+        "LONG": 99.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 750206,
+        "SUB_DISTRICT_NAME_THA": "ดอนมะโนรา",
+        "SUB_DISTRICT_NAME_ENG": "Don Manora",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.49899959564209,
+        "LONG": 100.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 750207,
+        "SUB_DISTRICT_NAME_THA": "บางพรม",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phrom",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.45199966430664,
+        "LONG": 99.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 750208,
+        "SUB_DISTRICT_NAME_THA": "บางกุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kung",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.458999633789062,
+        "LONG": 99.93099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 750209,
+        "SUB_DISTRICT_NAME_THA": "จอมปลวก",
+        "SUB_DISTRICT_NAME_ENG": "Chom Pluak",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.482999801635742,
+        "LONG": 99.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 750210,
+        "SUB_DISTRICT_NAME_THA": "บางนกแขวก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nok Khwaek",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.503999710083008,
+        "LONG": 99.9229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 750211,
+        "SUB_DISTRICT_NAME_THA": "ยายแพง",
+        "SUB_DISTRICT_NAME_ENG": "Yai Phaeng",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.487000465393066,
+        "LONG": 99.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 750212,
+        "SUB_DISTRICT_NAME_THA": "บางกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krabue",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.463000297546387,
+        "LONG": 99.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 750213,
+        "SUB_DISTRICT_NAME_THA": "บ้านปราโมทย์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pramot",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7502,
+        "LAT": 13.460000038146973,
+        "LONG": 99.89800262451172
+    }
+]

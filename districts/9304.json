@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930401,
+        "SUB_DISTRICT_NAME_THA": "แม่ขรี",
+        "SUB_DISTRICT_NAME_ENG": "Mae Khri",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9304,
+        "LAT": 7.3379998207092285,
+        "LONG": 100.09700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 930402,
+        "SUB_DISTRICT_NAME_THA": "ตะโหมด",
+        "SUB_DISTRICT_NAME_ENG": "Tanot",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9304,
+        "LAT": 7.2779998779296875,
+        "LONG": 100.00700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 930403,
+        "SUB_DISTRICT_NAME_THA": "คลองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Yai",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9304,
+        "LAT": 7.260000228881836,
+        "LONG": 100.0739974975586
+    }
+]

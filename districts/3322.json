@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 332201,
+        "SUB_DISTRICT_NAME_THA": "กุง",
+        "SUB_DISTRICT_NAME_ENG": "Kung",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3322,
+        "LAT": 15.473999977111816,
+        "LONG": 104.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 332202,
+        "SUB_DISTRICT_NAME_THA": "คลีกลิ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Khli Kling",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3322,
+        "LAT": 15.529000282287598,
+        "LONG": 104.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 332203,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Dong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3322,
+        "LAT": 15.458000183105469,
+        "LONG": 104.0459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 332204,
+        "SUB_DISTRICT_NAME_THA": "โจดม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Chot Muang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3322,
+        "LAT": 15.472999572753906,
+        "LONG": 104.13899993896484
+    }
+]

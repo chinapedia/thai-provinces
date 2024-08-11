@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930701,
+        "SUB_DISTRICT_NAME_THA": "เขาย่า",
+        "SUB_DISTRICT_NAME_ENG": "Khao Ya",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9307,
+        "LAT": 7.745999813079834,
+        "LONG": 99.86399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 930702,
+        "SUB_DISTRICT_NAME_THA": "เขาปู่",
+        "SUB_DISTRICT_NAME_ENG": "Khao Pu",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9307,
+        "LAT": 7.701000213623047,
+        "LONG": 99.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 930703,
+        "SUB_DISTRICT_NAME_THA": "ตะแพน",
+        "SUB_DISTRICT_NAME_ENG": "Tapaen",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9307,
+        "LAT": 7.644999980926514,
+        "LONG": 99.87799835205078
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302101,
+        "SUB_DISTRICT_NAME_THA": "ปากช่อง",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.722000122070312,
+        "LONG": 101.36299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 302102,
+        "SUB_DISTRICT_NAME_THA": "กลางดง",
+        "SUB_DISTRICT_NAME_ENG": "Klang Dong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.649999618530273,
+        "LONG": 101.28299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 302103,
+        "SUB_DISTRICT_NAME_THA": "จันทึก",
+        "SUB_DISTRICT_NAME_ENG": "Chan Thuek",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.805999755859375,
+        "LONG": 101.45600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 302104,
+        "SUB_DISTRICT_NAME_THA": "วังกะทะ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Katha",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.53600025177002,
+        "LONG": 101.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 302105,
+        "SUB_DISTRICT_NAME_THA": "หมูสี",
+        "SUB_DISTRICT_NAME_ENG": "Mu Si",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.50100040435791,
+        "LONG": 101.4020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 302106,
+        "SUB_DISTRICT_NAME_THA": "หนองสาหร่าย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sarai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.689000129699707,
+        "LONG": 101.48799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 302107,
+        "SUB_DISTRICT_NAME_THA": "ขนงพระ",
+        "SUB_DISTRICT_NAME_ENG": "Khanong Phra",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.593999862670898,
+        "LONG": 101.52999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 302108,
+        "SUB_DISTRICT_NAME_THA": "โป่งตาลอง",
+        "SUB_DISTRICT_NAME_ENG": "Pong Ta Long",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.472000122070312,
+        "LONG": 101.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 302109,
+        "SUB_DISTRICT_NAME_THA": "คลองม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Muang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.647000312805176,
+        "LONG": 101.64900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 302110,
+        "SUB_DISTRICT_NAME_THA": "หนองน้ำแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam Daeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.61299991607666,
+        "LONG": 101.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 302111,
+        "SUB_DISTRICT_NAME_THA": "วังไทร",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.706000328063965,
+        "LONG": 101.572998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 302112,
+        "SUB_DISTRICT_NAME_THA": "พญาเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Phaya Yen",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3021,
+        "LAT": 14.54800033569336,
+        "LONG": 101.24600219726562
+    }
+]

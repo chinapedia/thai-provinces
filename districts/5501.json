@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550101,
+        "SUB_DISTRICT_NAME_THA": "ในเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Wiang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.792999267578125,
+        "LONG": 100.78600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 550102,
+        "SUB_DISTRICT_NAME_THA": "บ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Bo",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.969999313354492,
+        "LONG": 100.72100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 550103,
+        "SUB_DISTRICT_NAME_THA": "ผาสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Pha Sing",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.850000381469727,
+        "LONG": 100.7490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 550104,
+        "SUB_DISTRICT_NAME_THA": "ไชยสถาน",
+        "SUB_DISTRICT_NAME_ENG": "Chaiya Sathan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.783000946044922,
+        "LONG": 100.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 550105,
+        "SUB_DISTRICT_NAME_THA": "ถืมตอง",
+        "SUB_DISTRICT_NAME_ENG": "Thuem Thong",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.797000885009766,
+        "LONG": 100.71199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 550106,
+        "SUB_DISTRICT_NAME_THA": "เรือง",
+        "SUB_DISTRICT_NAME_ENG": "Rueang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.783000946044922,
+        "LONG": 100.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 550107,
+        "SUB_DISTRICT_NAME_THA": "นาชาว",
+        "SUB_DISTRICT_NAME_ENG": "Na Sao",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.70800018310547,
+        "LONG": 100.68199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 550108,
+        "SUB_DISTRICT_NAME_THA": "ดู่ใต้",
+        "SUB_DISTRICT_NAME_ENG": "Du Tai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.724000930786133,
+        "LONG": 100.73899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 550109,
+        "SUB_DISTRICT_NAME_THA": "กองควาย",
+        "SUB_DISTRICT_NAME_ENG": "Kong Khwai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.68600082397461,
+        "LONG": 100.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 550116,
+        "SUB_DISTRICT_NAME_THA": "สวก",
+        "SUB_DISTRICT_NAME_ENG": "Suak",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.742000579833984,
+        "LONG": 100.6240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 550117,
+        "SUB_DISTRICT_NAME_THA": "สะเนียน",
+        "SUB_DISTRICT_NAME_ENG": "Sanian",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5501,
+        "LAT": 18.91200065612793,
+        "LONG": 100.59200286865234
+    }
+]

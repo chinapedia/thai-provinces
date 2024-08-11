@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520601,
+        "SUB_DISTRICT_NAME_THA": "แจ้ห่ม",
+        "SUB_DISTRICT_NAME_ENG": "Chae Hom",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5206,
+        "LAT": 18.700000762939453,
+        "LONG": 99.61599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 520602,
+        "SUB_DISTRICT_NAME_THA": "บ้านสา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sa",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5206,
+        "LAT": 18.591999053955078,
+        "LONG": 99.56099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 520603,
+        "SUB_DISTRICT_NAME_THA": "ปงดอน",
+        "SUB_DISTRICT_NAME_ENG": "Pong Don",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5206,
+        "LAT": 18.783000946044922,
+        "LONG": 99.69499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 520604,
+        "SUB_DISTRICT_NAME_THA": "แม่สุก",
+        "SUB_DISTRICT_NAME_ENG": "Mae Suk",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5206,
+        "LAT": 18.836000442504883,
+        "LONG": 99.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 520605,
+        "SUB_DISTRICT_NAME_THA": "เมืองมาย",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Mai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5206,
+        "LAT": 18.645000457763672,
+        "LONG": 99.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 520606,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Phueng",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5206,
+        "LAT": 18.913999557495117,
+        "LONG": 99.7030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 520607,
+        "SUB_DISTRICT_NAME_THA": "วิเชตนคร",
+        "SUB_DISTRICT_NAME_ENG": "Wichet Nakhon",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5206,
+        "LAT": 18.72599983215332,
+        "LONG": 99.55699920654297
+    }
+]

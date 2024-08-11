@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 170201,
+        "SUB_DISTRICT_NAME_THA": "สิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Sing",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.890000343322754,
+        "LONG": 100.33799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 170202,
+        "SUB_DISTRICT_NAME_THA": "ไม้ดัด",
+        "SUB_DISTRICT_NAME_ENG": "Mai Dat",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.857999801635742,
+        "LONG": 100.34500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 170203,
+        "SUB_DISTRICT_NAME_THA": "เชิงกลัด",
+        "SUB_DISTRICT_NAME_ENG": "Choeng Klat",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.90999984741211,
+        "LONG": 100.26899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 170204,
+        "SUB_DISTRICT_NAME_THA": "โพชนไก่",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chon Kai",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.928999900817871,
+        "LONG": 100.29199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 170205,
+        "SUB_DISTRICT_NAME_THA": "แม่ลา",
+        "SUB_DISTRICT_NAME_ENG": "Mae La",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.940999984741211,
+        "LONG": 100.31900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 170206,
+        "SUB_DISTRICT_NAME_THA": "บ้านจ่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Cha",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.85200023651123,
+        "LONG": 100.28399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 170207,
+        "SUB_DISTRICT_NAME_THA": "พักทัน",
+        "SUB_DISTRICT_NAME_ENG": "Phak Than",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.923999786376953,
+        "LONG": 100.22000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 170208,
+        "SUB_DISTRICT_NAME_THA": "สระแจง",
+        "SUB_DISTRICT_NAME_ENG": "Sa Chaeng",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1702,
+        "LAT": 14.873000144958496,
+        "LONG": 100.23500061035156
+    }
+]

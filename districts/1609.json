@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160901,
+        "SUB_DISTRICT_NAME_THA": "โคกเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Charoen",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1609,
+        "LAT": 15.407999992370605,
+        "LONG": 100.7770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 160902,
+        "SUB_DISTRICT_NAME_THA": "ยางราก",
+        "SUB_DISTRICT_NAME_ENG": "Yang Rak",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1609,
+        "LAT": 15.366000175476074,
+        "LONG": 100.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 160903,
+        "SUB_DISTRICT_NAME_THA": "หนองมะค่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Makha",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1609,
+        "LAT": 15.515000343322754,
+        "LONG": 100.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 160904,
+        "SUB_DISTRICT_NAME_THA": "วังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1609,
+        "LAT": 15.468999862670898,
+        "LONG": 100.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 160905,
+        "SUB_DISTRICT_NAME_THA": "โคกแสมสาร",
+        "SUB_DISTRICT_NAME_ENG": "Khok Samae San",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1609,
+        "LAT": 15.343999862670898,
+        "LONG": 100.8499984741211
+    }
+]

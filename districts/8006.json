@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 800601,
+        "SUB_DISTRICT_NAME_THA": "เชียรใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Chian Yai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.20199966430664,
+        "LONG": 100.11599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 800603,
+        "SUB_DISTRICT_NAME_THA": "ท่าขนาน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khanan",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.140000343322754,
+        "LONG": 100.16500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 800604,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.156000137329102,
+        "LONG": 100.1969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 800605,
+        "SUB_DISTRICT_NAME_THA": "บ้านเนิน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Noen",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.166000366210938,
+        "LONG": 100.16999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 800606,
+        "SUB_DISTRICT_NAME_THA": "ไสหมาก",
+        "SUB_DISTRICT_NAME_ENG": "Sai Mak",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.20300006866455,
+        "LONG": 100.16300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 800607,
+        "SUB_DISTRICT_NAME_THA": "ท้องลำเจียก",
+        "SUB_DISTRICT_NAME_ENG": "Thong Lamchiak",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.147000312805176,
+        "LONG": 100.11699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 800610,
+        "SUB_DISTRICT_NAME_THA": "เสือหึง",
+        "SUB_DISTRICT_NAME_ENG": "Suea Hueng",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.189000129699707,
+        "LONG": 100.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 800611,
+        "SUB_DISTRICT_NAME_THA": "การะเกด",
+        "SUB_DISTRICT_NAME_ENG": "Karaket",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.072999954223633,
+        "LONG": 100.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 800612,
+        "SUB_DISTRICT_NAME_THA": "เขาพระบาท",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phrabat",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.083999633789062,
+        "LONG": 100.19100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 800613,
+        "SUB_DISTRICT_NAME_THA": "แม่เจ้าอยู่หัว",
+        "SUB_DISTRICT_NAME_ENG": "Mae Chao Yu Hua",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8006,
+        "LAT": 8.074999809265137,
+        "LONG": 100.09400177001953
+    }
+]

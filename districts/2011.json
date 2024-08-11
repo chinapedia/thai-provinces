@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 201101,
+        "SUB_DISTRICT_NAME_THA": "เกาะจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Ko Chan",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2011,
+        "LAT": 13.402999877929688,
+        "LONG": 101.4209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 201102,
+        "SUB_DISTRICT_NAME_THA": "ท่าบุญมี",
+        "SUB_DISTRICT_NAME_ENG": "Tha Bunmi",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2011,
+        "LAT": 13.388999938964844,
+        "LONG": 101.28800201416016
+    }
+]

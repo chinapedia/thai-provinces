@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310901,
+        "SUB_DISTRICT_NAME_THA": "พุทไธสง",
+        "SUB_DISTRICT_NAME_ENG": "Phutthaisong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3109,
+        "LAT": 15.581999778747559,
+        "LONG": 103.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 310902,
+        "SUB_DISTRICT_NAME_THA": "มะเฟือง",
+        "SUB_DISTRICT_NAME_ENG": "Mafueang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3109,
+        "LAT": 15.496999740600586,
+        "LONG": 103.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 310903,
+        "SUB_DISTRICT_NAME_THA": "บ้านจาน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3109,
+        "LAT": 15.506999969482422,
+        "LONG": 102.98300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 310906,
+        "SUB_DISTRICT_NAME_THA": "บ้านเป้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pao",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3109,
+        "LAT": 15.626999855041504,
+        "LONG": 102.89199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 310907,
+        "SUB_DISTRICT_NAME_THA": "บ้านแวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Waeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3109,
+        "LAT": 15.579999923706055,
+        "LONG": 102.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 310909,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3109,
+        "LAT": 15.463000297546387,
+        "LONG": 103.09700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 310910,
+        "SUB_DISTRICT_NAME_THA": "หายโศก",
+        "SUB_DISTRICT_NAME_ENG": "Hai Sok",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3109,
+        "LAT": 15.526000022888184,
+        "LONG": 102.93699645996094
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 810801,
+        "SUB_DISTRICT_NAME_THA": "เหนือคลอง",
+        "SUB_DISTRICT_NAME_ENG": "Nuea Khlong",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 8.086000442504883,
+        "LONG": 98.98999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 810802,
+        "SUB_DISTRICT_NAME_THA": "เกาะศรีบอยา",
+        "SUB_DISTRICT_NAME_ENG": "Ko Si Boya",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 7.835999965667725,
+        "LONG": 98.96299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 810803,
+        "SUB_DISTRICT_NAME_THA": "คลองขนาน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khanan",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 7.9039998054504395,
+        "LONG": 99.07499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 810804,
+        "SUB_DISTRICT_NAME_THA": "คลองเขม้า",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khamao",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 8.03600025177002,
+        "LONG": 98.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 810805,
+        "SUB_DISTRICT_NAME_THA": "โคกยาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Yang",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 8.09000015258789,
+        "LONG": 99.08699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 810806,
+        "SUB_DISTRICT_NAME_THA": "ตลิ่งชัน",
+        "SUB_DISTRICT_NAME_ENG": "Taling Chan",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 7.9629998207092285,
+        "LONG": 98.96900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 810807,
+        "SUB_DISTRICT_NAME_THA": "ปกาสัย",
+        "SUB_DISTRICT_NAME_ENG": "Pakasai",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 8.015000343322754,
+        "LONG": 99.06199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 810808,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยูง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yung",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8108,
+        "LAT": 8.119999885559082,
+        "LONG": 99.0260009765625
+    }
+]

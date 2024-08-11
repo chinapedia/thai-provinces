@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571001,
+        "SUB_DISTRICT_NAME_THA": "แม่สรวย",
+        "SUB_DISTRICT_NAME_ENG": "Mae Saruai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5710,
+        "LAT": 19.676000595092773,
+        "LONG": 99.55999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 571002,
+        "SUB_DISTRICT_NAME_THA": "ป่าแดด",
+        "SUB_DISTRICT_NAME_ENG": "Pa Daet",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5710,
+        "LAT": 19.71500015258789,
+        "LONG": 99.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 571003,
+        "SUB_DISTRICT_NAME_THA": "แม่พริก",
+        "SUB_DISTRICT_NAME_ENG": "Mae Phrik",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5710,
+        "LAT": 19.6299991607666,
+        "LONG": 99.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 571004,
+        "SUB_DISTRICT_NAME_THA": "ศรีถ้อย",
+        "SUB_DISTRICT_NAME_ENG": "Si Thoi",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5710,
+        "LAT": 19.677000045776367,
+        "LONG": 99.31700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 571005,
+        "SUB_DISTRICT_NAME_THA": "ท่าก๊อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ko",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5710,
+        "LAT": 19.503999710083008,
+        "LONG": 99.52799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 571006,
+        "SUB_DISTRICT_NAME_THA": "วาวี",
+        "SUB_DISTRICT_NAME_ENG": "Wawi",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5710,
+        "LAT": 19.847999572753906,
+        "LONG": 99.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 571007,
+        "SUB_DISTRICT_NAME_THA": "เจดีย์หลวง",
+        "SUB_DISTRICT_NAME_ENG": "Chedi Luang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5710,
+        "LAT": 19.569000244140625,
+        "LONG": 99.5459976196289
+    }
+]

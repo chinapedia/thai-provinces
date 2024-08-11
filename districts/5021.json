@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 502101,
+        "SUB_DISTRICT_NAME_THA": "ปงตำ",
+        "SUB_DISTRICT_NAME_ENG": "Pong Tam",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5021,
+        "LAT": 19.74799919128418,
+        "LONG": 99.1449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 502102,
+        "SUB_DISTRICT_NAME_THA": "ศรีดงเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Si Dong Yen",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5021,
+        "LAT": 19.645999908447266,
+        "LONG": 99.1780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 502103,
+        "SUB_DISTRICT_NAME_THA": "แม่ทะลบ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Thalop",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5021,
+        "LAT": 19.729999542236328,
+        "LONG": 99.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 502104,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5021,
+        "LAT": 19.736000061035156,
+        "LONG": 99.072998046875
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 431501,
+        "SUB_DISTRICT_NAME_THA": "เฝ้าไร่",
+        "SUB_DISTRICT_NAME_ENG": "Fao Rai",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4315,
+        "LAT": 17.9689998626709,
+        "LONG": 103.2699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 431502,
+        "SUB_DISTRICT_NAME_THA": "นาดี",
+        "SUB_DISTRICT_NAME_ENG": "Na Di",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4315,
+        "LAT": 17.999000549316406,
+        "LONG": 103.36599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 431503,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4315,
+        "LAT": 18.020999908447266,
+        "LONG": 103.23999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 431504,
+        "SUB_DISTRICT_NAME_THA": "วังหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Luang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4315,
+        "LAT": 18.086000442504883,
+        "LONG": 103.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 431505,
+        "SUB_DISTRICT_NAME_THA": "อุดมพร",
+        "SUB_DISTRICT_NAME_ENG": "Udom Phon",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4315,
+        "LAT": 17.891000747680664,
+        "LONG": 103.35700225830078
+    }
+]

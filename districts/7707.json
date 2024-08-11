@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770701,
+        "SUB_DISTRICT_NAME_THA": "หัวหิน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Hin",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7707,
+        "LAT": 12.592000007629395,
+        "LONG": 99.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 770702,
+        "SUB_DISTRICT_NAME_THA": "หนองแก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kae",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7707,
+        "LAT": 12.501999855041504,
+        "LONG": 99.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 770703,
+        "SUB_DISTRICT_NAME_THA": "หินเหล็กไฟ",
+        "SUB_DISTRICT_NAME_ENG": "Hin Lek Fai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7707,
+        "LAT": 12.592000007629395,
+        "LONG": 99.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 770704,
+        "SUB_DISTRICT_NAME_THA": "หนองพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phlap",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7707,
+        "LAT": 12.529999732971191,
+        "LONG": 99.7040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 770705,
+        "SUB_DISTRICT_NAME_THA": "ทับใต้",
+        "SUB_DISTRICT_NAME_ENG": "Thap Tai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7707,
+        "LAT": 12.515999794006348,
+        "LONG": 99.86299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 770706,
+        "SUB_DISTRICT_NAME_THA": "ห้วยสัตว์ใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sat Yai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7707,
+        "LAT": 12.51200008392334,
+        "LONG": 99.5260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 770707,
+        "SUB_DISTRICT_NAME_THA": "บึงนคร",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Nakhon",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7707,
+        "LAT": 12.402999877929688,
+        "LONG": 99.65499877929688
+    }
+]

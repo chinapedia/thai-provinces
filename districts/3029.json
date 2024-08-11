@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302901,
+        "SUB_DISTRICT_NAME_THA": "ขุย",
+        "SUB_DISTRICT_NAME_ENG": "Khui",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3029,
+        "LAT": 15.352999687194824,
+        "LONG": 102.86599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 302902,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3029,
+        "LAT": 15.25,
+        "LONG": 102.94400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 302903,
+        "SUB_DISTRICT_NAME_THA": "ช่องแมว",
+        "SUB_DISTRICT_NAME_ENG": "Chong Maeo",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3029,
+        "LAT": 15.276000022888184,
+        "LONG": 102.8740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 302904,
+        "SUB_DISTRICT_NAME_THA": "ไพล",
+        "SUB_DISTRICT_NAME_ENG": "Phrai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3029,
+        "LAT": 15.359999656677246,
+        "LONG": 102.97100067138672
+    }
+]

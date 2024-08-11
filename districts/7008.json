@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 700801,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Luang",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.41100025177002,
+        "LONG": 99.68299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 700802,
+        "SUB_DISTRICT_NAME_THA": "วังมะนาว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Manao",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.340999603271484,
+        "LONG": 99.802001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 700803,
+        "SUB_DISTRICT_NAME_THA": "ดอนทราย",
+        "SUB_DISTRICT_NAME_ENG": "Don Sai",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.368000030517578,
+        "LONG": 99.7760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 700804,
+        "SUB_DISTRICT_NAME_THA": "หนองกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krathum",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.404000282287598,
+        "LONG": 99.77899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 700805,
+        "SUB_DISTRICT_NAME_THA": "ปากท่อ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Tho",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.381999969482422,
+        "LONG": 99.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 700806,
+        "SUB_DISTRICT_NAME_THA": "ป่าไก่",
+        "SUB_DISTRICT_NAME_ENG": "Pa Kai",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.411999702453613,
+        "LONG": 99.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 700807,
+        "SUB_DISTRICT_NAME_THA": "วัดยางงาม",
+        "SUB_DISTRICT_NAME_ENG": "Wat Yang Ngam",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.39900016784668,
+        "LONG": 99.86399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 700808,
+        "SUB_DISTRICT_NAME_THA": "อ่างหิน",
+        "SUB_DISTRICT_NAME_ENG": "Ang Hin",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.460000038146973,
+        "LONG": 99.6259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 700809,
+        "SUB_DISTRICT_NAME_THA": "บ่อกระดาน",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kradan",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.437999725341797,
+        "LONG": 99.8010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 700810,
+        "SUB_DISTRICT_NAME_THA": "ยางหัก",
+        "SUB_DISTRICT_NAME_ENG": "Yang Hak",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.282999992370605,
+        "LONG": 99.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 700811,
+        "SUB_DISTRICT_NAME_THA": "วันดาว",
+        "SUB_DISTRICT_NAME_ENG": "Wan Dao",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.354000091552734,
+        "LONG": 99.85600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 700812,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยางโทน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang Thon",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7008,
+        "LAT": 13.345000267028809,
+        "LONG": 99.69300079345703
+    }
+]

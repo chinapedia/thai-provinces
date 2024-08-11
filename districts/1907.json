@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190701,
+        "SUB_DISTRICT_NAME_THA": "ดอนพุด",
+        "SUB_DISTRICT_NAME_ENG": "Don Phut",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1907,
+        "LAT": 14.595999717712402,
+        "LONG": 100.62100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 190702,
+        "SUB_DISTRICT_NAME_THA": "ไผ่หลิ่ว",
+        "SUB_DISTRICT_NAME_ENG": "Phai Lio",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1907,
+        "LAT": 14.625,
+        "LONG": 100.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 190703,
+        "SUB_DISTRICT_NAME_THA": "บ้านหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Luang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1907,
+        "LAT": 14.571000099182129,
+        "LONG": 100.62000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 190704,
+        "SUB_DISTRICT_NAME_THA": "ดงตะงาว",
+        "SUB_DISTRICT_NAME_ENG": "Dong Ta-Ngao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1907,
+        "LAT": 14.62399959564209,
+        "LONG": 100.5989990234375
+    }
+]

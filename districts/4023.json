@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 402301,
+        "SUB_DISTRICT_NAME_THA": "กุดธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Kut That",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4023,
+        "LAT": 16.833999633789062,
+        "LONG": 102.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 402302,
+        "SUB_DISTRICT_NAME_THA": "บ้านโคก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khok",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4023,
+        "LAT": 16.791000366210938,
+        "LONG": 102.33499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 402303,
+        "SUB_DISTRICT_NAME_THA": "ขนวน",
+        "SUB_DISTRICT_NAME_ENG": "Khanuan",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4023,
+        "LAT": 16.77400016784668,
+        "LONG": 102.38700103759766
+    }
+]

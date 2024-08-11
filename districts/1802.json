@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180201,
+        "SUB_DISTRICT_NAME_THA": "คุ้งสำเภา",
+        "SUB_DISTRICT_NAME_ENG": "Khung Samphao",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1802,
+        "LAT": 15.291000366210938,
+        "LONG": 100.09100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 180202,
+        "SUB_DISTRICT_NAME_THA": "วัดโคก",
+        "SUB_DISTRICT_NAME_ENG": "Wat Khok",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1802,
+        "LAT": 15.326000213623047,
+        "LONG": 100.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 180203,
+        "SUB_DISTRICT_NAME_THA": "ศิลาดาน",
+        "SUB_DISTRICT_NAME_ENG": "Sila Dan",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1802,
+        "LAT": 15.354000091552734,
+        "LONG": 100.12200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 180204,
+        "SUB_DISTRICT_NAME_THA": "ท่าฉนวน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chanuan",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1802,
+        "LAT": 15.378999710083008,
+        "LONG": 100.13800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 180205,
+        "SUB_DISTRICT_NAME_THA": "หางน้ำสาคร",
+        "SUB_DISTRICT_NAME_ENG": "Hang Nam Sakhon",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1802,
+        "LAT": 15.291999816894531,
+        "LONG": 100.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 180206,
+        "SUB_DISTRICT_NAME_THA": "ไร่พัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Rai Phatthana",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1802,
+        "LAT": 15.333000183105469,
+        "LONG": 100.2249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 180207,
+        "SUB_DISTRICT_NAME_THA": "อู่ตะเภา",
+        "SUB_DISTRICT_NAME_ENG": "U Taphao",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1802,
+        "LAT": 15.27400016784668,
+        "LONG": 100.21900177001953
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 230401,
+        "SUB_DISTRICT_NAME_THA": "บ่อพลอย",
+        "SUB_DISTRICT_NAME_ENG": "Bo Phloi",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2304,
+        "LAT": 12.604000091552734,
+        "LONG": 102.55899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 230402,
+        "SUB_DISTRICT_NAME_THA": "ช้างทูน",
+        "SUB_DISTRICT_NAME_ENG": "Chang Thun",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2304,
+        "LAT": 12.585000038146973,
+        "LONG": 102.46900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 230403,
+        "SUB_DISTRICT_NAME_THA": "ด่านชุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Dan Chumphon",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2304,
+        "LAT": 12.461000442504883,
+        "LONG": 102.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 230404,
+        "SUB_DISTRICT_NAME_THA": "หนองบอน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bon",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2304,
+        "LAT": 12.682999610900879,
+        "LONG": 102.4469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 230405,
+        "SUB_DISTRICT_NAME_THA": "นนทรีย์",
+        "SUB_DISTRICT_NAME_ENG": "Nonsi",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2304,
+        "LAT": 12.543999671936035,
+        "LONG": 102.5999984741211
+    }
+]

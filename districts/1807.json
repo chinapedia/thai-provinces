@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180701,
+        "SUB_DISTRICT_NAME_THA": "หนองมะโมง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mamong",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1807,
+        "LAT": 15.215999603271484,
+        "LONG": 99.77200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 180702,
+        "SUB_DISTRICT_NAME_THA": "วังตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Takhian",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1807,
+        "LAT": 15.277999877929688,
+        "LONG": 99.802001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 180703,
+        "SUB_DISTRICT_NAME_THA": "สะพานหิน",
+        "SUB_DISTRICT_NAME_ENG": "Saphan Hin",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1807,
+        "LAT": 15.196999549865723,
+        "LONG": 99.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 180704,
+        "SUB_DISTRICT_NAME_THA": "กุดจอก",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chok",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1807,
+        "LAT": 15.241000175476074,
+        "LONG": 99.89399719238281
+    }
+]

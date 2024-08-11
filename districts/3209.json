@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 320901,
+        "SUB_DISTRICT_NAME_THA": "ระแงง",
+        "SUB_DISTRICT_NAME_ENG": "Ra-Ngaeng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.89799976348877,
+        "LONG": 103.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 320902,
+        "SUB_DISTRICT_NAME_THA": "ตรึม",
+        "SUB_DISTRICT_NAME_ENG": "Truem",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 15.03499984741211,
+        "LONG": 103.84500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 320903,
+        "SUB_DISTRICT_NAME_THA": "จารพัต",
+        "SUB_DISTRICT_NAME_ENG": "Charaphat",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.866999626159668,
+        "LONG": 103.73500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 320904,
+        "SUB_DISTRICT_NAME_THA": "ยาง",
+        "SUB_DISTRICT_NAME_ENG": "Yang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.954999923706055,
+        "LONG": 103.85600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 320905,
+        "SUB_DISTRICT_NAME_THA": "แตล",
+        "SUB_DISTRICT_NAME_ENG": "Tlae",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 15.029000282287598,
+        "LONG": 103.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 320906,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 15.083000183105469,
+        "LONG": 103.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 320907,
+        "SUB_DISTRICT_NAME_THA": "คาละแมะ",
+        "SUB_DISTRICT_NAME_ENG": "Khalamae",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 15.081000328063965,
+        "LONG": 103.82499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 320908,
+        "SUB_DISTRICT_NAME_THA": "หนองเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lek",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.812000274658203,
+        "LONG": 103.72200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 320909,
+        "SUB_DISTRICT_NAME_THA": "หนองขวาว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khwao",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.979000091552734,
+        "LONG": 103.79399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 320910,
+        "SUB_DISTRICT_NAME_THA": "ช่างปี่",
+        "SUB_DISTRICT_NAME_ENG": "Chang Pi",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.946000099182129,
+        "LONG": 103.70500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 320911,
+        "SUB_DISTRICT_NAME_THA": "กุดหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Kut Wai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.920000076293945,
+        "LONG": 103.86799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 320912,
+        "SUB_DISTRICT_NAME_THA": "ขวาวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khwao Yai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 15.017999649047852,
+        "LONG": 103.7699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 320913,
+        "SUB_DISTRICT_NAME_THA": "นารุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Rung",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.984000205993652,
+        "LONG": 103.8290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 320914,
+        "SUB_DISTRICT_NAME_THA": "ตรมไพร",
+        "SUB_DISTRICT_NAME_ENG": "Trom Phrai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.845000267028809,
+        "LONG": 103.78500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 320915,
+        "SUB_DISTRICT_NAME_THA": "ผักไหม",
+        "SUB_DISTRICT_NAME_ENG": "Phak Mai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3209,
+        "LAT": 14.847999572753906,
+        "LONG": 103.83000183105469
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400401,
+        "SUB_DISTRICT_NAME_THA": "หนองเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ruea",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.500999450683594,
+        "LONG": 102.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 400402,
+        "SUB_DISTRICT_NAME_THA": "บ้านเม็ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Meng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.434999465942383,
+        "LONG": 102.45999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 400403,
+        "SUB_DISTRICT_NAME_THA": "บ้านกง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kong",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.5,
+        "LONG": 102.5530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 400404,
+        "SUB_DISTRICT_NAME_THA": "ยางคำ",
+        "SUB_DISTRICT_NAME_ENG": "Yang Kham",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.398000717163086,
+        "LONG": 102.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 400405,
+        "SUB_DISTRICT_NAME_THA": "จระเข้",
+        "SUB_DISTRICT_NAME_ENG": "Chorakhe",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.45800018310547,
+        "LONG": 102.53600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 400406,
+        "SUB_DISTRICT_NAME_THA": "โนนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Non Thong",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.552000045776367,
+        "LONG": 102.38400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 400407,
+        "SUB_DISTRICT_NAME_THA": "กุดกว้าง",
+        "SUB_DISTRICT_NAME_ENG": "Kut Kwang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.475000381469727,
+        "LONG": 102.31999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 400408,
+        "SUB_DISTRICT_NAME_THA": "โนนทัน",
+        "SUB_DISTRICT_NAME_ENG": "Non Than",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.506999969482422,
+        "LONG": 102.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 400409,
+        "SUB_DISTRICT_NAME_THA": "โนนสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Non Sa-At",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.538000106811523,
+        "LONG": 102.31199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 400410,
+        "SUB_DISTRICT_NAME_THA": "บ้านผือ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phue",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4004,
+        "LAT": 16.540000915527344,
+        "LONG": 102.55599975585938
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630801,
+        "SUB_DISTRICT_NAME_THA": "อุ้มผาง",
+        "SUB_DISTRICT_NAME_ENG": "Um Phang",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6308,
+        "LAT": 16.018999099731445,
+        "LONG": 98.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 630802,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6308,
+        "LAT": 16.033000946044922,
+        "LONG": 98.73899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 630803,
+        "SUB_DISTRICT_NAME_THA": "โมโกร",
+        "SUB_DISTRICT_NAME_ENG": "Mo Kro",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6308,
+        "LAT": 16.219999313354492,
+        "LONG": 98.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 630804,
+        "SUB_DISTRICT_NAME_THA": "แม่จัน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Chan",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6308,
+        "LAT": 15.72700023651123,
+        "LONG": 98.71600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 630805,
+        "SUB_DISTRICT_NAME_THA": "แม่ละมุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Lamung",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6308,
+        "LAT": 15.640999794006348,
+        "LONG": 98.96600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 630806,
+        "SUB_DISTRICT_NAME_THA": "แม่กลอง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Klong",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6308,
+        "LAT": 16.06599998474121,
+        "LONG": 98.83399963378906
+    }
+]

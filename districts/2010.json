@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 201001,
+        "SUB_DISTRICT_NAME_THA": "บ่อทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Thong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2010,
+        "LAT": 13.192999839782715,
+        "LONG": 101.50399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 201002,
+        "SUB_DISTRICT_NAME_THA": "วัดสุวรรณ",
+        "SUB_DISTRICT_NAME_ENG": "Wat Suwan",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2010,
+        "LAT": 13.331999778747559,
+        "LONG": 101.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 201003,
+        "SUB_DISTRICT_NAME_THA": "บ่อกวางทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kwang Thong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2010,
+        "LAT": 13.317999839782715,
+        "LONG": 101.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 201004,
+        "SUB_DISTRICT_NAME_THA": "ธาตุทอง",
+        "SUB_DISTRICT_NAME_ENG": "That Thong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2010,
+        "LAT": 13.258999824523926,
+        "LONG": 101.38899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 201005,
+        "SUB_DISTRICT_NAME_THA": "เกษตรสุวรรณ",
+        "SUB_DISTRICT_NAME_ENG": "Kaset Suwan",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2010,
+        "LAT": 13.326000213623047,
+        "LONG": 101.5260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 201006,
+        "SUB_DISTRICT_NAME_THA": "พลวงทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phluang Thong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2010,
+        "LAT": 13.217000007629395,
+        "LONG": 101.6259994506836
+    }
+]

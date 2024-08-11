@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400501,
+        "SUB_DISTRICT_NAME_THA": "ชุมแพ",
+        "SUB_DISTRICT_NAME_ENG": "Chum Phae",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.525999069213867,
+        "LONG": 102.0739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 400502,
+        "SUB_DISTRICT_NAME_THA": "โนนหัน",
+        "SUB_DISTRICT_NAME_ENG": "Non Han",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.60300064086914,
+        "LONG": 102.01899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 400503,
+        "SUB_DISTRICT_NAME_THA": "นาหนองทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Na Nong Thum",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.767000198364258,
+        "LONG": 101.9800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 400504,
+        "SUB_DISTRICT_NAME_THA": "โนนอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Non Udom",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.5049991607666,
+        "LONG": 102.23100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 400505,
+        "SUB_DISTRICT_NAME_THA": "ขัวเรียง",
+        "SUB_DISTRICT_NAME_ENG": "Khua Riang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.56100082397461,
+        "LONG": 102.21399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 400506,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.565000534057617,
+        "LONG": 102.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 400507,
+        "SUB_DISTRICT_NAME_THA": "ไชยสอ",
+        "SUB_DISTRICT_NAME_ENG": "Chai So",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.513999938964844,
+        "LONG": 102.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 400508,
+        "SUB_DISTRICT_NAME_THA": "วังหินลาด",
+        "SUB_DISTRICT_NAME_ENG": "Wang Hin Lat",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.625,
+        "LONG": 102.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 400509,
+        "SUB_DISTRICT_NAME_THA": "นาเพียง",
+        "SUB_DISTRICT_NAME_ENG": "Na Phiang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.489999771118164,
+        "LONG": 102.2699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 400510,
+        "SUB_DISTRICT_NAME_THA": "หนองเขียด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khiat",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.658000946044922,
+        "LONG": 102.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 400511,
+        "SUB_DISTRICT_NAME_THA": "หนองเสาเล้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sao Lao",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.586000442504883,
+        "LONG": 102.2979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 400512,
+        "SUB_DISTRICT_NAME_THA": "โนนสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Non Sa-At",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4005,
+        "LAT": 16.576000213623047,
+        "LONG": 101.9990005493164
+    }
+]

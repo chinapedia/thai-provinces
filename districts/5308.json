@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530801,
+        "SUB_DISTRICT_NAME_THA": "ศรีพนมมาศ",
+        "SUB_DISTRICT_NAME_ENG": "Si Phanom Mat",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.652000427246094,
+        "LONG": 100.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 530802,
+        "SUB_DISTRICT_NAME_THA": "แม่พูล",
+        "SUB_DISTRICT_NAME_ENG": "Mae Phun",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.746000289916992,
+        "LONG": 99.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 530803,
+        "SUB_DISTRICT_NAME_THA": "นานกกก",
+        "SUB_DISTRICT_NAME_ENG": "Na Nok Kok",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.753999710083008,
+        "LONG": 100.0719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 530804,
+        "SUB_DISTRICT_NAME_THA": "ฝายหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Fai Luang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.650999069213867,
+        "LONG": 99.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 530805,
+        "SUB_DISTRICT_NAME_THA": "ชัยจุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Chai Chumphon",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.631000518798828,
+        "LONG": 100.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 530806,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ล้อม",
+        "SUB_DISTRICT_NAME_ENG": "Phai Lom",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.52899932861328,
+        "LONG": 100.03500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 530807,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งยั้ง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Yang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.579999923706055,
+        "LONG": 100.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 530808,
+        "SUB_DISTRICT_NAME_THA": "ด่านแม่คำมัน",
+        "SUB_DISTRICT_NAME_ENG": "Dan Mae Kham Man",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5308,
+        "LAT": 17.547000885009766,
+        "LONG": 99.96299743652344
+    }
+]

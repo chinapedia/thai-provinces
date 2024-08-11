@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 730201,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกระพังโหม",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kraphang Hom",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 13.991000175476074,
+        "LONG": 99.98300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 730202,
+        "SUB_DISTRICT_NAME_THA": "กระตีบ",
+        "SUB_DISTRICT_NAME_ENG": "Kratip",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.111000061035156,
+        "LONG": 99.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 730203,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งลูกนก",
+        "SUB_DISTRICT_NAME_ENG": "Thung Luk Nok",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.055000305175781,
+        "LONG": 99.90499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 730204,
+        "SUB_DISTRICT_NAME_THA": "ห้วยขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khwang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 13.92300033569336,
+        "LONG": 100.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 730205,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khwang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 13.96500015258789,
+        "LONG": 99.96299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 730206,
+        "SUB_DISTRICT_NAME_THA": "สระสี่มุม",
+        "SUB_DISTRICT_NAME_ENG": "Sa Si Mum",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.0649995803833,
+        "LONG": 100.00299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 730207,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งบัว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Bua",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.041000366210938,
+        "LONG": 99.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 730208,
+        "SUB_DISTRICT_NAME_THA": "ดอนข่อย",
+        "SUB_DISTRICT_NAME_ENG": "Don Khoi",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.022000312805176,
+        "LONG": 100.03500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 730209,
+        "SUB_DISTRICT_NAME_THA": "สระพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Sa Phatthana",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.095999717712402,
+        "LONG": 100.04299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 730210,
+        "SUB_DISTRICT_NAME_THA": "ห้วยหมอนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Mon Thong",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 13.968999862670898,
+        "LONG": 99.9209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 730211,
+        "SUB_DISTRICT_NAME_THA": "ห้วยม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Muang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.130000114440918,
+        "LONG": 100.0250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 730212,
+        "SUB_DISTRICT_NAME_THA": "กำแพงแสน",
+        "SUB_DISTRICT_NAME_ENG": "Kamphaeng Saen",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.02400016784668,
+        "LONG": 99.98100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 730213,
+        "SUB_DISTRICT_NAME_THA": "รางพิกุล",
+        "SUB_DISTRICT_NAME_ENG": "Rang Phikun",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.003000259399414,
+        "LONG": 99.91699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 730214,
+        "SUB_DISTRICT_NAME_THA": "หนองกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krathum",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 14.003999710083008,
+        "LONG": 99.86499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 730215,
+        "SUB_DISTRICT_NAME_THA": "วังน้ำเขียว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nam Khiao",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7302,
+        "LAT": 13.989999771118164,
+        "LONG": 100.0270004272461
+    }
+]

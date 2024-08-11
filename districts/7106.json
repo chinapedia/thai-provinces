@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710601,
+        "SUB_DISTRICT_NAME_THA": "ท่าม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Muang",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.973999977111816,
+        "LONG": 99.625
+    },
+    {
+        "SUB_DISTRICT_ID": 710602,
+        "SUB_DISTRICT_NAME_THA": "วังขนาย",
+        "SUB_DISTRICT_NAME_ENG": "Wang Khanai",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.960000038146973,
+        "LONG": 99.66300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 710603,
+        "SUB_DISTRICT_NAME_THA": "วังศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sala",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.970999717712402,
+        "LONG": 99.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 710604,
+        "SUB_DISTRICT_NAME_THA": "ท่าล้อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Lo",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.987000465393066,
+        "LONG": 99.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 710605,
+        "SUB_DISTRICT_NAME_THA": "หนองขาว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khao",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 14.055000305175781,
+        "LONG": 99.61299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 710606,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Thong",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 14.008000373840332,
+        "LONG": 99.66600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 710607,
+        "SUB_DISTRICT_NAME_THA": "เขาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Noi",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.918999671936035,
+        "LONG": 99.58799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 710608,
+        "SUB_DISTRICT_NAME_THA": "ม่วงชุม",
+        "SUB_DISTRICT_NAME_ENG": "Muang Chum",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.937000274658203,
+        "LONG": 99.61699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 710609,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.868000030517578,
+        "LONG": 99.60399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 710610,
+        "SUB_DISTRICT_NAME_THA": "พังตรุ",
+        "SUB_DISTRICT_NAME_ENG": "Phang Tru",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.86299991607666,
+        "LONG": 99.6449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 710611,
+        "SUB_DISTRICT_NAME_THA": "ท่าตะคร้อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Takhro",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.916999816894531,
+        "LONG": 99.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 710612,
+        "SUB_DISTRICT_NAME_THA": "รางสาลี่",
+        "SUB_DISTRICT_NAME_ENG": "Rang Sali",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.866000175476074,
+        "LONG": 99.54299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 710613,
+        "SUB_DISTRICT_NAME_THA": "หนองตากยา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tak Ya",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7106,
+        "LAT": 13.795000076293945,
+        "LONG": 99.5459976196289
+    }
+]

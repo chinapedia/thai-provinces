@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 412501,
+        "SUB_DISTRICT_NAME_THA": "นาม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Na Muang",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4125,
+        "LAT": 17.256000518798828,
+        "LONG": 102.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 412502,
+        "SUB_DISTRICT_NAME_THA": "ห้วยสามพาด",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sam Phat",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4125,
+        "LAT": 17.23699951171875,
+        "LONG": 102.93399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 412503,
+        "SUB_DISTRICT_NAME_THA": "อุ่มจาน",
+        "SUB_DISTRICT_NAME_ENG": "Um Chan",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4125,
+        "LAT": 17.233999252319336,
+        "LONG": 103.06199645996094
+    }
+]

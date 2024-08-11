@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 730401,
+        "SUB_DISTRICT_NAME_THA": "สามง่าม",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ngam",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 13.977999687194824,
+        "LONG": 100.08300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 730402,
+        "SUB_DISTRICT_NAME_THA": "ห้วยพระ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Phra",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 13.930000305175781,
+        "LONG": 100.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 730403,
+        "SUB_DISTRICT_NAME_THA": "ลำเหย",
+        "SUB_DISTRICT_NAME_ENG": "Lam Hoei",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 13.956999778747559,
+        "LONG": 100.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 730404,
+        "SUB_DISTRICT_NAME_THA": "ดอนพุทรา",
+        "SUB_DISTRICT_NAME_ENG": "Don Phutsa",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 13.935999870300293,
+        "LONG": 100.1240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 730405,
+        "SUB_DISTRICT_NAME_THA": "บ้านหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Luang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 13.91100025177002,
+        "LONG": 100.1500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 730406,
+        "SUB_DISTRICT_NAME_THA": "ดอนรวก",
+        "SUB_DISTRICT_NAME_ENG": "Don Ruak",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 13.890000343322754,
+        "LONG": 100.11699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 730407,
+        "SUB_DISTRICT_NAME_THA": "ห้วยด้วน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Duan",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 13.902000427246094,
+        "LONG": 100.0999984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 730408,
+        "SUB_DISTRICT_NAME_THA": "ลำลูกบัว",
+        "SUB_DISTRICT_NAME_ENG": "Lam Luk Bua",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7304,
+        "LAT": 14.02400016784668,
+        "LONG": 100.0739974975586
+    }
+]

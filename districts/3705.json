@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 370501,
+        "SUB_DISTRICT_NAME_THA": "เสนางคนิคม",
+        "SUB_DISTRICT_NAME_ENG": "Senangkha Nikhom",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3705,
+        "LAT": 16.055999755859375,
+        "LONG": 104.68499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 370502,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3705,
+        "LAT": 16.069000244140625,
+        "LONG": 104.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 370503,
+        "SUB_DISTRICT_NAME_THA": "ไร่สีสุก",
+        "SUB_DISTRICT_NAME_ENG": "Rai Si Suk",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3705,
+        "LAT": 16.091999053955078,
+        "LONG": 104.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 370504,
+        "SUB_DISTRICT_NAME_THA": "นาเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Na Wiang",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3705,
+        "LAT": 16.02899932861328,
+        "LONG": 104.59200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 370505,
+        "SUB_DISTRICT_NAME_THA": "หนองไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hai",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3705,
+        "LAT": 16.02199935913086,
+        "LONG": 104.78700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 370506,
+        "SUB_DISTRICT_NAME_THA": "หนองสามสี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sam Si",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3705,
+        "LAT": 16.049999237060547,
+        "LONG": 104.61599731445312
+    }
+]

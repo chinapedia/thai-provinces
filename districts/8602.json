@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 860201,
+        "SUB_DISTRICT_NAME_THA": "ท่าแซะ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sae",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.663000106811523,
+        "LONG": 99.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 860202,
+        "SUB_DISTRICT_NAME_THA": "คุริง",
+        "SUB_DISTRICT_NAME_ENG": "Khu Ring",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.744000434875488,
+        "LONG": 99.11799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 860203,
+        "SUB_DISTRICT_NAME_THA": "สลุย",
+        "SUB_DISTRICT_NAME_ENG": "Salui",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.835000038146973,
+        "LONG": 99.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 860204,
+        "SUB_DISTRICT_NAME_THA": "นากระตาม",
+        "SUB_DISTRICT_NAME_ENG": "Na Kratam",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.605999946594238,
+        "LONG": 99.18399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 860205,
+        "SUB_DISTRICT_NAME_THA": "รับร่อ",
+        "SUB_DISTRICT_NAME_ENG": "Rap Ro",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.767999649047852,
+        "LONG": 99.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 860206,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.65999984741211,
+        "LONG": 99.1050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 860207,
+        "SUB_DISTRICT_NAME_THA": "หงษ์เจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Hong Charoen",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.807999610900879,
+        "LONG": 99.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 860208,
+        "SUB_DISTRICT_NAME_THA": "หินแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Hin Kaeo",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.621999740600586,
+        "LONG": 98.99199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 860209,
+        "SUB_DISTRICT_NAME_THA": "ทรัพย์อนันต์",
+        "SUB_DISTRICT_NAME_ENG": "Sap Anan",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.713000297546387,
+        "LONG": 99.2020034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 860210,
+        "SUB_DISTRICT_NAME_THA": "สองพี่น้อง",
+        "SUB_DISTRICT_NAME_ENG": "Song Phi Nong",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8602,
+        "LAT": 10.949000358581543,
+        "LONG": 99.18900299072266
+    }
+]

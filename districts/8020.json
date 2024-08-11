@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 802001,
+        "SUB_DISTRICT_NAME_THA": "นาพรุ",
+        "SUB_DISTRICT_NAME_ENG": "Na Phru",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8020,
+        "LAT": 8.331000328063965,
+        "LONG": 99.90699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 802002,
+        "SUB_DISTRICT_NAME_THA": "นาสาร",
+        "SUB_DISTRICT_NAME_ENG": "Na San",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8020,
+        "LAT": 8.369999885559082,
+        "LONG": 99.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 802003,
+        "SUB_DISTRICT_NAME_THA": "ท้ายสำเภา",
+        "SUB_DISTRICT_NAME_ENG": "Thai Samphao",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8020,
+        "LAT": 8.302000045776367,
+        "LONG": 99.90899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 802004,
+        "SUB_DISTRICT_NAME_THA": "ช้างซ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Chang Sai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8020,
+        "LAT": 8.310999870300293,
+        "LONG": 99.96600341796875
+    }
+]

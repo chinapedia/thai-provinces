@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 860601,
+        "SUB_DISTRICT_NAME_THA": "พะโต๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Phato",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8606,
+        "LAT": 9.815999984741211,
+        "LONG": 98.80000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 860602,
+        "SUB_DISTRICT_NAME_THA": "ปากทรง",
+        "SUB_DISTRICT_NAME_ENG": "Pak Song",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8606,
+        "LAT": 9.741000175476074,
+        "LONG": 98.7030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 860603,
+        "SUB_DISTRICT_NAME_THA": "ปังหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Pang Wan",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8606,
+        "LAT": 9.951000213623047,
+        "LONG": 98.86599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 860604,
+        "SUB_DISTRICT_NAME_THA": "พระรักษ์",
+        "SUB_DISTRICT_NAME_ENG": "Phrarak",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8606,
+        "LAT": 9.85200023651123,
+        "LONG": 98.9229965209961
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630901,
+        "SUB_DISTRICT_NAME_THA": "เชียงทอง",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Thong",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6309,
+        "LAT": 16.570999145507812,
+        "LONG": 99.12200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 630902,
+        "SUB_DISTRICT_NAME_THA": "นาโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Na Bot",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6309,
+        "LAT": 16.704999923706055,
+        "LONG": 99.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 630903,
+        "SUB_DISTRICT_NAME_THA": "ประดาง",
+        "SUB_DISTRICT_NAME_ENG": "Pradang",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6309,
+        "LAT": 16.74799919128418,
+        "LONG": 99.18399810791016
+    }
+]

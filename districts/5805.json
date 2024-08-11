@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 580501,
+        "SUB_DISTRICT_NAME_THA": "แม่ลาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Mae La Noi",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.434999465942383,
+        "LONG": 97.85199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 580502,
+        "SUB_DISTRICT_NAME_THA": "แม่ลาหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Mae La Luang",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.54800033569336,
+        "LONG": 97.87200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 580503,
+        "SUB_DISTRICT_NAME_THA": "ท่าผาปุ้ม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pha Pum",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.315000534057617,
+        "LONG": 97.99099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 580504,
+        "SUB_DISTRICT_NAME_THA": "แม่โถ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tho",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.608999252319336,
+        "LONG": 98.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 580505,
+        "SUB_DISTRICT_NAME_THA": "ห้วยห้อม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Hom",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.3700008392334,
+        "LONG": 98.10199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 580506,
+        "SUB_DISTRICT_NAME_THA": "แม่นาจาง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Na Chang",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.52899932861328,
+        "LONG": 98.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 580507,
+        "SUB_DISTRICT_NAME_THA": "สันติคีรี",
+        "SUB_DISTRICT_NAME_ENG": "Santi Khiri",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.507999420166016,
+        "LONG": 97.99199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 580508,
+        "SUB_DISTRICT_NAME_THA": "ขุนแม่ลาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khun Mae La Noi",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5805,
+        "LAT": 18.586000442504883,
+        "LONG": 98.16100311279297
+    }
+]

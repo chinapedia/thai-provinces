@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 410501,
+        "SUB_DISTRICT_NAME_THA": "โนนสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Non Sa-At",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4105,
+        "LAT": 16.976999282836914,
+        "LONG": 102.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 410502,
+        "SUB_DISTRICT_NAME_THA": "บุ่งแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bung Kaeo",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4105,
+        "LAT": 16.9689998626709,
+        "LONG": 102.98100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 410503,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ศรีสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Pho Si Samran",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4105,
+        "LAT": 16.982999801635742,
+        "LONG": 102.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 410504,
+        "SUB_DISTRICT_NAME_THA": "ทมนางาม",
+        "SUB_DISTRICT_NAME_ENG": "Thom Na Ngam",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4105,
+        "LAT": 16.88800048828125,
+        "LONG": 102.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 410505,
+        "SUB_DISTRICT_NAME_THA": "หนองกุงศรี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung Si",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4105,
+        "LAT": 17.04800033569336,
+        "LONG": 102.77200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 410506,
+        "SUB_DISTRICT_NAME_THA": "โคกกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Klang",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4105,
+        "LAT": 16.929000854492188,
+        "LONG": 102.91100311279297
+    }
+]

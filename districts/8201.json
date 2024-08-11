@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 820101,
+        "SUB_DISTRICT_NAME_THA": "ท้ายช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Thai Chang",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.446000099182129,
+        "LONG": 98.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 820102,
+        "SUB_DISTRICT_NAME_THA": "นบปริง",
+        "SUB_DISTRICT_NAME_ENG": "Nop Pring",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.53600025177002,
+        "LONG": 98.51399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 820103,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำน้ำผุด",
+        "SUB_DISTRICT_NAME_ENG": "Tham Nam Phut",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.427000045776367,
+        "LONG": 98.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 820104,
+        "SUB_DISTRICT_NAME_THA": "บางเตย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Toei",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.406999588012695,
+        "LONG": 98.57499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 820105,
+        "SUB_DISTRICT_NAME_THA": "ตากแดด",
+        "SUB_DISTRICT_NAME_ENG": "Tak Daet",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.432999610900879,
+        "LONG": 98.48899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 820106,
+        "SUB_DISTRICT_NAME_THA": "สองแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Song Phraek",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.602999687194824,
+        "LONG": 98.55400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 820107,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งคาโงก",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kha Ngok",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.553999900817871,
+        "LONG": 98.43800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 820108,
+        "SUB_DISTRICT_NAME_THA": "เกาะปันหยี",
+        "SUB_DISTRICT_NAME_ENG": "Ko Panyi",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.317000389099121,
+        "LONG": 98.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 820109,
+        "SUB_DISTRICT_NAME_THA": "ป่ากอ",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ko",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8201,
+        "LAT": 8.5,
+        "LONG": 98.46600341796875
+    }
+]

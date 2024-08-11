@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 801202,
+        "SUB_DISTRICT_NAME_THA": "คลองน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Noi",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.357999801635742,
+        "LONG": 100.10800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 801203,
+        "SUB_DISTRICT_NAME_THA": "ป่าระกำ",
+        "SUB_DISTRICT_NAME_ENG": "Pa Rakam",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.244000434875488,
+        "LONG": 100.12000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 801204,
+        "SUB_DISTRICT_NAME_THA": "ชะเมา",
+        "SUB_DISTRICT_NAME_ENG": "Chamao",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.274999618530273,
+        "LONG": 100.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 801205,
+        "SUB_DISTRICT_NAME_THA": "คลองกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Krabue",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.317000389099121,
+        "LONG": 100.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 801206,
+        "SUB_DISTRICT_NAME_THA": "เกาะทวด",
+        "SUB_DISTRICT_NAME_ENG": "Ko Thuat",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.282999992370605,
+        "LONG": 100.09200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 801207,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.277000427246094,
+        "LONG": 100.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 801208,
+        "SUB_DISTRICT_NAME_THA": "หูล่อง",
+        "SUB_DISTRICT_NAME_ENG": "Hu Long",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.314000129699707,
+        "LONG": 100.18399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 801209,
+        "SUB_DISTRICT_NAME_THA": "แหลมตะลุมพุก",
+        "SUB_DISTRICT_NAME_ENG": "Laem Talumphuk",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.458000183105469,
+        "LONG": 100.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 801210,
+        "SUB_DISTRICT_NAME_THA": "ปากพนังฝั่งตะวันตก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phanang Fang Tawan Tok",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.359999656677246,
+        "LONG": 100.16500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 801211,
+        "SUB_DISTRICT_NAME_THA": "บางศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sala",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.246000289916992,
+        "LONG": 100.18499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 801212,
+        "SUB_DISTRICT_NAME_THA": "บางพระ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phra",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.326000213623047,
+        "LONG": 100.2300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 801213,
+        "SUB_DISTRICT_NAME_THA": "บางตะพง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Taphong",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.232000350952148,
+        "LONG": 100.15299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 801214,
+        "SUB_DISTRICT_NAME_THA": "ปากพนังฝั่งตะวันออก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phanang Fang Tawan Ok",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.397000312805176,
+        "LONG": 100.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 801215,
+        "SUB_DISTRICT_NAME_THA": "บ้านเพิง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phoeng",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.293999671936035,
+        "LONG": 100.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 801216,
+        "SUB_DISTRICT_NAME_THA": "ท่าพญา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phaya",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.267000198364258,
+        "LONG": 100.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 801217,
+        "SUB_DISTRICT_NAME_THA": "ปากแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phraek",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.244000434875488,
+        "LONG": 100.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 801218,
+        "SUB_DISTRICT_NAME_THA": "ขนาบนาก",
+        "SUB_DISTRICT_NAME_ENG": "Khanap Nak",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8012,
+        "LAT": 8.220000267028809,
+        "LONG": 100.24700164794922
+    }
+]

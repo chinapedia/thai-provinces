@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 720601,
+        "SUB_DISTRICT_NAME_THA": "ดอนเจดีย์",
+        "SUB_DISTRICT_NAME_ENG": "Don Chedi",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7206,
+        "LAT": 14.633000373840332,
+        "LONG": 99.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 720602,
+        "SUB_DISTRICT_NAME_THA": "หนองสาหร่าย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sarai",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7206,
+        "LAT": 14.670999526977539,
+        "LONG": 100.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 720603,
+        "SUB_DISTRICT_NAME_THA": "ไร่รถ",
+        "SUB_DISTRICT_NAME_ENG": "Rai Rot",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7206,
+        "LAT": 14.602999687194824,
+        "LONG": 99.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 720604,
+        "SUB_DISTRICT_NAME_THA": "สระกระโจม",
+        "SUB_DISTRICT_NAME_ENG": "Sa Krachom",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7206,
+        "LAT": 14.642999649047852,
+        "LONG": 99.86499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 720605,
+        "SUB_DISTRICT_NAME_THA": "ทะเลบก",
+        "SUB_DISTRICT_NAME_ENG": "Thale Bok",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7206,
+        "LAT": 14.708000183105469,
+        "LONG": 99.83799743652344
+    }
+]

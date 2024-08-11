@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 101701,
+        "SUB_DISTRICT_NAME_THA": "ห้วยขวาง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1017,
+        "LAT": 13.769000053405762,
+        "LONG": 100.5770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 101702,
+        "SUB_DISTRICT_NAME_THA": "บางกะปิ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1017,
+        "LAT": 13.751999855041504,
+        "LONG": 100.58599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 101704,
+        "SUB_DISTRICT_NAME_THA": "สามเสนนอก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1017,
+        "LAT": 13.795999526977539,
+        "LONG": 100.5790023803711
+    }
+]

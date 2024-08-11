@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770201,
+        "SUB_DISTRICT_NAME_THA": "กุยบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Kui Buri",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7702,
+        "LAT": 12.052000045776367,
+        "LONG": 99.76300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 770202,
+        "SUB_DISTRICT_NAME_THA": "กุยเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Kui Nuea",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7702,
+        "LAT": 12.086000442504883,
+        "LONG": 99.90799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 770203,
+        "SUB_DISTRICT_NAME_THA": "เขาแดง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Daeng",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7702,
+        "LAT": 12.159000396728516,
+        "LONG": 99.9800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 770204,
+        "SUB_DISTRICT_NAME_THA": "ดอนยายหนู",
+        "SUB_DISTRICT_NAME_ENG": "Don Yai Nu",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7702,
+        "LAT": 12.13599967956543,
+        "LONG": 99.92900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 770206,
+        "SUB_DISTRICT_NAME_THA": "สามกระทาย",
+        "SUB_DISTRICT_NAME_ENG": "Sam Krathai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7702,
+        "LAT": 12.14799976348877,
+        "LONG": 99.84300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 770207,
+        "SUB_DISTRICT_NAME_THA": "หาดขาม",
+        "SUB_DISTRICT_NAME_ENG": "Hat Kham",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7702,
+        "LAT": 12.107999801635742,
+        "LONG": 99.65899658203125
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 350201,
+        "SUB_DISTRICT_NAME_THA": "ทรายมูล",
+        "SUB_DISTRICT_NAME_ENG": "Sai Mun",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3502,
+        "LAT": 15.956000328063965,
+        "LONG": 104.2239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 350202,
+        "SUB_DISTRICT_NAME_THA": "ดู่ลาด",
+        "SUB_DISTRICT_NAME_ENG": "Du Lat",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3502,
+        "LAT": 16.011999130249023,
+        "LONG": 104.20800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 350203,
+        "SUB_DISTRICT_NAME_THA": "ดงมะไฟ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mafai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3502,
+        "LAT": 15.980999946594238,
+        "LONG": 104.13500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 350204,
+        "SUB_DISTRICT_NAME_THA": "นาเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Na Wiang",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3502,
+        "LAT": 16.06999969482422,
+        "LONG": 104.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 350205,
+        "SUB_DISTRICT_NAME_THA": "ไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Phai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3502,
+        "LAT": 15.927000045776367,
+        "LONG": 104.29299926757812
+    }
+]

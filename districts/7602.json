@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760201,
+        "SUB_DISTRICT_NAME_THA": "เขาย้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Yoi",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.232999801635742,
+        "LONG": 99.81900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 760202,
+        "SUB_DISTRICT_NAME_THA": "สระพัง",
+        "SUB_DISTRICT_NAME_ENG": "Sa Phang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.256999969482422,
+        "LONG": 99.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 760203,
+        "SUB_DISTRICT_NAME_THA": "บางเค็ม",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khem",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.284000396728516,
+        "LONG": 99.83799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 760204,
+        "SUB_DISTRICT_NAME_THA": "ทับคาง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Khang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.204000473022461,
+        "LONG": 99.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 760205,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาไหล",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Lai",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.194000244140625,
+        "LONG": 99.87699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 760206,
+        "SUB_DISTRICT_NAME_THA": "หนองปรง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Prong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.168000221252441,
+        "LONG": 99.8010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 760207,
+        "SUB_DISTRICT_NAME_THA": "หนองชุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chumphon",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.295000076293945,
+        "LONG": 99.7969970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 760208,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโรง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.315999984741211,
+        "LONG": 99.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 760209,
+        "SUB_DISTRICT_NAME_THA": "ห้วยท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Tha Chang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.13599967956543,
+        "LONG": 99.80000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 760210,
+        "SUB_DISTRICT_NAME_THA": "หนองชุมพลเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chumphon Nuea",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7602,
+        "LAT": 13.300999641418457,
+        "LONG": 99.7239990234375
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 412301,
+        "SUB_DISTRICT_NAME_THA": "บ้านแดง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Daeng",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4123,
+        "LAT": 17.538999557495117,
+        "LONG": 103.0719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 412302,
+        "SUB_DISTRICT_NAME_THA": "นาทราย",
+        "SUB_DISTRICT_NAME_ENG": "Na Sai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4123,
+        "LAT": 17.562999725341797,
+        "LONG": 103.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 412303,
+        "SUB_DISTRICT_NAME_THA": "ดอนกลอย",
+        "SUB_DISTRICT_NAME_ENG": "Don Kloi",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4123,
+        "LAT": 17.479999542236328,
+        "LONG": 103.02300262451172
+    }
+]

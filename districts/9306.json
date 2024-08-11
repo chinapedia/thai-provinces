@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930601,
+        "SUB_DISTRICT_NAME_THA": "ปากพะยูน",
+        "SUB_DISTRICT_NAME_ENG": "Pak Pha Yun",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9306,
+        "LAT": 7.329999923706055,
+        "LONG": 100.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 930602,
+        "SUB_DISTRICT_NAME_THA": "ดอนประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Don Pradu",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9306,
+        "LAT": 7.2789998054504395,
+        "LONG": 100.31800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 930603,
+        "SUB_DISTRICT_NAME_THA": "เกาะนางคำ",
+        "SUB_DISTRICT_NAME_ENG": "Ko Nangkham",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9306,
+        "LAT": 7.3429999351501465,
+        "LONG": 100.38899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 930604,
+        "SUB_DISTRICT_NAME_THA": "เกาะหมาก",
+        "SUB_DISTRICT_NAME_ENG": "Ko Mak",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9306,
+        "LAT": 7.434999942779541,
+        "LONG": 100.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 930605,
+        "SUB_DISTRICT_NAME_THA": "ฝาละมี",
+        "SUB_DISTRICT_NAME_ENG": "Fa La Mi",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9306,
+        "LAT": 7.370999813079834,
+        "LONG": 100.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 930606,
+        "SUB_DISTRICT_NAME_THA": "หารเทา",
+        "SUB_DISTRICT_NAME_ENG": "Han Thao",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9306,
+        "LAT": 7.288000106811523,
+        "LONG": 100.26699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 930607,
+        "SUB_DISTRICT_NAME_THA": "ดอนทราย",
+        "SUB_DISTRICT_NAME_ENG": "Don Sai",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9306,
+        "LAT": 7.24399995803833,
+        "LONG": 100.32099914550781
+    }
+]

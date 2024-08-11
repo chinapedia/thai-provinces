@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 810201,
+        "SUB_DISTRICT_NAME_THA": "เขาพนม",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phanom",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8102,
+        "LAT": 8.22700023651123,
+        "LONG": 99.04499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 810202,
+        "SUB_DISTRICT_NAME_THA": "เขาดิน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Din",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8102,
+        "LAT": 8.342000007629395,
+        "LONG": 99.16699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 810203,
+        "SUB_DISTRICT_NAME_THA": "สินปุน",
+        "SUB_DISTRICT_NAME_ENG": "Sin Pun",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8102,
+        "LAT": 8.277000427246094,
+        "LONG": 99.29499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 810204,
+        "SUB_DISTRICT_NAME_THA": "พรุเตียว",
+        "SUB_DISTRICT_NAME_ENG": "Phru Tiao",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8102,
+        "LAT": 8.258000373840332,
+        "LONG": 99.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 810205,
+        "SUB_DISTRICT_NAME_THA": "หน้าเขา",
+        "SUB_DISTRICT_NAME_ENG": "Na Khao",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8102,
+        "LAT": 8.343000411987305,
+        "LONG": 98.96600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 810206,
+        "SUB_DISTRICT_NAME_THA": "โคกหาร",
+        "SUB_DISTRICT_NAME_ENG": "Khok Han",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8102,
+        "LAT": 8.187999725341797,
+        "LONG": 99.25199890136719
+    }
+]

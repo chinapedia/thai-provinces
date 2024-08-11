@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 810401,
+        "SUB_DISTRICT_NAME_THA": "คลองท่อมใต้",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Thom Tai",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8104,
+        "LAT": 7.933000087738037,
+        "LONG": 99.1719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 810402,
+        "SUB_DISTRICT_NAME_THA": "คลองท่อมเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Thom Nuea",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8104,
+        "LAT": 7.929999828338623,
+        "LONG": 99.26300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 810403,
+        "SUB_DISTRICT_NAME_THA": "คลองพน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phon",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8104,
+        "LAT": 7.757999897003174,
+        "LONG": 99.1719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 810404,
+        "SUB_DISTRICT_NAME_THA": "ทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Khao",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8104,
+        "LAT": 7.710999965667725,
+        "LONG": 99.24099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 810405,
+        "SUB_DISTRICT_NAME_THA": "ห้วยน้ำขาว",
+        "SUB_DISTRICT_NAME_ENG": "Huai Nam Khao",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8104,
+        "LAT": 7.866000175476074,
+        "LONG": 99.1259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 810406,
+        "SUB_DISTRICT_NAME_THA": "พรุดินนา",
+        "SUB_DISTRICT_NAME_ENG": "Phru Din Na",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8104,
+        "LAT": 8.0600004196167,
+        "LONG": 99.21900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 810407,
+        "SUB_DISTRICT_NAME_THA": "เพหลา",
+        "SUB_DISTRICT_NAME_ENG": "Phela",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8104,
+        "LAT": 8.074999809265137,
+        "LONG": 99.13899993896484
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940201,
+        "SUB_DISTRICT_NAME_THA": "โคกโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Khok Pho",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.73199987411499,
+        "LONG": 101.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 940202,
+        "SUB_DISTRICT_NAME_THA": "มะกรูด",
+        "SUB_DISTRICT_NAME_ENG": "Makrut",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.73799991607666,
+        "LONG": 101.11900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 940203,
+        "SUB_DISTRICT_NAME_THA": "บางโกระ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kro",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.760000228881836,
+        "LONG": 101.10800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 940204,
+        "SUB_DISTRICT_NAME_THA": "ป่าบอน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Bon",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.701000213623047,
+        "LONG": 101.11599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 940205,
+        "SUB_DISTRICT_NAME_THA": "ทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Khao",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.664999961853027,
+        "LONG": 101.09600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 940206,
+        "SUB_DISTRICT_NAME_THA": "นาประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Na Pradu",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.689000129699707,
+        "LONG": 101.14199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 940207,
+        "SUB_DISTRICT_NAME_THA": "ปากล่อ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Lo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.619999885559082,
+        "LONG": 101.18699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 940208,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งพลา",
+        "SUB_DISTRICT_NAME_ENG": "Thung Phla",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.640999794006348,
+        "LONG": 101.1520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 940211,
+        "SUB_DISTRICT_NAME_THA": "ท่าเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ruea",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.78000020980835,
+        "LONG": 101.0530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 940213,
+        "SUB_DISTRICT_NAME_THA": "นาเกตุ",
+        "SUB_DISTRICT_NAME_ENG": "Na Ket",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.74399995803833,
+        "LONG": 101.15499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 940214,
+        "SUB_DISTRICT_NAME_THA": "ควนโนรี",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Nori",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.718999862670898,
+        "LONG": 101.1989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 940215,
+        "SUB_DISTRICT_NAME_THA": "ช้างให้ตก",
+        "SUB_DISTRICT_NAME_ENG": "Chang Hai Tok",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9402,
+        "LAT": 6.671999931335449,
+        "LONG": 101.06199645996094
+    }
+]

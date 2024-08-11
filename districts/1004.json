@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 100401,
+        "SUB_DISTRICT_NAME_THA": "มหาพฤฒาราม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1004,
+        "LAT": 13.734000205993652,
+        "LONG": 100.5199966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 100402,
+        "SUB_DISTRICT_NAME_THA": "สีลม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1004,
+        "LAT": 13.729999542236328,
+        "LONG": 100.5250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 100403,
+        "SUB_DISTRICT_NAME_THA": "สุริยวงศ์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1004,
+        "LAT": 13.723999977111816,
+        "LONG": 100.52999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 100404,
+        "SUB_DISTRICT_NAME_THA": "บางรัก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1004,
+        "LAT": 13.72700023651123,
+        "LONG": 100.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 100405,
+        "SUB_DISTRICT_NAME_THA": "สี่พระยา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1004,
+        "LAT": 13.725000381469727,
+        "LONG": 100.51399993896484
+    }
+]

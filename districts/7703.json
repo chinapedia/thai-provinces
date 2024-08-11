@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770301,
+        "SUB_DISTRICT_NAME_THA": "ทับสะแก",
+        "SUB_DISTRICT_NAME_ENG": "Thap Sakae",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7703,
+        "LAT": 11.515999794006348,
+        "LONG": 99.62699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 770302,
+        "SUB_DISTRICT_NAME_THA": "อ่างทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ang Thong",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7703,
+        "LAT": 11.454000473022461,
+        "LONG": 99.50800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 770303,
+        "SUB_DISTRICT_NAME_THA": "นาหูกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Hu Kwang",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7703,
+        "LAT": 11.536999702453613,
+        "LONG": 99.4990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 770304,
+        "SUB_DISTRICT_NAME_THA": "เขาล้าน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Lan",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7703,
+        "LAT": 11.605999946594238,
+        "LONG": 99.5009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 770305,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยาง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7703,
+        "LAT": 11.63700008392334,
+        "LONG": 99.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 770306,
+        "SUB_DISTRICT_NAME_THA": "แสงอรุณ",
+        "SUB_DISTRICT_NAME_ENG": "Saeng Arun",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7703,
+        "LAT": 11.572999954223633,
+        "LONG": 99.62799835205078
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160301,
+        "SUB_DISTRICT_NAME_THA": "โคกสำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Samrong",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.071000099182129,
+        "LONG": 100.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 160302,
+        "SUB_DISTRICT_NAME_THA": "เกาะแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kaeo",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.13599967956543,
+        "LONG": 100.73600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 160303,
+        "SUB_DISTRICT_NAME_THA": "ถลุงเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Thalung Lek",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.064000129699707,
+        "LONG": 100.68000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 160304,
+        "SUB_DISTRICT_NAME_THA": "หลุมข้าว",
+        "SUB_DISTRICT_NAME_ENG": "Lum Khao",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.02400016784668,
+        "LONG": 100.64199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 160305,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Pong",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 14.980999946594238,
+        "LONG": 100.677001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 160306,
+        "SUB_DISTRICT_NAME_THA": "คลองเกตุ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Ket",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 14.967000007629395,
+        "LONG": 100.802001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 160307,
+        "SUB_DISTRICT_NAME_THA": "สะแกราบ",
+        "SUB_DISTRICT_NAME_ENG": "Sakae Rap",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.119999885559082,
+        "LONG": 100.7969970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 160308,
+        "SUB_DISTRICT_NAME_THA": "เพนียด",
+        "SUB_DISTRICT_NAME_ENG": "Phaniat",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.03600025177002,
+        "LONG": 100.81199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 160309,
+        "SUB_DISTRICT_NAME_THA": "วังเพลิง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phloeng",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.062000274658203,
+        "LONG": 100.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 160310,
+        "SUB_DISTRICT_NAME_THA": "ดงมะรุม",
+        "SUB_DISTRICT_NAME_ENG": "Dong Marum",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.126999855041504,
+        "LONG": 100.87699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 160318,
+        "SUB_DISTRICT_NAME_THA": "วังขอนขว้าง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Khon Khwang",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.02299976348877,
+        "LONG": 100.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 160320,
+        "SUB_DISTRICT_NAME_THA": "วังจั่น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chan",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.10200023651123,
+        "LONG": 100.6729965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 160322,
+        "SUB_DISTRICT_NAME_THA": "หนองแขม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khaem",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1603,
+        "LAT": 15.142999649047852,
+        "LONG": 100.68499755859375
+    }
+]

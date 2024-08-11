@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 102501,
+        "SUB_DISTRICT_NAME_THA": "บางพลัด",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1025,
+        "LAT": 13.791000366210938,
+        "LONG": 100.48699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 102502,
+        "SUB_DISTRICT_NAME_THA": "บางอ้อ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1025,
+        "LAT": 13.802000045776367,
+        "LONG": 100.51200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 102503,
+        "SUB_DISTRICT_NAME_THA": "บางบำหรุ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1025,
+        "LAT": 13.781000137329102,
+        "LONG": 100.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 102504,
+        "SUB_DISTRICT_NAME_THA": "บางยี่ขัน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1025,
+        "LAT": 13.77400016784668,
+        "LONG": 100.49199676513672
+    }
+]

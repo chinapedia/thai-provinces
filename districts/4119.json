@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 411901,
+        "SUB_DISTRICT_NAME_THA": "เพ็ญ",
+        "SUB_DISTRICT_NAME_ENG": "Phen",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.67300033569336,
+        "LONG": 102.93599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 411902,
+        "SUB_DISTRICT_NAME_THA": "บ้านธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Ban That",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.69499969482422,
+        "LONG": 102.8499984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 411903,
+        "SUB_DISTRICT_NAME_THA": "นาพู่",
+        "SUB_DISTRICT_NAME_ENG": "Na Phu",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.600000381469727,
+        "LONG": 102.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 411904,
+        "SUB_DISTRICT_NAME_THA": "เชียงหวาง",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Wang",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.617000579833984,
+        "LONG": 102.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 411905,
+        "SUB_DISTRICT_NAME_THA": "สุมเส้า",
+        "SUB_DISTRICT_NAME_ENG": "Sum Sao",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.60300064086914,
+        "LONG": 102.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 411906,
+        "SUB_DISTRICT_NAME_THA": "นาบัว",
+        "SUB_DISTRICT_NAME_ENG": "Na Bua",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.551000595092773,
+        "LONG": 102.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 411907,
+        "SUB_DISTRICT_NAME_THA": "บ้านเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lao",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.684999465942383,
+        "LONG": 103.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 411908,
+        "SUB_DISTRICT_NAME_THA": "จอมศรี",
+        "SUB_DISTRICT_NAME_ENG": "Chom Si",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.844999313354492,
+        "LONG": 102.89900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 411909,
+        "SUB_DISTRICT_NAME_THA": "เตาไห",
+        "SUB_DISTRICT_NAME_ENG": "Tao Hai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.634000778198242,
+        "LONG": 103.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 411910,
+        "SUB_DISTRICT_NAME_THA": "โคกกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Klang",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.729000091552734,
+        "LONG": 102.97899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 411911,
+        "SUB_DISTRICT_NAME_THA": "สร้างแป้น",
+        "SUB_DISTRICT_NAME_ENG": "Sang Paen",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4119,
+        "LAT": 17.51300048828125,
+        "LONG": 102.94400024414062
+    }
+]

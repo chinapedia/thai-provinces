@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 343101,
+        "SUB_DISTRICT_NAME_THA": "เหล่าเสือโก้ก",
+        "SUB_DISTRICT_NAME_ENG": "Lao Suea Kok",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3431,
+        "LAT": 15.432000160217285,
+        "LONG": 104.91799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 343102,
+        "SUB_DISTRICT_NAME_THA": "โพนเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Mueang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3431,
+        "LAT": 15.491999626159668,
+        "LONG": 104.89099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 343103,
+        "SUB_DISTRICT_NAME_THA": "แพงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Phaeng Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3431,
+        "LAT": 15.395000457763672,
+        "LONG": 104.88099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 343104,
+        "SUB_DISTRICT_NAME_THA": "หนองบก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bok",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3431,
+        "LAT": 15.42300033569336,
+        "LONG": 104.98799896240234
+    }
+]

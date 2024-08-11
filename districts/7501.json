@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 750101,
+        "SUB_DISTRICT_NAME_THA": "แม่กลอง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Klong",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.399999618530273,
+        "LONG": 99.99400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 750102,
+        "SUB_DISTRICT_NAME_THA": "บางขันแตก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khan Taek",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.383999824523926,
+        "LONG": 99.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 750103,
+        "SUB_DISTRICT_NAME_THA": "ลาดใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Lat Yai",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.451000213623047,
+        "LONG": 100.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 750104,
+        "SUB_DISTRICT_NAME_THA": "บ้านปรก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Prok",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.430000305175781,
+        "LONG": 99.99199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 750105,
+        "SUB_DISTRICT_NAME_THA": "บางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.430999755859375,
+        "LONG": 100.05999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 750106,
+        "SUB_DISTRICT_NAME_THA": "ท้ายหาด",
+        "SUB_DISTRICT_NAME_ENG": "Thai Hat",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.39900016784668,
+        "LONG": 99.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 750107,
+        "SUB_DISTRICT_NAME_THA": "แหลมใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Laem Yai",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.354000091552734,
+        "LONG": 99.98999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 750108,
+        "SUB_DISTRICT_NAME_THA": "คลองเขิน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khoen",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.444999694824219,
+        "LONG": 99.98799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 750109,
+        "SUB_DISTRICT_NAME_THA": "คลองโคน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khon",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.329000473022461,
+        "LONG": 99.94999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 750110,
+        "SUB_DISTRICT_NAME_THA": "นางตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Nang Takhian",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.479999542236328,
+        "LONG": 100.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 750111,
+        "SUB_DISTRICT_NAME_THA": "บางจะเกร็ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chakreng",
+        "PROVINCE_ID": 75,
+        "DISTRICT_ID": 7501,
+        "LAT": 13.37600040435791,
+        "LONG": 100.01000213623047
+    }
+]

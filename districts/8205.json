@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 820501,
+        "SUB_DISTRICT_NAME_THA": "ตะกั่วป่า",
+        "SUB_DISTRICT_NAME_ENG": "Takua Pa",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.829000473022461,
+        "LONG": 98.36199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 820502,
+        "SUB_DISTRICT_NAME_THA": "บางนายสี",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nai Si",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.913999557495117,
+        "LONG": 98.3239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 820503,
+        "SUB_DISTRICT_NAME_THA": "บางไทร",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.77299976348877,
+        "LONG": 98.31199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 820504,
+        "SUB_DISTRICT_NAME_THA": "บางม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Muang",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.819000244140625,
+        "LONG": 98.28900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 820505,
+        "SUB_DISTRICT_NAME_THA": "ตำตัว",
+        "SUB_DISTRICT_NAME_ENG": "Tamtua",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.784000396728516,
+        "LONG": 98.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 820506,
+        "SUB_DISTRICT_NAME_THA": "โคกเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khian",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.85099983215332,
+        "LONG": 98.38800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 820507,
+        "SUB_DISTRICT_NAME_THA": "คึกคัก",
+        "SUB_DISTRICT_NAME_ENG": "Khuek Khak",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.697999954223633,
+        "LONG": 98.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 820508,
+        "SUB_DISTRICT_NAME_THA": "เกาะคอเขา",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kho Khao",
+        "PROVINCE_ID": 82,
+        "DISTRICT_ID": 8205,
+        "LAT": 8.961999893188477,
+        "LONG": 98.28399658203125
+    }
+]

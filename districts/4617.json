@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 461701,
+        "SUB_DISTRICT_NAME_THA": "ดอนจาน",
+        "SUB_DISTRICT_NAME_ENG": "Don Chan",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4617,
+        "LAT": 16.424999237060547,
+        "LONG": 103.69599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 461702,
+        "SUB_DISTRICT_NAME_THA": "สะอาดไชยศรี",
+        "SUB_DISTRICT_NAME_ENG": "Sa-At Chai Si",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4617,
+        "LAT": 16.47100067138672,
+        "LONG": 103.77300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 461703,
+        "SUB_DISTRICT_NAME_THA": "พยุง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Phayung",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4617,
+        "LAT": 16.5310001373291,
+        "LONG": 103.70800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 461704,
+        "SUB_DISTRICT_NAME_THA": "ม่วงนา",
+        "SUB_DISTRICT_NAME_ENG": "Muang Na",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4617,
+        "LAT": 16.475000381469727,
+        "LONG": 103.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 461705,
+        "SUB_DISTRICT_NAME_THA": "นาจำปา",
+        "SUB_DISTRICT_NAME_ENG": "Na Champa",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4617,
+        "LAT": 16.479999542236328,
+        "LONG": 103.69599914550781
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 421401,
+        "SUB_DISTRICT_NAME_THA": "หนองหิน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hin",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4214,
+        "LAT": 17.11199951171875,
+        "LONG": 101.86000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 421402,
+        "SUB_DISTRICT_NAME_THA": "ตาดข่า",
+        "SUB_DISTRICT_NAME_ENG": "Tat Kha",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4214,
+        "LAT": 17.033000946044922,
+        "LONG": 101.87899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 421403,
+        "SUB_DISTRICT_NAME_THA": "ปวนพุ",
+        "SUB_DISTRICT_NAME_ENG": "Puan Phu",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4214,
+        "LAT": 17.0310001373291,
+        "LONG": 101.74099731445312
+    }
+]

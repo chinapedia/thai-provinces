@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640401,
+        "SUB_DISTRICT_NAME_THA": "กง",
+        "SUB_DISTRICT_NAME_ENG": "Kong",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.89299964904785,
+        "LONG": 99.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 640402,
+        "SUB_DISTRICT_NAME_THA": "บ้านกร่าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Krang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.94700050354004,
+        "LONG": 99.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 640403,
+        "SUB_DISTRICT_NAME_THA": "ไกรนอก",
+        "SUB_DISTRICT_NAME_ENG": "Krai Nok",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.906999588012695,
+        "LONG": 100.08300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 640404,
+        "SUB_DISTRICT_NAME_THA": "ไกรกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Krai Klang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.996000289916992,
+        "LONG": 99.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 640405,
+        "SUB_DISTRICT_NAME_THA": "ไกรใน",
+        "SUB_DISTRICT_NAME_ENG": "Krai Nai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 17.02199935913086,
+        "LONG": 99.9469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 640406,
+        "SUB_DISTRICT_NAME_THA": "ดงเดือย",
+        "SUB_DISTRICT_NAME_ENG": "Dong Dueai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.920000076293945,
+        "LONG": 100.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 640407,
+        "SUB_DISTRICT_NAME_THA": "ป่าแฝก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Faek",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.9689998626709,
+        "LONG": 99.927001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 640408,
+        "SUB_DISTRICT_NAME_THA": "กกแรต",
+        "SUB_DISTRICT_NAME_ENG": "Kok Raet",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 17.0049991607666,
+        "LONG": 100.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 640409,
+        "SUB_DISTRICT_NAME_THA": "ท่าฉนวน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chanuan",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.891000747680664,
+        "LONG": 99.87799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 640410,
+        "SUB_DISTRICT_NAME_THA": "หนองตูม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tum",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.8799991607666,
+        "LONG": 99.9489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 640411,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่สุขเกษม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai Suk Kasem",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6404,
+        "LAT": 16.95400047302246,
+        "LONG": 100.0780029296875
+    }
+]

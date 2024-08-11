@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 950701,
+        "SUB_DISTRICT_NAME_THA": "กาบัง",
+        "SUB_DISTRICT_NAME_ENG": "Kabang",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9507,
+        "LAT": 6.448999881744385,
+        "LONG": 101.0
+    },
+    {
+        "SUB_DISTRICT_ID": 950702,
+        "SUB_DISTRICT_NAME_THA": "บาละ",
+        "SUB_DISTRICT_NAME_ENG": "Bala",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9507,
+        "LAT": 6.329999923706055,
+        "LONG": 101.02300262451172
+    }
+]

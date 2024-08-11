@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 440201,
+        "SUB_DISTRICT_NAME_THA": "แกดำ",
+        "SUB_DISTRICT_NAME_ENG": "Kae Dam",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4402,
+        "LAT": 16.025999069213867,
+        "LONG": 103.4010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 440202,
+        "SUB_DISTRICT_NAME_THA": "วังแสง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Saeng",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4402,
+        "LAT": 16.047000885009766,
+        "LONG": 103.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 440203,
+        "SUB_DISTRICT_NAME_THA": "มิตรภาพ",
+        "SUB_DISTRICT_NAME_ENG": "Mittraphap",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4402,
+        "LAT": 16.09000015258789,
+        "LONG": 103.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 440204,
+        "SUB_DISTRICT_NAME_THA": "หนองกุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4402,
+        "LAT": 16.07200050354004,
+        "LONG": 103.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 440205,
+        "SUB_DISTRICT_NAME_THA": "โนนภิบาล",
+        "SUB_DISTRICT_NAME_ENG": "Non Phiban",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4402,
+        "LAT": 16.02199935913086,
+        "LONG": 103.44200134277344
+    }
+]

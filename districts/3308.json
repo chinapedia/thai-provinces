@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 330801,
+        "SUB_DISTRICT_NAME_THA": "สิ",
+        "SUB_DISTRICT_NAME_ENG": "Si",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.625,
+        "LONG": 104.43599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 330802,
+        "SUB_DISTRICT_NAME_THA": "บักดอง",
+        "SUB_DISTRICT_NAME_ENG": "Bak Dong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.47599983215332,
+        "LONG": 104.44400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 330803,
+        "SUB_DISTRICT_NAME_THA": "พราน",
+        "SUB_DISTRICT_NAME_ENG": "Phran",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.592000007629395,
+        "LONG": 104.5009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 330804,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์วงศ์",
+        "SUB_DISTRICT_NAME_ENG": "Pho Wong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.666000366210938,
+        "LONG": 104.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 330805,
+        "SUB_DISTRICT_NAME_THA": "ไพร",
+        "SUB_DISTRICT_NAME_ENG": "Phrai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.706000328063965,
+        "LONG": 104.4540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 330806,
+        "SUB_DISTRICT_NAME_THA": "กระหวัน",
+        "SUB_DISTRICT_NAME_ENG": "Krawan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.67300033569336,
+        "LONG": 104.41400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 330807,
+        "SUB_DISTRICT_NAME_THA": "ขุนหาญ",
+        "SUB_DISTRICT_NAME_ENG": "Khun Han",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.635000228881836,
+        "LONG": 104.37100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 330808,
+        "SUB_DISTRICT_NAME_THA": "โนนสูง",
+        "SUB_DISTRICT_NAME_ENG": "Non Sung",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.581000328063965,
+        "LONG": 104.41600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 330809,
+        "SUB_DISTRICT_NAME_THA": "กันทรอม",
+        "SUB_DISTRICT_NAME_ENG": "Kan Throm",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.574999809265137,
+        "LONG": 104.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 330810,
+        "SUB_DISTRICT_NAME_THA": "ภูฝ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Phu Fai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.682999610900879,
+        "LONG": 104.51000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 330811,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์กระสังข์",
+        "SUB_DISTRICT_NAME_ENG": "Pho Krasang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.628000259399414,
+        "LONG": 104.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 330812,
+        "SUB_DISTRICT_NAME_THA": "ห้วยจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Huai Chan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3308,
+        "LAT": 14.46500015258789,
+        "LONG": 104.35299682617188
+    }
+]

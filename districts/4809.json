@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480901,
+        "SUB_DISTRICT_NAME_THA": "นาหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Na Wa",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4809,
+        "LAT": 17.47100067138672,
+        "LONG": 104.05999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 480902,
+        "SUB_DISTRICT_NAME_THA": "นางัว",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngua",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4809,
+        "LAT": 17.423999786376953,
+        "LONG": 104.07099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 480903,
+        "SUB_DISTRICT_NAME_THA": "บ้านเสียว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Siao",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4809,
+        "LAT": 17.554000854492188,
+        "LONG": 104.08200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 480904,
+        "SUB_DISTRICT_NAME_THA": "นาคูณใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Na Khun Yai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4809,
+        "LAT": 17.506999969482422,
+        "LONG": 104.1449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 480905,
+        "SUB_DISTRICT_NAME_THA": "เหล่าพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Lao Phathana",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4809,
+        "LAT": 17.617000579833984,
+        "LONG": 104.06999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 480906,
+        "SUB_DISTRICT_NAME_THA": "ท่าเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ruea",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4809,
+        "LAT": 17.503000259399414,
+        "LONG": 104.052001953125
+    }
+]

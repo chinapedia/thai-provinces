@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190901,
+        "SUB_DISTRICT_NAME_THA": "พระพุทธบาท",
+        "SUB_DISTRICT_NAME_ENG": "Phraphutthabat",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.732000350952148,
+        "LONG": 100.78199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 190902,
+        "SUB_DISTRICT_NAME_THA": "ขุนโขลน",
+        "SUB_DISTRICT_NAME_ENG": "Khun Khlon",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.713000297546387,
+        "LONG": 100.83100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 190903,
+        "SUB_DISTRICT_NAME_THA": "ธารเกษม",
+        "SUB_DISTRICT_NAME_ENG": "Than Kasem",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.762999534606934,
+        "LONG": 100.81199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 190904,
+        "SUB_DISTRICT_NAME_THA": "นายาว",
+        "SUB_DISTRICT_NAME_ENG": "Na Yao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.767999649047852,
+        "LONG": 100.76300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 190905,
+        "SUB_DISTRICT_NAME_THA": "พุคำจาน",
+        "SUB_DISTRICT_NAME_ENG": "Phu Kham Chan",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.744000434875488,
+        "LONG": 100.84700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 190906,
+        "SUB_DISTRICT_NAME_THA": "เขาวง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Wong",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.678999900817871,
+        "LONG": 100.83000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 190907,
+        "SUB_DISTRICT_NAME_THA": "ห้วยป่าหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Pa Wai",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.637999534606934,
+        "LONG": 100.83000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 190908,
+        "SUB_DISTRICT_NAME_THA": "พุกร่าง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Krang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.682000160217285,
+        "LONG": 100.78399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 961318,
+        "SUB_DISTRICT_NAME_THA": "หนองแก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kae",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1909,
+        "LAT": 14.722905158996582,
+        "LONG": 100.7437515258789
+    }
+]

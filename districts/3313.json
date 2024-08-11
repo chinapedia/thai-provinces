@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331301,
+        "SUB_DISTRICT_NAME_THA": "โนนค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Non Kho",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3313,
+        "LAT": 14.89900016784668,
+        "LONG": 104.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 331302,
+        "SUB_DISTRICT_NAME_THA": "บก",
+        "SUB_DISTRICT_NAME_ENG": "Bok",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3313,
+        "LAT": 14.97599983215332,
+        "LONG": 104.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 331303,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Pho",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3313,
+        "LAT": 14.92300033569336,
+        "LONG": 104.61399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 331304,
+        "SUB_DISTRICT_NAME_THA": "หนองกุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3313,
+        "LAT": 14.861000061035156,
+        "LONG": 104.77400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 331305,
+        "SUB_DISTRICT_NAME_THA": "เหล่ากวาง",
+        "SUB_DISTRICT_NAME_ENG": "Lao Kwang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3313,
+        "LAT": 14.880000114440918,
+        "LONG": 104.63800048828125
+    }
+]

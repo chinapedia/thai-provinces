@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270701,
+        "SUB_DISTRICT_NAME_THA": "เขาฉกรรจ์",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chakan",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2707,
+        "LAT": 13.663000106811523,
+        "LONG": 102.0979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 270702,
+        "SUB_DISTRICT_NAME_THA": "หนองหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Wa",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2707,
+        "LAT": 13.67199993133545,
+        "LONG": 102.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 270703,
+        "SUB_DISTRICT_NAME_THA": "พระเพลิง",
+        "SUB_DISTRICT_NAME_ENG": "Phra Phloeng",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2707,
+        "LAT": 13.595999717712402,
+        "LONG": 102.04199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 270704,
+        "SUB_DISTRICT_NAME_THA": "เขาสามสิบ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Sam Sip",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2707,
+        "LAT": 13.708000183105469,
+        "LONG": 102.11799621582031
+    }
+]

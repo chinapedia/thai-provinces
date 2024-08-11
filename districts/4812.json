@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 481201,
+        "SUB_DISTRICT_NAME_THA": "วังยาง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4812,
+        "LAT": 17.062999725341797,
+        "LONG": 104.44200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 481202,
+        "SUB_DISTRICT_NAME_THA": "ยอดชาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Si",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4812,
+        "LAT": 17.065000534057617,
+        "LONG": 104.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 481203,
+        "SUB_DISTRICT_NAME_THA": "โคกสี",
+        "SUB_DISTRICT_NAME_ENG": "Yot Chat",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4812,
+        "LAT": 17.08099937438965,
+        "LONG": 104.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 481204,
+        "SUB_DISTRICT_NAME_THA": "หนองโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pho",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4812,
+        "LAT": 17.090999603271484,
+        "LONG": 104.49099731445312
+    }
+]

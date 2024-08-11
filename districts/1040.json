@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 104001,
+        "SUB_DISTRICT_NAME_THA": "บางแค",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1040,
+        "LAT": 13.697999954223633,
+        "LONG": 100.40899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 104002,
+        "SUB_DISTRICT_NAME_THA": "บางแคเหนือ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1040,
+        "LAT": 13.720000267028809,
+        "LONG": 100.4000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 104003,
+        "SUB_DISTRICT_NAME_THA": "บางไผ่",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1040,
+        "LAT": 13.741000175476074,
+        "LONG": 100.38500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 104004,
+        "SUB_DISTRICT_NAME_THA": "หลักสอง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1040,
+        "LAT": 13.682999610900879,
+        "LONG": 100.39600372314453
+    }
+]

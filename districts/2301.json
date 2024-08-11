@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 230102,
+        "SUB_DISTRICT_NAME_THA": "หนองเสม็ด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Samet",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.215999603271484,
+        "LONG": 102.50399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 230103,
+        "SUB_DISTRICT_NAME_THA": "หนองโสน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sano",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.184000015258789,
+        "LONG": 102.48799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 230104,
+        "SUB_DISTRICT_NAME_THA": "หนองคันทรง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khan Song",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.194000244140625,
+        "LONG": 102.54199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 230105,
+        "SUB_DISTRICT_NAME_THA": "ห้วงน้ำขาว",
+        "SUB_DISTRICT_NAME_ENG": "Huang Nam Khao",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.142999649047852,
+        "LONG": 102.51799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 230106,
+        "SUB_DISTRICT_NAME_THA": "อ่าวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Ao Yai",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.07800006866455,
+        "LONG": 102.56199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 230107,
+        "SUB_DISTRICT_NAME_THA": "วังกระแจะ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Krachae",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.272000312805176,
+        "LONG": 102.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 230108,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแร้ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Raeng",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.38700008392334,
+        "LONG": 102.55999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 230109,
+        "SUB_DISTRICT_NAME_THA": "เนินทราย",
+        "SUB_DISTRICT_NAME_ENG": "Noen Sai",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.282999992370605,
+        "LONG": 102.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 230110,
+        "SUB_DISTRICT_NAME_THA": "ท่าพริก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phrik",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.243000030517578,
+        "LONG": 102.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 230111,
+        "SUB_DISTRICT_NAME_THA": "ท่ากุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kum",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.345000267028809,
+        "LONG": 102.67500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 230112,
+        "SUB_DISTRICT_NAME_THA": "ตะกาง",
+        "SUB_DISTRICT_NAME_ENG": "Takang",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.25,
+        "LONG": 102.65899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 230113,
+        "SUB_DISTRICT_NAME_THA": "ชำราก",
+        "SUB_DISTRICT_NAME_ENG": "Cham Rak",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.194000244140625,
+        "LONG": 102.677001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 230114,
+        "SUB_DISTRICT_NAME_THA": "แหลมกลัด",
+        "SUB_DISTRICT_NAME_ENG": "Laem Klat",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2301,
+        "LAT": 12.116999626159668,
+        "LONG": 102.7040023803711
+    }
+]

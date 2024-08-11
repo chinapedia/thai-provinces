@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 901201,
+        "SUB_DISTRICT_NAME_THA": "นาหม่อม",
+        "SUB_DISTRICT_NAME_ENG": "Na Mom",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9012,
+        "LAT": 6.965000152587891,
+        "LONG": 100.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 901202,
+        "SUB_DISTRICT_NAME_THA": "พิจิตร",
+        "SUB_DISTRICT_NAME_ENG": "Phichit",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9012,
+        "LAT": 6.991000175476074,
+        "LONG": 100.56099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 901203,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khamin",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9012,
+        "LAT": 6.915999889373779,
+        "LONG": 100.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 901204,
+        "SUB_DISTRICT_NAME_THA": "คลองหรัง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Rang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9012,
+        "LAT": 6.923999786376953,
+        "LONG": 100.59100341796875
+    }
+]

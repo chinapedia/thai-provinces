@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841401,
+        "SUB_DISTRICT_NAME_THA": "เคียนซา",
+        "SUB_DISTRICT_NAME_ENG": "Khian Sa",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8414,
+        "LAT": 8.817000389099121,
+        "LONG": 99.18000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 841402,
+        "SUB_DISTRICT_NAME_THA": "พ่วงพรมคร",
+        "SUB_DISTRICT_NAME_ENG": "Phuang Phromkhon",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8414,
+        "LAT": 8.664999961853027,
+        "LONG": 99.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 841403,
+        "SUB_DISTRICT_NAME_THA": "เขาตอก",
+        "SUB_DISTRICT_NAME_ENG": "Khao Tok",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8414,
+        "LAT": 8.845000267028809,
+        "LONG": 99.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 841404,
+        "SUB_DISTRICT_NAME_THA": "อรัญคามวารี",
+        "SUB_DISTRICT_NAME_ENG": "Aran Kham Wari",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8414,
+        "LAT": 8.744999885559082,
+        "LONG": 99.19000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 841405,
+        "SUB_DISTRICT_NAME_THA": "บ้านเสด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sadet",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8414,
+        "LAT": 8.736000061035156,
+        "LONG": 99.02400207519531
+    }
+]

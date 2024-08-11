@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 471701,
+        "SUB_DISTRICT_NAME_THA": "บ้านโพน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phon",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4717,
+        "LAT": 17.2189998626709,
+        "LONG": 104.375
+    },
+    {
+        "SUB_DISTRICT_ID": 471702,
+        "SUB_DISTRICT_NAME_THA": "นาแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Na Kaeo",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4717,
+        "LAT": 17.26799964904785,
+        "LONG": 104.23899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 471703,
+        "SUB_DISTRICT_NAME_THA": "นาตงวัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Na Tong Watthana",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4717,
+        "LAT": 17.242000579833984,
+        "LONG": 104.34100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 471704,
+        "SUB_DISTRICT_NAME_THA": "บ้านแป้น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Paen",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4717,
+        "LAT": 17.195999145507812,
+        "LONG": 104.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 471705,
+        "SUB_DISTRICT_NAME_THA": "เชียงสือ",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Sue",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4717,
+        "LAT": 17.136999130249023,
+        "LONG": 104.36100006103516
+    }
+]

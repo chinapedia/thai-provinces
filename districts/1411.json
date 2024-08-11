@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 141101,
+        "SUB_DISTRICT_NAME_THA": "ลำตาเสา",
+        "SUB_DISTRICT_NAME_ENG": "Lam Ta Sao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.274999618530273,
+        "LONG": 100.70800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 141102,
+        "SUB_DISTRICT_NAME_THA": "บ่อตาโล่",
+        "SUB_DISTRICT_NAME_ENG": "Bo Ta Lo",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.241000175476074,
+        "LONG": 100.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 141103,
+        "SUB_DISTRICT_NAME_THA": "วังน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Wang Noi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.201000213623047,
+        "LONG": 100.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 141104,
+        "SUB_DISTRICT_NAME_THA": "ลำไทร",
+        "SUB_DISTRICT_NAME_ENG": "Lam Sai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.199999809265137,
+        "LONG": 100.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 141105,
+        "SUB_DISTRICT_NAME_THA": "สนับทึบ",
+        "SUB_DISTRICT_NAME_ENG": "Sanap Thuep",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.29800033569336,
+        "LONG": 100.81300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 141106,
+        "SUB_DISTRICT_NAME_THA": "พยอม",
+        "SUB_DISTRICT_NAME_ENG": "Phayom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.166000366210938,
+        "LONG": 100.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 141107,
+        "SUB_DISTRICT_NAME_THA": "หันตะเภา",
+        "SUB_DISTRICT_NAME_ENG": "Han Taphao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.303999900817871,
+        "LONG": 100.77999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 141108,
+        "SUB_DISTRICT_NAME_THA": "ข้าวงาม",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chula",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.229000091552734,
+        "LONG": 100.75800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 141109,
+        "SUB_DISTRICT_NAME_THA": "วังจุฬา",
+        "SUB_DISTRICT_NAME_ENG": "Khao Ngam",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.24899959564209,
+        "LONG": 100.80000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 141110,
+        "SUB_DISTRICT_NAME_THA": "ชะแมบ",
+        "SUB_DISTRICT_NAME_ENG": "Chamaep",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1411,
+        "LAT": 14.256999969482422,
+        "LONG": 100.74800109863281
+    }
+]

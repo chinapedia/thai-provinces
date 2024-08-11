@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 104601,
+        "SUB_DISTRICT_NAME_THA": "สามวาตะวันตก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1046,
+        "LAT": 13.888999938964844,
+        "LONG": 100.70800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 104602,
+        "SUB_DISTRICT_NAME_THA": "สามวาตะวันออก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1046,
+        "LAT": 13.895999908447266,
+        "LONG": 100.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 104603,
+        "SUB_DISTRICT_NAME_THA": "บางชัน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1046,
+        "LAT": 13.83899974822998,
+        "LONG": 100.69999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 104604,
+        "SUB_DISTRICT_NAME_THA": "ทรายกองดิน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1046,
+        "LAT": 13.854000091552734,
+        "LONG": 100.74500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 104605,
+        "SUB_DISTRICT_NAME_THA": "ทรายกองดินใต้",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1046,
+        "LAT": 13.861000061035156,
+        "LONG": 100.78600311279297
+    }
+]

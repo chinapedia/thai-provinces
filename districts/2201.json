@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220101,
+        "SUB_DISTRICT_NAME_THA": "ตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Talat",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.590999603271484,
+        "LONG": 102.08699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 220102,
+        "SUB_DISTRICT_NAME_THA": "วัดใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Wat Mai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.611000061035156,
+        "LONG": 102.1050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 220103,
+        "SUB_DISTRICT_NAME_THA": "คลองนารายณ์",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Narai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.574000358581543,
+        "LONG": 102.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 220104,
+        "SUB_DISTRICT_NAME_THA": "เกาะขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Ko Khwang",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.562000274658203,
+        "LONG": 102.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 220105,
+        "SUB_DISTRICT_NAME_THA": "คมบาง",
+        "SUB_DISTRICT_NAME_ENG": "Kom Bang",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.541999816894531,
+        "LONG": 102.16899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 220106,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.644000053405762,
+        "LONG": 102.0979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 220107,
+        "SUB_DISTRICT_NAME_THA": "จันทนิมิต",
+        "SUB_DISTRICT_NAME_ENG": "Chanthanimit",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.609999656677246,
+        "LONG": 102.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 220108,
+        "SUB_DISTRICT_NAME_THA": "บางกะจะ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kacha",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.562999725341797,
+        "LONG": 102.05599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 220109,
+        "SUB_DISTRICT_NAME_THA": "แสลง",
+        "SUB_DISTRICT_NAME_ENG": "Salaeng",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.694000244140625,
+        "LONG": 102.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 220110,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.534000396728516,
+        "LONG": 102.10099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 220111,
+        "SUB_DISTRICT_NAME_THA": "พลับพลา",
+        "SUB_DISTRICT_NAME_ENG": "Phlapphla",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2201,
+        "LAT": 12.604999542236328,
+        "LONG": 102.1719970703125
+    }
+]

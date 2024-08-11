@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360901,
+        "SUB_DISTRICT_NAME_THA": "วะตะแบก",
+        "SUB_DISTRICT_NAME_ENG": "Wa Tabaek",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3609,
+        "LAT": 15.425999641418457,
+        "LONG": 101.43599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 360902,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยายจิ๋ว",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yai Chio",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3609,
+        "LAT": 15.432000160217285,
+        "LONG": 101.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 360903,
+        "SUB_DISTRICT_NAME_THA": "นายางกลัก",
+        "SUB_DISTRICT_NAME_ENG": "Na Yang Klak",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3609,
+        "LAT": 15.675999641418457,
+        "LONG": 101.51699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 360904,
+        "SUB_DISTRICT_NAME_THA": "บ้านไร่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3609,
+        "LAT": 15.595000267028809,
+        "LONG": 101.45600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 360905,
+        "SUB_DISTRICT_NAME_THA": "โป่งนก",
+        "SUB_DISTRICT_NAME_ENG": "Pong Nok",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3609,
+        "LAT": 15.807999610900879,
+        "LONG": 101.46900177001953
+    }
+]

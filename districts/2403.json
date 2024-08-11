@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 240301,
+        "SUB_DISTRICT_NAME_THA": "บางน้ำเปรี้ยว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nam Priao",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.829000473022461,
+        "LONG": 101.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 240302,
+        "SUB_DISTRICT_NAME_THA": "บางขนาก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khanak",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.857999801635742,
+        "LONG": 101.11499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 240303,
+        "SUB_DISTRICT_NAME_THA": "สิงโตทอง",
+        "SUB_DISTRICT_NAME_ENG": "Singto Thong",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.91100025177002,
+        "LONG": 101.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 240304,
+        "SUB_DISTRICT_NAME_THA": "หมอนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Mon Thong",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.87399959564209,
+        "LONG": 101.04299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 240305,
+        "SUB_DISTRICT_NAME_THA": "บึงน้ำรักษ์",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Nam Rak",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.907999992370605,
+        "LONG": 100.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 240306,
+        "SUB_DISTRICT_NAME_THA": "ดอนเกาะกา",
+        "SUB_DISTRICT_NAME_ENG": "Don Ko Ka",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.944000244140625,
+        "LONG": 101.01599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 240307,
+        "SUB_DISTRICT_NAME_THA": "โยธะกา",
+        "SUB_DISTRICT_NAME_ENG": "Yothaka",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.925000190734863,
+        "LONG": 101.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 240308,
+        "SUB_DISTRICT_NAME_THA": "ดอนฉิมพลี",
+        "SUB_DISTRICT_NAME_ENG": "Don Chimphli",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.907999992370605,
+        "LONG": 100.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 240309,
+        "SUB_DISTRICT_NAME_THA": "ศาลาแดง",
+        "SUB_DISTRICT_NAME_ENG": "Sala Daeng",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.838000297546387,
+        "LONG": 100.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 240310,
+        "SUB_DISTRICT_NAME_THA": "โพรงอากาศ",
+        "SUB_DISTRICT_NAME_ENG": "Phrong Akat",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2403,
+        "LAT": 13.82699966430664,
+        "LONG": 101.06199645996094
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470901,
+        "SUB_DISTRICT_NAME_THA": "คำตากล้า",
+        "SUB_DISTRICT_NAME_ENG": "Kham Ta Kla",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4709,
+        "LAT": 17.833999633789062,
+        "LONG": 103.75399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 470902,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวสิม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Sim",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4709,
+        "LAT": 17.840999603271484,
+        "LONG": 103.85900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 470903,
+        "SUB_DISTRICT_NAME_THA": "นาแต้",
+        "SUB_DISTRICT_NAME_ENG": "Na Tae",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4709,
+        "LAT": 17.865999221801758,
+        "LONG": 103.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 470904,
+        "SUB_DISTRICT_NAME_THA": "แพด",
+        "SUB_DISTRICT_NAME_ENG": "Phaet",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4709,
+        "LAT": 17.774999618530273,
+        "LONG": 103.84200286865234
+    }
+]

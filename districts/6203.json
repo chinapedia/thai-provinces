@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620301,
+        "SUB_DISTRICT_NAME_THA": "คลองน้ำไหล",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Nam Lai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6203,
+        "LAT": 16.156999588012695,
+        "LONG": 99.14399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 620302,
+        "SUB_DISTRICT_NAME_THA": "โป่งน้ำร้อน",
+        "SUB_DISTRICT_NAME_ENG": "Pong Nam Ron",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6203,
+        "LAT": 16.388999938964844,
+        "LONG": 99.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 620303,
+        "SUB_DISTRICT_NAME_THA": "คลองลานพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Lan Phatthana",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6203,
+        "LAT": 16.09600067138672,
+        "LONG": 99.25199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 620304,
+        "SUB_DISTRICT_NAME_THA": "สักงาม",
+        "SUB_DISTRICT_NAME_ENG": "Sak Ngam",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6203,
+        "LAT": 16.323999404907227,
+        "LONG": 99.3479995727539
+    }
+]

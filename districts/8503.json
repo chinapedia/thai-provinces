@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 850301,
+        "SUB_DISTRICT_NAME_THA": "ม่วงกลวง",
+        "SUB_DISTRICT_NAME_ENG": "Muang Kluang",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8503,
+        "LAT": 9.605999946594238,
+        "LONG": 98.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 850302,
+        "SUB_DISTRICT_NAME_THA": "กะเปอร์",
+        "SUB_DISTRICT_NAME_ENG": "Kapoe",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8503,
+        "LAT": 9.623000144958496,
+        "LONG": 98.62100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 850303,
+        "SUB_DISTRICT_NAME_THA": "เชี่ยวเหลียง",
+        "SUB_DISTRICT_NAME_ENG": "Chiao Liang",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8503,
+        "LAT": 9.562000274658203,
+        "LONG": 98.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 850304,
+        "SUB_DISTRICT_NAME_THA": "บ้านนา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Na",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8503,
+        "LAT": 9.553000450134277,
+        "LONG": 98.73999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 850305,
+        "SUB_DISTRICT_NAME_THA": "บางหิน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Hin",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8503,
+        "LAT": 9.524999618530273,
+        "LONG": 98.58100128173828
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501501,
+        "SUB_DISTRICT_NAME_THA": "หางดง",
+        "SUB_DISTRICT_NAME_ENG": "Hang Dong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.691999435424805,
+        "LONG": 98.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 501502,
+        "SUB_DISTRICT_NAME_THA": "หนองแก๋ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.673999786376953,
+        "LONG": 98.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 501503,
+        "SUB_DISTRICT_NAME_THA": "หารแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Han Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.649999618530273,
+        "LONG": 98.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 501504,
+        "SUB_DISTRICT_NAME_THA": "หนองตอง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.613000869750977,
+        "LONG": 98.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 501505,
+        "SUB_DISTRICT_NAME_THA": "ขุนคง",
+        "SUB_DISTRICT_NAME_ENG": "Khun Khong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.67300033569336,
+        "LONG": 98.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 501506,
+        "SUB_DISTRICT_NAME_THA": "สบแม่ข่า",
+        "SUB_DISTRICT_NAME_ENG": "Sop Mae Kha",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.68899917602539,
+        "LONG": 98.9800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 501507,
+        "SUB_DISTRICT_NAME_THA": "บ้านแหวน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Waen",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.701000213623047,
+        "LONG": 98.94400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 501508,
+        "SUB_DISTRICT_NAME_THA": "สันผักหวาน",
+        "SUB_DISTRICT_NAME_ENG": "San Phak Wan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.7189998626709,
+        "LONG": 98.97000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 501509,
+        "SUB_DISTRICT_NAME_THA": "หนองควาย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khwai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.731000900268555,
+        "LONG": 98.9229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 501510,
+        "SUB_DISTRICT_NAME_THA": "บ้านปง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.768999099731445,
+        "LONG": 98.86799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 501511,
+        "SUB_DISTRICT_NAME_THA": "น้ำแพร่",
+        "SUB_DISTRICT_NAME_ENG": "Nam Phrae",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5015,
+        "LAT": 18.708999633789062,
+        "LONG": 98.88099670410156
+    }
+]

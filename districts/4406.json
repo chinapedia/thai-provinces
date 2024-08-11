@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 440601,
+        "SUB_DISTRICT_NAME_THA": "บรบือ",
+        "SUB_DISTRICT_NAME_ENG": "Borabue",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 16.06100082397461,
+        "LONG": 103.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 440602,
+        "SUB_DISTRICT_NAME_THA": "บ่อใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bo Yai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 16.114999771118164,
+        "LONG": 103.1760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 440604,
+        "SUB_DISTRICT_NAME_THA": "วังไชย",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.986000061035156,
+        "LONG": 103.06400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 440605,
+        "SUB_DISTRICT_NAME_THA": "หนองม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Muang",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.961000442504883,
+        "LONG": 103.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 440606,
+        "SUB_DISTRICT_NAME_THA": "กำพี้",
+        "SUB_DISTRICT_NAME_ENG": "Kamphi",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.958999633789062,
+        "LONG": 103.14399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 440607,
+        "SUB_DISTRICT_NAME_THA": "โนนราษี",
+        "SUB_DISTRICT_NAME_ENG": "Non Rasi",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.887999534606934,
+        "LONG": 103.14199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 440608,
+        "SUB_DISTRICT_NAME_THA": "โนนแดง",
+        "SUB_DISTRICT_NAME_ENG": "Non Daeng",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.902999877929688,
+        "LONG": 103.08000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 440610,
+        "SUB_DISTRICT_NAME_THA": "หนองจิก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chik",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 16.02400016784668,
+        "LONG": 103.16999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 440611,
+        "SUB_DISTRICT_NAME_THA": "บัวมาศ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.897000312805176,
+        "LONG": 103.2020034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 440613,
+        "SUB_DISTRICT_NAME_THA": "หนองคูขาด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khu Khat",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.937999725341797,
+        "LONG": 102.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 440615,
+        "SUB_DISTRICT_NAME_THA": "วังใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 16.0310001373291,
+        "LONG": 103.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 440616,
+        "SUB_DISTRICT_NAME_THA": "ยาง",
+        "SUB_DISTRICT_NAME_ENG": "Yang",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.918999671936035,
+        "LONG": 103.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 440618,
+        "SUB_DISTRICT_NAME_THA": "หนองสิม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sim",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 16.011999130249023,
+        "LONG": 103.11399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 440619,
+        "SUB_DISTRICT_NAME_THA": "หนองโก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ko",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 16.06800079345703,
+        "LONG": 103.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 440620,
+        "SUB_DISTRICT_NAME_THA": "ดอนงัว",
+        "SUB_DISTRICT_NAME_ENG": "Don Ngua",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4406,
+        "LAT": 15.876999855041504,
+        "LONG": 103.15899658203125
+    }
+]

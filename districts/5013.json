@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501301,
+        "SUB_DISTRICT_NAME_THA": "สันกำแพง",
+        "SUB_DISTRICT_NAME_ENG": "San Kamphaeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.756000518798828,
+        "LONG": 99.13300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 501302,
+        "SUB_DISTRICT_NAME_THA": "ทรายมูล",
+        "SUB_DISTRICT_NAME_ENG": "Sai Mun",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.735000610351562,
+        "LONG": 99.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 501303,
+        "SUB_DISTRICT_NAME_THA": "ร้องวัวแดง",
+        "SUB_DISTRICT_NAME_ENG": "Rong Wua Daeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.746000289916992,
+        "LONG": 99.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 501304,
+        "SUB_DISTRICT_NAME_THA": "บวกค้าง",
+        "SUB_DISTRICT_NAME_ENG": "Buak Khang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.70400047302246,
+        "LONG": 99.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 501305,
+        "SUB_DISTRICT_NAME_THA": "แช่ช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Chae Chang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.722000122070312,
+        "LONG": 99.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 501306,
+        "SUB_DISTRICT_NAME_THA": "ออนใต้",
+        "SUB_DISTRICT_NAME_ENG": "On Tai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.700000762939453,
+        "LONG": 99.22899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 501310,
+        "SUB_DISTRICT_NAME_THA": "แม่ปูคา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Pu Kha",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.78499984741211,
+        "LONG": 99.1259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 501311,
+        "SUB_DISTRICT_NAME_THA": "ห้วยทราย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.7810001373291,
+        "LONG": 99.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 501312,
+        "SUB_DISTRICT_NAME_THA": "ต้นเปา",
+        "SUB_DISTRICT_NAME_ENG": "Ton Pao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.760000228881836,
+        "LONG": 99.08200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 501313,
+        "SUB_DISTRICT_NAME_THA": "สันกลาง",
+        "SUB_DISTRICT_NAME_ENG": "San Klang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5013,
+        "LAT": 18.774999618530273,
+        "LONG": 99.05599975585938
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311201,
+        "SUB_DISTRICT_NAME_THA": "ปะคำ",
+        "SUB_DISTRICT_NAME_ENG": "Pakham",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3112,
+        "LAT": 14.454000473022461,
+        "LONG": 102.72100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 311202,
+        "SUB_DISTRICT_NAME_THA": "ไทยเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Thai Charoen",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3112,
+        "LAT": 14.461000442504883,
+        "LONG": 102.68299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 311203,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3112,
+        "LAT": 14.432000160217285,
+        "LONG": 102.65699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 311204,
+        "SUB_DISTRICT_NAME_THA": "โคกมะม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Mamuang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3112,
+        "LAT": 14.402000427246094,
+        "LONG": 102.61199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 311205,
+        "SUB_DISTRICT_NAME_THA": "หูทำนบ",
+        "SUB_DISTRICT_NAME_ENG": "Hu Thamnop",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3112,
+        "LAT": 14.36400032043457,
+        "LONG": 102.69599914550781
+    }
+]

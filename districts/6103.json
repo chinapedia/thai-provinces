@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 610301,
+        "SUB_DISTRICT_NAME_THA": "สว่างอารมณ์",
+        "SUB_DISTRICT_NAME_ENG": "Sawang Arom",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6103,
+        "LAT": 15.54800033569336,
+        "LONG": 99.84400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 610302,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6103,
+        "LAT": 15.621999740600586,
+        "LONG": 99.9000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 610303,
+        "SUB_DISTRICT_NAME_THA": "พลวงสองนาง",
+        "SUB_DISTRICT_NAME_ENG": "Phluang Song Nang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6103,
+        "LAT": 15.550000190734863,
+        "LONG": 99.77899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 610304,
+        "SUB_DISTRICT_NAME_THA": "ไผ่เขียว",
+        "SUB_DISTRICT_NAME_ENG": "Phai Khiao",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6103,
+        "LAT": 15.623000144958496,
+        "LONG": 99.76200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 610305,
+        "SUB_DISTRICT_NAME_THA": "บ่อยาง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Yang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6103,
+        "LAT": 15.592000007629395,
+        "LONG": 99.71499633789062
+    }
+]

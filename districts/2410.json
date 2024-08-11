@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 241001,
+        "SUB_DISTRICT_NAME_THA": "ท่าตะเกียบ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Takiap",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2410,
+        "LAT": 13.508000373840332,
+        "LONG": 101.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 241002,
+        "SUB_DISTRICT_NAME_THA": "คลองตะเกรา",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Takrao",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2410,
+        "LAT": 13.298999786376953,
+        "LONG": 101.73899841308594
+    }
+]

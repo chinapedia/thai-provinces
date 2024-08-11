@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930201,
+        "SUB_DISTRICT_NAME_THA": "กงหรา",
+        "SUB_DISTRICT_NAME_ENG": "Kong Ra",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9302,
+        "LAT": 7.4629998207092285,
+        "LONG": 99.87699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 930202,
+        "SUB_DISTRICT_NAME_THA": "ชะรัด",
+        "SUB_DISTRICT_NAME_ENG": "Charat",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9302,
+        "LAT": 7.4730000495910645,
+        "LONG": 99.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 930203,
+        "SUB_DISTRICT_NAME_THA": "คลองเฉลิม",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Cha Loem",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9302,
+        "LAT": 7.348999977111816,
+        "LONG": 99.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 930204,
+        "SUB_DISTRICT_NAME_THA": "คลองทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sai Khao",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9302,
+        "LAT": 7.422999858856201,
+        "LONG": 99.9209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 930205,
+        "SUB_DISTRICT_NAME_THA": "สมหวัง",
+        "SUB_DISTRICT_NAME_ENG": "Som Wang",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9302,
+        "LAT": 7.508999824523926,
+        "LONG": 99.98999786376953
+    }
+]

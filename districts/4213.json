@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 421301,
+        "SUB_DISTRICT_NAME_THA": "เอราวัณ",
+        "SUB_DISTRICT_NAME_ENG": "Erawan",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4213,
+        "LAT": 17.37299919128418,
+        "LONG": 101.89199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 421302,
+        "SUB_DISTRICT_NAME_THA": "ผาอินทร์แปลง",
+        "SUB_DISTRICT_NAME_ENG": "Pha In Plaeng",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4213,
+        "LAT": 17.30299949645996,
+        "LONG": 101.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 421303,
+        "SUB_DISTRICT_NAME_THA": "ผาสามยอด",
+        "SUB_DISTRICT_NAME_ENG": "Pha Sam Yot",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4213,
+        "LAT": 17.22800064086914,
+        "LONG": 102.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 421304,
+        "SUB_DISTRICT_NAME_THA": "ทรัพย์ไพวัลย์",
+        "SUB_DISTRICT_NAME_ENG": "Sap Phaiwan",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4213,
+        "LAT": 17.19300079345703,
+        "LONG": 101.99400329589844
+    }
+]

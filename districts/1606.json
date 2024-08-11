@@ -1,0 +1,182 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160601,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Phai Yai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.08899974822998,
+        "LONG": 100.45899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 160602,
+        "SUB_DISTRICT_NAME_THA": "บ้านทราย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.034000396728516,
+        "LONG": 100.58200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 160603,
+        "SUB_DISTRICT_NAME_THA": "บ้านกล้วย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kluai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.015999794006348,
+        "LONG": 100.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 160604,
+        "SUB_DISTRICT_NAME_THA": "ดงพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Phlap",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.059000015258789,
+        "LONG": 100.62999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 160605,
+        "SUB_DISTRICT_NAME_THA": "บ้านชี",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chi",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 14.946999549865723,
+        "LONG": 100.5
+    },
+    {
+        "SUB_DISTRICT_ID": 160606,
+        "SUB_DISTRICT_NAME_THA": "พุคา",
+        "SUB_DISTRICT_NAME_ENG": "Phu Kha",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 14.95300006866455,
+        "LONG": 100.5979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 160607,
+        "SUB_DISTRICT_NAME_THA": "หินปัก",
+        "SUB_DISTRICT_NAME_ENG": "Hin Pak",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.04800033569336,
+        "LONG": 100.59200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 160608,
+        "SUB_DISTRICT_NAME_THA": "บางพึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phueng",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 14.994000434875488,
+        "LONG": 100.49600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 160609,
+        "SUB_DISTRICT_NAME_THA": "หนองทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sai Khao",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 14.996000289916992,
+        "LONG": 100.59700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 160610,
+        "SUB_DISTRICT_NAME_THA": "บางกะพี้",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaphi",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.072999954223633,
+        "LONG": 100.61299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 160611,
+        "SUB_DISTRICT_NAME_THA": "หนองเต่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tao",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 14.963000297546387,
+        "LONG": 100.55500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 160612,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.039999961853027,
+        "LONG": 100.55899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 160613,
+        "SUB_DISTRICT_NAME_THA": "บางขาม",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kham",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 14.95300006866455,
+        "LONG": 100.45700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 160614,
+        "SUB_DISTRICT_NAME_THA": "ดอนดึง",
+        "SUB_DISTRICT_NAME_ENG": "Don Dueng",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.145999908447266,
+        "LONG": 100.61199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 160615,
+        "SUB_DISTRICT_NAME_THA": "ชอนม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Chon Muang",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.210000038146973,
+        "LONG": 100.61000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 160616,
+        "SUB_DISTRICT_NAME_THA": "หนองกระเบียน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krabian",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.14799976348877,
+        "LONG": 100.53399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 160617,
+        "SUB_DISTRICT_NAME_THA": "สายห้วยแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Huai Kaeo",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.095000267028809,
+        "LONG": 100.50900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 160618,
+        "SUB_DISTRICT_NAME_THA": "มหาสอน",
+        "SUB_DISTRICT_NAME_ENG": "Mahason",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.020999908447266,
+        "LONG": 100.48400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 160621,
+        "SUB_DISTRICT_NAME_THA": "หนองเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mueang",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.12399959564209,
+        "LONG": 100.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 160622,
+        "SUB_DISTRICT_NAME_THA": "สนามแจง",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Chaeng",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1606,
+        "LAT": 15.008000373840332,
+        "LONG": 100.53800201416016
+    }
+]

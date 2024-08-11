@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 343001,
+        "SUB_DISTRICT_NAME_THA": "นาตาล",
+        "SUB_DISTRICT_NAME_ENG": "Na Tan",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3430,
+        "LAT": 15.892999649047852,
+        "LONG": 105.30999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 343002,
+        "SUB_DISTRICT_NAME_THA": "พะลาน",
+        "SUB_DISTRICT_NAME_ENG": "Phalan",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3430,
+        "LAT": 15.960000038146973,
+        "LONG": 105.33200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 343003,
+        "SUB_DISTRICT_NAME_THA": "กองโพน",
+        "SUB_DISTRICT_NAME_ENG": "Kong Phon",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3430,
+        "LAT": 15.96500015258789,
+        "LONG": 105.2699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 343004,
+        "SUB_DISTRICT_NAME_THA": "พังเคน",
+        "SUB_DISTRICT_NAME_ENG": "Phang Khen",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3430,
+        "LAT": 15.920999526977539,
+        "LONG": 105.21199798583984
+    }
+]

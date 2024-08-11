@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 471501,
+        "SUB_DISTRICT_NAME_THA": "ตองโขบ",
+        "SUB_DISTRICT_NAME_ENG": "Tong Khop",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4715,
+        "LAT": 17.010000228881836,
+        "LONG": 104.25700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 471502,
+        "SUB_DISTRICT_NAME_THA": "เหล่าโพนค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Lao Phon Kho",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4715,
+        "LAT": 17.0,
+        "LONG": 104.33100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 471503,
+        "SUB_DISTRICT_NAME_THA": "ด่านม่วงคำ",
+        "SUB_DISTRICT_NAME_ENG": "Dan Muang Kham",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4715,
+        "LAT": 17.09600067138672,
+        "LONG": 104.31999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 471504,
+        "SUB_DISTRICT_NAME_THA": "แมดนาท่ม",
+        "SUB_DISTRICT_NAME_ENG": "Maet Na Thom",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4715,
+        "LAT": 17.045000076293945,
+        "LONG": 104.34700012207031
+    }
+]

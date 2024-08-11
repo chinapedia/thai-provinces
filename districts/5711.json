@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571101,
+        "SUB_DISTRICT_NAME_THA": "สันสลี",
+        "SUB_DISTRICT_NAME_ENG": "San Sali",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5711,
+        "LAT": 19.41900062561035,
+        "LONG": 99.51399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 571102,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5711,
+        "LAT": 19.357999801635742,
+        "LONG": 99.4219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 571103,
+        "SUB_DISTRICT_NAME_THA": "บ้านโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pong",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5711,
+        "LAT": 19.302000045776367,
+        "LONG": 99.45899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 571104,
+        "SUB_DISTRICT_NAME_THA": "ป่างิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ngio",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5711,
+        "LAT": 19.25200080871582,
+        "LONG": 99.44100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 571105,
+        "SUB_DISTRICT_NAME_THA": "เวียงกาหลง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Kalong",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5711,
+        "LAT": 19.240999221801758,
+        "LONG": 99.5250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 571106,
+        "SUB_DISTRICT_NAME_THA": "แม่เจดีย์",
+        "SUB_DISTRICT_NAME_ENG": "Mae Chedi",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5711,
+        "LAT": 19.163999557495117,
+        "LONG": 99.36699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 571107,
+        "SUB_DISTRICT_NAME_THA": "แม่เจดีย์ใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Mae Chedi Mai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5711,
+        "LAT": 19.097999572753906,
+        "LONG": 99.45099639892578
+    }
+]

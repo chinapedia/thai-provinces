@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 451501,
+        "SUB_DISTRICT_NAME_THA": "เมยวดี",
+        "SUB_DISTRICT_NAME_ENG": "Moei Wadi",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4515,
+        "LAT": 16.395000457763672,
+        "LONG": 104.16699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 451502,
+        "SUB_DISTRICT_NAME_THA": "ชุมพร",
+        "SUB_DISTRICT_NAME_ENG": "Chumphon",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4515,
+        "LAT": 16.341999053955078,
+        "LONG": 104.06700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 451503,
+        "SUB_DISTRICT_NAME_THA": "บุ่งเลิศ",
+        "SUB_DISTRICT_NAME_ENG": "Bung Loet",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4515,
+        "LAT": 16.416000366210938,
+        "LONG": 104.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 451504,
+        "SUB_DISTRICT_NAME_THA": "ชมสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Chom Sa-At",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4515,
+        "LAT": 16.39299964904785,
+        "LONG": 104.0979995727539
+    }
+]

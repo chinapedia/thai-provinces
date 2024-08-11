@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 402401,
+        "SUB_DISTRICT_NAME_THA": "บ้านแฮด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Haet",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4024,
+        "LAT": 16.211000442504883,
+        "LONG": 102.77799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 402402,
+        "SUB_DISTRICT_NAME_THA": "โคกสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Samran",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4024,
+        "LAT": 16.190000534057617,
+        "LONG": 102.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 402403,
+        "SUB_DISTRICT_NAME_THA": "โนนสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Non Sombun",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4024,
+        "LAT": 16.259000778198242,
+        "LONG": 102.78800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 402404,
+        "SUB_DISTRICT_NAME_THA": "หนองแซง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4024,
+        "LAT": 16.174999237060547,
+        "LONG": 102.80899810791016
+    }
+]

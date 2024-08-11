@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220201,
+        "SUB_DISTRICT_NAME_THA": "ขลุง",
+        "SUB_DISTRICT_NAME_ENG": "Khlung",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.45199966430664,
+        "LONG": 102.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 220202,
+        "SUB_DISTRICT_NAME_THA": "บ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Bo",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.411999702453613,
+        "LONG": 102.27899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 220203,
+        "SUB_DISTRICT_NAME_THA": "เกวียนหัก",
+        "SUB_DISTRICT_NAME_ENG": "Kwian Hak",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.468000411987305,
+        "LONG": 102.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 220204,
+        "SUB_DISTRICT_NAME_THA": "ตะปอน",
+        "SUB_DISTRICT_NAME_ENG": "Tapon",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.493000030517578,
+        "LONG": 102.17500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 220205,
+        "SUB_DISTRICT_NAME_THA": "บางชัน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chan",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.291999816894531,
+        "LONG": 102.23899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 220206,
+        "SUB_DISTRICT_NAME_THA": "วันยาว",
+        "SUB_DISTRICT_NAME_ENG": "Wan Yao",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.439000129699707,
+        "LONG": 102.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 220207,
+        "SUB_DISTRICT_NAME_THA": "ซึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Sueng",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.487000465393066,
+        "LONG": 102.28800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 220208,
+        "SUB_DISTRICT_NAME_THA": "มาบไพ",
+        "SUB_DISTRICT_NAME_ENG": "Map Phai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.597999572753906,
+        "LONG": 102.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 220209,
+        "SUB_DISTRICT_NAME_THA": "วังสรรพรส",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sappharot",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.5600004196167,
+        "LONG": 102.29000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 220210,
+        "SUB_DISTRICT_NAME_THA": "ตรอกนอง",
+        "SUB_DISTRICT_NAME_ENG": "Trok Nong",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.532999992370605,
+        "LONG": 102.2750015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 220211,
+        "SUB_DISTRICT_NAME_THA": "ตกพรม",
+        "SUB_DISTRICT_NAME_ENG": "Tok Phrom",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.625,
+        "LONG": 102.33899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 220212,
+        "SUB_DISTRICT_NAME_THA": "บ่อเวฬุ",
+        "SUB_DISTRICT_NAME_ENG": "Bo Weru",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2202,
+        "LAT": 12.722999572753906,
+        "LONG": 102.36699676513672
+    }
+]

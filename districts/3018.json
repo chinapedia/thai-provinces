@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 301801,
+        "SUB_DISTRICT_NAME_THA": "สูงเนิน",
+        "SUB_DISTRICT_NAME_ENG": "Sung Noen",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.861000061035156,
+        "LONG": 101.84200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 301802,
+        "SUB_DISTRICT_NAME_THA": "เสมา",
+        "SUB_DISTRICT_NAME_ENG": "Sema",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.982000350952148,
+        "LONG": 101.7770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 301803,
+        "SUB_DISTRICT_NAME_THA": "โคราช",
+        "SUB_DISTRICT_NAME_ENG": "Khorat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.909000396728516,
+        "LONG": 101.85099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 301804,
+        "SUB_DISTRICT_NAME_THA": "บุ่งขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Bung Khi Lek",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.95199966430664,
+        "LONG": 101.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 301805,
+        "SUB_DISTRICT_NAME_THA": "โนนค่า",
+        "SUB_DISTRICT_NAME_ENG": "Non Kha",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 15.034000396728516,
+        "LONG": 101.83999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 301806,
+        "SUB_DISTRICT_NAME_THA": "โค้งยาง",
+        "SUB_DISTRICT_NAME_ENG": "Khong Yang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.92199993133545,
+        "LONG": 101.90299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 301807,
+        "SUB_DISTRICT_NAME_THA": "มะเกลือเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Makluea Kao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.779000282287598,
+        "LONG": 101.80500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 301808,
+        "SUB_DISTRICT_NAME_THA": "มะเกลือใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Makluea Mai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.79800033569336,
+        "LONG": 101.72799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 301809,
+        "SUB_DISTRICT_NAME_THA": "นากลาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Klang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.854999542236328,
+        "LONG": 101.94200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 301810,
+        "SUB_DISTRICT_NAME_THA": "หนองตะไก้",
+        "SUB_DISTRICT_NAME_ENG": "Nong Takai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3018,
+        "LAT": 14.789999961853027,
+        "LONG": 101.8949966430664
+    }
+]

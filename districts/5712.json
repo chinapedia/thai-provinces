@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571201,
+        "SUB_DISTRICT_NAME_THA": "แม่เปา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Pao",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5712,
+        "LAT": 19.902000427246094,
+        "LONG": 100.11799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 571202,
+        "SUB_DISTRICT_NAME_THA": "แม่ต๋ำ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tam",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5712,
+        "LAT": 19.926000595092773,
+        "LONG": 100.23899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 571203,
+        "SUB_DISTRICT_NAME_THA": "ไม้ยา",
+        "SUB_DISTRICT_NAME_ENG": "Mai Ya",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5712,
+        "LAT": 19.768999099731445,
+        "LONG": 100.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 571204,
+        "SUB_DISTRICT_NAME_THA": "เม็งราย",
+        "SUB_DISTRICT_NAME_ENG": "Mengrai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5712,
+        "LAT": 19.861000061035156,
+        "LONG": 100.18199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 571205,
+        "SUB_DISTRICT_NAME_THA": "ตาดควัน",
+        "SUB_DISTRICT_NAME_ENG": "Tat Khwan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5712,
+        "LAT": 19.990999221801758,
+        "LONG": 100.18399810791016
+    }
+]

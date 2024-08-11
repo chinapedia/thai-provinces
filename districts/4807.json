@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480701,
+        "SUB_DISTRICT_NAME_THA": "นาแก",
+        "SUB_DISTRICT_NAME_ENG": "Na Kae",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.89699935913086,
+        "LONG": 104.49500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 480702,
+        "SUB_DISTRICT_NAME_THA": "พระซอง",
+        "SUB_DISTRICT_NAME_ENG": "Phra Song",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 17.020999908447266,
+        "LONG": 104.5510025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 480703,
+        "SUB_DISTRICT_NAME_THA": "หนองสังข์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.98900032043457,
+        "LONG": 104.46800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 480704,
+        "SUB_DISTRICT_NAME_THA": "นาคู่",
+        "SUB_DISTRICT_NAME_ENG": "Na Khu",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.97800064086914,
+        "LONG": 104.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 480705,
+        "SUB_DISTRICT_NAME_THA": "พิมาน",
+        "SUB_DISTRICT_NAME_ENG": "Phiman",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.909000396728516,
+        "LONG": 104.54000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 480706,
+        "SUB_DISTRICT_NAME_THA": "พุ่มแก",
+        "SUB_DISTRICT_NAME_ENG": "Phum Kae",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.910999298095703,
+        "LONG": 104.62100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 480707,
+        "SUB_DISTRICT_NAME_THA": "ก้านเหลือง",
+        "SUB_DISTRICT_NAME_ENG": "Kan Lueang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.89699935913086,
+        "LONG": 104.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 480708,
+        "SUB_DISTRICT_NAME_THA": "หนองบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bo",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.93199920654297,
+        "LONG": 104.3219985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 480709,
+        "SUB_DISTRICT_NAME_THA": "นาเลียง",
+        "SUB_DISTRICT_NAME_ENG": "Na Liang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 17.062999725341797,
+        "LONG": 104.5510025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 480712,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.917999267578125,
+        "LONG": 104.44599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 480713,
+        "SUB_DISTRICT_NAME_THA": "คำพี้",
+        "SUB_DISTRICT_NAME_ENG": "Kham Phi",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.937000274658203,
+        "LONG": 104.36900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 480715,
+        "SUB_DISTRICT_NAME_THA": "สีชมพู",
+        "SUB_DISTRICT_NAME_ENG": "Si Chomphu",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4807,
+        "LAT": 16.917999267578125,
+        "LONG": 104.57499694824219
+    }
+]

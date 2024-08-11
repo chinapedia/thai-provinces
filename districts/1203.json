@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 120301,
+        "SUB_DISTRICT_NAME_THA": "บางม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Muang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1203,
+        "LAT": 13.838000297546387,
+        "LONG": 100.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 120302,
+        "SUB_DISTRICT_NAME_THA": "บางแม่นาง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Mae Nang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1203,
+        "LAT": 13.868000030517578,
+        "LONG": 100.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 120303,
+        "SUB_DISTRICT_NAME_THA": "บางเลน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Len",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1203,
+        "LAT": 13.854000091552734,
+        "LONG": 100.43399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 120304,
+        "SUB_DISTRICT_NAME_THA": "เสาธงหิน",
+        "SUB_DISTRICT_NAME_ENG": "Sao Thong Hin",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1203,
+        "LAT": 13.875,
+        "LONG": 100.40399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 120305,
+        "SUB_DISTRICT_NAME_THA": "บางใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Yai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1203,
+        "LAT": 13.836999893188477,
+        "LONG": 100.375
+    },
+    {
+        "SUB_DISTRICT_ID": 120306,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1203,
+        "LAT": 13.861000061035156,
+        "LONG": 100.33300018310547
+    }
+]

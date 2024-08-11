@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500601,
+        "SUB_DISTRICT_NAME_THA": "สันมหาพน",
+        "SUB_DISTRICT_NAME_ENG": "San Mahaphon",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.118000030517578,
+        "LONG": 98.94599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 500602,
+        "SUB_DISTRICT_NAME_THA": "แม่แตง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Taeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.155000686645508,
+        "LONG": 98.91000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 500603,
+        "SUB_DISTRICT_NAME_THA": "ขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Khi Lek",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.070999145507812,
+        "LONG": 98.91600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 500604,
+        "SUB_DISTRICT_NAME_THA": "ช่อแล",
+        "SUB_DISTRICT_NAME_ENG": "Cho Lae",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.143999099731445,
+        "LONG": 99.02400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 500605,
+        "SUB_DISTRICT_NAME_THA": "แม่หอพระ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ho Phra",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.117000579833984,
+        "LONG": 99.0719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 500606,
+        "SUB_DISTRICT_NAME_THA": "สบเปิง",
+        "SUB_DISTRICT_NAME_ENG": "Sop Poeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.104000091552734,
+        "LONG": 98.80999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 500607,
+        "SUB_DISTRICT_NAME_THA": "บ้านเป้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.218000411987305,
+        "LONG": 99.0469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 500608,
+        "SUB_DISTRICT_NAME_THA": "สันป่ายาง",
+        "SUB_DISTRICT_NAME_ENG": "San Pa Yang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.048999786376953,
+        "LONG": 98.83000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 500609,
+        "SUB_DISTRICT_NAME_THA": "ป่าแป๋",
+        "SUB_DISTRICT_NAME_ENG": "Pa Pae",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.179000854492188,
+        "LONG": 98.6709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 500610,
+        "SUB_DISTRICT_NAME_THA": "เมืองก๋าย",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.18600082397461,
+        "LONG": 98.79000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 500611,
+        "SUB_DISTRICT_NAME_THA": "บ้านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.14699935913086,
+        "LONG": 98.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 500612,
+        "SUB_DISTRICT_NAME_THA": "กื้ดช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Kuet Chang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.268999099731445,
+        "LONG": 98.76799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 500613,
+        "SUB_DISTRICT_NAME_THA": "อินทขิล",
+        "SUB_DISTRICT_NAME_ENG": "Inthakhin",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5006,
+        "LAT": 19.200000762939453,
+        "LONG": 98.9530029296875
+    }
+]

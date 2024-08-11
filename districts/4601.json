@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 460101,
+        "SUB_DISTRICT_NAME_THA": "กาฬสินธุ์",
+        "SUB_DISTRICT_NAME_ENG": "Kalasin",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.437000274658203,
+        "LONG": 103.52200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 460102,
+        "SUB_DISTRICT_NAME_THA": "เหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Nuea",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.441999435424805,
+        "LONG": 103.5739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 460103,
+        "SUB_DISTRICT_NAME_THA": "หลุบ",
+        "SUB_DISTRICT_NAME_ENG": "Lup",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.39299964904785,
+        "LONG": 103.51200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 460104,
+        "SUB_DISTRICT_NAME_THA": "ไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Phai",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.52199935913086,
+        "LONG": 103.57499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 460105,
+        "SUB_DISTRICT_NAME_THA": "ลำปาว",
+        "SUB_DISTRICT_NAME_ENG": "Lampao",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.590999603271484,
+        "LONG": 103.49600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 460106,
+        "SUB_DISTRICT_NAME_THA": "ลำพาน",
+        "SUB_DISTRICT_NAME_ENG": "Lamphan",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.457000732421875,
+        "LONG": 103.48400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 460107,
+        "SUB_DISTRICT_NAME_THA": "เชียงเครือ",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Khruea",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.43400001525879,
+        "LONG": 103.61199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 460108,
+        "SUB_DISTRICT_NAME_THA": "บึงวิชัย",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Wichai",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.5,
+        "LONG": 103.4990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 460109,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Huai Pho",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.392000198364258,
+        "LONG": 103.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 460111,
+        "SUB_DISTRICT_NAME_THA": "ภูปอ",
+        "SUB_DISTRICT_NAME_ENG": "Phu Po",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.59000015258789,
+        "LONG": 103.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 460113,
+        "SUB_DISTRICT_NAME_THA": "ภูดิน",
+        "SUB_DISTRICT_NAME_ENG": "Phu Din",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.63599967956543,
+        "LONG": 103.52799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 460115,
+        "SUB_DISTRICT_NAME_THA": "หนองกุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.534000396728516,
+        "LONG": 103.5260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 460116,
+        "SUB_DISTRICT_NAME_THA": "กลางหมื่น",
+        "SUB_DISTRICT_NAME_ENG": "Klang Muen",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.51799964904785,
+        "LONG": 103.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 460117,
+        "SUB_DISTRICT_NAME_THA": "ขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Khamin",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.60700035095215,
+        "LONG": 103.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 460119,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.47800064086914,
+        "LONG": 103.5479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 460120,
+        "SUB_DISTRICT_NAME_THA": "นาจารย์",
+        "SUB_DISTRICT_NAME_ENG": "Na Chan",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.56100082397461,
+        "LONG": 103.64299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 460121,
+        "SUB_DISTRICT_NAME_THA": "ลำคลอง",
+        "SUB_DISTRICT_NAME_ENG": "Lam Khlong",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4601,
+        "LAT": 16.586999893188477,
+        "LONG": 103.44999694824219
+    }
+]

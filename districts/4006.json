@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400601,
+        "SUB_DISTRICT_NAME_THA": "สีชมพู",
+        "SUB_DISTRICT_NAME_ENG": "Si Chomphu",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.840999603271484,
+        "LONG": 102.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 400602,
+        "SUB_DISTRICT_NAME_THA": "ศรีสุข",
+        "SUB_DISTRICT_NAME_ENG": "Si Suk",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.750999450683594,
+        "LONG": 102.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 400603,
+        "SUB_DISTRICT_NAME_THA": "นาจาน",
+        "SUB_DISTRICT_NAME_ENG": "Na Chan",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.656999588012695,
+        "LONG": 102.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 400604,
+        "SUB_DISTRICT_NAME_THA": "วังเพิ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phoem",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.81999969482422,
+        "LONG": 102.2040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 400605,
+        "SUB_DISTRICT_NAME_THA": "ซำยาง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Yang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.687999725341797,
+        "LONG": 102.09100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 400606,
+        "SUB_DISTRICT_NAME_THA": "หนองแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Daeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.711000442504883,
+        "LONG": 102.11299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 400607,
+        "SUB_DISTRICT_NAME_THA": "ดงลาน",
+        "SUB_DISTRICT_NAME_ENG": "Dong Lan",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.80500030517578,
+        "LONG": 102.07499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 400608,
+        "SUB_DISTRICT_NAME_THA": "บริบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Boribun",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.854999542236328,
+        "LONG": 102.09200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 400609,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.76099967956543,
+        "LONG": 102.06800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 400610,
+        "SUB_DISTRICT_NAME_THA": "ภูห่าน",
+        "SUB_DISTRICT_NAME_ENG": "Phu Han",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4006,
+        "LAT": 16.719999313354492,
+        "LONG": 102.0459976196289
+    }
+]

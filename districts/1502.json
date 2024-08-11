@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 150201,
+        "SUB_DISTRICT_NAME_THA": "จรเข้ร้อง",
+        "SUB_DISTRICT_NAME_ENG": "Chorakhe Rong",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.657999992370605,
+        "LONG": 100.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 150202,
+        "SUB_DISTRICT_NAME_THA": "ไชยภูมิ",
+        "SUB_DISTRICT_NAME_ENG": "Chaiyaphum",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.704999923706055,
+        "LONG": 100.46499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 150203,
+        "SUB_DISTRICT_NAME_THA": "ชัยฤทธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Chaiyarit",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.63700008392334,
+        "LONG": 100.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 150204,
+        "SUB_DISTRICT_NAME_THA": "เทวราช",
+        "SUB_DISTRICT_NAME_ENG": "Thewarat",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.645999908447266,
+        "LONG": 100.4489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 150205,
+        "SUB_DISTRICT_NAME_THA": "ราชสถิตย์",
+        "SUB_DISTRICT_NAME_ENG": "Ratsathit",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.67199993133545,
+        "LONG": 100.45600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 150206,
+        "SUB_DISTRICT_NAME_THA": "ไชโย",
+        "SUB_DISTRICT_NAME_ENG": "Chaiyo",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.706999778747559,
+        "LONG": 100.43599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 150207,
+        "SUB_DISTRICT_NAME_THA": "หลักฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Lak Fa",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.684000015258789,
+        "LONG": 100.46199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 150208,
+        "SUB_DISTRICT_NAME_THA": "ชะไว",
+        "SUB_DISTRICT_NAME_ENG": "Chawai",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.687000274658203,
+        "LONG": 100.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 150209,
+        "SUB_DISTRICT_NAME_THA": "ตรีณรงค์",
+        "SUB_DISTRICT_NAME_ENG": "Tri Narong",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1502,
+        "LAT": 14.675999641418457,
+        "LONG": 100.49800109863281
+    }
+]

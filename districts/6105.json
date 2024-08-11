@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 610501,
+        "SUB_DISTRICT_NAME_THA": "หนองขาหย่าง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kha Yang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.348999977111816,
+        "LONG": 99.94999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 610502,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.340999603271484,
+        "LONG": 99.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 610503,
+        "SUB_DISTRICT_NAME_THA": "ดอนกลอย",
+        "SUB_DISTRICT_NAME_ENG": "Don Kloi",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.388999938964844,
+        "LONG": 99.90299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 610504,
+        "SUB_DISTRICT_NAME_THA": "ห้วยรอบ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rop",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.371000289916992,
+        "LONG": 99.9000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 610505,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งพึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Phueng",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.42199993133545,
+        "LONG": 99.93399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 610506,
+        "SUB_DISTRICT_NAME_THA": "ท่าโพ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pho",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.369000434875488,
+        "LONG": 99.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 610507,
+        "SUB_DISTRICT_NAME_THA": "หมกแถว",
+        "SUB_DISTRICT_NAME_ENG": "Mok Thaeo",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.338000297546387,
+        "LONG": 99.99099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 610509,
+        "SUB_DISTRICT_NAME_THA": "ดงขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Khwang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6105,
+        "LAT": 15.3149995803833,
+        "LONG": 99.9990005493164
+    }
+]

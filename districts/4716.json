@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 471601,
+        "SUB_DISTRICT_NAME_THA": "บ้านเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lao",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4716,
+        "LAT": 17.698999404907227,
+        "LONG": 103.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 471602,
+        "SUB_DISTRICT_NAME_THA": "เจริญศิลป์",
+        "SUB_DISTRICT_NAME_ENG": "Charoen Sin",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4716,
+        "LAT": 17.56800079345703,
+        "LONG": 103.56099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 471603,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งแก",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kae",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4716,
+        "LAT": 17.601999282836914,
+        "LONG": 103.52799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 471604,
+        "SUB_DISTRICT_NAME_THA": "โคกศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sila",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4716,
+        "LAT": 17.535999298095703,
+        "LONG": 103.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 471605,
+        "SUB_DISTRICT_NAME_THA": "หนองแปน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Paen",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4716,
+        "LAT": 17.70599937438965,
+        "LONG": 103.44300079345703
+    }
+]

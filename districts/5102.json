@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 510201,
+        "SUB_DISTRICT_NAME_THA": "ทาปลาดุก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pla Duk",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5102,
+        "LAT": 18.531999588012695,
+        "LONG": 99.24500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 510202,
+        "SUB_DISTRICT_NAME_THA": "ทาสบเส้า",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sopsao",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5102,
+        "LAT": 18.41699981689453,
+        "LONG": 99.13500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 510203,
+        "SUB_DISTRICT_NAME_THA": "ทากาศ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kat",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5102,
+        "LAT": 18.341999053955078,
+        "LONG": 99.052001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 510204,
+        "SUB_DISTRICT_NAME_THA": "ทาขุมเงิน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khum Ngoen",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5102,
+        "LAT": 18.363000869750977,
+        "LONG": 98.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 510205,
+        "SUB_DISTRICT_NAME_THA": "ทาทุ่งหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Thung Luang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5102,
+        "LAT": 18.437999725341797,
+        "LONG": 99.02999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 510206,
+        "SUB_DISTRICT_NAME_THA": "ทาแม่ลอบ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mae Lop",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5102,
+        "LAT": 18.240999221801758,
+        "LONG": 98.97000122070312
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 700201,
+        "SUB_DISTRICT_NAME_THA": "จอมบึง",
+        "SUB_DISTRICT_NAME_ENG": "Chom Bueng",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7002,
+        "LAT": 13.621999740600586,
+        "LONG": 99.60600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 700202,
+        "SUB_DISTRICT_NAME_THA": "ปากช่อง",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chong",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7002,
+        "LAT": 13.666999816894531,
+        "LONG": 99.64900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 700203,
+        "SUB_DISTRICT_NAME_THA": "เบิกไพร",
+        "SUB_DISTRICT_NAME_ENG": "Boek Phrai",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7002,
+        "LAT": 13.6850004196167,
+        "LONG": 99.52100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 700204,
+        "SUB_DISTRICT_NAME_THA": "ด่านทับตะโก",
+        "SUB_DISTRICT_NAME_ENG": "Dan Thap Tako",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7002,
+        "LAT": 13.663000106811523,
+        "LONG": 99.4260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 700205,
+        "SUB_DISTRICT_NAME_THA": "แก้มอ้น",
+        "SUB_DISTRICT_NAME_ENG": "Kaem On",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7002,
+        "LAT": 13.739999771118164,
+        "LONG": 99.4280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 700206,
+        "SUB_DISTRICT_NAME_THA": "รางบัว",
+        "SUB_DISTRICT_NAME_ENG": "Rang Bua",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7002,
+        "LAT": 13.532999992370605,
+        "LONG": 99.53299713134766
+    }
+]

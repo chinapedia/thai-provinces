@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300901,
+        "SUB_DISTRICT_NAME_THA": "โนนไทย",
+        "SUB_DISTRICT_NAME_ENG": "Non Thai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.213000297546387,
+        "LONG": 102.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 300902,
+        "SUB_DISTRICT_NAME_THA": "ด่านจาก",
+        "SUB_DISTRICT_NAME_ENG": "Dan Chak",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.161999702453613,
+        "LONG": 102.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 300903,
+        "SUB_DISTRICT_NAME_THA": "กำปัง",
+        "SUB_DISTRICT_NAME_ENG": "Kampang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.118000030517578,
+        "LONG": 102.05999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 300904,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.128000259399414,
+        "LONG": 102.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 300905,
+        "SUB_DISTRICT_NAME_THA": "ค้างพลู",
+        "SUB_DISTRICT_NAME_ENG": "Khang Phlu",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.14900016784668,
+        "LONG": 101.9729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 300906,
+        "SUB_DISTRICT_NAME_THA": "บ้านวัง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Wang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.152000427246094,
+        "LONG": 101.91400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 300907,
+        "SUB_DISTRICT_NAME_THA": "บัลลังก์",
+        "SUB_DISTRICT_NAME_ENG": "Banlang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.222999572753906,
+        "LONG": 101.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 300908,
+        "SUB_DISTRICT_NAME_THA": "สายออ",
+        "SUB_DISTRICT_NAME_ENG": "Sai-O",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.22599983215332,
+        "LONG": 102.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 300909,
+        "SUB_DISTRICT_NAME_THA": "ถนนโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Thanon Pho",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.27400016784668,
+        "LONG": 102.13800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 300914,
+        "SUB_DISTRICT_NAME_THA": "มะค่า",
+        "SUB_DISTRICT_NAME_ENG": "Makha",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3009,
+        "LAT": 15.265000343322754,
+        "LONG": 102.0979995727539
+    }
+]

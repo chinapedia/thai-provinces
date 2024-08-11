@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 850501,
+        "SUB_DISTRICT_NAME_THA": "นาคา",
+        "SUB_DISTRICT_NAME_ENG": "Nakha",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8505,
+        "LAT": 9.423999786376953,
+        "LONG": 98.54000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 850502,
+        "SUB_DISTRICT_NAME_THA": "กำพวน",
+        "SUB_DISTRICT_NAME_ENG": "Kamphuan",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8505,
+        "LAT": 9.494999885559082,
+        "LONG": 98.3489990234375
+    }
+]

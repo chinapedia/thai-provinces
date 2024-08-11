@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920901,
+        "SUB_DISTRICT_NAME_THA": "ควนเมา",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Mao",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9209,
+        "LAT": 7.938000202178955,
+        "LONG": 99.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 920902,
+        "SUB_DISTRICT_NAME_THA": "คลองปาง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Pang",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9209,
+        "LAT": 7.986999988555908,
+        "LONG": 99.6449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 920903,
+        "SUB_DISTRICT_NAME_THA": "ต.หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9209,
+        "LAT": 7.978000164031982,
+        "LONG": 99.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 920904,
+        "SUB_DISTRICT_NAME_THA": "หนองปรือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Prue",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9209,
+        "LAT": 7.900000095367432,
+        "LONG": 99.66899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 920905,
+        "SUB_DISTRICT_NAME_THA": "เขาไพร",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phrai",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9209,
+        "LAT": 7.960000038146973,
+        "LONG": 99.66100311279297
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 240401,
+        "SUB_DISTRICT_NAME_THA": "บางปะกง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pakong",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.496000289916992,
+        "LONG": 100.96600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 240402,
+        "SUB_DISTRICT_NAME_THA": "ท่าสะอ้าน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sa-An",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.553000450134277,
+        "LONG": 100.99500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 240403,
+        "SUB_DISTRICT_NAME_THA": "บางวัว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Wua",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.569000244140625,
+        "LONG": 100.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 240404,
+        "SUB_DISTRICT_NAME_THA": "บางสมัคร",
+        "SUB_DISTRICT_NAME_ENG": "Bang Samak",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.574999809265137,
+        "LONG": 100.93599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 240405,
+        "SUB_DISTRICT_NAME_THA": "บางผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phueng",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.527000427246094,
+        "LONG": 101.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 240406,
+        "SUB_DISTRICT_NAME_THA": "บางเกลือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kluea",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.526000022888184,
+        "LONG": 100.91899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 240407,
+        "SUB_DISTRICT_NAME_THA": "สองคลอง",
+        "SUB_DISTRICT_NAME_ENG": "Song Khlong",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.484000205993652,
+        "LONG": 100.91000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 240408,
+        "SUB_DISTRICT_NAME_THA": "หนองจอก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chok",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.602999687194824,
+        "LONG": 100.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 240409,
+        "SUB_DISTRICT_NAME_THA": "พิมพา",
+        "SUB_DISTRICT_NAME_ENG": "Phimpha",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.598999977111816,
+        "LONG": 100.93699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 240410,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.479000091552734,
+        "LONG": 100.99400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 240411,
+        "SUB_DISTRICT_NAME_THA": "หอมศีล",
+        "SUB_DISTRICT_NAME_ENG": "Hom Sin",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.543000221252441,
+        "LONG": 100.89199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 240412,
+        "SUB_DISTRICT_NAME_THA": "เขาดิน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Din",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2404,
+        "LAT": 13.527999877929688,
+        "LONG": 101.0260009765625
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550202,
+        "SUB_DISTRICT_NAME_THA": "หนองแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Daeng",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5502,
+        "LAT": 18.736000061035156,
+        "LONG": 101.0250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 550203,
+        "SUB_DISTRICT_NAME_THA": "หมอเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Mo Mueang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5502,
+        "LAT": 18.687000274658203,
+        "LONG": 100.9749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 550204,
+        "SUB_DISTRICT_NAME_THA": "น้ำพาง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Phang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5502,
+        "LAT": 18.611000061035156,
+        "LONG": 101.05699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 550205,
+        "SUB_DISTRICT_NAME_THA": "น้ำปาย",
+        "SUB_DISTRICT_NAME_ENG": "Nam Pai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5502,
+        "LAT": 18.641000747680664,
+        "LONG": 100.96099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 550206,
+        "SUB_DISTRICT_NAME_THA": "แม่จริม",
+        "SUB_DISTRICT_NAME_ENG": "Mae Charim",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5502,
+        "LAT": 18.823999404907227,
+        "LONG": 101.04499816894531
+    }
+]

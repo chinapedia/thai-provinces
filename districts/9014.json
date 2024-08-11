@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 901401,
+        "SUB_DISTRICT_NAME_THA": "บางกล่ำ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Klam",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9014,
+        "LAT": 7.135000228881836,
+        "LONG": 100.44599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 901402,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9014,
+        "LAT": 7.047999858856201,
+        "LONG": 100.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 901403,
+        "SUB_DISTRICT_NAME_THA": "แม่ทอม",
+        "SUB_DISTRICT_NAME_ENG": "Mae Thom",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9014,
+        "LAT": 7.099999904632568,
+        "LONG": 100.45600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 901404,
+        "SUB_DISTRICT_NAME_THA": "บ้านหาร",
+        "SUB_DISTRICT_NAME_ENG": "Ban Han",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9014,
+        "LAT": 7.074999809265137,
+        "LONG": 100.44999694824219
+    }
+]

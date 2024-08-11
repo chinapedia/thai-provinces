@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 141201,
+        "SUB_DISTRICT_NAME_THA": "เสนา",
+        "SUB_DISTRICT_NAME_ENG": "Sena",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.32800006866455,
+        "LONG": 100.40399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 141202,
+        "SUB_DISTRICT_NAME_THA": "บ้านแพน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phaen",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.342000007629395,
+        "LONG": 100.41699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 141203,
+        "SUB_DISTRICT_NAME_THA": "เจ้าเจ็ด",
+        "SUB_DISTRICT_NAME_ENG": "Chao Chet",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.303000450134277,
+        "LONG": 100.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 141204,
+        "SUB_DISTRICT_NAME_THA": "สามกอ",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ko",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.305999755859375,
+        "LONG": 100.39900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 141205,
+        "SUB_DISTRICT_NAME_THA": "บางนมโค",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nom Kho",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.291999816894531,
+        "LONG": 100.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 141206,
+        "SUB_DISTRICT_NAME_THA": "หัวเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Wiang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.37600040435791,
+        "LONG": 100.4020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 141207,
+        "SUB_DISTRICT_NAME_THA": "มารวิชัย",
+        "SUB_DISTRICT_NAME_ENG": "Man Wichai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.239999771118164,
+        "LONG": 100.37100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 141208,
+        "SUB_DISTRICT_NAME_THA": "บ้านโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pho",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.35099983215332,
+        "LONG": 100.39399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 141209,
+        "SUB_DISTRICT_NAME_THA": "รางจรเข้",
+        "SUB_DISTRICT_NAME_ENG": "Rang Chorakhe",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.35099983215332,
+        "LONG": 100.36599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 141210,
+        "SUB_DISTRICT_NAME_THA": "บ้านกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Krathum",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.390000343322754,
+        "LONG": 100.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 141211,
+        "SUB_DISTRICT_NAME_THA": "บ้านแถว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thaeo",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.300999641418457,
+        "LONG": 100.3479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 141212,
+        "SUB_DISTRICT_NAME_THA": "ชายนา",
+        "SUB_DISTRICT_NAME_ENG": "Chai Na",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.258000373840332,
+        "LONG": 100.3479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 141213,
+        "SUB_DISTRICT_NAME_THA": "สามตุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Sam Tum",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.239999771118164,
+        "LONG": 100.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 141214,
+        "SUB_DISTRICT_NAME_THA": "ลาดงา",
+        "SUB_DISTRICT_NAME_ENG": "Lat Nga",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.371999740600586,
+        "LONG": 100.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 141215,
+        "SUB_DISTRICT_NAME_THA": "ดอนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Don Thong",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.239999771118164,
+        "LONG": 100.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 141216,
+        "SUB_DISTRICT_NAME_THA": "บ้านหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Luang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.277999877929688,
+        "LONG": 100.4010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 141217,
+        "SUB_DISTRICT_NAME_THA": "เจ้าเสด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Chao Sadet",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1412,
+        "LAT": 14.331000328063965,
+        "LONG": 100.36299896240234
+    }
+]

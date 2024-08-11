@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311101,
+        "SUB_DISTRICT_NAME_THA": "สตึก",
+        "SUB_DISTRICT_NAME_ENG": "Satuek",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.262999534606934,
+        "LONG": 103.3010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 311102,
+        "SUB_DISTRICT_NAME_THA": "นิคม",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.27400016784668,
+        "LONG": 103.2249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 311103,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งวัง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Wang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.258999824523926,
+        "LONG": 103.38600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 311104,
+        "SUB_DISTRICT_NAME_THA": "เมืองแก",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kae",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.1899995803833,
+        "LONG": 103.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 311105,
+        "SUB_DISTRICT_NAME_THA": "หนองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.130999565124512,
+        "LONG": 103.29100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 311106,
+        "SUB_DISTRICT_NAME_THA": "ร่อนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ron Thong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.199999809265137,
+        "LONG": 103.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 311109,
+        "SUB_DISTRICT_NAME_THA": "ดอนมนต์",
+        "SUB_DISTRICT_NAME_ENG": "Don Mon",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.208999633789062,
+        "LONG": 103.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 311110,
+        "SUB_DISTRICT_NAME_THA": "ชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Saeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.13700008392334,
+        "LONG": 103.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 311111,
+        "SUB_DISTRICT_NAME_THA": "ท่าม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Muang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.300000190734863,
+        "LONG": 103.44200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 311112,
+        "SUB_DISTRICT_NAME_THA": "สะแก",
+        "SUB_DISTRICT_NAME_ENG": "Sakae",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.300000190734863,
+        "LONG": 103.35399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 311114,
+        "SUB_DISTRICT_NAME_THA": "สนามชัย",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Chai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.206999778747559,
+        "LONG": 103.35600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 311115,
+        "SUB_DISTRICT_NAME_THA": "กระสัง",
+        "SUB_DISTRICT_NAME_ENG": "Krasang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3111,
+        "LAT": 15.194999694824219,
+        "LONG": 103.40499877929688
+    }
+]

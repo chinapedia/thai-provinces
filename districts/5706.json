@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570601,
+        "SUB_DISTRICT_NAME_THA": "ป่าแดด",
+        "SUB_DISTRICT_NAME_ENG": "Pa Daet",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5706,
+        "LAT": 19.506999969482422,
+        "LONG": 100.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 570602,
+        "SUB_DISTRICT_NAME_THA": "ป่าแงะ",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ngae",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5706,
+        "LAT": 19.57900047302246,
+        "LONG": 99.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 570603,
+        "SUB_DISTRICT_NAME_THA": "สันมะค่า",
+        "SUB_DISTRICT_NAME_ENG": "San Makha",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5706,
+        "LAT": 19.465999603271484,
+        "LONG": 100.0479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 570605,
+        "SUB_DISTRICT_NAME_THA": "โรงช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Rong Chang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5706,
+        "LAT": 19.493999481201172,
+        "LONG": 99.9469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 570606,
+        "SUB_DISTRICT_NAME_THA": "ศรีโพธิ์เงิน",
+        "SUB_DISTRICT_NAME_ENG": "Si Pho Ngoen",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5706,
+        "LAT": 19.434999465942383,
+        "LONG": 99.93399810791016
+    }
+]

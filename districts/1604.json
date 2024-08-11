@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160401,
+        "SUB_DISTRICT_NAME_THA": "ลำนารายณ์",
+        "SUB_DISTRICT_NAME_ENG": "Lam Narai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.21399974822998,
+        "LONG": 101.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 160402,
+        "SUB_DISTRICT_NAME_THA": "ชัยนารายณ์",
+        "SUB_DISTRICT_NAME_ENG": "Chai Narai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.194999694824219,
+        "LONG": 101.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 160403,
+        "SUB_DISTRICT_NAME_THA": "ศิลาทิพย์",
+        "SUB_DISTRICT_NAME_ENG": "Sila Thip",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.314000129699707,
+        "LONG": 101.08699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 160404,
+        "SUB_DISTRICT_NAME_THA": "ห้วยหิน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Hin",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.154000282287598,
+        "LONG": 101.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 160405,
+        "SUB_DISTRICT_NAME_THA": "ม่วงค่อม",
+        "SUB_DISTRICT_NAME_ENG": "Muang Khom",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.07800006866455,
+        "LONG": 101.02400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 160406,
+        "SUB_DISTRICT_NAME_THA": "บัวชุม",
+        "SUB_DISTRICT_NAME_ENG": "Bua Chum",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.175999641418457,
+        "LONG": 101.23799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 160407,
+        "SUB_DISTRICT_NAME_THA": "ท่าดินดำ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Din Dam",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.149999618530273,
+        "LONG": 101.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 160408,
+        "SUB_DISTRICT_NAME_THA": "มะกอกหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Makok Wan",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.059000015258789,
+        "LONG": 101.0770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 160409,
+        "SUB_DISTRICT_NAME_THA": "ซับตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Sap Takhian",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.112000465393066,
+        "LONG": 101.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 160410,
+        "SUB_DISTRICT_NAME_THA": "นาโสม",
+        "SUB_DISTRICT_NAME_ENG": "Na Som",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.244999885559082,
+        "LONG": 101.28199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 160411,
+        "SUB_DISTRICT_NAME_THA": "หนองยายโต๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai To",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.220000267028809,
+        "LONG": 101.26399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 160412,
+        "SUB_DISTRICT_NAME_THA": "เกาะรัง",
+        "SUB_DISTRICT_NAME_ENG": "Ko Rang",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.317999839782715,
+        "LONG": 101.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 160414,
+        "SUB_DISTRICT_NAME_THA": "ท่ามะนาว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Manao",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.187000274658203,
+        "LONG": 101.16200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 160417,
+        "SUB_DISTRICT_NAME_THA": "นิคมลำนารายณ์",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Lam Narai",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.263999938964844,
+        "LONG": 101.1500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 160418,
+        "SUB_DISTRICT_NAME_THA": "ชัยบาดาล",
+        "SUB_DISTRICT_NAME_ENG": "Chai Badan",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.095000267028809,
+        "LONG": 101.05799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 160419,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่สามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai Samakkhi",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.258000373840332,
+        "LONG": 101.02200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 160422,
+        "SUB_DISTRICT_NAME_THA": "เขาแหลม",
+        "SUB_DISTRICT_NAME_ENG": "Khao Laem",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1604,
+        "LAT": 15.12600040435791,
+        "LONG": 100.96399688720703
+    }
+]

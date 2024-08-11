@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 701001,
+        "SUB_DISTRICT_NAME_THA": "บ้านคา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kha",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7010,
+        "LAT": 13.418000221252441,
+        "LONG": 99.38600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 701002,
+        "SUB_DISTRICT_NAME_THA": "บ้านบึง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bueng",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7010,
+        "LAT": 13.282999992370605,
+        "LONG": 99.44400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 701003,
+        "SUB_DISTRICT_NAME_THA": "หนองพันจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phan Chan",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7010,
+        "LAT": 13.447999954223633,
+        "LONG": 99.46199798583984
+    }
+]

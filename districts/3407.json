@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340701,
+        "SUB_DISTRICT_NAME_THA": "เมืองเดช",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Det",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.920000076293945,
+        "LONG": 105.05500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 340702,
+        "SUB_DISTRICT_NAME_THA": "นาส่วง",
+        "SUB_DISTRICT_NAME_ENG": "Na Suang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 15.01200008392334,
+        "LONG": 104.98300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 340704,
+        "SUB_DISTRICT_NAME_THA": "นาเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Na Charoen",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.902000427246094,
+        "LONG": 104.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 340706,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งเทิง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Thoeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.819000244140625,
+        "LONG": 104.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 340708,
+        "SUB_DISTRICT_NAME_THA": "สมสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Som Sa-At",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.824000358581543,
+        "LONG": 104.98699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 340709,
+        "SUB_DISTRICT_NAME_THA": "กุดประทาย",
+        "SUB_DISTRICT_NAME_ENG": "Kut Prathai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.965999603271484,
+        "LONG": 105.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 340710,
+        "SUB_DISTRICT_NAME_THA": "ตบหู",
+        "SUB_DISTRICT_NAME_ENG": "Top Hu",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.70199966430664,
+        "LONG": 105.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 340711,
+        "SUB_DISTRICT_NAME_THA": "กลาง",
+        "SUB_DISTRICT_NAME_ENG": "Klang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.79699993133545,
+        "LONG": 105.14099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 340712,
+        "SUB_DISTRICT_NAME_THA": "แก้ง",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.694999694824219,
+        "LONG": 105.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 340713,
+        "SUB_DISTRICT_NAME_THA": "ท่าโพธิ์ศรี",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pho Si",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.84000015258789,
+        "LONG": 105.04900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 340715,
+        "SUB_DISTRICT_NAME_THA": "บัวงาม",
+        "SUB_DISTRICT_NAME_ENG": "Bua Ngam",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.800999641418457,
+        "LONG": 105.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 340716,
+        "SUB_DISTRICT_NAME_THA": "คำครั่ง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Khrang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.888999938964844,
+        "LONG": 105.20500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 340717,
+        "SUB_DISTRICT_NAME_THA": "นากระแซง",
+        "SUB_DISTRICT_NAME_ENG": "Na Krasaeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.869999885559082,
+        "LONG": 104.90799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 340720,
+        "SUB_DISTRICT_NAME_THA": "โพนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Phon Ngam",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.904000282287598,
+        "LONG": 105.11499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 340721,
+        "SUB_DISTRICT_NAME_THA": "ป่าโมง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Mong",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.961000442504883,
+        "LONG": 104.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 340723,
+        "SUB_DISTRICT_NAME_THA": "โนนสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Non Sombun",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3407,
+        "LAT": 14.760000228881836,
+        "LONG": 105.02999877929688
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 370301,
+        "SUB_DISTRICT_NAME_THA": "หนองข่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kha",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3703,
+        "LAT": 15.972999572753906,
+        "LONG": 104.89199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 370302,
+        "SUB_DISTRICT_NAME_THA": "คำโพน",
+        "SUB_DISTRICT_NAME_ENG": "Kham Phon",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3703,
+        "LAT": 15.968000411987305,
+        "LONG": 104.96700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 370303,
+        "SUB_DISTRICT_NAME_THA": "นาหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Na Wa",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3703,
+        "LAT": 15.897000312805176,
+        "LONG": 104.91799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 370304,
+        "SUB_DISTRICT_NAME_THA": "ลือ",
+        "SUB_DISTRICT_NAME_ENG": "Lue",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3703,
+        "LAT": 15.795999526977539,
+        "LONG": 104.86799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 370305,
+        "SUB_DISTRICT_NAME_THA": "ห้วย",
+        "SUB_DISTRICT_NAME_ENG": "Huai",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3703,
+        "LAT": 15.829999923706055,
+        "LONG": 104.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 370306,
+        "SUB_DISTRICT_NAME_THA": "โนนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Non Ngam",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3703,
+        "LAT": 15.862000465393066,
+        "LONG": 104.8280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 370307,
+        "SUB_DISTRICT_NAME_THA": "นาป่าแซง",
+        "SUB_DISTRICT_NAME_ENG": "Na Pa Saeng",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3703,
+        "LAT": 15.871999740600586,
+        "LONG": 104.8759994506836
+    }
+]

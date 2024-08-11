@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550701,
+        "SUB_DISTRICT_NAME_THA": "กลางเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Klang Wiang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.57699966430664,
+        "LONG": 100.73999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 550702,
+        "SUB_DISTRICT_NAME_THA": "ขึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Khueng",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.530000686645508,
+        "LONG": 100.83399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 550703,
+        "SUB_DISTRICT_NAME_THA": "ไหล่น่าน",
+        "SUB_DISTRICT_NAME_ENG": "Lai Nan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.59000015258789,
+        "LONG": 100.93000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 550704,
+        "SUB_DISTRICT_NAME_THA": "ตาลชุม",
+        "SUB_DISTRICT_NAME_ENG": "Tan Chum",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.636999130249023,
+        "LONG": 100.78299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 550705,
+        "SUB_DISTRICT_NAME_THA": "นาเหลือง",
+        "SUB_DISTRICT_NAME_ENG": "Na Lueang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.679000854492188,
+        "LONG": 100.83699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 550706,
+        "SUB_DISTRICT_NAME_THA": "ส้าน",
+        "SUB_DISTRICT_NAME_ENG": "San",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.464000701904297,
+        "LONG": 100.72899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 550707,
+        "SUB_DISTRICT_NAME_THA": "น้ำมวบ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Muap",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.444000244140625,
+        "LONG": 100.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 550708,
+        "SUB_DISTRICT_NAME_THA": "น้ำปั้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nam Pua",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.638999938964844,
+        "LONG": 100.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 550709,
+        "SUB_DISTRICT_NAME_THA": "ยาบหัวนา",
+        "SUB_DISTRICT_NAME_ENG": "Yap Hua Na",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.611000061035156,
+        "LONG": 100.47100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 550710,
+        "SUB_DISTRICT_NAME_THA": "ปงสนุก",
+        "SUB_DISTRICT_NAME_ENG": "Pong Sanuk",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.600000381469727,
+        "LONG": 100.64800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 550711,
+        "SUB_DISTRICT_NAME_THA": "อ่ายนาไลย",
+        "SUB_DISTRICT_NAME_ENG": "I Na Lai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.513999938964844,
+        "LONG": 100.54100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 550712,
+        "SUB_DISTRICT_NAME_THA": "ส้านนาหนองใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Sanna Nong Mai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.5310001373291,
+        "LONG": 100.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 550713,
+        "SUB_DISTRICT_NAME_THA": "แม่ขะนิง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Khaning",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.718000411987305,
+        "LONG": 100.552001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 550714,
+        "SUB_DISTRICT_NAME_THA": "แม่สาคร",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sakhon",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.474000930786133,
+        "LONG": 100.63700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 550715,
+        "SUB_DISTRICT_NAME_THA": "จอมจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Chom Chan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.636999130249023,
+        "LONG": 100.89600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 550716,
+        "SUB_DISTRICT_NAME_THA": "แม่สา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sa",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.56399917602539,
+        "LONG": 100.66000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 550717,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งศรีทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Si Thong",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5507,
+        "LAT": 18.660999298095703,
+        "LONG": 100.69400024414062
+    }
+]

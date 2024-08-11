@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 120401,
+        "SUB_DISTRICT_NAME_THA": "โสนลอย",
+        "SUB_DISTRICT_NAME_ENG": "Sano Loi",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.913999557495117,
+        "LONG": 100.4219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 120402,
+        "SUB_DISTRICT_NAME_THA": "บางบัวทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Bua Thong",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.944000244140625,
+        "LONG": 100.38999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 120403,
+        "SUB_DISTRICT_NAME_THA": "บางรักใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rak Yai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.878000259399414,
+        "LONG": 100.43800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 120404,
+        "SUB_DISTRICT_NAME_THA": "บางคูรัด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khu Rat",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.906999588012695,
+        "LONG": 100.35099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 120405,
+        "SUB_DISTRICT_NAME_THA": "ละหาร",
+        "SUB_DISTRICT_NAME_ENG": "Lahan",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.96399974822998,
+        "LONG": 100.4010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 120406,
+        "SUB_DISTRICT_NAME_THA": "ลำโพ",
+        "SUB_DISTRICT_NAME_ENG": "Lam Pho",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.970000267028809,
+        "LONG": 100.41600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 120407,
+        "SUB_DISTRICT_NAME_THA": "พิมลราช",
+        "SUB_DISTRICT_NAME_ENG": "Phimonrat",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.934000015258789,
+        "LONG": 100.36599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 120408,
+        "SUB_DISTRICT_NAME_THA": "บางรักพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rak Phatthana",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1204,
+        "LAT": 13.894000053405762,
+        "LONG": 100.41000366210938
+    }
+]

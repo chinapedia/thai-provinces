@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670601,
+        "SUB_DISTRICT_NAME_THA": "ศรีเทพ",
+        "SUB_DISTRICT_NAME_ENG": "Si Thep",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6706,
+        "LAT": 15.439000129699707,
+        "LONG": 101.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 670602,
+        "SUB_DISTRICT_NAME_THA": "สระกรวด",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kruat",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6706,
+        "LAT": 15.420000076293945,
+        "LONG": 101.06999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 670603,
+        "SUB_DISTRICT_NAME_THA": "คลองกระจัง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Krachang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6706,
+        "LAT": 15.369999885559082,
+        "LONG": 101.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 670604,
+        "SUB_DISTRICT_NAME_THA": "นาสนุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Na Sanun",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6706,
+        "LAT": 15.527000427246094,
+        "LONG": 101.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 670605,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6706,
+        "LAT": 15.47700023651123,
+        "LONG": 100.97100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 670606,
+        "SUB_DISTRICT_NAME_THA": "หนองย่างทอย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yang Thoi",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6706,
+        "LAT": 15.402000427246094,
+        "LONG": 101.25199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 670607,
+        "SUB_DISTRICT_NAME_THA": "ประดู่งาม",
+        "SUB_DISTRICT_NAME_ENG": "Pradu Ngam",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6706,
+        "LAT": 15.435999870300293,
+        "LONG": 100.97100067138672
+    }
+]

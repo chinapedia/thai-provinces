@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140801,
+        "SUB_DISTRICT_NAME_THA": "ผักไห่",
+        "SUB_DISTRICT_NAME_ENG": "Phak Hai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.461999893188477,
+        "LONG": 100.37899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 140802,
+        "SUB_DISTRICT_NAME_THA": "อมฤต",
+        "SUB_DISTRICT_NAME_ENG": "Ammarit",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.472000122070312,
+        "LONG": 100.36100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 140803,
+        "SUB_DISTRICT_NAME_THA": "บ้านแค",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khae",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.494999885559082,
+        "LONG": 100.40499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 140804,
+        "SUB_DISTRICT_NAME_THA": "ลาดน้ำเค็ม",
+        "SUB_DISTRICT_NAME_ENG": "Lat Nam Khem",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.482000350952148,
+        "LONG": 100.39299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 140805,
+        "SUB_DISTRICT_NAME_THA": "ตาลาน",
+        "SUB_DISTRICT_NAME_ENG": "Ta Lan",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.446000099182129,
+        "LONG": 100.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 140806,
+        "SUB_DISTRICT_NAME_THA": "ท่าดินแดง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Din Daeng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.416000366210938,
+        "LONG": 100.38800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 140807,
+        "SUB_DISTRICT_NAME_THA": "ดอนลาน",
+        "SUB_DISTRICT_NAME_ENG": "Don Lan",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.432999610900879,
+        "LONG": 100.28600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 140808,
+        "SUB_DISTRICT_NAME_THA": "นาคู",
+        "SUB_DISTRICT_NAME_ENG": "Na Khu",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.468000411987305,
+        "LONG": 100.27200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 140809,
+        "SUB_DISTRICT_NAME_THA": "กุฎี",
+        "SUB_DISTRICT_NAME_ENG": "Ku Di",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.439000129699707,
+        "LONG": 100.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 140810,
+        "SUB_DISTRICT_NAME_THA": "ลำตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Lam Takhian",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.418999671936035,
+        "LONG": 100.31800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 140811,
+        "SUB_DISTRICT_NAME_THA": "โคกช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Chang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.5,
+        "LONG": 100.38800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 140812,
+        "SUB_DISTRICT_NAME_THA": "จักราช",
+        "SUB_DISTRICT_NAME_ENG": "Chakkarat",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.446999549865723,
+        "LONG": 100.33999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 140813,
+        "SUB_DISTRICT_NAME_THA": "หนองน้ำใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam Yai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.473999977111816,
+        "LONG": 100.31099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 140814,
+        "SUB_DISTRICT_NAME_THA": "ลาดชิด",
+        "SUB_DISTRICT_NAME_ENG": "Lat Chit",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.42199993133545,
+        "LONG": 100.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 140815,
+        "SUB_DISTRICT_NAME_THA": "หน้าโคก",
+        "SUB_DISTRICT_NAME_ENG": "Na Khok",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.489999771118164,
+        "LONG": 100.35099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 140816,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1408,
+        "LAT": 14.4350004196167,
+        "LONG": 100.38400268554688
+    }
+]

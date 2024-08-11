@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 103301,
+        "SUB_DISTRICT_NAME_THA": "คลองเตย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1033,
+        "LAT": 13.710000038146973,
+        "LONG": 100.56999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 103302,
+        "SUB_DISTRICT_NAME_THA": "คลองตัน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1033,
+        "LAT": 13.722999572753906,
+        "LONG": 100.57099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 103303,
+        "SUB_DISTRICT_NAME_THA": "พระโขนง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1033,
+        "LAT": 13.706999778747559,
+        "LONG": 100.59500122070312
+    }
+]

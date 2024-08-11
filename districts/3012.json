@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 301201,
+        "SUB_DISTRICT_NAME_THA": "บัวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bua Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.60200023651123,
+        "LONG": 102.43800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 301203,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยาง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.62600040435791,
+        "LONG": 102.36299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 301204,
+        "SUB_DISTRICT_NAME_THA": "เสมาใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Sema Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.515999794006348,
+        "LONG": 102.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 301206,
+        "SUB_DISTRICT_NAME_THA": "ดอนตะหนิน",
+        "SUB_DISTRICT_NAME_ENG": "Don Tanin",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.486000061035156,
+        "LONG": 102.46600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 301207,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Sa-At",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.593000411987305,
+        "LONG": 102.30000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 301208,
+        "SUB_DISTRICT_NAME_THA": "โนนทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Non Thong Lang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.522000312805176,
+        "LONG": 102.3740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 301214,
+        "SUB_DISTRICT_NAME_THA": "กุดจอก",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chok",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.571000099182129,
+        "LONG": 102.50199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 301215,
+        "SUB_DISTRICT_NAME_THA": "ด่านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Dan Chang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.623000144958496,
+        "LONG": 102.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 301220,
+        "SUB_DISTRICT_NAME_THA": "ขุนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Khun Thong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.682999610900879,
+        "LONG": 102.36399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 301224,
+        "SUB_DISTRICT_NAME_THA": "หนองแจ้งใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chaeng Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3012,
+        "LAT": 15.567000389099121,
+        "LONG": 102.37200164794922
+    }
+]

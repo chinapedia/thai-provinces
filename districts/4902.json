@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 490201,
+        "SUB_DISTRICT_NAME_THA": "นิคมคำสร้อย",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Kham Soi",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4902,
+        "LAT": 16.305999755859375,
+        "LONG": 104.58200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 490202,
+        "SUB_DISTRICT_NAME_THA": "นากอก",
+        "SUB_DISTRICT_NAME_ENG": "Na Kok",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4902,
+        "LAT": 16.34600067138672,
+        "LONG": 104.61399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 490203,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4902,
+        "LAT": 16.41200065612793,
+        "LONG": 104.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 490204,
+        "SUB_DISTRICT_NAME_THA": "กกแดง",
+        "SUB_DISTRICT_NAME_ENG": "Kok Daeng",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4902,
+        "LAT": 16.40999984741211,
+        "LONG": 104.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 490205,
+        "SUB_DISTRICT_NAME_THA": "นาอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Na Udom",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4902,
+        "LAT": 16.27400016784668,
+        "LONG": 104.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 490206,
+        "SUB_DISTRICT_NAME_THA": "โชคชัย",
+        "SUB_DISTRICT_NAME_ENG": "Chok Chai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4902,
+        "LAT": 16.357999801635742,
+        "LONG": 104.4990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 490207,
+        "SUB_DISTRICT_NAME_THA": "ร่มเกล้า",
+        "SUB_DISTRICT_NAME_ENG": "Romklao",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4902,
+        "LAT": 16.381000518798828,
+        "LONG": 104.43699645996094
+    }
+]

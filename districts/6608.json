@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660801,
+        "SUB_DISTRICT_NAME_THA": "ทับคล้อ",
+        "SUB_DISTRICT_NAME_ENG": "Thap Khlo",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6608,
+        "LAT": 16.18899917602539,
+        "LONG": 100.56800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 660802,
+        "SUB_DISTRICT_NAME_THA": "เขาทราย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Sai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6608,
+        "LAT": 16.19300079345703,
+        "LONG": 100.63700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 660803,
+        "SUB_DISTRICT_NAME_THA": "เขาเจ็ดลูก",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chet Luk",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6608,
+        "LAT": 16.27400016784668,
+        "LONG": 100.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 660804,
+        "SUB_DISTRICT_NAME_THA": "ท้ายทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Thai Thung",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6608,
+        "LAT": 16.086000442504883,
+        "LONG": 100.61799621582031
+    }
+]

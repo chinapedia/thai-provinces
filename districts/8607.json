@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 860701,
+        "SUB_DISTRICT_NAME_THA": "นาโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Na Pho",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.197999954223633,
+        "LONG": 99.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 860702,
+        "SUB_DISTRICT_NAME_THA": "สวี",
+        "SUB_DISTRICT_NAME_ENG": "Sawi",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.246999740600586,
+        "LONG": 99.08100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 860703,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งระยะ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Raya",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.277000427246094,
+        "LONG": 98.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 860704,
+        "SUB_DISTRICT_NAME_THA": "ท่าหิน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Hin",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.213000297546387,
+        "LONG": 99.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 860705,
+        "SUB_DISTRICT_NAME_THA": "ปากแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phraek",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.291000366210938,
+        "LONG": 99.14800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 860706,
+        "SUB_DISTRICT_NAME_THA": "ด่านสวี",
+        "SUB_DISTRICT_NAME_ENG": "Dan Sawi",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.253999710083008,
+        "LONG": 99.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 860707,
+        "SUB_DISTRICT_NAME_THA": "ครน",
+        "SUB_DISTRICT_NAME_ENG": "Khron",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.310999870300293,
+        "LONG": 99.06300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 860708,
+        "SUB_DISTRICT_NAME_THA": "วิสัยใต้",
+        "SUB_DISTRICT_NAME_ENG": "Wisai Tai",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.359999656677246,
+        "LONG": 99.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 860709,
+        "SUB_DISTRICT_NAME_THA": "นาสัก",
+        "SUB_DISTRICT_NAME_ENG": "Na Sak",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.177000045776367,
+        "LONG": 99.0
+    },
+    {
+        "SUB_DISTRICT_ID": 860710,
+        "SUB_DISTRICT_NAME_THA": "เขาทะลุ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Thalu",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.196999549865723,
+        "LONG": 98.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 860711,
+        "SUB_DISTRICT_NAME_THA": "เขาค่าย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Khai",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8607,
+        "LAT": 10.104000091552734,
+        "LONG": 98.89099884033203
+    }
+]

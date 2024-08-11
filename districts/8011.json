@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 801101,
+        "SUB_DISTRICT_NAME_THA": "ท่ายาง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8011,
+        "LAT": 8.305000305175781,
+        "LONG": 99.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 801102,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสัง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Sang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8011,
+        "LAT": 8.371999740600586,
+        "LONG": 99.34200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 801103,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Thung Yai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8011,
+        "LAT": 8.366000175476074,
+        "LONG": 99.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 801104,
+        "SUB_DISTRICT_NAME_THA": "กุแหระ",
+        "SUB_DISTRICT_NAME_ENG": "Kurae",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8011,
+        "LAT": 8.194000244140625,
+        "LONG": 99.33699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 801105,
+        "SUB_DISTRICT_NAME_THA": "ปริก",
+        "SUB_DISTRICT_NAME_ENG": "Prik",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8011,
+        "LAT": 8.279999732971191,
+        "LONG": 99.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 801106,
+        "SUB_DISTRICT_NAME_THA": "บางรูป",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rup",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8011,
+        "LAT": 8.399999618530273,
+        "LONG": 99.27899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 801107,
+        "SUB_DISTRICT_NAME_THA": "กรุงหยัน",
+        "SUB_DISTRICT_NAME_ENG": "Krung Yan",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8011,
+        "LAT": 8.187000274658203,
+        "LONG": 99.40299987792969
+    }
+]

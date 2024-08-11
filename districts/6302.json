@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630201,
+        "SUB_DISTRICT_NAME_THA": "ตากออก",
+        "SUB_DISTRICT_NAME_ENG": "Tak Ok",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6302,
+        "LAT": 17.06599998474121,
+        "LONG": 99.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 630202,
+        "SUB_DISTRICT_NAME_THA": "สมอโคน",
+        "SUB_DISTRICT_NAME_ENG": "Samo Khon",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6302,
+        "LAT": 17.04599952697754,
+        "LONG": 99.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 630203,
+        "SUB_DISTRICT_NAME_THA": "แม่สลิด",
+        "SUB_DISTRICT_NAME_ENG": "Mae Salit",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6302,
+        "LAT": 17.295000076293945,
+        "LONG": 99.25499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 630204,
+        "SUB_DISTRICT_NAME_THA": "ตากตก",
+        "SUB_DISTRICT_NAME_ENG": "Tak Tok",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6302,
+        "LAT": 17.000999450683594,
+        "LONG": 99.06800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 630205,
+        "SUB_DISTRICT_NAME_THA": "เกาะตะเภา",
+        "SUB_DISTRICT_NAME_ENG": "Ko Taphao",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6302,
+        "LAT": 17.110000610351562,
+        "LONG": 99.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 630206,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกระเซาะ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kracho",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6302,
+        "LAT": 16.972999572753906,
+        "LONG": 98.96700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 630207,
+        "SUB_DISTRICT_NAME_THA": "ท้องฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Thong Fa",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6302,
+        "LAT": 17.086000442504883,
+        "LONG": 98.91799926757812
+    }
+]

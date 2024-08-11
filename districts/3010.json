@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 301001,
+        "SUB_DISTRICT_NAME_THA": "โนนสูง",
+        "SUB_DISTRICT_NAME_ENG": "Non Sung",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.178999900817871,
+        "LONG": 102.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 301002,
+        "SUB_DISTRICT_NAME_THA": "ใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Mai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.152000427246094,
+        "LONG": 102.28700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 301003,
+        "SUB_DISTRICT_NAME_THA": "โตนด",
+        "SUB_DISTRICT_NAME_ENG": "Tanot",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.097000122070312,
+        "LONG": 102.29299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 301004,
+        "SUB_DISTRICT_NAME_THA": "บิง",
+        "SUB_DISTRICT_NAME_ENG": "Bing",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.118000030517578,
+        "LONG": 102.33300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 301005,
+        "SUB_DISTRICT_NAME_THA": "ดอนชมพู",
+        "SUB_DISTRICT_NAME_ENG": "Don Chomphu",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.170999526977539,
+        "LONG": 102.33899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 301006,
+        "SUB_DISTRICT_NAME_THA": "ธารปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Than Prasat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.262999534606934,
+        "LONG": 102.39199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 301007,
+        "SUB_DISTRICT_NAME_THA": "หลุมข้าว",
+        "SUB_DISTRICT_NAME_ENG": "Lum Khao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.223999977111816,
+        "LONG": 102.31300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 301008,
+        "SUB_DISTRICT_NAME_THA": "มะค่า",
+        "SUB_DISTRICT_NAME_ENG": "Makha",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.3149995803833,
+        "LONG": 102.32099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 301009,
+        "SUB_DISTRICT_NAME_THA": "พลสงคราม",
+        "SUB_DISTRICT_NAME_ENG": "Phon Songkhram",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.298999786376953,
+        "LONG": 102.27300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 301010,
+        "SUB_DISTRICT_NAME_THA": "จันอัด",
+        "SUB_DISTRICT_NAME_ENG": "Chan-At",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.16100025177002,
+        "LONG": 102.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 301011,
+        "SUB_DISTRICT_NAME_THA": "ขามเฒ่า",
+        "SUB_DISTRICT_NAME_ENG": "Kham Thao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.305000305175781,
+        "LONG": 102.21900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 301012,
+        "SUB_DISTRICT_NAME_THA": "ด่านคล้า",
+        "SUB_DISTRICT_NAME_ENG": "Dan Khla",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.152000427246094,
+        "LONG": 102.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 301013,
+        "SUB_DISTRICT_NAME_THA": "ลำคอหงษ์",
+        "SUB_DISTRICT_NAME_ENG": "Lam Kho Hong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.251999855041504,
+        "LONG": 102.20999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 301014,
+        "SUB_DISTRICT_NAME_THA": "เมืองปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Prasat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.201000213623047,
+        "LONG": 102.19400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 301015,
+        "SUB_DISTRICT_NAME_THA": "ดอนหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Don Wai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.116000175476074,
+        "LONG": 102.28700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 301016,
+        "SUB_DISTRICT_NAME_THA": "ลำมูล",
+        "SUB_DISTRICT_NAME_ENG": "Lammun",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3010,
+        "LAT": 15.071999549865723,
+        "LONG": 102.30799865722656
+    }
+]

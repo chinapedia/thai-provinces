@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 502201,
+        "SUB_DISTRICT_NAME_THA": "บ้านกาด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kat",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5022,
+        "LAT": 18.636999130249023,
+        "LONG": 98.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 502202,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งปี้",
+        "SUB_DISTRICT_NAME_ENG": "Thung Pi",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5022,
+        "LAT": 18.586999893188477,
+        "LONG": 98.74099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 502203,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งรวงทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Ruang Thong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5022,
+        "LAT": 18.554000854492188,
+        "LONG": 98.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 502204,
+        "SUB_DISTRICT_NAME_THA": "แม่วิน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Win",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5022,
+        "LAT": 18.683000564575195,
+        "LONG": 98.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 502205,
+        "SUB_DISTRICT_NAME_THA": "ดอนเปา",
+        "SUB_DISTRICT_NAME_ENG": "Don Pao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5022,
+        "LAT": 18.679000854492188,
+        "LONG": 98.78299713134766
+    }
+]

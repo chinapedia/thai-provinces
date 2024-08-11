@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 320601,
+        "SUB_DISTRICT_NAME_THA": "กาบเชิง",
+        "SUB_DISTRICT_NAME_ENG": "Kap Choeng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3206,
+        "LAT": 14.48799991607666,
+        "LONG": 103.58499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 320604,
+        "SUB_DISTRICT_NAME_THA": "คูตัน",
+        "SUB_DISTRICT_NAME_ENG": "Khu Tan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3206,
+        "LAT": 14.532999992370605,
+        "LONG": 103.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 320605,
+        "SUB_DISTRICT_NAME_THA": "ด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Dan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3206,
+        "LAT": 14.46500015258789,
+        "LONG": 103.70899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 320606,
+        "SUB_DISTRICT_NAME_THA": "แนงมุด",
+        "SUB_DISTRICT_NAME_ENG": "Naeng Mut",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3206,
+        "LAT": 14.397000312805176,
+        "LONG": 103.45899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 320607,
+        "SUB_DISTRICT_NAME_THA": "โคกตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Takhian",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3206,
+        "LAT": 14.479999542236328,
+        "LONG": 103.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 320610,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Takhian",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3206,
+        "LAT": 14.46399974822998,
+        "LONG": 103.63200378417969
+    }
+]

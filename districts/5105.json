@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 510501,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหัวช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Hua Chang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5105,
+        "LAT": 17.982999801635742,
+        "LONG": 99.0479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 510502,
+        "SUB_DISTRICT_NAME_THA": "บ้านปวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Puang",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5105,
+        "LAT": 17.8700008392334,
+        "LONG": 99.08899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 510503,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียนปม",
+        "SUB_DISTRICT_NAME_ENG": "Takhian Pom",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5105,
+        "LAT": 18.106000900268555,
+        "LONG": 99.0250015258789
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 342101,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ไทร",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3421,
+        "LAT": 15.815999984741211,
+        "LONG": 105.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 342102,
+        "SUB_DISTRICT_NAME_THA": "ม่วงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Muang Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3421,
+        "LAT": 15.859999656677246,
+        "LONG": 105.27300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 342103,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3421,
+        "LAT": 15.727999687194824,
+        "LONG": 105.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 342104,
+        "SUB_DISTRICT_NAME_THA": "สองคอน",
+        "SUB_DISTRICT_NAME_ENG": "Song Khon",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3421,
+        "LAT": 15.833999633789062,
+        "LONG": 105.34500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 342105,
+        "SUB_DISTRICT_NAME_THA": "สารภี",
+        "SUB_DISTRICT_NAME_ENG": "Saraphi",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3421,
+        "LAT": 15.755999565124512,
+        "LONG": 105.25399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 342106,
+        "SUB_DISTRICT_NAME_THA": "เหล่างาม",
+        "SUB_DISTRICT_NAME_ENG": "Lao Ngam",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3421,
+        "LAT": 15.760000228881836,
+        "LONG": 105.3740005493164
+    }
+]

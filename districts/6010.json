@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 601001,
+        "SUB_DISTRICT_NAME_THA": "พยุหะ",
+        "SUB_DISTRICT_NAME_ENG": "Phayuha",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.454999923706055,
+        "LONG": 100.1449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 601002,
+        "SUB_DISTRICT_NAME_THA": "เนินมะกอก",
+        "SUB_DISTRICT_NAME_ENG": "Noen Makok",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.449000358581543,
+        "LONG": 100.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 601003,
+        "SUB_DISTRICT_NAME_THA": "นิคมเขาบ่อแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Khao Bo Kaeo",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.470999717712402,
+        "LONG": 100.24500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 601004,
+        "SUB_DISTRICT_NAME_THA": "ม่วงหัก",
+        "SUB_DISTRICT_NAME_ENG": "Muang Hak",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.388999938964844,
+        "LONG": 100.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 601005,
+        "SUB_DISTRICT_NAME_THA": "ยางขาว",
+        "SUB_DISTRICT_NAME_ENG": "Yang Khao",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.513999938964844,
+        "LONG": 100.06900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 601006,
+        "SUB_DISTRICT_NAME_THA": "ย่านมัทรี",
+        "SUB_DISTRICT_NAME_ENG": "Yan Matsi",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.52400016784668,
+        "LONG": 100.10600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 601007,
+        "SUB_DISTRICT_NAME_THA": "เขาทอง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Thong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.567000389099121,
+        "LONG": 100.16100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 601008,
+        "SUB_DISTRICT_NAME_THA": "ท่าน้ำอ้อย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nam Oi",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.42300033569336,
+        "LONG": 100.14900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 601009,
+        "SUB_DISTRICT_NAME_THA": "น้ำทรง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Song",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.460000038146973,
+        "LONG": 100.0739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 601010,
+        "SUB_DISTRICT_NAME_THA": "เขากะลา",
+        "SUB_DISTRICT_NAME_ENG": "Khao Kala",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.541999816894531,
+        "LONG": 100.31600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 601011,
+        "SUB_DISTRICT_NAME_THA": "สระทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Sa Thale",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6010,
+        "LAT": 15.510000228881836,
+        "LONG": 100.15599822998047
+    }
+]

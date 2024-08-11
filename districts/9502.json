@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 950201,
+        "SUB_DISTRICT_NAME_THA": "เบตง",
+        "SUB_DISTRICT_NAME_ENG": "Betong",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9502,
+        "LAT": 5.802999973297119,
+        "LONG": 101.00900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 950202,
+        "SUB_DISTRICT_NAME_THA": "ยะรม",
+        "SUB_DISTRICT_NAME_ENG": "Yarom",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9502,
+        "LAT": 5.770999908447266,
+        "LONG": 101.2030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 950203,
+        "SUB_DISTRICT_NAME_THA": "ตาเนาะแมเราะ",
+        "SUB_DISTRICT_NAME_ENG": "Tano Maero",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9502,
+        "LAT": 5.853000164031982,
+        "LONG": 101.0989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 950204,
+        "SUB_DISTRICT_NAME_THA": "อัยเยอร์เวง",
+        "SUB_DISTRICT_NAME_ENG": "Aiyoe Weng",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9502,
+        "LAT": 5.9629998207092285,
+        "LONG": 101.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 950205,
+        "SUB_DISTRICT_NAME_THA": "ธารน้ำทิพย์",
+        "SUB_DISTRICT_NAME_ENG": "Than Nam Thip",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9502,
+        "LAT": 5.685999870300293,
+        "LONG": 101.14099884033203
+    }
+]

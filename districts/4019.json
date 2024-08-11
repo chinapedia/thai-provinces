@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 401901,
+        "SUB_DISTRICT_NAME_THA": "เขาสวนกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Suan Kwang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4019,
+        "LAT": 16.861000061035156,
+        "LONG": 102.83999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 401902,
+        "SUB_DISTRICT_NAME_THA": "ดงเมืองแอม",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mueang Am",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4019,
+        "LAT": 16.86199951171875,
+        "LONG": 102.76699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 401903,
+        "SUB_DISTRICT_NAME_THA": "นางิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngio",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4019,
+        "LAT": 16.93199920654297,
+        "LONG": 102.78399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 401904,
+        "SUB_DISTRICT_NAME_THA": "โนนสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Non Sombun",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4019,
+        "LAT": 17.024999618530273,
+        "LONG": 102.70899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 401905,
+        "SUB_DISTRICT_NAME_THA": "คำม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Muang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4019,
+        "LAT": 16.819000244140625,
+        "LONG": 102.86699676513672
+    }
+]

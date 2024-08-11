@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571801,
+        "SUB_DISTRICT_NAME_THA": "ปงน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Pong Noi",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5718,
+        "LAT": 20.104000091552734,
+        "LONG": 100.06800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 571802,
+        "SUB_DISTRICT_NAME_THA": "โชคชัย",
+        "SUB_DISTRICT_NAME_ENG": "Chok Chai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5718,
+        "LAT": 20.134000778198242,
+        "LONG": 100.19300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 571803,
+        "SUB_DISTRICT_NAME_THA": "หนองป่าก่อ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pa Ko",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5718,
+        "LAT": 20.180999755859375,
+        "LONG": 100.1240005493164
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 420101,
+        "SUB_DISTRICT_NAME_THA": "กุดป่อง",
+        "SUB_DISTRICT_NAME_ENG": "Kut Pong",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.493000030517578,
+        "LONG": 101.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 420102,
+        "SUB_DISTRICT_NAME_THA": "เมือง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.523000717163086,
+        "LONG": 101.70500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 420103,
+        "SUB_DISTRICT_NAME_THA": "นาอ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Na O",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.582000732421875,
+        "LONG": 101.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 420104,
+        "SUB_DISTRICT_NAME_THA": "กกดู่",
+        "SUB_DISTRICT_NAME_ENG": "Kok Du",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.604000091552734,
+        "LONG": 101.63500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 420105,
+        "SUB_DISTRICT_NAME_THA": "น้ำหมาน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Man",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.524999618530273,
+        "LONG": 101.64600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 420106,
+        "SUB_DISTRICT_NAME_THA": "เสี้ยว",
+        "SUB_DISTRICT_NAME_ENG": "Siao",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.45800018310547,
+        "LONG": 101.63600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 420107,
+        "SUB_DISTRICT_NAME_THA": "นาอาน",
+        "SUB_DISTRICT_NAME_ENG": "Na An",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.459999084472656,
+        "LONG": 101.74099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 420108,
+        "SUB_DISTRICT_NAME_THA": "นาโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Pong",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.408000946044922,
+        "LONG": 101.68800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 420109,
+        "SUB_DISTRICT_NAME_THA": "นาดินดำ",
+        "SUB_DISTRICT_NAME_ENG": "Na Din Dam",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.454999923706055,
+        "LONG": 101.84200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 420110,
+        "SUB_DISTRICT_NAME_THA": "น้ำสวย",
+        "SUB_DISTRICT_NAME_ENG": "Nam Suai",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.613000869750977,
+        "LONG": 101.85199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 420111,
+        "SUB_DISTRICT_NAME_THA": "ชัยพฤกษ์",
+        "SUB_DISTRICT_NAME_ENG": "Chaiyaphruek",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.523000717163086,
+        "LONG": 101.7770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 420112,
+        "SUB_DISTRICT_NAME_THA": "นาแขม",
+        "SUB_DISTRICT_NAME_ENG": "Na Khaem",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.687000274658203,
+        "LONG": 101.66000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 420113,
+        "SUB_DISTRICT_NAME_THA": "ศรีสองรัก",
+        "SUB_DISTRICT_NAME_ENG": "Si Song Rak",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.642000198364258,
+        "LONG": 101.76899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 420114,
+        "SUB_DISTRICT_NAME_THA": "กกทอง",
+        "SUB_DISTRICT_NAME_ENG": "Kok Thong",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4201,
+        "LAT": 17.518999099731445,
+        "LONG": 101.56199645996094
+    }
+]

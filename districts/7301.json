@@ -1,0 +1,227 @@
+[
+    {
+        "SUB_DISTRICT_ID": 730101,
+        "SUB_DISTRICT_NAME_THA": "พระปฐมเจดีย์",
+        "SUB_DISTRICT_NAME_ENG": "Phra Pathom Chedi",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.819000244140625,
+        "LONG": 100.05000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 730102,
+        "SUB_DISTRICT_NAME_THA": "บางแขม",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khaem",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.753999710083008,
+        "LONG": 100.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 730103,
+        "SUB_DISTRICT_NAME_THA": "พระประโทน",
+        "SUB_DISTRICT_NAME_ENG": "Phra Prathon",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.810999870300293,
+        "LONG": 100.08799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 730104,
+        "SUB_DISTRICT_NAME_THA": "ธรรมศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Thammasala",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.807000160217285,
+        "LONG": 100.1050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 730105,
+        "SUB_DISTRICT_NAME_THA": "ตาก้อง",
+        "SUB_DISTRICT_NAME_ENG": "Ta Kong",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.892000198364258,
+        "LONG": 100.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 730106,
+        "SUB_DISTRICT_NAME_THA": "มาบแค",
+        "SUB_DISTRICT_NAME_ENG": "Map Khae",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.86400032043457,
+        "LONG": 100.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 730107,
+        "SUB_DISTRICT_NAME_THA": "สนามจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Chan",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.803999900817871,
+        "LONG": 100.04100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 730108,
+        "SUB_DISTRICT_NAME_THA": "ดอนยายหอม",
+        "SUB_DISTRICT_NAME_ENG": "Don Yai Hom",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.725000381469727,
+        "LONG": 100.06999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 730109,
+        "SUB_DISTRICT_NAME_THA": "ถนนขาด",
+        "SUB_DISTRICT_NAME_ENG": "Thanon Khat",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.781999588012695,
+        "LONG": 100.0770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 730110,
+        "SUB_DISTRICT_NAME_THA": "บ่อพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Bo Phlap",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.836999893188477,
+        "LONG": 100.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 730111,
+        "SUB_DISTRICT_NAME_THA": "นครปฐม",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Pathom",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.847999572753906,
+        "LONG": 100.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 730112,
+        "SUB_DISTRICT_NAME_THA": "วังตะกู",
+        "SUB_DISTRICT_NAME_ENG": "Wang Taku",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.857000350952148,
+        "LONG": 100.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 730113,
+        "SUB_DISTRICT_NAME_THA": "หนองปากโลง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pak Long",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.866000175476074,
+        "LONG": 99.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 730114,
+        "SUB_DISTRICT_NAME_THA": "สามควายเผือก",
+        "SUB_DISTRICT_NAME_ENG": "Sam Khwai Phueak",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.840999603271484,
+        "LONG": 100.11299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 730115,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Noi",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.866999626159668,
+        "LONG": 100.10800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 730116,
+        "SUB_DISTRICT_NAME_THA": "หนองดินแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Din Daeng",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.78600025177002,
+        "LONG": 99.99099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 730117,
+        "SUB_DISTRICT_NAME_THA": "วังเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yen",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.765999794006348,
+        "LONG": 100.00800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 730118,
+        "SUB_DISTRICT_NAME_THA": "โพรงมะเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Phrong Maduea",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.84000015258789,
+        "LONG": 99.97799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 730119,
+        "SUB_DISTRICT_NAME_THA": "ลำพยา",
+        "SUB_DISTRICT_NAME_ENG": "Lam Phaya",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.810999870300293,
+        "LONG": 100.01899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 730120,
+        "SUB_DISTRICT_NAME_THA": "สระกระเทียม",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kathiam",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.75,
+        "LONG": 99.9749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 730121,
+        "SUB_DISTRICT_NAME_THA": "สวนป่าน",
+        "SUB_DISTRICT_NAME_ENG": "Suan Pan",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.756999969482422,
+        "LONG": 99.9469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 730122,
+        "SUB_DISTRICT_NAME_THA": "ห้วยจรเข้",
+        "SUB_DISTRICT_NAME_ENG": "Huai Chorakhe",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.803999900817871,
+        "LONG": 100.06700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 730123,
+        "SUB_DISTRICT_NAME_THA": "ทัพหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Luang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.878000259399414,
+        "LONG": 100.02100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 730124,
+        "SUB_DISTRICT_NAME_THA": "หนองงูเหลือม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ngu Lueam",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.913999557495117,
+        "LONG": 99.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 730125,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7301,
+        "LAT": 13.868000030517578,
+        "LONG": 99.92900085449219
+    }
+]

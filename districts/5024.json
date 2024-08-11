@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 502401,
+        "SUB_DISTRICT_NAME_THA": "ดอยหล่อ",
+        "SUB_DISTRICT_NAME_ENG": "Doi Lo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5024,
+        "LAT": 18.488000869750977,
+        "LONG": 98.7979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 502402,
+        "SUB_DISTRICT_NAME_THA": "สองแคว",
+        "SUB_DISTRICT_NAME_ENG": "Song Khwae",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5024,
+        "LAT": 18.503999710083008,
+        "LONG": 98.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 502403,
+        "SUB_DISTRICT_NAME_THA": "ยางคราม",
+        "SUB_DISTRICT_NAME_ENG": "Yang Khram",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5024,
+        "LAT": 18.559999465942383,
+        "LONG": 98.78199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 502404,
+        "SUB_DISTRICT_NAME_THA": "สันติสุข",
+        "SUB_DISTRICT_NAME_ENG": "Santi Suk",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5024,
+        "LAT": 18.58099937438965,
+        "LONG": 98.68199920654297
+    }
+]

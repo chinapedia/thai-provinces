@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180401,
+        "SUB_DISTRICT_NAME_THA": "สรรพยา",
+        "SUB_DISTRICT_NAME_ENG": "Sapphaya",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1804,
+        "LAT": 15.128000259399414,
+        "LONG": 100.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 180402,
+        "SUB_DISTRICT_NAME_THA": "ตลุก",
+        "SUB_DISTRICT_NAME_ENG": "Taluk",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1804,
+        "LAT": 15.194999694824219,
+        "LONG": 100.197998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 180403,
+        "SUB_DISTRICT_NAME_THA": "เขาแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Kaeo",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1804,
+        "LAT": 15.142000198364258,
+        "LONG": 100.31600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 180404,
+        "SUB_DISTRICT_NAME_THA": "โพนางดำตก",
+        "SUB_DISTRICT_NAME_ENG": "Pho Nang Dam Tok",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1804,
+        "LAT": 15.083999633789062,
+        "LONG": 100.27200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 180405,
+        "SUB_DISTRICT_NAME_THA": "โพนางดำออก",
+        "SUB_DISTRICT_NAME_ENG": "Pho Nang Dam Ok",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1804,
+        "LAT": 15.119999885559082,
+        "LONG": 100.28299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 180406,
+        "SUB_DISTRICT_NAME_THA": "บางหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Luang",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1804,
+        "LAT": 15.142999649047852,
+        "LONG": 100.1969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 180407,
+        "SUB_DISTRICT_NAME_THA": "หาดอาษา",
+        "SUB_DISTRICT_NAME_ENG": "Hat A Sa",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1804,
+        "LAT": 15.164999961853027,
+        "LONG": 100.26200103759766
+    }
+]

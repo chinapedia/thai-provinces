@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 361001,
+        "SUB_DISTRICT_NAME_THA": "ผักปัง",
+        "SUB_DISTRICT_NAME_ENG": "Phak Pang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.35700035095215,
+        "LONG": 102.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 361002,
+        "SUB_DISTRICT_NAME_THA": "กวางโจน",
+        "SUB_DISTRICT_NAME_ENG": "Kwang Chon",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.281999588012695,
+        "LONG": 102.23200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 361003,
+        "SUB_DISTRICT_NAME_THA": "หนองคอนไทย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khon Thai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.461000442504883,
+        "LONG": 102.18099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 361004,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.420000076293945,
+        "LONG": 102.04900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 361005,
+        "SUB_DISTRICT_NAME_THA": "กุดยม",
+        "SUB_DISTRICT_NAME_ENG": "Kut Yom",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.41699981689453,
+        "LONG": 102.2020034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 361006,
+        "SUB_DISTRICT_NAME_THA": "บ้านเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phet",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.3439998626709,
+        "LONG": 102.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 361007,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.475000381469727,
+        "LONG": 102.125
+    },
+    {
+        "SUB_DISTRICT_ID": 361008,
+        "SUB_DISTRICT_NAME_THA": "หนองตูม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tum",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.325000762939453,
+        "LONG": 102.09200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 361009,
+        "SUB_DISTRICT_NAME_THA": "โอโล",
+        "SUB_DISTRICT_NAME_ENG": "O Lo",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.34600067138672,
+        "LONG": 102.18399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 361010,
+        "SUB_DISTRICT_NAME_THA": "ธาตุทอง",
+        "SUB_DISTRICT_NAME_ENG": "That Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.235000610351562,
+        "LONG": 102.16000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 361011,
+        "SUB_DISTRICT_NAME_THA": "บ้านดอน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Don",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3610,
+        "LAT": 16.30500030517578,
+        "LONG": 102.30400085449219
+    }
+]

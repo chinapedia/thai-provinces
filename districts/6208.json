@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620801,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งทราย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Sai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6208,
+        "LAT": 16.30500030517578,
+        "LONG": 99.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 620802,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Thong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6208,
+        "LAT": 16.340999603271484,
+        "LONG": 99.89900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 620803,
+        "SUB_DISTRICT_NAME_THA": "ถาวรวัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Thawon Watthana",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6208,
+        "LAT": 16.28700065612793,
+        "LONG": 99.91500091552734
+    }
+]

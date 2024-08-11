@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 102004,
+        "SUB_DISTRICT_NAME_THA": "ศิริราช",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1020,
+        "LAT": 13.758999824523926,
+        "LONG": 100.48100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 102005,
+        "SUB_DISTRICT_NAME_THA": "บ้านช่างหล่อ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1020,
+        "LAT": 13.751999855041504,
+        "LONG": 100.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 102006,
+        "SUB_DISTRICT_NAME_THA": "บางขุนนนท์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1020,
+        "LAT": 13.77400016784668,
+        "LONG": 100.46600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 102007,
+        "SUB_DISTRICT_NAME_THA": "บางขุนศรี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1020,
+        "LAT": 13.760000228881836,
+        "LONG": 100.46299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 102009,
+        "SUB_DISTRICT_NAME_THA": "อรุณอมรินทร์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1020,
+        "LAT": 13.772000312805176,
+        "LONG": 100.47699737548828
+    }
+]

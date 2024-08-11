@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 490501,
+        "SUB_DISTRICT_NAME_THA": "บ้านช่ง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.569000244140625,
+        "LONG": 104.45099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 490504,
+        "SUB_DISTRICT_NAME_THA": "คำชะอี",
+        "SUB_DISTRICT_NAME_ENG": "Kham Cha-I",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.589000701904297,
+        "LONG": 104.27899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 490505,
+        "SUB_DISTRICT_NAME_THA": "หนองเอี่ยน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ian",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.615999221801758,
+        "LONG": 104.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 490506,
+        "SUB_DISTRICT_NAME_THA": "บ้านค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kho",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.701000213623047,
+        "LONG": 104.35199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 490507,
+        "SUB_DISTRICT_NAME_THA": "บ้านเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lao",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.68600082397461,
+        "LONG": 104.28199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 490508,
+        "SUB_DISTRICT_NAME_THA": "โพนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Phon Ngam",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.674999237060547,
+        "LONG": 104.43499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 490511,
+        "SUB_DISTRICT_NAME_THA": "เหล่าสร้างถ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Lao Sang Tho",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.56100082397461,
+        "LONG": 104.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 490512,
+        "SUB_DISTRICT_NAME_THA": "คำบก",
+        "SUB_DISTRICT_NAME_ENG": "Kham Bok",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.499000549316406,
+        "LONG": 104.41100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 490514,
+        "SUB_DISTRICT_NAME_THA": "น้ำเที่ยง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Thiang",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4905,
+        "LAT": 16.569000244140625,
+        "LONG": 104.39800262451172
+    }
+]

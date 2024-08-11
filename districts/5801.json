@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 580101,
+        "SUB_DISTRICT_NAME_THA": "จองคำ",
+        "SUB_DISTRICT_NAME_ENG": "Chong Kham",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5801,
+        "LAT": 19.302000045776367,
+        "LONG": 97.97000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 580102,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Pong",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5801,
+        "LAT": 19.038000106811523,
+        "LONG": 98.00599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 580103,
+        "SUB_DISTRICT_NAME_THA": "ผาบ่อง",
+        "SUB_DISTRICT_NAME_ENG": "Pha Bong",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5801,
+        "LAT": 19.21500015258789,
+        "LONG": 97.91000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 580104,
+        "SUB_DISTRICT_NAME_THA": "ปางหมู",
+        "SUB_DISTRICT_NAME_ENG": "Pang Mu",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5801,
+        "LAT": 19.3439998626709,
+        "LONG": 97.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 580105,
+        "SUB_DISTRICT_NAME_THA": "หมอกจำแป่",
+        "SUB_DISTRICT_NAME_ENG": "Mok Champae",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5801,
+        "LAT": 19.496999740600586,
+        "LONG": 97.99500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 580109,
+        "SUB_DISTRICT_NAME_THA": "ห้วยปูลิง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Pu Ling",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5801,
+        "LAT": 19.187999725341797,
+        "LONG": 98.11199951171875
+    }
+]

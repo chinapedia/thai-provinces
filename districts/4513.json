@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 451301,
+        "SUB_DISTRICT_NAME_THA": "โพนทราย",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4513,
+        "LAT": 15.496999740600586,
+        "LONG": 104.00499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 451302,
+        "SUB_DISTRICT_NAME_THA": "สามขา",
+        "SUB_DISTRICT_NAME_ENG": "Sam Kha",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4513,
+        "LAT": 15.473999977111816,
+        "LONG": 103.94400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 451303,
+        "SUB_DISTRICT_NAME_THA": "ศรีสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Si Sawang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4513,
+        "LAT": 15.532999992370605,
+        "LONG": 103.86799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 451304,
+        "SUB_DISTRICT_NAME_THA": "ยางคำ",
+        "SUB_DISTRICT_NAME_ENG": "Yang Kham",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4513,
+        "LAT": 15.442999839782715,
+        "LONG": 103.97100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 451305,
+        "SUB_DISTRICT_NAME_THA": "ท่าหาดยาว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Hat Yao",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4513,
+        "LAT": 15.493000030517578,
+        "LONG": 103.91000366210938
+    }
+]

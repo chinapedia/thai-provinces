@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310801,
+        "SUB_DISTRICT_NAME_THA": "บ้านกรวด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kruat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.428999900817871,
+        "LONG": 103.0770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 310802,
+        "SUB_DISTRICT_NAME_THA": "โนนเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Non Charoen",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.46399974822998,
+        "LONG": 103.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 310803,
+        "SUB_DISTRICT_NAME_THA": "หนองไม้งาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mai Ngam",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.343999862670898,
+        "LONG": 102.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 310804,
+        "SUB_DISTRICT_NAME_THA": "ปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Prasat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.362000465393066,
+        "LONG": 103.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 310805,
+        "SUB_DISTRICT_NAME_THA": "สายตะกู",
+        "SUB_DISTRICT_NAME_ENG": "Sai Taku",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.397000312805176,
+        "LONG": 103.21099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 310806,
+        "SUB_DISTRICT_NAME_THA": "หินลาด",
+        "SUB_DISTRICT_NAME_ENG": "Hin Lat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.472999572753906,
+        "LONG": 103.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 310807,
+        "SUB_DISTRICT_NAME_THA": "บึงเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Charoen",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.336999893188477,
+        "LONG": 103.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 310808,
+        "SUB_DISTRICT_NAME_THA": "จันทบเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Chanthabophet",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.383999824523926,
+        "LONG": 103.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 310809,
+        "SUB_DISTRICT_NAME_THA": "เขาดินเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Din Nuea",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3108,
+        "LAT": 14.52400016784668,
+        "LONG": 103.1989974975586
+    }
+]

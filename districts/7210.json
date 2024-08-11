@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 721001,
+        "SUB_DISTRICT_NAME_THA": "หนองหญ้าไซ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ya Sai",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7210,
+        "LAT": 14.776000022888184,
+        "LONG": 99.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 721002,
+        "SUB_DISTRICT_NAME_THA": "หนองราชวัตร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ratchawat",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7210,
+        "LAT": 14.720000267028809,
+        "LONG": 99.93099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 721003,
+        "SUB_DISTRICT_NAME_THA": "หนองโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pho",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7210,
+        "LAT": 14.831000328063965,
+        "LONG": 99.91899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 721004,
+        "SUB_DISTRICT_NAME_THA": "แจงงาม",
+        "SUB_DISTRICT_NAME_ENG": "Chaeng Ngam",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7210,
+        "LAT": 14.819999694824219,
+        "LONG": 99.80400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 721005,
+        "SUB_DISTRICT_NAME_THA": "หนองขาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kham",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7210,
+        "LAT": 14.795999526977539,
+        "LONG": 99.69300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 721006,
+        "SUB_DISTRICT_NAME_THA": "ทัพหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Luang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7210,
+        "LAT": 14.74899959564209,
+        "LONG": 99.80599975585938
+    }
+]

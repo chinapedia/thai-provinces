@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 250901,
+        "SUB_DISTRICT_NAME_THA": "โคกปีบ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Pip",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2509,
+        "LAT": 13.880000114440918,
+        "LONG": 101.41200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 250902,
+        "SUB_DISTRICT_NAME_THA": "โคกไทย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Thai",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2509,
+        "LAT": 13.845000267028809,
+        "LONG": 101.447998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 250903,
+        "SUB_DISTRICT_NAME_THA": "คู้ลำพัน",
+        "SUB_DISTRICT_NAME_ENG": "Khu Lamphan",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2509,
+        "LAT": 13.925999641418457,
+        "LONG": 101.41000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 250904,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ชะเลือด",
+        "SUB_DISTRICT_NAME_ENG": "Phai Chalueat",
+        "PROVINCE_ID": 25,
+        "DISTRICT_ID": 2509,
+        "LAT": 13.918999671936035,
+        "LONG": 101.37200164794922
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 350701,
+        "SUB_DISTRICT_NAME_THA": "ฟ้าห่วน",
+        "SUB_DISTRICT_NAME_ENG": "Fa Huan",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3507,
+        "LAT": 15.33899974822998,
+        "LONG": 104.40499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 350702,
+        "SUB_DISTRICT_NAME_THA": "กุดน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Kut Nam Sai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3507,
+        "LAT": 15.414999961853027,
+        "LONG": 104.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 350703,
+        "SUB_DISTRICT_NAME_THA": "น้ำอ้อม",
+        "SUB_DISTRICT_NAME_ENG": "Nam Om",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3507,
+        "LAT": 15.397000312805176,
+        "LONG": 104.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 350704,
+        "SUB_DISTRICT_NAME_THA": "ค้อวัง",
+        "SUB_DISTRICT_NAME_ENG": "Kho Wang",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3507,
+        "LAT": 15.36299991607666,
+        "LONG": 104.30999755859375
+    }
+]

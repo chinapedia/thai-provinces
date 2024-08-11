@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920801,
+        "SUB_DISTRICT_NAME_THA": "นาโยงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Na Yong Nuea",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9208,
+        "LAT": 7.565999984741211,
+        "LONG": 99.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 920802,
+        "SUB_DISTRICT_NAME_THA": "ช่อง",
+        "SUB_DISTRICT_NAME_ENG": "Chong",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9208,
+        "LAT": 7.546000003814697,
+        "LONG": 99.79299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 920803,
+        "SUB_DISTRICT_NAME_THA": "ละมอ",
+        "SUB_DISTRICT_NAME_ENG": "Lamo",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9208,
+        "LAT": 7.5970001220703125,
+        "LONG": 99.75299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 920804,
+        "SUB_DISTRICT_NAME_THA": "โคกสะบ้า",
+        "SUB_DISTRICT_NAME_ENG": "Khok Saba",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9208,
+        "LAT": 7.489999771118164,
+        "LONG": 99.71399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 920805,
+        "SUB_DISTRICT_NAME_THA": "นาหมื่นศรี",
+        "SUB_DISTRICT_NAME_ENG": "Na Muen Si",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9208,
+        "LAT": 7.609000205993652,
+        "LONG": 99.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 920806,
+        "SUB_DISTRICT_NAME_THA": "นาข้าวเสีย",
+        "SUB_DISTRICT_NAME_ENG": "Na Khao Sia",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9208,
+        "LAT": 7.5320000648498535,
+        "LONG": 99.70999908447266
+    }
+]

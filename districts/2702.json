@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270201,
+        "SUB_DISTRICT_NAME_THA": "คลองหาด",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Hat",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2702,
+        "LAT": 13.428999900817871,
+        "LONG": 102.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 270202,
+        "SUB_DISTRICT_NAME_THA": "ไทยอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Thai Udom",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2702,
+        "LAT": 13.406999588012695,
+        "LONG": 102.26000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 270203,
+        "SUB_DISTRICT_NAME_THA": "ซับมะกรูด",
+        "SUB_DISTRICT_NAME_ENG": "Sap Makrut",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2702,
+        "LAT": 13.519000053405762,
+        "LONG": 102.22799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 270204,
+        "SUB_DISTRICT_NAME_THA": "ไทรเดี่ยว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Diao",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2702,
+        "LAT": 13.593000411987305,
+        "LONG": 102.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 270205,
+        "SUB_DISTRICT_NAME_THA": "คลองไก่เถื่อน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Kai Thuean",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2702,
+        "LAT": 13.345999717712402,
+        "LONG": 102.3010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 270206,
+        "SUB_DISTRICT_NAME_THA": "เบญจขร",
+        "SUB_DISTRICT_NAME_ENG": "Benchakhon",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2702,
+        "LAT": 13.541999816894531,
+        "LONG": 102.30699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 270207,
+        "SUB_DISTRICT_NAME_THA": "ไทรทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Thong",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2702,
+        "LAT": 13.61400032043457,
+        "LONG": 102.30899810791016
+    }
+]

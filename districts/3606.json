@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360601,
+        "SUB_DISTRICT_NAME_THA": "บ้านกอก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kok",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.467000007629395,
+        "LONG": 101.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 360602,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวบาน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Ban",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.652000427246094,
+        "LONG": 101.802001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 360603,
+        "SUB_DISTRICT_NAME_THA": "บ้านขาม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kham",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.473999977111816,
+        "LONG": 101.80500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 360605,
+        "SUB_DISTRICT_NAME_THA": "กุดน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Kut Nam Sai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.595999717712402,
+        "LONG": 101.79399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 360606,
+        "SUB_DISTRICT_NAME_THA": "หนองโดน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Don",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.567000389099121,
+        "LONG": 101.73600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 360607,
+        "SUB_DISTRICT_NAME_THA": "ละหาน",
+        "SUB_DISTRICT_NAME_ENG": "Lahan",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.628999710083008,
+        "LONG": 101.93800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 360610,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Yai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.560999870300293,
+        "LONG": 101.88800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 360611,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวโคก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Khok",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.447999954223633,
+        "LONG": 101.85399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 360613,
+        "SUB_DISTRICT_NAME_THA": "ส้มป่อย",
+        "SUB_DISTRICT_NAME_ENG": "Som Poi",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3606,
+        "LAT": 15.711000442504883,
+        "LONG": 101.80599975585938
+    }
+]

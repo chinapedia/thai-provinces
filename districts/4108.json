@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 410801,
+        "SUB_DISTRICT_NAME_THA": "ไชยวาน",
+        "SUB_DISTRICT_NAME_ENG": "Chaiwan",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4108,
+        "LAT": 17.30299949645996,
+        "LONG": 103.20500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 410802,
+        "SUB_DISTRICT_NAME_THA": "หนองหลัก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lak",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4108,
+        "LAT": 17.23699951171875,
+        "LONG": 103.2040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 410803,
+        "SUB_DISTRICT_NAME_THA": "คำเลาะ",
+        "SUB_DISTRICT_NAME_ENG": "Kham Lo",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4108,
+        "LAT": 17.211999893188477,
+        "LONG": 103.34500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 410804,
+        "SUB_DISTRICT_NAME_THA": "โพนสูง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sung",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4108,
+        "LAT": 17.17300033569336,
+        "LONG": 103.23999786376953
+    }
+]

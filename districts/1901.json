@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190101,
+        "SUB_DISTRICT_NAME_THA": "ปากเพรียว",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phriao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.527000427246094,
+        "LONG": 100.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 190105,
+        "SUB_DISTRICT_NAME_THA": "ดาวเรือง",
+        "SUB_DISTRICT_NAME_ENG": "Dao Rueang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.562999725341797,
+        "LONG": 100.9010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 190106,
+        "SUB_DISTRICT_NAME_THA": "นาโฉง",
+        "SUB_DISTRICT_NAME_ENG": "Na Chong",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.529000282287598,
+        "LONG": 100.88600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 190107,
+        "SUB_DISTRICT_NAME_THA": "โคกสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sawang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.510000228881836,
+        "LONG": 100.88600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 190108,
+        "SUB_DISTRICT_NAME_THA": "หนองโน",
+        "SUB_DISTRICT_NAME_ENG": "Nong No",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.48900032043457,
+        "LONG": 100.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 190109,
+        "SUB_DISTRICT_NAME_THA": "หนองยาว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.472000122070312,
+        "LONG": 100.88999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 190110,
+        "SUB_DISTRICT_NAME_THA": "ปากข้าวสาร",
+        "SUB_DISTRICT_NAME_ENG": "Pak Khao San",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.489999771118164,
+        "LONG": 100.91300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 190111,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาไหล",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Lai",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.456000328063965,
+        "LONG": 100.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 190112,
+        "SUB_DISTRICT_NAME_THA": "กุดนกเปล้า",
+        "SUB_DISTRICT_NAME_ENG": "Kut Nok Plao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.501999855041504,
+        "LONG": 100.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 190113,
+        "SUB_DISTRICT_NAME_THA": "ตลิ่งชัน",
+        "SUB_DISTRICT_NAME_ENG": "Taling Chan",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.543999671936035,
+        "LONG": 100.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 190114,
+        "SUB_DISTRICT_NAME_THA": "ตะกุด",
+        "SUB_DISTRICT_NAME_ENG": "Takut",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1901,
+        "LAT": 14.553000450134277,
+        "LONG": 100.93299865722656
+    }
+]

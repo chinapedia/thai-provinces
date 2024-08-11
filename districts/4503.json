@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 450301,
+        "SUB_DISTRICT_NAME_THA": "บัวแดง",
+        "SUB_DISTRICT_NAME_ENG": "Bua Daeng",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.649999618530273,
+        "LONG": 103.35900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 450302,
+        "SUB_DISTRICT_NAME_THA": "ดอกล้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Dok Lam",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.638999938964844,
+        "LONG": 103.30899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 450303,
+        "SUB_DISTRICT_NAME_THA": "หนองแคน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khaen",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.687999725341797,
+        "LONG": 103.3740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 450304,
+        "SUB_DISTRICT_NAME_THA": "โพนสูง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sung",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.654999732971191,
+        "LONG": 103.44400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 450305,
+        "SUB_DISTRICT_NAME_THA": "โนนสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Non Sawan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.583999633789062,
+        "LONG": 103.43499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 450306,
+        "SUB_DISTRICT_NAME_THA": "สระบัว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Bua",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.567999839782715,
+        "LONG": 103.37100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 450307,
+        "SUB_DISTRICT_NAME_THA": "โนนสง่า",
+        "SUB_DISTRICT_NAME_ENG": "Non Sa-Nga",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.607999801635742,
+        "LONG": 103.3489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 450308,
+        "SUB_DISTRICT_NAME_THA": "ขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Khi Lek",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4503,
+        "LAT": 15.635000228881836,
+        "LONG": 103.47100067138672
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 960401,
+        "SUB_DISTRICT_NAME_THA": "ยี่งอ",
+        "SUB_DISTRICT_NAME_ENG": "Yi-Ngo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9604,
+        "LAT": 6.381999969482422,
+        "LONG": 101.7030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 960402,
+        "SUB_DISTRICT_NAME_THA": "ละหาร",
+        "SUB_DISTRICT_NAME_ENG": "Lahan",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9604,
+        "LAT": 6.395999908447266,
+        "LONG": 101.74500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 960403,
+        "SUB_DISTRICT_NAME_THA": "จอเบาะ",
+        "SUB_DISTRICT_NAME_ENG": "Cho Bo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9604,
+        "LAT": 6.381999969482422,
+        "LONG": 101.66000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 960404,
+        "SUB_DISTRICT_NAME_THA": "ลุโบะบายะ",
+        "SUB_DISTRICT_NAME_ENG": "Lubo Baya",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9604,
+        "LAT": 6.421999931335449,
+        "LONG": 101.66300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 960405,
+        "SUB_DISTRICT_NAME_THA": "ลุโบะบือซา",
+        "SUB_DISTRICT_NAME_ENG": "Lubo Buesa",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9604,
+        "LAT": 6.429999828338623,
+        "LONG": 101.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 960406,
+        "SUB_DISTRICT_NAME_THA": "ตะปอเยาะ",
+        "SUB_DISTRICT_NAME_ENG": "Tapo Yo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9604,
+        "LAT": 6.456999778747559,
+        "LONG": 101.66300201416016
+    }
+]

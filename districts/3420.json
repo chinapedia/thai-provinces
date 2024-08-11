@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 342001,
+        "SUB_DISTRICT_NAME_THA": "ตาลสุม",
+        "SUB_DISTRICT_NAME_ENG": "Tan Sum",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3420,
+        "LAT": 15.326000213623047,
+        "LONG": 105.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 342002,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3420,
+        "LAT": 15.380000114440918,
+        "LONG": 105.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 342003,
+        "SUB_DISTRICT_NAME_THA": "จิกเทิง",
+        "SUB_DISTRICT_NAME_ENG": "Chik Thoeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3420,
+        "LAT": 15.35200023651123,
+        "LONG": 105.08599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 342004,
+        "SUB_DISTRICT_NAME_THA": "หนองกุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3420,
+        "LAT": 15.444000244140625,
+        "LONG": 105.18499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 342005,
+        "SUB_DISTRICT_NAME_THA": "นาคาย",
+        "SUB_DISTRICT_NAME_ENG": "Na Khai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3420,
+        "LAT": 15.416999816894531,
+        "LONG": 105.10800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 342006,
+        "SUB_DISTRICT_NAME_THA": "คำหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Kham Wa",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3420,
+        "LAT": 15.385000228881836,
+        "LONG": 105.16600036621094
+    }
+]

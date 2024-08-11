@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 130701,
+        "SUB_DISTRICT_NAME_THA": "บางเตย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Toei",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.062000274658203,
+        "LONG": 100.50399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 130702,
+        "SUB_DISTRICT_NAME_THA": "คลองควาย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khwai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.097000122070312,
+        "LONG": 100.47799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 130703,
+        "SUB_DISTRICT_NAME_THA": "สามโคก",
+        "SUB_DISTRICT_NAME_ENG": "Sam Khok",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.052000045776367,
+        "LONG": 100.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 130704,
+        "SUB_DISTRICT_NAME_THA": "กระแชง",
+        "SUB_DISTRICT_NAME_ENG": "Krachaeng",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.043000221252441,
+        "LONG": 100.54399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 130705,
+        "SUB_DISTRICT_NAME_THA": "บางโพธิ์เหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pho Nuea",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.041999816894531,
+        "LONG": 100.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 130706,
+        "SUB_DISTRICT_NAME_THA": "เชียงรากใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Rak Yai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.057000160217285,
+        "LONG": 100.5739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 130707,
+        "SUB_DISTRICT_NAME_THA": "บ้านปทุม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pathum",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.067000389099121,
+        "LONG": 100.5459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 130708,
+        "SUB_DISTRICT_NAME_THA": "บ้านงิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ngio",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.083999633789062,
+        "LONG": 100.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 130709,
+        "SUB_DISTRICT_NAME_THA": "เชียงรากน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Rak Noi",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.104999542236328,
+        "LONG": 100.56700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 130710,
+        "SUB_DISTRICT_NAME_THA": "บางกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krabue",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.102999687194824,
+        "LONG": 100.53800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 130711,
+        "SUB_DISTRICT_NAME_THA": "ท้ายเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Thai Ko",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1307,
+        "LAT": 14.104999542236328,
+        "LONG": 100.49600219726562
+    }
+]

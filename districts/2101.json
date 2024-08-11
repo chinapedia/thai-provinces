@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 210101,
+        "SUB_DISTRICT_NAME_THA": "ท่าประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pradu",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.67199993133545,
+        "LONG": 101.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 210102,
+        "SUB_DISTRICT_NAME_THA": "เชิงเนิน",
+        "SUB_DISTRICT_NAME_ENG": "Choeng Noen",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.677000045776367,
+        "LONG": 101.31800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 210103,
+        "SUB_DISTRICT_NAME_THA": "ตะพง",
+        "SUB_DISTRICT_NAME_ENG": "Taphong",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.652999877929688,
+        "LONG": 101.36399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 210105,
+        "SUB_DISTRICT_NAME_THA": "เพ",
+        "SUB_DISTRICT_NAME_ENG": "Phe",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.567999839782715,
+        "LONG": 101.45500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 210106,
+        "SUB_DISTRICT_NAME_THA": "แกลง",
+        "SUB_DISTRICT_NAME_ENG": "Klaeng",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.663000106811523,
+        "LONG": 101.46700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 210107,
+        "SUB_DISTRICT_NAME_THA": "บ้านแลง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Laeng",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.706999778747559,
+        "LONG": 101.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 210108,
+        "SUB_DISTRICT_NAME_THA": "นาตาขวัญ",
+        "SUB_DISTRICT_NAME_ENG": "Na Ta Khwan",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.741000175476074,
+        "LONG": 101.36900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 210109,
+        "SUB_DISTRICT_NAME_THA": "เนินพระ",
+        "SUB_DISTRICT_NAME_ENG": "Noen Phra",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.680999755859375,
+        "LONG": 101.2229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 210110,
+        "SUB_DISTRICT_NAME_THA": "กระเฉด",
+        "SUB_DISTRICT_NAME_ENG": "Kachet",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.843000411987305,
+        "LONG": 101.45600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 210111,
+        "SUB_DISTRICT_NAME_THA": "ทับมา",
+        "SUB_DISTRICT_NAME_ENG": "Thap Ma",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.708000183105469,
+        "LONG": 101.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 210112,
+        "SUB_DISTRICT_NAME_THA": "น้ำคอก",
+        "SUB_DISTRICT_NAME_ENG": "Nam Khok",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.715999603271484,
+        "LONG": 101.26899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 210114,
+        "SUB_DISTRICT_NAME_THA": "มาบตาพุด",
+        "SUB_DISTRICT_NAME_ENG": "Maptaphut",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.64799976348877,
+        "LONG": 101.16999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 210115,
+        "SUB_DISTRICT_NAME_THA": "สำนักทอง",
+        "SUB_DISTRICT_NAME_ENG": "Samnak Thong",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2101,
+        "LAT": 12.720999717712402,
+        "LONG": 101.47200012207031
+    }
+]

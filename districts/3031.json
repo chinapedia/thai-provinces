@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 303101,
+        "SUB_DISTRICT_NAME_THA": "สีดา",
+        "SUB_DISTRICT_NAME_ENG": "Sida",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3031,
+        "LAT": 15.564000129699707,
+        "LONG": 102.58799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 303102,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3031,
+        "LAT": 15.539999961853027,
+        "LONG": 102.58999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 303103,
+        "SUB_DISTRICT_NAME_THA": "โนนประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Non Pradu",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3031,
+        "LAT": 15.520999908447266,
+        "LONG": 102.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 303104,
+        "SUB_DISTRICT_NAME_THA": "สามเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Mueang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3031,
+        "LAT": 15.590999603271484,
+        "LONG": 102.53700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 303105,
+        "SUB_DISTRICT_NAME_THA": "หนองตาดใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tat Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3031,
+        "LAT": 15.616999626159668,
+        "LONG": 102.59100341796875
+    }
+]

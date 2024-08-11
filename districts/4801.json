@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.409000396728516,
+        "LONG": 104.78099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 480103,
+        "SUB_DISTRICT_NAME_THA": "นาทราย",
+        "SUB_DISTRICT_NAME_ENG": "Na Sai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.400999069213867,
+        "LONG": 104.6500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 480104,
+        "SUB_DISTRICT_NAME_THA": "นาราชควาย",
+        "SUB_DISTRICT_NAME_ENG": "Na Ratchakhwai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.416000366210938,
+        "LONG": 104.70700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 480105,
+        "SUB_DISTRICT_NAME_THA": "กุรุคุ",
+        "SUB_DISTRICT_NAME_ENG": "Kurukhu",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.33799934387207,
+        "LONG": 104.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 480106,
+        "SUB_DISTRICT_NAME_THA": "บ้านผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phueng",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.336000442504883,
+        "LONG": 104.63099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 480107,
+        "SUB_DISTRICT_NAME_THA": "อาจสามารถ",
+        "SUB_DISTRICT_NAME_ENG": "At Samat",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.461000442504883,
+        "LONG": 104.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 480108,
+        "SUB_DISTRICT_NAME_THA": "ขามเฒ่า",
+        "SUB_DISTRICT_NAME_ENG": "Kham Thao",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.26300048828125,
+        "LONG": 104.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 480109,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.156999588012695,
+        "LONG": 104.78399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 480110,
+        "SUB_DISTRICT_NAME_THA": "ท่าค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kho",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.31599998474121,
+        "LONG": 104.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 480111,
+        "SUB_DISTRICT_NAME_THA": "คำเตย",
+        "SUB_DISTRICT_NAME_ENG": "Kham Toei",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.209999084472656,
+        "LONG": 104.70899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 480112,
+        "SUB_DISTRICT_NAME_THA": "หนองญาติ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yat",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.341999053955078,
+        "LONG": 104.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 480113,
+        "SUB_DISTRICT_NAME_THA": "ดงขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Khwang",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.207000732421875,
+        "LONG": 104.78199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 480114,
+        "SUB_DISTRICT_NAME_THA": "วังตามัว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Ta Mua",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.312000274658203,
+        "LONG": 104.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 480115,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ตาก",
+        "SUB_DISTRICT_NAME_ENG": "Pho Tak",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4801,
+        "LAT": 17.3439998626709,
+        "LONG": 104.69000244140625
+    }
+]

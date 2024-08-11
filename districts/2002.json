@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200201,
+        "SUB_DISTRICT_NAME_THA": "บ้านบึง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bueng",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.29699993133545,
+        "LONG": 101.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 200202,
+        "SUB_DISTRICT_NAME_THA": "คลองกิ่ว",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Kio",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.225000381469727,
+        "LONG": 101.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 200203,
+        "SUB_DISTRICT_NAME_THA": "มาบไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Map Phai",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.359000205993652,
+        "LONG": 101.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 200204,
+        "SUB_DISTRICT_NAME_THA": "หนองซ้ำซาก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Samsak",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.329999923706055,
+        "LONG": 101.0719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 200205,
+        "SUB_DISTRICT_NAME_THA": "หนองบอนแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bon Daeng",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.352999687194824,
+        "LONG": 101.15899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 200206,
+        "SUB_DISTRICT_NAME_THA": "หนองชาก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chak",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.29800033569336,
+        "LONG": 101.1719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 200207,
+        "SUB_DISTRICT_NAME_THA": "หนองอิรุณ",
+        "SUB_DISTRICT_NAME_ENG": "Nong I Run",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.279999732971191,
+        "LONG": 101.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 200208,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่แก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai Kaeo",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2002,
+        "LAT": 13.213000297546387,
+        "LONG": 101.24600219726562
+    }
+]

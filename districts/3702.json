@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 370201,
+        "SUB_DISTRICT_NAME_THA": "ชานุมาน",
+        "SUB_DISTRICT_NAME_ENG": "Chanuman",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3702,
+        "LAT": 16.23200035095215,
+        "LONG": 104.94400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 370202,
+        "SUB_DISTRICT_NAME_THA": "โคกสาร",
+        "SUB_DISTRICT_NAME_ENG": "Khok San",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3702,
+        "LAT": 16.1560001373291,
+        "LONG": 104.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 370203,
+        "SUB_DISTRICT_NAME_THA": "คำเขื่อนแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Kham Khuean Kaeo",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3702,
+        "LAT": 16.149999618530273,
+        "LONG": 104.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 370204,
+        "SUB_DISTRICT_NAME_THA": "โคกก่ง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kong",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3702,
+        "LAT": 16.06599998474121,
+        "LONG": 104.97000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 370205,
+        "SUB_DISTRICT_NAME_THA": "ป่าก่อ",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ko",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3702,
+        "LAT": 16.04599952697754,
+        "LONG": 104.86000061035156
+    }
+]

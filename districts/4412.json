@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 441201,
+        "SUB_DISTRICT_NAME_THA": "กุดรัง",
+        "SUB_DISTRICT_NAME_ENG": "Kut Rang",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4412,
+        "LAT": 16.07200050354004,
+        "LONG": 103.0
+    },
+    {
+        "SUB_DISTRICT_ID": 441202,
+        "SUB_DISTRICT_NAME_THA": "นาโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Na Pho",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4412,
+        "LAT": 16.07699966430664,
+        "LONG": 102.90699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 441203,
+        "SUB_DISTRICT_NAME_THA": "เลิงแฝก",
+        "SUB_DISTRICT_NAME_ENG": "Loeng Faek",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4412,
+        "LAT": 15.968000411987305,
+        "LONG": 102.95999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 441204,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4412,
+        "LAT": 16.006000518798828,
+        "LONG": 102.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 441205,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเตย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Toei",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4412,
+        "LAT": 16.12299919128418,
+        "LONG": 103.04900360107422
+    }
+]

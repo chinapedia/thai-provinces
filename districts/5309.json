@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530901,
+        "SUB_DISTRICT_NAME_THA": "ผักขวง",
+        "SUB_DISTRICT_NAME_ENG": "Phak Khuang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5309,
+        "LAT": 17.53499984741211,
+        "LONG": 100.41500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 530902,
+        "SUB_DISTRICT_NAME_THA": "บ่อทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Thong",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5309,
+        "LAT": 17.444000244140625,
+        "LONG": 100.35600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 530903,
+        "SUB_DISTRICT_NAME_THA": "ป่าคาย",
+        "SUB_DISTRICT_NAME_ENG": "Pa Khai",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5309,
+        "LAT": 17.4950008392334,
+        "LONG": 100.26699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 530904,
+        "SUB_DISTRICT_NAME_THA": "น้ำพี้",
+        "SUB_DISTRICT_NAME_ENG": "Namphi",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5309,
+        "LAT": 17.58099937438965,
+        "LONG": 100.29900360107422
+    }
+]

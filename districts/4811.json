@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 481101,
+        "SUB_DISTRICT_NAME_THA": "นาทม",
+        "SUB_DISTRICT_NAME_ENG": "Na Thom",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4811,
+        "LAT": 17.844999313354492,
+        "LONG": 104.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 481102,
+        "SUB_DISTRICT_NAME_THA": "หนองซน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Son",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4811,
+        "LAT": 17.865999221801758,
+        "LONG": 104.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 481103,
+        "SUB_DISTRICT_NAME_THA": "ดอนเตย",
+        "SUB_DISTRICT_NAME_ENG": "Don Toei",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4811,
+        "LAT": 17.79800033569336,
+        "LONG": 104.10800170898438
+    }
+]

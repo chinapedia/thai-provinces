@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302601,
+        "SUB_DISTRICT_NAME_THA": "สำนักตะคร้อ",
+        "SUB_DISTRICT_NAME_ENG": "Samnak Takhro",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3026,
+        "LAT": 15.29699993133545,
+        "LONG": 101.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 302602,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3026,
+        "LAT": 15.255999565124512,
+        "LONG": 101.43599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 302603,
+        "SUB_DISTRICT_NAME_THA": "บึงปรือ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Prue",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3026,
+        "LAT": 15.303000450134277,
+        "LONG": 101.41100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 302604,
+        "SUB_DISTRICT_NAME_THA": "วังยายทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yai Thong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3026,
+        "LAT": 15.348999977111816,
+        "LONG": 101.51799774169922
+    }
+]

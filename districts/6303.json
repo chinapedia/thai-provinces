@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 630301,
+        "SUB_DISTRICT_NAME_THA": "สามเงา",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ngao",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6303,
+        "LAT": 17.25,
+        "LONG": 99.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 630302,
+        "SUB_DISTRICT_NAME_THA": "วังหมัน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Man",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6303,
+        "LAT": 17.201000213623047,
+        "LONG": 99.11699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 630303,
+        "SUB_DISTRICT_NAME_THA": "ยกกระบัตร",
+        "SUB_DISTRICT_NAME_ENG": "Yok Krabat",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6303,
+        "LAT": 17.334999084472656,
+        "LONG": 99.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 630304,
+        "SUB_DISTRICT_NAME_THA": "ย่านรี",
+        "SUB_DISTRICT_NAME_ENG": "Yan Ri",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6303,
+        "LAT": 17.187999725341797,
+        "LONG": 99.02200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 630305,
+        "SUB_DISTRICT_NAME_THA": "บ้านนา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Na",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6303,
+        "LAT": 17.33300018310547,
+        "LONG": 98.86399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 630306,
+        "SUB_DISTRICT_NAME_THA": "วังจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chan",
+        "PROVINCE_ID": 63,
+        "DISTRICT_ID": 6303,
+        "LAT": 17.274999618530273,
+        "LONG": 99.14700317382812
+    }
+]

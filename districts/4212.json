@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 421201,
+        "SUB_DISTRICT_NAME_THA": "ผาขาว",
+        "SUB_DISTRICT_NAME_ENG": "Pha Khao",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4212,
+        "LAT": 17.018999099731445,
+        "LONG": 101.95999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 421202,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้างคล้อง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang Khlong",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4212,
+        "LAT": 17.018999099731445,
+        "LONG": 102.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 421203,
+        "SUB_DISTRICT_NAME_THA": "โนนปอแดง",
+        "SUB_DISTRICT_NAME_ENG": "Non Po Daeng",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4212,
+        "LAT": 16.982999801635742,
+        "LONG": 101.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 421204,
+        "SUB_DISTRICT_NAME_THA": "โนนป่าซาง",
+        "SUB_DISTRICT_NAME_ENG": "Non Pa Sang",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4212,
+        "LAT": 17.101999282836914,
+        "LONG": 102.052001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 421205,
+        "SUB_DISTRICT_NAME_THA": "บ้านเพิ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phoem",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4212,
+        "LAT": 17.100000381469727,
+        "LONG": 101.93800354003906
+    }
+]

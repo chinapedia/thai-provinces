@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530301,
+        "SUB_DISTRICT_NAME_THA": "ท่าปลา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pla",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.844999313354492,
+        "LONG": 100.447998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 530302,
+        "SUB_DISTRICT_NAME_THA": "หาดล้า",
+        "SUB_DISTRICT_NAME_ENG": "Hat La",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.760000228881836,
+        "LONG": 100.33300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 530303,
+        "SUB_DISTRICT_NAME_THA": "ผาเลือด",
+        "SUB_DISTRICT_NAME_ENG": "Pha Lueat",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.749000549316406,
+        "LONG": 100.49099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 530304,
+        "SUB_DISTRICT_NAME_THA": "จริม",
+        "SUB_DISTRICT_NAME_ENG": "Charim",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.833999633789062,
+        "LONG": 100.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 530305,
+        "SUB_DISTRICT_NAME_THA": "น้ำหมัน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Man",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.86199951171875,
+        "LONG": 100.25
+    },
+    {
+        "SUB_DISTRICT_ID": 530306,
+        "SUB_DISTRICT_NAME_THA": "ท่าแฝก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Faek",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.920000076293945,
+        "LONG": 100.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 530307,
+        "SUB_DISTRICT_NAME_THA": "นางพญา",
+        "SUB_DISTRICT_NAME_ENG": "Nang Phaya",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.969999313354492,
+        "LONG": 100.44100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 530308,
+        "SUB_DISTRICT_NAME_THA": "ร่วมจิต",
+        "SUB_DISTRICT_NAME_ENG": "Ruam Chit",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5303,
+        "LAT": 17.718000411987305,
+        "LONG": 100.3290023803711
+    }
+]

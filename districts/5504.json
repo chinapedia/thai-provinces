@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550401,
+        "SUB_DISTRICT_NAME_THA": "นาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Na Noi",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5504,
+        "LAT": 18.312999725341797,
+        "LONG": 100.68099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 550402,
+        "SUB_DISTRICT_NAME_THA": "เชียงของ",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Khong",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5504,
+        "LAT": 18.273000717163086,
+        "LONG": 100.88400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 550403,
+        "SUB_DISTRICT_NAME_THA": "ศรีษะเกษ",
+        "SUB_DISTRICT_NAME_ENG": "Sisa Ket",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5504,
+        "LAT": 18.368999481201172,
+        "LONG": 100.77100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 550404,
+        "SUB_DISTRICT_NAME_THA": "สถาน",
+        "SUB_DISTRICT_NAME_ENG": "Sathan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5504,
+        "LAT": 18.236000061035156,
+        "LONG": 100.74500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 550405,
+        "SUB_DISTRICT_NAME_THA": "สันทะ",
+        "SUB_DISTRICT_NAME_ENG": "Santha",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5504,
+        "LAT": 18.275999069213867,
+        "LONG": 100.56700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 550406,
+        "SUB_DISTRICT_NAME_THA": "บัวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bua Yai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5504,
+        "LAT": 18.350000381469727,
+        "LONG": 100.56999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 550407,
+        "SUB_DISTRICT_NAME_THA": "น้ำตก",
+        "SUB_DISTRICT_NAME_ENG": "Namtok",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5504,
+        "LAT": 18.393999099731445,
+        "LONG": 100.62899780273438
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 420501,
+        "SUB_DISTRICT_NAME_THA": "ด่านซ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Dan Sai",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.267000198364258,
+        "LONG": 101.15499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 420502,
+        "SUB_DISTRICT_NAME_THA": "ปากหมัน",
+        "SUB_DISTRICT_NAME_ENG": "Pak Man",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.482999801635742,
+        "LONG": 101.2229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 420503,
+        "SUB_DISTRICT_NAME_THA": "นาดี",
+        "SUB_DISTRICT_NAME_ENG": "Na Di",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.420000076293945,
+        "LONG": 101.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 420504,
+        "SUB_DISTRICT_NAME_THA": "โคกงาม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Ngam",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.385000228881836,
+        "LONG": 101.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 420505,
+        "SUB_DISTRICT_NAME_THA": "โพนสูง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sung",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.277000427246094,
+        "LONG": 101.28199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 420506,
+        "SUB_DISTRICT_NAME_THA": "อิปุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "I Pum",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.187000274658203,
+        "LONG": 101.25399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 420507,
+        "SUB_DISTRICT_NAME_THA": "กกสะทอน",
+        "SUB_DISTRICT_NAME_ENG": "Kok Sathon",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.041000366210938,
+        "LONG": 101.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 420508,
+        "SUB_DISTRICT_NAME_THA": "โป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Pong",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.1560001373291,
+        "LONG": 101.197998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 420509,
+        "SUB_DISTRICT_NAME_THA": "วังยาว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yao",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.209999084472656,
+        "LONG": 101.3280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 420510,
+        "SUB_DISTRICT_NAME_THA": "นาหอ",
+        "SUB_DISTRICT_NAME_ENG": "Na Ho",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4205,
+        "LAT": 17.33099937438965,
+        "LONG": 101.14199829101562
+    }
+]

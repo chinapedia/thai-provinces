@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 661101,
+        "SUB_DISTRICT_NAME_THA": "วังงิ้วใต้",
+        "SUB_DISTRICT_NAME_ENG": "Wang Ngio Tai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6611,
+        "LAT": 16.027999877929688,
+        "LONG": 100.64800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 661102,
+        "SUB_DISTRICT_NAME_THA": "วังงิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Ngio",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6611,
+        "LAT": 16.0,
+        "LONG": 100.74099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 661103,
+        "SUB_DISTRICT_NAME_THA": "ห้วยร่วม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Ruam",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6611,
+        "LAT": 15.972000122070312,
+        "LONG": 100.53600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 661104,
+        "SUB_DISTRICT_NAME_THA": "ห้วยพุก",
+        "SUB_DISTRICT_NAME_ENG": "Huai Phuk",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6611,
+        "LAT": 16.003999710083008,
+        "LONG": 100.60900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 661105,
+        "SUB_DISTRICT_NAME_THA": "สำนักขุนเณร",
+        "SUB_DISTRICT_NAME_ENG": "Samnak Khun Nen",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6611,
+        "LAT": 16.04199981689453,
+        "LONG": 100.56800079345703
+    }
+]

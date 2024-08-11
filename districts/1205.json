@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 120501,
+        "SUB_DISTRICT_NAME_THA": "ไทรน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Sai Noi",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1205,
+        "LAT": 13.97599983215332,
+        "LONG": 100.34400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 120502,
+        "SUB_DISTRICT_NAME_THA": "ราษฎร์นิยม",
+        "SUB_DISTRICT_NAME_ENG": "Rat Niyom",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1205,
+        "LAT": 14.088000297546387,
+        "LONG": 100.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 120503,
+        "SUB_DISTRICT_NAME_THA": "หนองเพรางาย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phrao Ngai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1205,
+        "LAT": 13.906000137329102,
+        "LONG": 100.3219985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 120504,
+        "SUB_DISTRICT_NAME_THA": "ไทรใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Sai Yai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1205,
+        "LAT": 14.085000038146973,
+        "LONG": 100.29199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 120505,
+        "SUB_DISTRICT_NAME_THA": "ขุนศรี",
+        "SUB_DISTRICT_NAME_ENG": "Khun Si",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1205,
+        "LAT": 14.005000114440918,
+        "LONG": 100.28700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 120506,
+        "SUB_DISTRICT_NAME_THA": "คลองขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khwang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1205,
+        "LAT": 14.003999710083008,
+        "LONG": 100.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 120507,
+        "SUB_DISTRICT_NAME_THA": "ทวีวัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Thawi Watthana",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1205,
+        "LAT": 13.942000389099121,
+        "LONG": 100.31199645996094
+    }
+]

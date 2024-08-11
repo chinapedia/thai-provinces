@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 210501,
+        "SUB_DISTRICT_NAME_THA": "บ้านค่าย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khai",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2105,
+        "LAT": 12.774999618530273,
+        "LONG": 101.30400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 210502,
+        "SUB_DISTRICT_NAME_THA": "หนองละลอก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lalok",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2105,
+        "LAT": 12.821000099182129,
+        "LONG": 101.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 210503,
+        "SUB_DISTRICT_NAME_THA": "หนองตะพาน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Taphan",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2105,
+        "LAT": 12.751999855041504,
+        "LONG": 101.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 210504,
+        "SUB_DISTRICT_NAME_THA": "ตาขัน",
+        "SUB_DISTRICT_NAME_ENG": "Ta Khan",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2105,
+        "LAT": 12.734999656677246,
+        "LONG": 101.32099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 210505,
+        "SUB_DISTRICT_NAME_THA": "บางบุตร",
+        "SUB_DISTRICT_NAME_ENG": "Bang But",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2105,
+        "LAT": 12.847999572753906,
+        "LONG": 101.39099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 210506,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2105,
+        "LAT": 12.906000137329102,
+        "LONG": 101.37300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 210507,
+        "SUB_DISTRICT_NAME_THA": "ชากบก",
+        "SUB_DISTRICT_NAME_ENG": "Chak Bok",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2105,
+        "LAT": 12.782999992370605,
+        "LONG": 101.36399841308594
+    }
+]

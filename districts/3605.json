@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360501,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Daeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.35099983215332,
+        "LONG": 101.72100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 360502,
+        "SUB_DISTRICT_NAME_THA": "กุดชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chum Saeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.011999130249023,
+        "LONG": 101.83399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 360503,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำวัวแดง",
+        "SUB_DISTRICT_NAME_ENG": "Tham Wua Daeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.160999298095703,
+        "LONG": 101.44000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 360504,
+        "SUB_DISTRICT_NAME_THA": "นางแดด",
+        "SUB_DISTRICT_NAME_ENG": "Nang Daet",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.280000686645508,
+        "LONG": 101.51799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 360507,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.177000045776367,
+        "LONG": 101.72200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 360508,
+        "SUB_DISTRICT_NAME_THA": "คูเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Khu Mueang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.011999130249023,
+        "LONG": 101.7229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 360509,
+        "SUB_DISTRICT_NAME_THA": "ท่าใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.027999877929688,
+        "LONG": 101.6240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 360511,
+        "SUB_DISTRICT_NAME_THA": "วังชมภู",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chomphu",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3605,
+        "LAT": 16.118999481201172,
+        "LONG": 101.5780029296875
+    }
+]

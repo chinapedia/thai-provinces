@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 490601,
+        "SUB_DISTRICT_NAME_THA": "หว้านใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Wan Yai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4906,
+        "LAT": 16.715999603271484,
+        "LONG": 104.72799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 490602,
+        "SUB_DISTRICT_NAME_THA": "ป่งขาม",
+        "SUB_DISTRICT_NAME_ENG": "Pong Kham",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4906,
+        "LAT": 16.76300048828125,
+        "LONG": 104.72899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 490603,
+        "SUB_DISTRICT_NAME_THA": "บางทรายน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai Noi",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4906,
+        "LAT": 16.66699981689453,
+        "LONG": 104.70700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 490604,
+        "SUB_DISTRICT_NAME_THA": "ชะโนด",
+        "SUB_DISTRICT_NAME_ENG": "Chanot",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4906,
+        "LAT": 16.68000030517578,
+        "LONG": 104.73300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 490605,
+        "SUB_DISTRICT_NAME_THA": "ดงหมู",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mu",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4906,
+        "LAT": 16.80699920654297,
+        "LONG": 104.70800018310547
+    }
+]

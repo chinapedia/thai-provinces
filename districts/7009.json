@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 700901,
+        "SUB_DISTRICT_NAME_THA": "เกาะศาลพระ",
+        "SUB_DISTRICT_NAME_ENG": "Ko San Phra",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7009,
+        "LAT": 13.472999572753906,
+        "LONG": 99.86000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 700902,
+        "SUB_DISTRICT_NAME_THA": "จอมประทัด",
+        "SUB_DISTRICT_NAME_ENG": "Chom Prathat",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7009,
+        "LAT": 13.423999786376953,
+        "LONG": 99.86299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 700903,
+        "SUB_DISTRICT_NAME_THA": "วัดเพลง",
+        "SUB_DISTRICT_NAME_ENG": "Wat Phleng",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7009,
+        "LAT": 13.449000358581543,
+        "LONG": 99.87200164794922
+    }
+]

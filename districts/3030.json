@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 303001,
+        "SUB_DISTRICT_NAME_THA": "เมืองพะไล",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phalai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3030,
+        "LAT": 15.64900016784668,
+        "LONG": 102.53199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 303002,
+        "SUB_DISTRICT_NAME_THA": "โนนจาน",
+        "SUB_DISTRICT_NAME_ENG": "Non Chan",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3030,
+        "LAT": 15.699000358581543,
+        "LONG": 102.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 303003,
+        "SUB_DISTRICT_NAME_THA": "บัวลาย",
+        "SUB_DISTRICT_NAME_ENG": "Bua Lai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3030,
+        "LAT": 15.66100025177002,
+        "LONG": 102.46800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 303004,
+        "SUB_DISTRICT_NAME_THA": "หนองหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Wa",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3030,
+        "LAT": 15.666999816894531,
+        "LONG": 102.572998046875
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600101,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำโพ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam Pho",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.70300006866455,
+        "LONG": 100.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 600102,
+        "SUB_DISTRICT_NAME_THA": "กลางแดด",
+        "SUB_DISTRICT_NAME_ENG": "Klang Daet",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.663000106811523,
+        "LONG": 100.11799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 600103,
+        "SUB_DISTRICT_NAME_THA": "เกรียงไกร",
+        "SUB_DISTRICT_NAME_ENG": "Kriang Krai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.718999862670898,
+        "LONG": 100.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 600104,
+        "SUB_DISTRICT_NAME_THA": "แควใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khwae Yai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.711999893188477,
+        "LONG": 100.17400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 600105,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียนเลื่อน",
+        "SUB_DISTRICT_NAME_ENG": "Takhian Luean",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.630000114440918,
+        "LONG": 100.08599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 600106,
+        "SUB_DISTRICT_NAME_THA": "นครสวรรค์ตก",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Sawan Tok",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.680999755859375,
+        "LONG": 100.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 600107,
+        "SUB_DISTRICT_NAME_THA": "นครสวรรค์ออก",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Sawan Ok",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.633000373840332,
+        "LONG": 100.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 600108,
+        "SUB_DISTRICT_NAME_THA": "บางพระหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phra Luang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.770999908447266,
+        "LONG": 100.18800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 600109,
+        "SUB_DISTRICT_NAME_THA": "บางม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Muang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.755000114440918,
+        "LONG": 100.11000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 600110,
+        "SUB_DISTRICT_NAME_THA": "บ้านมะเกลือ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Makluea",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.800999641418457,
+        "LONG": 100.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 600111,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.788000106811523,
+        "LONG": 100.05699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 600112,
+        "SUB_DISTRICT_NAME_THA": "พระนอน",
+        "SUB_DISTRICT_NAME_ENG": "Phra Non",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.663000106811523,
+        "LONG": 100.21600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 600113,
+        "SUB_DISTRICT_NAME_THA": "วัดไทรย์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Sai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.734999656677246,
+        "LONG": 100.08000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 600114,
+        "SUB_DISTRICT_NAME_THA": "หนองกรด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krot",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.723999977111816,
+        "LONG": 99.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 600115,
+        "SUB_DISTRICT_NAME_THA": "หนองกระโดน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kradon",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.803999900817871,
+        "LONG": 99.96499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 600116,
+        "SUB_DISTRICT_NAME_THA": "หนองปลิง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pling",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.645000457763672,
+        "LONG": 100.16899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 600117,
+        "SUB_DISTRICT_NAME_THA": "บึงเสนาท",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Senat",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6001,
+        "LAT": 15.734000205993652,
+        "LONG": 100.13999938964844
+    }
+]

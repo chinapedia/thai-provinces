@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 380701,
+        "SUB_DISTRICT_NAME_THA": "ศรีวิไล",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3807,
+        "LAT": 18.225000381469727,
+        "LONG": 103.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 380702,
+        "SUB_DISTRICT_NAME_THA": "ชุมภูพร",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3807,
+        "LAT": 18.145999908447266,
+        "LONG": 103.71399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 380703,
+        "SUB_DISTRICT_NAME_THA": "นาแสง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3807,
+        "LAT": 18.082000732421875,
+        "LONG": 103.84300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 380704,
+        "SUB_DISTRICT_NAME_THA": "นาสะแบง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3807,
+        "LAT": 18.139999389648438,
+        "LONG": 103.81400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 380705,
+        "SUB_DISTRICT_NAME_THA": "นาสิงห์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3807,
+        "LAT": 18.211999893188477,
+        "LONG": 103.78900146484375
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 230201,
+        "SUB_DISTRICT_NAME_THA": "คลองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Yai",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2302,
+        "LAT": 11.77400016784668,
+        "LONG": 102.88899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 230202,
+        "SUB_DISTRICT_NAME_THA": "ไม้รูด",
+        "SUB_DISTRICT_NAME_ENG": "Mai Rut",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2302,
+        "LAT": 11.90999984741211,
+        "LONG": 102.80500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 230203,
+        "SUB_DISTRICT_NAME_THA": "หาดเล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Hat Lek",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2302,
+        "LAT": 11.699000358581543,
+        "LONG": 102.90899658203125
+    }
+]

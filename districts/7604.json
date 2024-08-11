@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760401,
+        "SUB_DISTRICT_NAME_THA": "ชะอำ",
+        "SUB_DISTRICT_NAME_ENG": "Cha-Am",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.718999862670898,
+        "LONG": 99.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 760402,
+        "SUB_DISTRICT_NAME_THA": "บางเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kao",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.855999946594238,
+        "LONG": 99.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 760403,
+        "SUB_DISTRICT_NAME_THA": "นายาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Yang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.88700008392334,
+        "LONG": 99.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 760404,
+        "SUB_DISTRICT_NAME_THA": "เขาใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khao Yai",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.793000221252441,
+        "LONG": 99.89399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 760405,
+        "SUB_DISTRICT_NAME_THA": "หนองศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sala",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.890999794006348,
+        "LONG": 99.97100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 760406,
+        "SUB_DISTRICT_NAME_THA": "ห้วยทรายเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sai Nuea",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.71500015258789,
+        "LONG": 99.83200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 760407,
+        "SUB_DISTRICT_NAME_THA": "ไร่ใหม่พัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Rai Mai Phatthana",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.654999732971191,
+        "LONG": 99.80599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 760408,
+        "SUB_DISTRICT_NAME_THA": "สามพระยา",
+        "SUB_DISTRICT_NAME_ENG": "Sam Phraya",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.684000015258789,
+        "LONG": 99.88200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 760409,
+        "SUB_DISTRICT_NAME_THA": "ดอนขุนห้วย",
+        "SUB_DISTRICT_NAME_ENG": "Don Khun Huai",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7604,
+        "LAT": 12.86400032043457,
+        "LONG": 99.89199829101562
+    }
+]

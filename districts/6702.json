@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670201,
+        "SUB_DISTRICT_NAME_THA": "ชนแดน",
+        "SUB_DISTRICT_NAME_ENG": "Chon Daen",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.158000946044922,
+        "LONG": 100.8949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 670202,
+        "SUB_DISTRICT_NAME_THA": "ดงขุย",
+        "SUB_DISTRICT_NAME_ENG": "Dong Khu",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.131000518798828,
+        "LONG": 100.677001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 670203,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.20400047302246,
+        "LONG": 100.79199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 670204,
+        "SUB_DISTRICT_NAME_THA": "พุทธบาท",
+        "SUB_DISTRICT_NAME_ENG": "Phutthabat",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.270999908447266,
+        "LONG": 100.89199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 670205,
+        "SUB_DISTRICT_NAME_THA": "ลาดแค",
+        "SUB_DISTRICT_NAME_ENG": "Lat Khae",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 15.982999801635742,
+        "LONG": 100.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 670206,
+        "SUB_DISTRICT_NAME_THA": "บ้านกล้วย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kluai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.049999237060547,
+        "LONG": 100.74400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 670208,
+        "SUB_DISTRICT_NAME_THA": "ซับพุทรา",
+        "SUB_DISTRICT_NAME_ENG": "Sap Phutsa",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.03499984741211,
+        "LONG": 100.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 670209,
+        "SUB_DISTRICT_NAME_THA": "ตะกุดไร",
+        "SUB_DISTRICT_NAME_ENG": "Takut Lai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.18000030517578,
+        "LONG": 100.72599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 670210,
+        "SUB_DISTRICT_NAME_THA": "ศาลาลาย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6702,
+        "LAT": 16.091999053955078,
+        "LONG": 100.83200073242188
+    }
+]

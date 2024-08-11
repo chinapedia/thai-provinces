@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500102,
+        "SUB_DISTRICT_NAME_THA": "พระสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Phra Sing",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.78499984741211,
+        "LONG": 98.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 500103,
+        "SUB_DISTRICT_NAME_THA": "หายยา",
+        "SUB_DISTRICT_NAME_ENG": "Hai Ya",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.777000427246094,
+        "LONG": 98.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 500104,
+        "SUB_DISTRICT_NAME_THA": "ช้างม่อย",
+        "SUB_DISTRICT_NAME_ENG": "Chang Moi",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.79599952697754,
+        "LONG": 98.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 500105,
+        "SUB_DISTRICT_NAME_THA": "ช้างคลาน",
+        "SUB_DISTRICT_NAME_ENG": "Chang Khlan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.77400016784668,
+        "LONG": 98.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 500106,
+        "SUB_DISTRICT_NAME_THA": "วัดเกต",
+        "SUB_DISTRICT_NAME_ENG": "Wat Ket",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.78499984741211,
+        "LONG": 99.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 500107,
+        "SUB_DISTRICT_NAME_THA": "ช้างเผือก",
+        "SUB_DISTRICT_NAME_ENG": "Chang Phueak",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.820999145507812,
+        "LONG": 98.96900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 500109,
+        "SUB_DISTRICT_NAME_THA": "สุเทพ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.76799964904785,
+        "LONG": 98.9209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 500110,
+        "SUB_DISTRICT_NAME_THA": "ป่าแดด",
+        "SUB_DISTRICT_NAME_ENG": "Pa Daet",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.742000579833984,
+        "LONG": 98.97799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 500111,
+        "SUB_DISTRICT_NAME_THA": "หนองหอย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hoi",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.757999420166016,
+        "LONG": 99.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 500112,
+        "SUB_DISTRICT_NAME_THA": "ท่าศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sala",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.770000457763672,
+        "LONG": 99.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 500113,
+        "SUB_DISTRICT_NAME_THA": "หนองป่าครั่ง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pa Khrang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.788000106811523,
+        "LONG": 99.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 500114,
+        "SUB_DISTRICT_NAME_THA": "ฟ้าฮ่าม",
+        "SUB_DISTRICT_NAME_ENG": "Fa Ham",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.81599998474121,
+        "LONG": 99.00800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 500115,
+        "SUB_DISTRICT_NAME_THA": "ป่าตัน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Tan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.81100082397461,
+        "LONG": 98.9990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 500116,
+        "SUB_DISTRICT_NAME_THA": "สันผีเสื้อ",
+        "SUB_DISTRICT_NAME_ENG": "San Phisuea",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 18.840999603271484,
+        "LONG": 98.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 961307,
+        "SUB_DISTRICT_NAME_THA": "แม่เหียะ",
+        "SUB_DISTRICT_NAME_ENG": "Maehia",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5001,
+        "LAT": 17.716989517211914,
+        "LONG": 98.64845275878906
+    }
+]

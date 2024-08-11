@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 800401,
+        "SUB_DISTRICT_NAME_THA": "ฉวาง",
+        "SUB_DISTRICT_NAME_ENG": "Chawang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.397000312805176,
+        "LONG": 99.5009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 800403,
+        "SUB_DISTRICT_NAME_THA": "ละอาย",
+        "SUB_DISTRICT_NAME_ENG": "La-Ai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.472000122070312,
+        "LONG": 99.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 800404,
+        "SUB_DISTRICT_NAME_THA": "นาแว",
+        "SUB_DISTRICT_NAME_ENG": "Na Wae",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.482999801635742,
+        "LONG": 99.52300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 800405,
+        "SUB_DISTRICT_NAME_THA": "ไม้เรียง",
+        "SUB_DISTRICT_NAME_ENG": "Mai Riang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.456999778747559,
+        "LONG": 99.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 800406,
+        "SUB_DISTRICT_NAME_THA": "กะเปียด",
+        "SUB_DISTRICT_NAME_ENG": "Kapiat",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.519000053405762,
+        "LONG": 99.45999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 800407,
+        "SUB_DISTRICT_NAME_THA": "นากะชะ",
+        "SUB_DISTRICT_NAME_ENG": "Na Kacha",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.414999961853027,
+        "LONG": 99.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 800409,
+        "SUB_DISTRICT_NAME_THA": "ห้วยปริก",
+        "SUB_DISTRICT_NAME_ENG": "Huai Prik",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.569000244140625,
+        "LONG": 99.44000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 800410,
+        "SUB_DISTRICT_NAME_THA": "ไสหร้า",
+        "SUB_DISTRICT_NAME_ENG": "Sai Ra",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.437000274658203,
+        "LONG": 99.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 800415,
+        "SUB_DISTRICT_NAME_THA": "นาเขลียง",
+        "SUB_DISTRICT_NAME_ENG": "Na Khliang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.532999992370605,
+        "LONG": 99.5
+    },
+    {
+        "SUB_DISTRICT_ID": 800416,
+        "SUB_DISTRICT_NAME_THA": "จันดี",
+        "SUB_DISTRICT_NAME_ENG": "Chan Di",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8004,
+        "LAT": 8.390999794006348,
+        "LONG": 99.55400085449219
+    }
+]

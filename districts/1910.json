@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 191001,
+        "SUB_DISTRICT_NAME_THA": "เสาไห้",
+        "SUB_DISTRICT_NAME_ENG": "Sao Hai",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.538000106811523,
+        "LONG": 100.8499984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 191002,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.581999778747559,
+        "LONG": 100.81600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 191003,
+        "SUB_DISTRICT_NAME_THA": "หัวปลวก",
+        "SUB_DISTRICT_NAME_ENG": "Hua Pluak",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.614999771118164,
+        "LONG": 100.84400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 191004,
+        "SUB_DISTRICT_NAME_THA": "งิ้วงาม",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Ngam",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.59000015258789,
+        "LONG": 100.85099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 191005,
+        "SUB_DISTRICT_NAME_THA": "ศาลารีไทย",
+        "SUB_DISTRICT_NAME_ENG": "Sala Ri Thai",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.5649995803833,
+        "LONG": 100.8479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 191006,
+        "SUB_DISTRICT_NAME_THA": "ต้นตาล",
+        "SUB_DISTRICT_NAME_ENG": "Ton Tan",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.574000358581543,
+        "LONG": 100.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 191007,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.586000442504883,
+        "LONG": 100.86299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 191008,
+        "SUB_DISTRICT_NAME_THA": "พระยาทด",
+        "SUB_DISTRICT_NAME_ENG": "Phraya Thot",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.571999549865723,
+        "LONG": 100.87100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 191009,
+        "SUB_DISTRICT_NAME_THA": "ม่วงงาม",
+        "SUB_DISTRICT_NAME_ENG": "Muang Ngam",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.543999671936035,
+        "LONG": 100.80699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 191010,
+        "SUB_DISTRICT_NAME_THA": "เริงราง",
+        "SUB_DISTRICT_NAME_ENG": "Roeng Rang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.557999610900879,
+        "LONG": 100.78600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 191011,
+        "SUB_DISTRICT_NAME_THA": "เมืองเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.539999961853027,
+        "LONG": 100.82499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 191012,
+        "SUB_DISTRICT_NAME_THA": "สวนดอกไม้",
+        "SUB_DISTRICT_NAME_ENG": "Suan Dokmai",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1910,
+        "LAT": 14.539999961853027,
+        "LONG": 100.86799621582031
+    }
+]

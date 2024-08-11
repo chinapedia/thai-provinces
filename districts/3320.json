@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 332001,
+        "SUB_DISTRICT_NAME_THA": "พยุห์",
+        "SUB_DISTRICT_NAME_ENG": "Phayu",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3320,
+        "LAT": 14.9350004196167,
+        "LONG": 104.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 332002,
+        "SUB_DISTRICT_NAME_THA": "พรหมสวัสดิ์",
+        "SUB_DISTRICT_NAME_ENG": "Phrom Sawat",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3320,
+        "LAT": 14.85200023651123,
+        "LONG": 104.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 332003,
+        "SUB_DISTRICT_NAME_THA": "ตำแย",
+        "SUB_DISTRICT_NAME_ENG": "Tamyae",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3320,
+        "LAT": 14.918000221252441,
+        "LONG": 104.4219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 332004,
+        "SUB_DISTRICT_NAME_THA": "โนนเพ็ก",
+        "SUB_DISTRICT_NAME_ENG": "Non Phek",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3320,
+        "LAT": 14.932999610900879,
+        "LONG": 104.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 332005,
+        "SUB_DISTRICT_NAME_THA": "หนองค้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kha",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3320,
+        "LAT": 14.89799976348877,
+        "LONG": 104.33399963378906
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650601,
+        "SUB_DISTRICT_NAME_THA": "พรหมพิราม",
+        "SUB_DISTRICT_NAME_ENG": "Phrom Phiram",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.003999710083008,
+        "LONG": 100.13500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 650602,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 16.97599983215332,
+        "LONG": 100.16799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 650603,
+        "SUB_DISTRICT_NAME_THA": "วงฆ้อง",
+        "SUB_DISTRICT_NAME_ENG": "Wong Khong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.113000869750977,
+        "LONG": 100.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 650604,
+        "SUB_DISTRICT_NAME_THA": "มะตูม",
+        "SUB_DISTRICT_NAME_ENG": "Matum",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 16.93600082397461,
+        "LONG": 100.20500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 650605,
+        "SUB_DISTRICT_NAME_THA": "หอกลอง",
+        "SUB_DISTRICT_NAME_ENG": "Ho Klong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 16.985000610351562,
+        "LONG": 100.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 650606,
+        "SUB_DISTRICT_NAME_THA": "ศรีภิรมย์",
+        "SUB_DISTRICT_NAME_ENG": "Si Phirom",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.0939998626709,
+        "LONG": 100.02899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 650607,
+        "SUB_DISTRICT_NAME_THA": "ตลุกเทียม",
+        "SUB_DISTRICT_NAME_ENG": "Taluk Thiam",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.14900016784668,
+        "LONG": 100.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 650608,
+        "SUB_DISTRICT_NAME_THA": "วังวน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Won",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.049999237060547,
+        "LONG": 100.02899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 650609,
+        "SUB_DISTRICT_NAME_THA": "หนองแขม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khaem",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.04599952697754,
+        "LONG": 100.13099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 650610,
+        "SUB_DISTRICT_NAME_THA": "มะต้อง",
+        "SUB_DISTRICT_NAME_ENG": "Matong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.086000442504883,
+        "LONG": 100.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 650611,
+        "SUB_DISTRICT_NAME_THA": "ทับยายเชียง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Yai Chiang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.094999313354492,
+        "LONG": 100.29399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 650612,
+        "SUB_DISTRICT_NAME_THA": "ดงประคำ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Prakham",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6506,
+        "LAT": 17.18899917602539,
+        "LONG": 100.26000213623047
+    }
+]

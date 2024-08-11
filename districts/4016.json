@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 401601,
+        "SUB_DISTRICT_NAME_THA": "บ้านเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ruea",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.676000595092773,
+        "LONG": 102.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 401604,
+        "SUB_DISTRICT_NAME_THA": "หว้าทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wa Thong",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.76099967956543,
+        "LONG": 102.46900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 401605,
+        "SUB_DISTRICT_NAME_THA": "กุดขอนแก่น",
+        "SUB_DISTRICT_NAME_ENG": "Kut Khon Kaen",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.579999923706055,
+        "LONG": 102.50199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 401606,
+        "SUB_DISTRICT_NAME_THA": "นาชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Na Chum Saeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.601999282836914,
+        "LONG": 102.33100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 401607,
+        "SUB_DISTRICT_NAME_THA": "นาหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Na Wa",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.72100067138672,
+        "LONG": 102.5719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 401610,
+        "SUB_DISTRICT_NAME_THA": "หนองกุงธนสาร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung Thanasan",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.649999618530273,
+        "LONG": 102.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 401612,
+        "SUB_DISTRICT_NAME_THA": "หนองกุงเซิน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung Soen",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.632999420166016,
+        "LONG": 102.51799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 401613,
+        "SUB_DISTRICT_NAME_THA": "สงเปือย",
+        "SUB_DISTRICT_NAME_ENG": "Song Pueai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.604999542236328,
+        "LONG": 102.39399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 401614,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งชมพู",
+        "SUB_DISTRICT_NAME_ENG": "Thung Chomphu",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.761999130249023,
+        "LONG": 102.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 401616,
+        "SUB_DISTRICT_NAME_THA": "ดินดำ",
+        "SUB_DISTRICT_NAME_ENG": "Din Dam",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.722000122070312,
+        "LONG": 102.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 401617,
+        "SUB_DISTRICT_NAME_THA": "ภูเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Wiang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4016,
+        "LAT": 16.679000854492188,
+        "LONG": 102.36399841308594
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360701,
+        "SUB_DISTRICT_NAME_THA": "บ้านชวน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chuan",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3607,
+        "LAT": 15.517999649047852,
+        "LONG": 101.65299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 360702,
+        "SUB_DISTRICT_NAME_THA": "บ้านเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phet",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3607,
+        "LAT": 15.434000015258789,
+        "LONG": 101.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 360703,
+        "SUB_DISTRICT_NAME_THA": "บ้านตาล",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tan",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3607,
+        "LAT": 15.484000205993652,
+        "LONG": 101.75599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 360704,
+        "SUB_DISTRICT_NAME_THA": "หัวทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Hua Thale",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3607,
+        "LAT": 15.423999786376953,
+        "LONG": 101.75700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 360705,
+        "SUB_DISTRICT_NAME_THA": "โคกเริงรมย์",
+        "SUB_DISTRICT_NAME_ENG": "Khok Roeng Rom",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3607,
+        "LAT": 15.390999794006348,
+        "LONG": 101.57599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 360706,
+        "SUB_DISTRICT_NAME_THA": "เกาะมะนาว",
+        "SUB_DISTRICT_NAME_ENG": "Ko Manao",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3607,
+        "LAT": 15.503999710083008,
+        "LONG": 101.61000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 360707,
+        "SUB_DISTRICT_NAME_THA": "โคกเพชรพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Khok Phet Phatthana",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3607,
+        "LAT": 15.470999717712402,
+        "LONG": 101.5780029296875
+    }
+]

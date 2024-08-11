@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710401,
+        "SUB_DISTRICT_NAME_THA": "นาสวน",
+        "SUB_DISTRICT_NAME_ENG": "Na Suan",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7104,
+        "LAT": 14.895000457763672,
+        "LONG": 99.02899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 710402,
+        "SUB_DISTRICT_NAME_THA": "ด่านแม่แฉลบ",
+        "SUB_DISTRICT_NAME_ENG": "Dan Mae Chalaep",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7104,
+        "LAT": 14.690999984741211,
+        "LONG": 98.9800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 710403,
+        "SUB_DISTRICT_NAME_THA": "หนองเป็ด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pet",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7104,
+        "LAT": 14.46399974822998,
+        "LONG": 99.23200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 710404,
+        "SUB_DISTRICT_NAME_THA": "ท่ากระดาน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kradan",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7104,
+        "LAT": 14.366000175476074,
+        "LONG": 99.17400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 710405,
+        "SUB_DISTRICT_NAME_THA": "เขาโจด",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chot",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7104,
+        "LAT": 14.885000228881836,
+        "LONG": 99.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 710406,
+        "SUB_DISTRICT_NAME_THA": "แม่กระบุง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Krabung",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7104,
+        "LAT": 14.527000427246094,
+        "LONG": 98.99600219726562
+    }
+]

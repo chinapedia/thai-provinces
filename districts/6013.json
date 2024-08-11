@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 601301,
+        "SUB_DISTRICT_NAME_THA": "แม่วงก์",
+        "SUB_DISTRICT_NAME_ENG": "Mae Wong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6013,
+        "LAT": 15.781000137329102,
+        "LONG": 99.56999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 601303,
+        "SUB_DISTRICT_NAME_THA": "แม่เลย์",
+        "SUB_DISTRICT_NAME_ENG": "Mae Le",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6013,
+        "LAT": 15.842000007629395,
+        "LONG": 99.2979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 601304,
+        "SUB_DISTRICT_NAME_THA": "วังซ่าน",
+        "SUB_DISTRICT_NAME_ENG": "Wang San",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6013,
+        "LAT": 15.859000205993652,
+        "LONG": 99.64399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 601305,
+        "SUB_DISTRICT_NAME_THA": "เขาชนกัน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chon Kan",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6013,
+        "LAT": 15.883000373840332,
+        "LONG": 99.51599884033203
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302301,
+        "SUB_DISTRICT_NAME_THA": "แก้งสนามนาง",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Sanam Nang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3023,
+        "LAT": 15.72700023651123,
+        "LONG": 102.2770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 302302,
+        "SUB_DISTRICT_NAME_THA": "โนนสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Non Samran",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3023,
+        "LAT": 15.75,
+        "LONG": 102.32499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 302303,
+        "SUB_DISTRICT_NAME_THA": "บึงพะไล",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Phalai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3023,
+        "LAT": 15.66100025177002,
+        "LONG": 102.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 302304,
+        "SUB_DISTRICT_NAME_THA": "สีสุก",
+        "SUB_DISTRICT_NAME_ENG": "Si Suk",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3023,
+        "LAT": 15.640000343322754,
+        "LONG": 102.17500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 302305,
+        "SUB_DISTRICT_NAME_THA": "บึงสำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Samrong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3023,
+        "LAT": 15.71500015258789,
+        "LONG": 102.197998046875
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 320401,
+        "SUB_DISTRICT_NAME_THA": "จอมพระ",
+        "SUB_DISTRICT_NAME_ENG": "Chom Phra",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.107000350952148,
+        "LONG": 103.5989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 320402,
+        "SUB_DISTRICT_NAME_THA": "เมืองลีง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Lueng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.170000076293945,
+        "LONG": 103.46499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 320403,
+        "SUB_DISTRICT_NAME_THA": "กระหาด",
+        "SUB_DISTRICT_NAME_ENG": "Krahat",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.130000114440918,
+        "LONG": 103.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 320404,
+        "SUB_DISTRICT_NAME_THA": "บุแกรง",
+        "SUB_DISTRICT_NAME_ENG": "Bu Kraeng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.079000473022461,
+        "LONG": 103.68299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 320405,
+        "SUB_DISTRICT_NAME_THA": "หนองสนิท",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sanit",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.15999984741211,
+        "LONG": 103.65499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 320406,
+        "SUB_DISTRICT_NAME_THA": "บ้านผือ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phue",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.123000144958496,
+        "LONG": 103.68199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 320407,
+        "SUB_DISTRICT_NAME_THA": "ลุ่มระวี",
+        "SUB_DISTRICT_NAME_ENG": "Lum Rawi",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.161999702453613,
+        "LONG": 103.60199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 320408,
+        "SUB_DISTRICT_NAME_THA": "ชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Saeng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.178000450134277,
+        "LONG": 103.52999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 320409,
+        "SUB_DISTRICT_NAME_THA": "เป็นสุข",
+        "SUB_DISTRICT_NAME_ENG": "Pen Suk",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3204,
+        "LAT": 15.13599967956543,
+        "LONG": 103.56500244140625
+    }
+]

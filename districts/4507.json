@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 450701,
+        "SUB_DISTRICT_NAME_THA": "แวง",
+        "SUB_DISTRICT_NAME_ENG": "Waeng",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.32900047302246,
+        "LONG": 103.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 450702,
+        "SUB_DISTRICT_NAME_THA": "โคกกกม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kok Muang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.180999755859375,
+        "LONG": 104.02799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 450703,
+        "SUB_DISTRICT_NAME_THA": "นาอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Na Udom",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.31800079345703,
+        "LONG": 103.85600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 450704,
+        "SUB_DISTRICT_NAME_THA": "สว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Sawang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.218000411987305,
+        "LONG": 104.00499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 450705,
+        "SUB_DISTRICT_NAME_THA": "หนองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.400999069213867,
+        "LONG": 103.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 450706,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ทอง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Thong",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.32200050354004,
+        "LONG": 103.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 450707,
+        "SUB_DISTRICT_NAME_THA": "โนนชัยศรี",
+        "SUB_DISTRICT_NAME_ENG": "Non Chai Si",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.21299934387207,
+        "LONG": 103.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 450708,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ศรีสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Si Sawang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.242000579833984,
+        "LONG": 103.88800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 450709,
+        "SUB_DISTRICT_NAME_THA": "อุ่มเม่า",
+        "SUB_DISTRICT_NAME_ENG": "Um Mao",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.277000427246094,
+        "LONG": 103.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 450710,
+        "SUB_DISTRICT_NAME_THA": "คำนาดี",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.395999908447266,
+        "LONG": 103.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 450711,
+        "SUB_DISTRICT_NAME_THA": "พรมสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Phrom Sawan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.198999404907227,
+        "LONG": 104.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 450712,
+        "SUB_DISTRICT_NAME_THA": "สระนกแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Nok Kaeo",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.270999908447266,
+        "LONG": 103.98600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 450713,
+        "SUB_DISTRICT_NAME_THA": "วังสามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Wang Samakkhi",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.267000198364258,
+        "LONG": 104.04100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 450714,
+        "SUB_DISTRICT_NAME_THA": "โคกสูง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sung",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4507,
+        "LAT": 16.20599937438965,
+        "LONG": 103.87300109863281
+    }
+]

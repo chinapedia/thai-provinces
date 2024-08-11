@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 440501,
+        "SUB_DISTRICT_NAME_THA": "เชียงยืน",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Yuen",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.430999755859375,
+        "LONG": 103.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 440503,
+        "SUB_DISTRICT_NAME_THA": "หนองซอน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Son",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.333999633789062,
+        "LONG": 103.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 440505,
+        "SUB_DISTRICT_NAME_THA": "ดอนเงิน",
+        "SUB_DISTRICT_NAME_ENG": "Don Ngoen",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.423999786376953,
+        "LONG": 103.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 440506,
+        "SUB_DISTRICT_NAME_THA": "กู่ทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ku Thong",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.426000595092773,
+        "LONG": 103.00299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 440507,
+        "SUB_DISTRICT_NAME_THA": "นาทอง",
+        "SUB_DISTRICT_NAME_ENG": "Na Thong",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.388999938964844,
+        "LONG": 103.05899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 440508,
+        "SUB_DISTRICT_NAME_THA": "เสือเฒ่า",
+        "SUB_DISTRICT_NAME_ENG": "Suea Thao",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.469999313354492,
+        "LONG": 103.0530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 440511,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.371999740600586,
+        "LONG": 103.14399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 440512,
+        "SUB_DISTRICT_NAME_THA": "เหล่าบัวบาน",
+        "SUB_DISTRICT_NAME_ENG": "Lao Bua Ban",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4405,
+        "LAT": 16.367000579833984,
+        "LONG": 103.01200103759766
+    }
+]

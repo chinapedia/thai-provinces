@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140901,
+        "SUB_DISTRICT_NAME_THA": "ภาชี",
+        "SUB_DISTRICT_NAME_ENG": "Phachi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.442000389099121,
+        "LONG": 100.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 140902,
+        "SUB_DISTRICT_NAME_THA": "โคกม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Muang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.428000450134277,
+        "LONG": 100.75
+    },
+    {
+        "SUB_DISTRICT_ID": 140903,
+        "SUB_DISTRICT_NAME_THA": "ระโสม",
+        "SUB_DISTRICT_NAME_ENG": "Rasom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.390000343322754,
+        "LONG": 100.7699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 140904,
+        "SUB_DISTRICT_NAME_THA": "หนองน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam Sai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.456999778747559,
+        "LONG": 100.7509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 140905,
+        "SUB_DISTRICT_NAME_THA": "ดอนหญ้านาง",
+        "SUB_DISTRICT_NAME_ENG": "Don Ya Nang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.477999687194824,
+        "LONG": 100.73899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 140906,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ล้อม",
+        "SUB_DISTRICT_NAME_ENG": "Phai Lom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.473999977111816,
+        "LONG": 100.69300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 140907,
+        "SUB_DISTRICT_NAME_THA": "กระจิว",
+        "SUB_DISTRICT_NAME_ENG": "Krachio",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.420000076293945,
+        "LONG": 100.69000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 140908,
+        "SUB_DISTRICT_NAME_THA": "พระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Phra Kaeo",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1409,
+        "LAT": 14.4399995803833,
+        "LONG": 100.67500305175781
+    }
+]

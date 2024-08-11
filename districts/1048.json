@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 104801,
+        "SUB_DISTRICT_NAME_THA": "ทวีวัฒนา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1048,
+        "LAT": 13.758000373840332,
+        "LONG": 100.3479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 104802,
+        "SUB_DISTRICT_NAME_THA": "ศาลาธรรมสพน์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1048,
+        "LAT": 13.782999992370605,
+        "LONG": 100.38999938964844
+    }
+]

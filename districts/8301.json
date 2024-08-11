@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 830101,
+        "SUB_DISTRICT_NAME_THA": "ตลาดใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Talat Yai",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.888000011444092,
+        "LONG": 98.39399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 830102,
+        "SUB_DISTRICT_NAME_THA": "ตลาดเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Talat Nuea",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.879000186920166,
+        "LONG": 98.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 830103,
+        "SUB_DISTRICT_NAME_THA": "เกาะแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kaeo",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.947999954223633,
+        "LONG": 98.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 830105,
+        "SUB_DISTRICT_NAME_THA": "รัษฎา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.828999996185303,
+        "LONG": 98.41500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 830106,
+        "SUB_DISTRICT_NAME_THA": "ฉลอง",
+        "SUB_DISTRICT_NAME_ENG": "Chalong",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.8429999351501465,
+        "LONG": 98.34100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 830107,
+        "SUB_DISTRICT_NAME_THA": "ราไวย์",
+        "SUB_DISTRICT_NAME_ENG": "Rawai",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.793000221252441,
+        "LONG": 98.32099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 830108,
+        "SUB_DISTRICT_NAME_THA": "กะรน",
+        "SUB_DISTRICT_NAME_ENG": "Karon",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.835000038146973,
+        "LONG": 98.3010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 961311,
+        "SUB_DISTRICT_NAME_THA": "วิชิต",
+        "SUB_DISTRICT_NAME_ENG": "Wichit",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8301,
+        "LAT": 7.85099983215332,
+        "LONG": 98.3489990234375
+    }
+]

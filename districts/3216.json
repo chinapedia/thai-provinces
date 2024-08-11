@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321601,
+        "SUB_DISTRICT_NAME_THA": "เขวาสินรินทร์",
+        "SUB_DISTRICT_NAME_ENG": "Khewa Sinarin",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3216,
+        "LAT": 15.008999824523926,
+        "LONG": 103.58200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 321602,
+        "SUB_DISTRICT_NAME_THA": "บึง",
+        "SUB_DISTRICT_NAME_ENG": "Bueng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3216,
+        "LAT": 15.0600004196167,
+        "LONG": 103.61000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 321603,
+        "SUB_DISTRICT_NAME_THA": "ตากูก",
+        "SUB_DISTRICT_NAME_ENG": "Ta Kuk",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3216,
+        "LAT": 15.026000022888184,
+        "LONG": 103.64399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 321604,
+        "SUB_DISTRICT_NAME_THA": "ปราสาททอง",
+        "SUB_DISTRICT_NAME_ENG": "Prasat Thong",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3216,
+        "LAT": 14.97599983215332,
+        "LONG": 103.64800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 321605,
+        "SUB_DISTRICT_NAME_THA": "บ้านแร่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rae",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3216,
+        "LAT": 14.965999603271484,
+        "LONG": 103.57599639892578
+    }
+]

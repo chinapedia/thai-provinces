@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 411801,
+        "SUB_DISTRICT_NAME_THA": "นางัว",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngua",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4118,
+        "LAT": 17.740999221801758,
+        "LONG": 102.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 411802,
+        "SUB_DISTRICT_NAME_THA": "น้ำโสม",
+        "SUB_DISTRICT_NAME_ENG": "Nam Som",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4118,
+        "LAT": 17.71500015258789,
+        "LONG": 102.09200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 411805,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4118,
+        "LAT": 17.809999465942383,
+        "LONG": 102.30000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 411806,
+        "SUB_DISTRICT_NAME_THA": "บ้านหยวก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yuak",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4118,
+        "LAT": 17.69700050354004,
+        "LONG": 102.18699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 411807,
+        "SUB_DISTRICT_NAME_THA": "โสมเยี่ยม",
+        "SUB_DISTRICT_NAME_ENG": "Som Yiam",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4118,
+        "LAT": 17.822999954223633,
+        "LONG": 102.20700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 411810,
+        "SUB_DISTRICT_NAME_THA": "ศรีสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Si Samran",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4118,
+        "LAT": 17.73200035095215,
+        "LONG": 102.16200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 411812,
+        "SUB_DISTRICT_NAME_THA": "สามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Samakkhi",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4118,
+        "LAT": 17.729999542236328,
+        "LONG": 102.28800201416016
+    }
+]

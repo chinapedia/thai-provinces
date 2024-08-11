@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190201,
+        "SUB_DISTRICT_NAME_THA": "แก่งคอย",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Khoi",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.586000442504883,
+        "LONG": 101.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 190202,
+        "SUB_DISTRICT_NAME_THA": "ทับกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Kwang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.604999542236328,
+        "LONG": 101.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 190203,
+        "SUB_DISTRICT_NAME_THA": "ตาลเดี่ยว",
+        "SUB_DISTRICT_NAME_ENG": "Tan Diao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.552000045776367,
+        "LONG": 101.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 190204,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแห้ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Haeng",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.47700023651123,
+        "LONG": 101.00399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 190205,
+        "SUB_DISTRICT_NAME_THA": "ท่าคล้อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khlo",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.711999893188477,
+        "LONG": 100.99299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 190206,
+        "SUB_DISTRICT_NAME_THA": "หินซ้อน",
+        "SUB_DISTRICT_NAME_ENG": "Hin Son",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.753000259399414,
+        "LONG": 101.03299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 190207,
+        "SUB_DISTRICT_NAME_THA": "บ้านธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Ban That",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.62600040435791,
+        "LONG": 100.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 190208,
+        "SUB_DISTRICT_NAME_THA": "บ้านป่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pa",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.621999740600586,
+        "LONG": 101.02899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 190209,
+        "SUB_DISTRICT_NAME_THA": "ท่าตูม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Tum",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.661999702453613,
+        "LONG": 100.99299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 190210,
+        "SUB_DISTRICT_NAME_THA": "ชะอม",
+        "SUB_DISTRICT_NAME_ENG": "Cha-Om",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.418000221252441,
+        "LONG": 101.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 190211,
+        "SUB_DISTRICT_NAME_THA": "สองคอน",
+        "SUB_DISTRICT_NAME_ENG": "Song Khon",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.63599967956543,
+        "LONG": 100.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 190212,
+        "SUB_DISTRICT_NAME_THA": "เตาปูน",
+        "SUB_DISTRICT_NAME_ENG": "Tao Pun",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.602999687194824,
+        "LONG": 100.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 190213,
+        "SUB_DISTRICT_NAME_THA": "ชำผักแพว",
+        "SUB_DISTRICT_NAME_ENG": "Cham Phak Phaeo",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.529000282287598,
+        "LONG": 101.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 190215,
+        "SUB_DISTRICT_NAME_THA": "ท่ามะปราง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Maprang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1902,
+        "LAT": 14.482999801635742,
+        "LONG": 101.10299682617188
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 380401,
+        "SUB_DISTRICT_NAME_THA": "เซกา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 17.964000701904297,
+        "LONG": 103.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 380402,
+        "SUB_DISTRICT_NAME_THA": "ซาง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 17.839000701904297,
+        "LONG": 103.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 380403,
+        "SUB_DISTRICT_NAME_THA": "ท่ากกแดง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 17.910999298095703,
+        "LONG": 103.81600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 380404,
+        "SUB_DISTRICT_NAME_THA": "บ้านต้อง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 18.099000930786133,
+        "LONG": 103.94599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 380405,
+        "SUB_DISTRICT_NAME_THA": "ป่งไฮ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 17.97599983215332,
+        "LONG": 103.87300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 380406,
+        "SUB_DISTRICT_NAME_THA": "น้ำจั้น",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 18.062999725341797,
+        "LONG": 103.89399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 380407,
+        "SUB_DISTRICT_NAME_THA": "ท่าสะอาด",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 17.975000381469727,
+        "LONG": 103.74400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 380408,
+        "SUB_DISTRICT_NAME_THA": "หนองทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 17.913999557495117,
+        "LONG": 103.89099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 380409,
+        "SUB_DISTRICT_NAME_THA": "โสกก่าม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3804,
+        "LAT": 18.075000762939453,
+        "LONG": 104.01499938964844
+    }
+]

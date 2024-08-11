@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841501,
+        "SUB_DISTRICT_NAME_THA": "เวียงสระ",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Sa",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8415,
+        "LAT": 8.64900016784668,
+        "LONG": 99.34200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 841502,
+        "SUB_DISTRICT_NAME_THA": "บ้านส้อง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Song",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8415,
+        "LAT": 8.645000457763672,
+        "LONG": 99.41999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 841503,
+        "SUB_DISTRICT_NAME_THA": "คลองฉนวน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chanuan",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8415,
+        "LAT": 8.517000198364258,
+        "LONG": 99.32099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 841504,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Luang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8415,
+        "LAT": 8.592000007629395,
+        "LONG": 99.2979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 841505,
+        "SUB_DISTRICT_NAME_THA": "เขานิพันธ์",
+        "SUB_DISTRICT_NAME_ENG": "Khao Niphan",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8415,
+        "LAT": 8.583999633789062,
+        "LONG": 99.3479995727539
+    }
+]

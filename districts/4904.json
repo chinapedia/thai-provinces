@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 490401,
+        "SUB_DISTRICT_NAME_THA": "ดงหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Luang",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4904,
+        "LAT": 16.81800079345703,
+        "LONG": 104.52300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 490402,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4904,
+        "LAT": 16.81100082397461,
+        "LONG": 104.56800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 490403,
+        "SUB_DISTRICT_NAME_THA": "กกตูม",
+        "SUB_DISTRICT_NAME_ENG": "Kok Tum",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4904,
+        "LAT": 16.79199981689453,
+        "LONG": 104.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 490404,
+        "SUB_DISTRICT_NAME_THA": "หนองแคน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khaen",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4904,
+        "LAT": 16.760000228881836,
+        "LONG": 104.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 490405,
+        "SUB_DISTRICT_NAME_THA": "ชะโนดน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Chanot Noi",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4904,
+        "LAT": 16.80500030517578,
+        "LONG": 104.61799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 490406,
+        "SUB_DISTRICT_NAME_THA": "พังแดง",
+        "SUB_DISTRICT_NAME_ENG": "Phang Daeng",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4904,
+        "LAT": 16.797000885009766,
+        "LONG": 104.37300109863281
+    }
+]

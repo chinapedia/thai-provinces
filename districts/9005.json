@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900501,
+        "SUB_DISTRICT_NAME_THA": "เทพา",
+        "SUB_DISTRICT_NAME_ENG": "Thepha",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9005,
+        "LAT": 6.820000171661377,
+        "LONG": 100.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 900502,
+        "SUB_DISTRICT_NAME_THA": "ปากบาง",
+        "SUB_DISTRICT_NAME_ENG": "Pak Bang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9005,
+        "LAT": 6.826000213623047,
+        "LONG": 101.00900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 900503,
+        "SUB_DISTRICT_NAME_THA": "เกาะสะบ้า",
+        "SUB_DISTRICT_NAME_ENG": "Ko Saba",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9005,
+        "LAT": 6.86299991607666,
+        "LONG": 100.89099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 900504,
+        "SUB_DISTRICT_NAME_THA": "ลำไพล",
+        "SUB_DISTRICT_NAME_ENG": "Lam Phli",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9005,
+        "LAT": 6.7210001945495605,
+        "LONG": 100.93000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 900505,
+        "SUB_DISTRICT_NAME_THA": "ท่าม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Muang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9005,
+        "LAT": 6.742000102996826,
+        "LONG": 101.0009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 900506,
+        "SUB_DISTRICT_NAME_THA": "วังใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yai",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9005,
+        "LAT": 6.763000011444092,
+        "LONG": 100.85299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 900507,
+        "SUB_DISTRICT_NAME_THA": "สะกอม",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kom",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9005,
+        "LAT": 6.880000114440918,
+        "LONG": 100.81800079345703
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900601,
+        "SUB_DISTRICT_NAME_THA": "สะบ้าย้อย",
+        "SUB_DISTRICT_NAME_ENG": "Sa Ba Yoi",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.631999969482422,
+        "LONG": 100.92900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 900602,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งพอ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Pho",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.552999973297119,
+        "LONG": 100.91000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 900603,
+        "SUB_DISTRICT_NAME_THA": "เปียน",
+        "SUB_DISTRICT_NAME_ENG": "Pian",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.633999824523926,
+        "LONG": 101.00299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 900604,
+        "SUB_DISTRICT_NAME_THA": "บ้านโหนด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Not",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.624000072479248,
+        "LONG": 101.05699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 900605,
+        "SUB_DISTRICT_NAME_THA": "จะแหน",
+        "SUB_DISTRICT_NAME_ENG": "Cha Nae",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.517000198364258,
+        "LONG": 100.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 900606,
+        "SUB_DISTRICT_NAME_THA": "คูหา",
+        "SUB_DISTRICT_NAME_ENG": "Khu Ha",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.610000133514404,
+        "LONG": 100.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 900607,
+        "SUB_DISTRICT_NAME_THA": "เขาแดง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Daeng",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.505000114440918,
+        "LONG": 100.802001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 900608,
+        "SUB_DISTRICT_NAME_THA": "บาโหย",
+        "SUB_DISTRICT_NAME_ENG": "Ba Hoi",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.395999908447266,
+        "LONG": 100.88400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 900609,
+        "SUB_DISTRICT_NAME_THA": "ธารคีรี",
+        "SUB_DISTRICT_NAME_ENG": "Than Khiri",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9006,
+        "LAT": 6.559000015258789,
+        "LONG": 101.05899810791016
+    }
+]

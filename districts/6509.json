@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650901,
+        "SUB_DISTRICT_NAME_THA": "ชมพู",
+        "SUB_DISTRICT_NAME_ENG": "Chomphu",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6509,
+        "LAT": 16.716999053955078,
+        "LONG": 100.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 650902,
+        "SUB_DISTRICT_NAME_THA": "บ้านมุง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mung",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6509,
+        "LAT": 16.542999267578125,
+        "LONG": 100.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 650903,
+        "SUB_DISTRICT_NAME_THA": "ไทรย้อย",
+        "SUB_DISTRICT_NAME_ENG": "Sai Yoi",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6509,
+        "LAT": 16.45199966430664,
+        "LONG": 100.63400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 650904,
+        "SUB_DISTRICT_NAME_THA": "วังโพรง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phrong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6509,
+        "LAT": 16.382999420166016,
+        "LONG": 100.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 650905,
+        "SUB_DISTRICT_NAME_THA": "บ้านน้อยซุ้มขี้เหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Noi Sum Khi Lek",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6509,
+        "LAT": 16.54199981689453,
+        "LONG": 100.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 650906,
+        "SUB_DISTRICT_NAME_THA": "เนินมะปราง",
+        "SUB_DISTRICT_NAME_ENG": "Noen Maprang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6509,
+        "LAT": 16.594999313354492,
+        "LONG": 100.6259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 650907,
+        "SUB_DISTRICT_NAME_THA": "วังยาง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6509,
+        "LAT": 16.457000732421875,
+        "LONG": 100.74099731445312
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 411701,
+        "SUB_DISTRICT_NAME_THA": "บ้านผือ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phue",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.69700050354004,
+        "LONG": 102.447998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 411702,
+        "SUB_DISTRICT_NAME_THA": "หายโศก",
+        "SUB_DISTRICT_NAME_ENG": "Hai Sok",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.691999435424805,
+        "LONG": 102.53099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 411703,
+        "SUB_DISTRICT_NAME_THA": "เขือน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Khuea Nam",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.565000534057617,
+        "LONG": 102.64600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 411704,
+        "SUB_DISTRICT_NAME_THA": "คำบง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Bong",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.540000915527344,
+        "LONG": 102.55599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 411705,
+        "SUB_DISTRICT_NAME_THA": "โนนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Non Thong",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.559999465942383,
+        "LONG": 102.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 411706,
+        "SUB_DISTRICT_NAME_THA": "ข้าวสาร",
+        "SUB_DISTRICT_NAME_ENG": "Khao San",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.634000778198242,
+        "LONG": 102.43900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 411707,
+        "SUB_DISTRICT_NAME_THA": "จำปาโมง",
+        "SUB_DISTRICT_NAME_ENG": "Champa Mok",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.613000869750977,
+        "LONG": 102.3759994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 411708,
+        "SUB_DISTRICT_NAME_THA": "กลางใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Klang Yai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.78499984741211,
+        "LONG": 102.375
+    },
+    {
+        "SUB_DISTRICT_ID": 411709,
+        "SUB_DISTRICT_NAME_THA": "เมืองพาน",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phan",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.68400001525879,
+        "LONG": 102.36499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 411710,
+        "SUB_DISTRICT_NAME_THA": "คำด้วง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Duang",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.871999740600586,
+        "LONG": 102.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 411711,
+        "SUB_DISTRICT_NAME_THA": "หนองหัวคู",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hua Khu",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.573999404907227,
+        "LONG": 102.55999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 411712,
+        "SUB_DISTRICT_NAME_THA": "บ้านค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kho",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.75,
+        "LONG": 102.44599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 411713,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4117,
+        "LAT": 17.509000778198242,
+        "LONG": 102.39099884033203
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 370601,
+        "SUB_DISTRICT_NAME_THA": "หัวตะพาน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Taphan",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.718000411987305,
+        "LONG": 104.45700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 370602,
+        "SUB_DISTRICT_NAME_THA": "คำพระ",
+        "SUB_DISTRICT_NAME_ENG": "Kham Phra",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.76099967956543,
+        "LONG": 104.51799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 370603,
+        "SUB_DISTRICT_NAME_THA": "เค็งใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Kheng Yai",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.73799991607666,
+        "LONG": 104.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 370604,
+        "SUB_DISTRICT_NAME_THA": "หนองแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kaeo",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.696000099182129,
+        "LONG": 104.53099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 370605,
+        "SUB_DISTRICT_NAME_THA": "โพนเมืองน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Phon Mueang Noi",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.649999618530273,
+        "LONG": 104.58000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 370606,
+        "SUB_DISTRICT_NAME_THA": "สร้างถ่อน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Sang Tho Noi",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.640999794006348,
+        "LONG": 104.48999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 370607,
+        "SUB_DISTRICT_NAME_THA": "จิกดู่",
+        "SUB_DISTRICT_NAME_ENG": "Chik Du",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.583000183105469,
+        "LONG": 104.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 370608,
+        "SUB_DISTRICT_NAME_THA": "รัตนวารี",
+        "SUB_DISTRICT_NAME_ENG": "Rattana Wari",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3706,
+        "LAT": 15.722999572753906,
+        "LONG": 104.51300048828125
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470101,
+        "SUB_DISTRICT_NAME_THA": "ธาตุเชิงชุม",
+        "SUB_DISTRICT_NAME_ENG": "That Choengchum",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.163000106811523,
+        "LONG": 104.16200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 470102,
+        "SUB_DISTRICT_NAME_THA": "ขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Khamin",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.260000228881836,
+        "LONG": 104.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 470103,
+        "SUB_DISTRICT_NAME_THA": "งิ้วด่อน",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Don",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.11400032043457,
+        "LONG": 104.16500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 470104,
+        "SUB_DISTRICT_NAME_THA": "โนนหอม",
+        "SUB_DISTRICT_NAME_ENG": "Non Hom",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.05299949645996,
+        "LONG": 104.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 470106,
+        "SUB_DISTRICT_NAME_THA": "เชียงเครือ",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Khruea",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.27899932861328,
+        "LONG": 104.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 470107,
+        "SUB_DISTRICT_NAME_THA": "ท่าแร่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Rae",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.268999099731445,
+        "LONG": 104.20700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 470109,
+        "SUB_DISTRICT_NAME_THA": "ม่วงลาย",
+        "SUB_DISTRICT_NAME_ENG": "Muang Lai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.125,
+        "LONG": 104.26000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 470111,
+        "SUB_DISTRICT_NAME_THA": "ดงชน",
+        "SUB_DISTRICT_NAME_ENG": "Dong Chon",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.09600067138672,
+        "LONG": 104.23999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 470112,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยาง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.094999313354492,
+        "LONG": 104.03299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 470113,
+        "SUB_DISTRICT_NAME_THA": "พังขว้าง",
+        "SUB_DISTRICT_NAME_ENG": "Phang Khwang",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.177000045776367,
+        "LONG": 104.01699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 470115,
+        "SUB_DISTRICT_NAME_THA": "ดงมะไฟ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mafai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.05900001525879,
+        "LONG": 104.1050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 470116,
+        "SUB_DISTRICT_NAME_THA": "ธาตุนาเวง",
+        "SUB_DISTRICT_NAME_ENG": "That Naweng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.14699935913086,
+        "LONG": 104.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 470117,
+        "SUB_DISTRICT_NAME_THA": "เหล่าปอแดง",
+        "SUB_DISTRICT_NAME_ENG": "Lao Po Daeng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.136999130249023,
+        "LONG": 104.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 470118,
+        "SUB_DISTRICT_NAME_THA": "หนองลาด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lat",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.336999893188477,
+        "LONG": 104.0719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 470120,
+        "SUB_DISTRICT_NAME_THA": "ฮางโฮง",
+        "SUB_DISTRICT_NAME_ENG": "Hang Hong",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.219999313354492,
+        "LONG": 104.12200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 470121,
+        "SUB_DISTRICT_NAME_THA": "โคกก่อง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kong",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4701,
+        "LAT": 17.132999420166016,
+        "LONG": 104.29399871826172
+    }
+]

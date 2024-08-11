@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300701,
+        "SUB_DISTRICT_NAME_THA": "กระโทก",
+        "SUB_DISTRICT_NAME_ENG": "Krathok",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.71399974822998,
+        "LONG": 102.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 300702,
+        "SUB_DISTRICT_NAME_THA": "พลับพลา",
+        "SUB_DISTRICT_NAME_ENG": "Phlapphla",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.755000114440918,
+        "LONG": 102.12899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 300703,
+        "SUB_DISTRICT_NAME_THA": "ท่าอ่าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.821000099182129,
+        "LONG": 102.16000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 300704,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งอรุณ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Arun",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.630999565124512,
+        "LONG": 102.18399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 300705,
+        "SUB_DISTRICT_NAME_THA": "ท่าลาดขาว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Lat Khao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.67199993133545,
+        "LONG": 102.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 300706,
+        "SUB_DISTRICT_NAME_THA": "ท่าจะหลุง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chalung",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.869999885559082,
+        "LONG": 102.26399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 300707,
+        "SUB_DISTRICT_NAME_THA": "ท่าเยี่ยม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yiam",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.715999603271484,
+        "LONG": 102.23699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 300708,
+        "SUB_DISTRICT_NAME_THA": "โชคชัย",
+        "SUB_DISTRICT_NAME_ENG": "Chok Chai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.762999534606934,
+        "LONG": 102.1719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 300709,
+        "SUB_DISTRICT_NAME_THA": "ละลมใหม่พัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Lalom Mai Phatthana",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.810999870300293,
+        "LONG": 102.24299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 300710,
+        "SUB_DISTRICT_NAME_THA": "ด่านเกวียน",
+        "SUB_DISTRICT_NAME_ENG": "Dan Kwian",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3007,
+        "LAT": 14.86400032043457,
+        "LONG": 102.18900299072266
+    }
+]

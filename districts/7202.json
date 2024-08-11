@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 720201,
+        "SUB_DISTRICT_NAME_THA": "เขาพระ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phra",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.852999687194824,
+        "LONG": 100.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 720202,
+        "SUB_DISTRICT_NAME_THA": "เดิมบาง",
+        "SUB_DISTRICT_NAME_ENG": "Doem Bang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.892999649047852,
+        "LONG": 100.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 720203,
+        "SUB_DISTRICT_NAME_THA": "นางบวช",
+        "SUB_DISTRICT_NAME_ENG": "Nang Buat",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.810999870300293,
+        "LONG": 100.12000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 720204,
+        "SUB_DISTRICT_NAME_THA": "เขาดิน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Din",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.803000450134277,
+        "LONG": 100.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 720205,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.930999755859375,
+        "LONG": 100.08699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 720206,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งคลี",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khli",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.86299991607666,
+        "LONG": 100.18900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 720207,
+        "SUB_DISTRICT_NAME_THA": "โคกช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Chang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.90999984741211,
+        "LONG": 100.16899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 720208,
+        "SUB_DISTRICT_NAME_THA": "หัวเขา",
+        "SUB_DISTRICT_NAME_ENG": "Hua Khao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.869000434875488,
+        "LONG": 100.03800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 720209,
+        "SUB_DISTRICT_NAME_THA": "หัวนา",
+        "SUB_DISTRICT_NAME_ENG": "Hua Na",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.883000373840332,
+        "LONG": 99.97000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 720210,
+        "SUB_DISTRICT_NAME_THA": "บ่อกรุ",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kru",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.892999649047852,
+        "LONG": 99.90499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 720211,
+        "SUB_DISTRICT_NAME_THA": "วังศรีราช",
+        "SUB_DISTRICT_NAME_ENG": "Wang Si Rat",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.850000381469727,
+        "LONG": 99.98799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 720213,
+        "SUB_DISTRICT_NAME_THA": "ยางนอน",
+        "SUB_DISTRICT_NAME_ENG": "Yang Non",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.857000350952148,
+        "LONG": 100.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 720214,
+        "SUB_DISTRICT_NAME_THA": "หนองกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krathum",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7202,
+        "LAT": 14.906999588012695,
+        "LONG": 99.80400085449219
+    }
+]

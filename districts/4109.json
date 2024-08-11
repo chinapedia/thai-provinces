@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 410901,
+        "SUB_DISTRICT_NAME_THA": "ศรีธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Si That",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4109,
+        "LAT": 16.98699951171875,
+        "LONG": 103.21099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 410902,
+        "SUB_DISTRICT_NAME_THA": "จำปี",
+        "SUB_DISTRICT_NAME_ENG": "Champi",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4109,
+        "LAT": 16.99799919128418,
+        "LONG": 103.1709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 410903,
+        "SUB_DISTRICT_NAME_THA": "บ้านโปร่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Prong",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4109,
+        "LAT": 16.990999221801758,
+        "LONG": 103.08899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 410904,
+        "SUB_DISTRICT_NAME_THA": "หัวนาคำ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Na Kham",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4109,
+        "LAT": 17.08300018310547,
+        "LONG": 103.28399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 410905,
+        "SUB_DISTRICT_NAME_THA": "หนองนกเขียน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nok Khian",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4109,
+        "LAT": 17.011999130249023,
+        "LONG": 103.29100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 410906,
+        "SUB_DISTRICT_NAME_THA": "นายูง",
+        "SUB_DISTRICT_NAME_ENG": "Na Yung",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4109,
+        "LAT": 16.95199966430664,
+        "LONG": 103.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 410907,
+        "SUB_DISTRICT_NAME_THA": "ตาดทอง",
+        "SUB_DISTRICT_NAME_ENG": "Tat Thong",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4109,
+        "LAT": 17.066999435424805,
+        "LONG": 103.15499877929688
+    }
+]

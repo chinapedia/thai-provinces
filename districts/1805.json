@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180501,
+        "SUB_DISTRICT_NAME_THA": "แพรกศรีราชา",
+        "SUB_DISTRICT_NAME_ENG": "Phraek Si Racha",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 15.062000274658203,
+        "LONG": 100.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 180502,
+        "SUB_DISTRICT_NAME_THA": "เที่ยงแท้",
+        "SUB_DISTRICT_NAME_ENG": "Thiang Thae",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 15.08899974822998,
+        "LONG": 100.16100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 180503,
+        "SUB_DISTRICT_NAME_THA": "ห้วยกรด",
+        "SUB_DISTRICT_NAME_ENG": "Huai Krot",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 15.095999717712402,
+        "LONG": 100.2030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 180504,
+        "SUB_DISTRICT_NAME_THA": "โพงาม",
+        "SUB_DISTRICT_NAME_ENG": "Pho Ngam",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 14.994999885559082,
+        "LONG": 100.2490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 180505,
+        "SUB_DISTRICT_NAME_THA": "บางขุด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khut",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 14.991000175476074,
+        "LONG": 100.19400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 180506,
+        "SUB_DISTRICT_NAME_THA": "ดงคอน",
+        "SUB_DISTRICT_NAME_ENG": "Dong Khon",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 14.97599983215332,
+        "LONG": 100.13500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 180507,
+        "SUB_DISTRICT_NAME_THA": "ดอนกำ",
+        "SUB_DISTRICT_NAME_ENG": "Don Kam",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 14.965999603271484,
+        "LONG": 100.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 180508,
+        "SUB_DISTRICT_NAME_THA": "ห้วยกรดพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Huai Krot Phatthana",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1805,
+        "LAT": 15.074000358581543,
+        "LONG": 100.22799682617188
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340401,
+        "SUB_DISTRICT_NAME_THA": "เขื่องใน",
+        "SUB_DISTRICT_NAME_ENG": "Khueang Nai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.371000289916992,
+        "LONG": 104.55599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 340402,
+        "SUB_DISTRICT_NAME_THA": "สร้างถ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Sang Tho",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.366999626159668,
+        "LONG": 104.50299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 340403,
+        "SUB_DISTRICT_NAME_THA": "ค้อทอง",
+        "SUB_DISTRICT_NAME_ENG": "Kho Thong",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.39900016784668,
+        "LONG": 104.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 340404,
+        "SUB_DISTRICT_NAME_THA": "ก่อเอ้",
+        "SUB_DISTRICT_NAME_ENG": "Ko-E",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.392000198364258,
+        "LONG": 104.62300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 340405,
+        "SUB_DISTRICT_NAME_THA": "หัวดอน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Don",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.307000160217285,
+        "LONG": 104.69000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 340406,
+        "SUB_DISTRICT_NAME_THA": "ชีทวน",
+        "SUB_DISTRICT_NAME_ENG": "Chi Tuan",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.269000053405762,
+        "LONG": 104.65299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 340407,
+        "SUB_DISTRICT_NAME_THA": "ท่าไห",
+        "SUB_DISTRICT_NAME_ENG": "Tha Hai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.319000244140625,
+        "LONG": 104.60199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 340408,
+        "SUB_DISTRICT_NAME_THA": "นาคำใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Na Kham Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.282999992370605,
+        "LONG": 104.56600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 340409,
+        "SUB_DISTRICT_NAME_THA": "แดงหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Daeng Mo",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.289999961853027,
+        "LONG": 104.51300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 340410,
+        "SUB_DISTRICT_NAME_THA": "ธาตุน้อย",
+        "SUB_DISTRICT_NAME_ENG": "That Noi",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.281000137329102,
+        "LONG": 104.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 340411,
+        "SUB_DISTRICT_NAME_THA": "บ้านไทย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.454000473022461,
+        "LONG": 104.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 340412,
+        "SUB_DISTRICT_NAME_THA": "บ้านกอก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kok",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.48900032043457,
+        "LONG": 104.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 340413,
+        "SUB_DISTRICT_NAME_THA": "กลางใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Klang Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.515000343322754,
+        "LONG": 104.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 340414,
+        "SUB_DISTRICT_NAME_THA": "โนนรัง",
+        "SUB_DISTRICT_NAME_ENG": "Non Rang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.520999908447266,
+        "LONG": 104.5
+    },
+    {
+        "SUB_DISTRICT_ID": 340415,
+        "SUB_DISTRICT_NAME_THA": "ยางขี้นก",
+        "SUB_DISTRICT_NAME_ENG": "Yang Khi Nok",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.446000099182129,
+        "LONG": 104.50800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 340416,
+        "SUB_DISTRICT_NAME_THA": "ศรีสุข",
+        "SUB_DISTRICT_NAME_ENG": "Si Suk",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.47700023651123,
+        "LONG": 104.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 340417,
+        "SUB_DISTRICT_NAME_THA": "สหธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Sahathat",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.338000297546387,
+        "LONG": 104.45899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 340418,
+        "SUB_DISTRICT_NAME_THA": "หนองเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lao",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3404,
+        "LAT": 15.45300006866455,
+        "LONG": 104.59200286865234
+    }
+]

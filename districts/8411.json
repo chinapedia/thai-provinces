@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841101,
+        "SUB_DISTRICT_NAME_THA": "ท่าฉาง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8411,
+        "LAT": 9.258000373840332,
+        "LONG": 99.17500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 841102,
+        "SUB_DISTRICT_NAME_THA": "ท่าเคย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khoei",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8411,
+        "LAT": 9.227999687194824,
+        "LONG": 99.18099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 841103,
+        "SUB_DISTRICT_NAME_THA": "คลองไทร",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8411,
+        "LAT": 9.199999809265137,
+        "LONG": 99.16500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 841104,
+        "SUB_DISTRICT_NAME_THA": "เขาถ่าน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Than",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8411,
+        "LAT": 9.3100004196167,
+        "LONG": 99.18800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 841105,
+        "SUB_DISTRICT_NAME_THA": "เสวียด",
+        "SUB_DISTRICT_NAME_ENG": "Sawiat",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8411,
+        "LAT": 9.310999870300293,
+        "LONG": 99.10099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 841106,
+        "SUB_DISTRICT_NAME_THA": "ปากฉลุย",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chalui",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8411,
+        "LAT": 9.442000389099121,
+        "LONG": 98.75199890136719
+    }
+]

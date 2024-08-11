@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 720401,
+        "SUB_DISTRICT_NAME_THA": "โคกคราม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khram",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.413999557495117,
+        "LONG": 100.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 720402,
+        "SUB_DISTRICT_NAME_THA": "บางปลาม้า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pla Ma",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.402000427246094,
+        "LONG": 100.10199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 720403,
+        "SUB_DISTRICT_NAME_THA": "ตะค่า",
+        "SUB_DISTRICT_NAME_ENG": "Takha",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.347999572753906,
+        "LONG": 100.1709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 720404,
+        "SUB_DISTRICT_NAME_THA": "บางใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Yai",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.300000190734863,
+        "LONG": 100.10199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 720405,
+        "SUB_DISTRICT_NAME_THA": "กฤษณา",
+        "SUB_DISTRICT_NAME_ENG": "Kritsana",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.289999961853027,
+        "LONG": 100.1780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 720406,
+        "SUB_DISTRICT_NAME_THA": "สาลี",
+        "SUB_DISTRICT_NAME_ENG": "Sali",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.28600025177002,
+        "LONG": 100.22100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 720407,
+        "SUB_DISTRICT_NAME_THA": "ไผ่กองดิน",
+        "SUB_DISTRICT_NAME_ENG": "Phai Kong Din",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.34000015258789,
+        "LONG": 100.26399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 720408,
+        "SUB_DISTRICT_NAME_THA": "องครักษ์",
+        "SUB_DISTRICT_NAME_ENG": "Ongkharak",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.37399959564209,
+        "LONG": 100.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 720409,
+        "SUB_DISTRICT_NAME_THA": "จรเข้ใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Chorakhe Yai",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.420999526977539,
+        "LONG": 100.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 720410,
+        "SUB_DISTRICT_NAME_THA": "บ้านแหลม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Laem",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.345999717712402,
+        "LONG": 100.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 720411,
+        "SUB_DISTRICT_NAME_THA": "มะขามล้ม",
+        "SUB_DISTRICT_NAME_ENG": "Makham Lom",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.369999885559082,
+        "LONG": 100.04299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 720412,
+        "SUB_DISTRICT_NAME_THA": "วังน้ำเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nam Yen",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.376999855041504,
+        "LONG": 100.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 720413,
+        "SUB_DISTRICT_NAME_THA": "วัดโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Bot",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.329999923706055,
+        "LONG": 100.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 720414,
+        "SUB_DISTRICT_NAME_THA": "วัดดาว",
+        "SUB_DISTRICT_NAME_ENG": "Wat Dao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7204,
+        "LAT": 14.350000381469727,
+        "LONG": 100.10600280761719
+    }
+]

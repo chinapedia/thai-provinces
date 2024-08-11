@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220301,
+        "SUB_DISTRICT_NAME_THA": "ท่าใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.628000259399414,
+        "LONG": 101.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 220302,
+        "SUB_DISTRICT_NAME_THA": "ยายร้า",
+        "SUB_DISTRICT_NAME_ENG": "Yai Ra",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.612000465393066,
+        "LONG": 102.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 220303,
+        "SUB_DISTRICT_NAME_THA": "สีพยา",
+        "SUB_DISTRICT_NAME_ENG": "Si Phaya",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.57800006866455,
+        "LONG": 102.02899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 220304,
+        "SUB_DISTRICT_NAME_THA": "บ่อพุ",
+        "SUB_DISTRICT_NAME_ENG": "Bo Phu",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.595000267028809,
+        "LONG": 102.02799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 220305,
+        "SUB_DISTRICT_NAME_THA": "พลอยแหวน",
+        "SUB_DISTRICT_NAME_ENG": "Phloi Waen",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.616999626159668,
+        "LONG": 102.0530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 220306,
+        "SUB_DISTRICT_NAME_THA": "เขาวัว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Wua",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.63700008392334,
+        "LONG": 102.03500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 220307,
+        "SUB_DISTRICT_NAME_THA": "เขาบายศรี",
+        "SUB_DISTRICT_NAME_ENG": "Khao Baisi",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.739999771118164,
+        "LONG": 102.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 220308,
+        "SUB_DISTRICT_NAME_THA": "สองพี่น้อง",
+        "SUB_DISTRICT_NAME_ENG": "Song Phi Nong",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.67199993133545,
+        "LONG": 101.9729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 220309,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งเบญจา",
+        "SUB_DISTRICT_NAME_ENG": "Thung Bencha",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.814000129699707,
+        "LONG": 102.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 220311,
+        "SUB_DISTRICT_NAME_THA": "รำพัน",
+        "SUB_DISTRICT_NAME_ENG": "Ramphan",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.668999671936035,
+        "LONG": 101.91400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 220312,
+        "SUB_DISTRICT_NAME_THA": "โขมง",
+        "SUB_DISTRICT_NAME_ENG": "Khamong",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.619999885559082,
+        "LONG": 101.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 220313,
+        "SUB_DISTRICT_NAME_THA": "ตะกาดเง้า",
+        "SUB_DISTRICT_NAME_ENG": "Takat Ngao",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.581000328063965,
+        "LONG": 101.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 220314,
+        "SUB_DISTRICT_NAME_THA": "คลองขุด",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khut",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.562999725341797,
+        "LONG": 101.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 220324,
+        "SUB_DISTRICT_NAME_THA": "เขาแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Kaeo",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2203,
+        "LAT": 12.866999626159668,
+        "LONG": 101.93900299072266
+    }
+]

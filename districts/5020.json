@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 502001,
+        "SUB_DISTRICT_NAME_THA": "เมืองแหง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Haeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5020,
+        "LAT": 19.514999389648438,
+        "LONG": 98.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 502002,
+        "SUB_DISTRICT_NAME_THA": "เปียงหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Piang Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5020,
+        "LAT": 19.691999435424805,
+        "LONG": 98.69300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 502003,
+        "SUB_DISTRICT_NAME_THA": "แสนไห",
+        "SUB_DISTRICT_NAME_ENG": "Saen Hai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5020,
+        "LAT": 19.614999771118164,
+        "LONG": 98.63200378417969
+    }
+]

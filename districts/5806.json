@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 580601,
+        "SUB_DISTRICT_NAME_THA": "สบเมย",
+        "SUB_DISTRICT_NAME_ENG": "Sop Moei",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5806,
+        "LAT": 17.898000717163086,
+        "LONG": 97.87200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 580602,
+        "SUB_DISTRICT_NAME_THA": "แม่คะตวน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Khatuan",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5806,
+        "LAT": 18.003000259399414,
+        "LONG": 97.98100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 580603,
+        "SUB_DISTRICT_NAME_THA": "กองก๋อย",
+        "SUB_DISTRICT_NAME_ENG": "Kong Koi",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5806,
+        "LAT": 18.014999389648438,
+        "LONG": 98.16000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 580604,
+        "SUB_DISTRICT_NAME_THA": "แม่สวด",
+        "SUB_DISTRICT_NAME_ENG": "Mae Suat",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5806,
+        "LAT": 17.79599952697754,
+        "LONG": 98.04900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 580605,
+        "SUB_DISTRICT_NAME_THA": "ป่าโปง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Pong",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5806,
+        "LAT": 18.113000869750977,
+        "LONG": 98.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 580606,
+        "SUB_DISTRICT_NAME_THA": "แม่สามแลบ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sam Laep",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5806,
+        "LAT": 17.89900016784668,
+        "LONG": 97.75900268554688
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501601,
+        "SUB_DISTRICT_NAME_THA": "หางดง",
+        "SUB_DISTRICT_NAME_ENG": "Hang Dong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5016,
+        "LAT": 18.15999984741211,
+        "LONG": 98.48300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 501602,
+        "SUB_DISTRICT_NAME_THA": "ฮอด",
+        "SUB_DISTRICT_NAME_ENG": "Hot",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5016,
+        "LAT": 18.10300064086914,
+        "LONG": 98.58300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 501603,
+        "SUB_DISTRICT_NAME_THA": "บ้านตาล",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tan",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5016,
+        "LAT": 18.08799934387207,
+        "LONG": 98.70899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 501604,
+        "SUB_DISTRICT_NAME_THA": "บ่อหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5016,
+        "LAT": 18.158000946044922,
+        "LONG": 98.37899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 501605,
+        "SUB_DISTRICT_NAME_THA": "บ่อสลี",
+        "SUB_DISTRICT_NAME_ENG": "Bo Sali",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5016,
+        "LAT": 18.155000686645508,
+        "LONG": 98.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 501606,
+        "SUB_DISTRICT_NAME_THA": "นาคอเรือ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5016,
+        "LAT": 18.009000778198242,
+        "LONG": 98.5199966430664
+    }
+]

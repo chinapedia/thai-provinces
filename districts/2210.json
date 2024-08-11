@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 221001,
+        "SUB_DISTRICT_NAME_THA": "ซากไทย",
+        "SUB_DISTRICT_NAME_ENG": "Chak Thai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2210,
+        "LAT": 12.765000343322754,
+        "LONG": 102.10099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 221002,
+        "SUB_DISTRICT_NAME_THA": "พลวง",
+        "SUB_DISTRICT_NAME_ENG": "Phluang",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2210,
+        "LAT": 12.821999549865723,
+        "LONG": 102.10600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 221003,
+        "SUB_DISTRICT_NAME_THA": "ตะเคียนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Takhian Thong",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2210,
+        "LAT": 12.902999877929688,
+        "LONG": 102.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 221004,
+        "SUB_DISTRICT_NAME_THA": "คลองพลู",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phlu",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2210,
+        "LAT": 12.930999755859375,
+        "LONG": 102.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 221005,
+        "SUB_DISTRICT_NAME_THA": "จันทเขลม",
+        "SUB_DISTRICT_NAME_ENG": "Chanthakhlem",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2210,
+        "LAT": 13.071000099182129,
+        "LONG": 102.08999633789062
+    }
+]

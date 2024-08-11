@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 390601,
+        "SUB_DISTRICT_NAME_THA": "นาเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Na Lao",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3906,
+        "LAT": 17.29400062561035,
+        "LONG": 102.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 390602,
+        "SUB_DISTRICT_NAME_THA": "นาแก",
+        "SUB_DISTRICT_NAME_ENG": "Na Kae",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3906,
+        "LAT": 17.395999908447266,
+        "LONG": 102.0780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 390603,
+        "SUB_DISTRICT_NAME_THA": "วังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3906,
+        "LAT": 17.31999969482422,
+        "LONG": 102.02999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 390604,
+        "SUB_DISTRICT_NAME_THA": "วังปลาป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Wang Pla Pom",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3906,
+        "LAT": 17.426000595092773,
+        "LONG": 102.02400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 390605,
+        "SUB_DISTRICT_NAME_THA": "เทพคีรี",
+        "SUB_DISTRICT_NAME_ENG": "Thep Khiri",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3906,
+        "LAT": 17.308000564575195,
+        "LONG": 102.11699676513672
+    }
+]

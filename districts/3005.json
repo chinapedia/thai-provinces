@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300501,
+        "SUB_DISTRICT_NAME_THA": "บ้านเหลื่อม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lueam",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3005,
+        "LAT": 15.625,
+        "LONG": 102.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 300502,
+        "SUB_DISTRICT_NAME_THA": "วังโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Pho",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3005,
+        "LAT": 15.571000099182129,
+        "LONG": 102.10299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 300503,
+        "SUB_DISTRICT_NAME_THA": "โคกกระเบื้อง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Krabueang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3005,
+        "LAT": 15.571000099182129,
+        "LONG": 102.18699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 300504,
+        "SUB_DISTRICT_NAME_THA": "ช่อระกา",
+        "SUB_DISTRICT_NAME_ENG": "Cho Raka",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3005,
+        "LAT": 15.539999961853027,
+        "LONG": 102.05699920654297
+    }
+]

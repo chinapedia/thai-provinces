@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 440801,
+        "SUB_DISTRICT_NAME_THA": "ปะหลาน",
+        "SUB_DISTRICT_NAME_ENG": "Palan",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.503000259399414,
+        "LONG": 103.16300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 440802,
+        "SUB_DISTRICT_NAME_THA": "ก้ามปู",
+        "SUB_DISTRICT_NAME_ENG": "Kam Pu",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.557999610900879,
+        "LONG": 103.22200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 440803,
+        "SUB_DISTRICT_NAME_THA": "เวียงสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Sa-At",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.461000442504883,
+        "LONG": 103.26200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 440804,
+        "SUB_DISTRICT_NAME_THA": "เม็กดำ",
+        "SUB_DISTRICT_NAME_ENG": "Mek Dam",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.572999954223633,
+        "LONG": 103.0719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 440805,
+        "SUB_DISTRICT_NAME_THA": "นาสีนวล",
+        "SUB_DISTRICT_NAME_ENG": "Na Si Nuan",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.635000228881836,
+        "LONG": 103.2229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 440809,
+        "SUB_DISTRICT_NAME_THA": "ราษฎร์เจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Rat Charoen",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.456000328063965,
+        "LONG": 103.32099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 440810,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Kaeo",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.543000221252441,
+        "LONG": 103.30899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 440812,
+        "SUB_DISTRICT_NAME_THA": "เมืองเตา",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Tao",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.479000091552734,
+        "LONG": 103.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 440815,
+        "SUB_DISTRICT_NAME_THA": "ลานสะแก",
+        "SUB_DISTRICT_NAME_ENG": "Lan Sakae",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.567999839782715,
+        "LONG": 103.15899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 440816,
+        "SUB_DISTRICT_NAME_THA": "เวียงชัย",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Chai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.517000198364258,
+        "LONG": 103.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 440818,
+        "SUB_DISTRICT_NAME_THA": "ราษฎร์พัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Rat Phatthana",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.505999565124512,
+        "LONG": 103.30999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 440819,
+        "SUB_DISTRICT_NAME_THA": "เมืองเสือ",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Suea",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.484000205993652,
+        "LONG": 103.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 440820,
+        "SUB_DISTRICT_NAME_THA": "ภารแอ่น",
+        "SUB_DISTRICT_NAME_ENG": "Phara-Aen",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.593000411987305,
+        "LONG": 103.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 440828,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4408,
+        "LAT": 15.590999603271484,
+        "LONG": 103.10600280761719
+    }
+]

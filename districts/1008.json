@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 100801,
+        "SUB_DISTRICT_NAME_THA": "ป้อมปราบ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1008,
+        "LAT": 13.743000030517578,
+        "LONG": 100.51399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 100802,
+        "SUB_DISTRICT_NAME_THA": "วัดเทพศิรินทร์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1008,
+        "LAT": 13.74899959564209,
+        "LONG": 100.51200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 100803,
+        "SUB_DISTRICT_NAME_THA": "คลองมหานาค",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1008,
+        "LAT": 13.753000259399414,
+        "LONG": 100.51300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 100804,
+        "SUB_DISTRICT_NAME_THA": "บ้านบาตร",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1008,
+        "LAT": 13.751999855041504,
+        "LONG": 100.50700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 100805,
+        "SUB_DISTRICT_NAME_THA": "วัดโสมนัส",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1008,
+        "LAT": 13.758999824523926,
+        "LONG": 100.51100158691406
+    }
+]

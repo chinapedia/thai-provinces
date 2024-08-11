@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 671001,
+        "SUB_DISTRICT_NAME_THA": "วังโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Pong",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6710,
+        "LAT": 16.347000122070312,
+        "LONG": 100.80899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 671002,
+        "SUB_DISTRICT_NAME_THA": "ท้ายดง",
+        "SUB_DISTRICT_NAME_ENG": "Thai Dong",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6710,
+        "LAT": 16.297000885009766,
+        "LONG": 100.6780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 671003,
+        "SUB_DISTRICT_NAME_THA": "ซับเปิบ",
+        "SUB_DISTRICT_NAME_ENG": "Sap Poep",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6710,
+        "LAT": 16.36199951171875,
+        "LONG": 100.91799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 671004,
+        "SUB_DISTRICT_NAME_THA": "วังหิน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Hin",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6710,
+        "LAT": 16.386999130249023,
+        "LONG": 100.75399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 671005,
+        "SUB_DISTRICT_NAME_THA": "วังศาล",
+        "SUB_DISTRICT_NAME_ENG": "Wang San",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6710,
+        "LAT": 16.283000946044922,
+        "LONG": 100.75800323486328
+    }
+]

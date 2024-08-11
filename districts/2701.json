@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270101,
+        "SUB_DISTRICT_NAME_THA": "สระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kaeo",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 13.803000450134277,
+        "LONG": 102.0770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 270102,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 13.984000205993652,
+        "LONG": 101.98999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 270103,
+        "SUB_DISTRICT_NAME_THA": "ศาลาลำดวน",
+        "SUB_DISTRICT_NAME_ENG": "Sala Lamduan",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 13.838000297546387,
+        "LONG": 101.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 270104,
+        "SUB_DISTRICT_NAME_THA": "โคกปี่ฆ้อง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Pi Khong",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 13.925000190734863,
+        "LONG": 102.02799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 270105,
+        "SUB_DISTRICT_NAME_THA": "ท่าแยก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yaek",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 14.064000129699707,
+        "LONG": 102.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 270106,
+        "SUB_DISTRICT_NAME_THA": "ท่าเกษม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kasem",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 13.765999794006348,
+        "LONG": 102.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 270108,
+        "SUB_DISTRICT_NAME_THA": "สระขวัญ",
+        "SUB_DISTRICT_NAME_ENG": "Sa Khwan",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 13.762999534606934,
+        "LONG": 102.00800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 270111,
+        "SUB_DISTRICT_NAME_THA": "หนองบอน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bon",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2701,
+        "LAT": 13.850000381469727,
+        "LONG": 102.08699798583984
+    }
+]

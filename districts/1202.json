@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 120201,
+        "SUB_DISTRICT_NAME_THA": "วัดชลอ",
+        "SUB_DISTRICT_NAME_ENG": "Wat Chalo",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.802000045776367,
+        "LONG": 100.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 120202,
+        "SUB_DISTRICT_NAME_THA": "บางกรวย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kruai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.809000015258789,
+        "LONG": 100.4990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 120203,
+        "SUB_DISTRICT_NAME_THA": "บางสีทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Si Thong",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.817999839782715,
+        "LONG": 100.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 120204,
+        "SUB_DISTRICT_NAME_THA": "บางขนุน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khanun",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.810999870300293,
+        "LONG": 100.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 120205,
+        "SUB_DISTRICT_NAME_THA": "บางขุนกอง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khun Kong",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.821000099182129,
+        "LONG": 100.44400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 120206,
+        "SUB_DISTRICT_NAME_THA": "บางคูเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khu Wiang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.821999549865723,
+        "LONG": 100.41699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 120207,
+        "SUB_DISTRICT_NAME_THA": "มหาสวัสดิ์",
+        "SUB_DISTRICT_NAME_ENG": "Mahasawat",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.805999755859375,
+        "LONG": 100.43399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 120208,
+        "SUB_DISTRICT_NAME_THA": "ปลายบาง",
+        "SUB_DISTRICT_NAME_ENG": "Plai Bang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.814000129699707,
+        "LONG": 100.4020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 120209,
+        "SUB_DISTRICT_NAME_THA": "ศาลากลาง",
+        "SUB_DISTRICT_NAME_ENG": "Sala Klang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1202,
+        "LAT": 13.8100004196167,
+        "LONG": 100.35800170898438
+    }
+]

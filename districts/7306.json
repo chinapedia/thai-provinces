@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 730601,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.71399974822998,
+        "LONG": 100.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 730602,
+        "SUB_DISTRICT_NAME_THA": "ทรงคนอง",
+        "SUB_DISTRICT_NAME_ENG": "Song Khanong",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.779999732971191,
+        "LONG": 100.26200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 730603,
+        "SUB_DISTRICT_NAME_THA": "หอมเกร็ด",
+        "SUB_DISTRICT_NAME_ENG": "Hom Kret",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.779000282287598,
+        "LONG": 100.23999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 730604,
+        "SUB_DISTRICT_NAME_THA": "บางกระทึก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krathuek",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.772000312805176,
+        "LONG": 100.30500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 730605,
+        "SUB_DISTRICT_NAME_THA": "บางเตย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Toei",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.786999702453613,
+        "LONG": 100.28900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 730606,
+        "SUB_DISTRICT_NAME_THA": "สามพราน",
+        "SUB_DISTRICT_NAME_ENG": "Sam Phran",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.715999603271484,
+        "LONG": 100.21900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 730607,
+        "SUB_DISTRICT_NAME_THA": "บางช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.70199966430664,
+        "LONG": 100.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 730608,
+        "SUB_DISTRICT_NAME_THA": "ไร่ขิง",
+        "SUB_DISTRICT_NAME_ENG": "Rai Khing",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.737000465393066,
+        "LONG": 100.28299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 730609,
+        "SUB_DISTRICT_NAME_THA": "ท่าตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Tha Talat",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.75100040435791,
+        "LONG": 100.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 730610,
+        "SUB_DISTRICT_NAME_THA": "กระทุ่มล้ม",
+        "SUB_DISTRICT_NAME_ENG": "Krathum Lom",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.737000465393066,
+        "LONG": 100.3219985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 730611,
+        "SUB_DISTRICT_NAME_THA": "คลองใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Mai",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.734000205993652,
+        "LONG": 100.17400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 730612,
+        "SUB_DISTRICT_NAME_THA": "ตลาดจินดา",
+        "SUB_DISTRICT_NAME_ENG": "Talat Chinda",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.697999954223633,
+        "LONG": 100.1500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 730613,
+        "SUB_DISTRICT_NAME_THA": "คลองจินดา",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chinda",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.677000045776367,
+        "LONG": 100.09200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 730614,
+        "SUB_DISTRICT_NAME_THA": "ยายชา",
+        "SUB_DISTRICT_NAME_ENG": "Yai Cha",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.732999801635742,
+        "LONG": 100.23500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 730615,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.6899995803833,
+        "LONG": 100.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 730616,
+        "SUB_DISTRICT_NAME_THA": "อ้อมใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Om Yai",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7306,
+        "LAT": 13.699999809265137,
+        "LONG": 100.26799774169922
+    }
+]

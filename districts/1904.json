@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190401,
+        "SUB_DISTRICT_NAME_THA": "หนองหมู",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mu",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1904,
+        "LAT": 14.288000106811523,
+        "LONG": 100.93199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 190402,
+        "SUB_DISTRICT_NAME_THA": "บ้านลำ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lam",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1904,
+        "LAT": 14.390999794006348,
+        "LONG": 100.97899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 190403,
+        "SUB_DISTRICT_NAME_THA": "คลองเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Ruea",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1904,
+        "LAT": 14.366000175476074,
+        "LONG": 101.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 190404,
+        "SUB_DISTRICT_NAME_THA": "วิหารแดง",
+        "SUB_DISTRICT_NAME_ENG": "Wihan Daeng",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1904,
+        "LAT": 14.312999725341797,
+        "LONG": 100.98999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 190405,
+        "SUB_DISTRICT_NAME_THA": "หนองสรวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Suang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1904,
+        "LAT": 14.34000015258789,
+        "LONG": 100.98300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 190406,
+        "SUB_DISTRICT_NAME_THA": "เจริญธรรม",
+        "SUB_DISTRICT_NAME_ENG": "Charoen Tham",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1904,
+        "LAT": 14.38700008392334,
+        "LONG": 101.00599670410156
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 801801,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำพรรณรา",
+        "SUB_DISTRICT_NAME_ENG": "Tham Phannara",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8018,
+        "LAT": 8.413999557495117,
+        "LONG": 99.37300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 801802,
+        "SUB_DISTRICT_NAME_THA": "คลองเส",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Se",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8018,
+        "LAT": 8.491000175476074,
+        "LONG": 99.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 801803,
+        "SUB_DISTRICT_NAME_THA": "ดุสิต",
+        "SUB_DISTRICT_NAME_ENG": "Dusit",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8018,
+        "LAT": 8.465999603271484,
+        "LONG": 99.34700012207031
+    }
+]

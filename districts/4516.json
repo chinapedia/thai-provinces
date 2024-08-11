@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 451601,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ทอง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Thong",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 15.972999572753906,
+        "LONG": 103.53500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 451602,
+        "SUB_DISTRICT_NAME_THA": "ศรีสมเด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Si Somdet",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 15.979999542236328,
+        "LONG": 103.4739990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 451603,
+        "SUB_DISTRICT_NAME_THA": "เมืองเปลือย",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Plueai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 16.01099967956543,
+        "LONG": 103.5510025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 451604,
+        "SUB_DISTRICT_NAME_THA": "หนองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 16.04400062561035,
+        "LONG": 103.54100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 451605,
+        "SUB_DISTRICT_NAME_THA": "สวนจิก",
+        "SUB_DISTRICT_NAME_ENG": "Suan Chik",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 16.034000396728516,
+        "LONG": 103.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 451606,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์สัย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 16.09600067138672,
+        "LONG": 103.4749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 451607,
+        "SUB_DISTRICT_NAME_THA": "หนองแวงควง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng Khuang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 15.949999809265137,
+        "LONG": 103.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 451608,
+        "SUB_DISTRICT_NAME_THA": "บ้านบาก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bak",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4516,
+        "LAT": 15.987000465393066,
+        "LONG": 103.51799774169922
+    }
+]

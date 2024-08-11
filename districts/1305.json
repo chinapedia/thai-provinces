@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 130501,
+        "SUB_DISTRICT_NAME_THA": "ระแหง",
+        "SUB_DISTRICT_NAME_ENG": "Rahaeng",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1305,
+        "LAT": 14.059000015258789,
+        "LONG": 100.39600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 130502,
+        "SUB_DISTRICT_NAME_THA": "ลาดหลุมแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Lat Lum Kaeo",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1305,
+        "LAT": 14.005999565124512,
+        "LONG": 100.41000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 130503,
+        "SUB_DISTRICT_NAME_THA": "คูบางหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Khu Bang Luang",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1305,
+        "LAT": 14.04699993133545,
+        "LONG": 100.46700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 130504,
+        "SUB_DISTRICT_NAME_THA": "คูขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Khu Khwang",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1305,
+        "LAT": 14.067999839782715,
+        "LONG": 100.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 130505,
+        "SUB_DISTRICT_NAME_THA": "คลองพระอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phra Udom",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1305,
+        "LAT": 13.989999771118164,
+        "LONG": 100.4489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 130506,
+        "SUB_DISTRICT_NAME_THA": "บ่อเงิน",
+        "SUB_DISTRICT_NAME_ENG": "Bo Ngoen",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1305,
+        "LAT": 14.10200023651123,
+        "LONG": 100.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 130507,
+        "SUB_DISTRICT_NAME_THA": "หน้าไม้",
+        "SUB_DISTRICT_NAME_ENG": "Na Mai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1305,
+        "LAT": 14.034000396728516,
+        "LONG": 100.35900115966797
+    }
+]

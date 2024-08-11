@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 390301,
+        "SUB_DISTRICT_NAME_THA": "โนนสัง",
+        "SUB_DISTRICT_NAME_ENG": "Non Sang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.871999740600586,
+        "LONG": 102.55999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 390302,
+        "SUB_DISTRICT_NAME_THA": "บ้านถิ่น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thin",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.98699951171875,
+        "LONG": 102.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 390303,
+        "SUB_DISTRICT_NAME_THA": "หนองเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ruea",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.8439998626709,
+        "LONG": 102.50399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 390304,
+        "SUB_DISTRICT_NAME_THA": "กุดดู่",
+        "SUB_DISTRICT_NAME_ENG": "Kut Du",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.97100067138672,
+        "LONG": 102.6500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 390305,
+        "SUB_DISTRICT_NAME_THA": "บ้านค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kho",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.854999542236328,
+        "LONG": 102.60099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 390306,
+        "SUB_DISTRICT_NAME_THA": "โนนเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Non Mueang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.84000015258789,
+        "LONG": 102.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 390307,
+        "SUB_DISTRICT_NAME_THA": "โคกใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khok Yai",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.80900001525879,
+        "LONG": 102.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 390308,
+        "SUB_DISTRICT_NAME_THA": "โคกม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Muang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.892000198364258,
+        "LONG": 102.4000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 390309,
+        "SUB_DISTRICT_NAME_THA": "นิคมพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Phatthana",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 16.93000030517578,
+        "LONG": 102.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 390310,
+        "SUB_DISTRICT_NAME_THA": "ปางกู่",
+        "SUB_DISTRICT_NAME_ENG": "Pang Ku",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3903,
+        "LAT": 17.003000259399414,
+        "LONG": 102.59300231933594
+    }
+]

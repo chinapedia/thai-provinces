@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 410201,
+        "SUB_DISTRICT_NAME_THA": "กุดจับ",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chap",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4102,
+        "LAT": 17.381999969482422,
+        "LONG": 102.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 410202,
+        "SUB_DISTRICT_NAME_THA": "ปะโค",
+        "SUB_DISTRICT_NAME_ENG": "Pakho",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4102,
+        "LAT": 17.479999542236328,
+        "LONG": 102.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 410203,
+        "SUB_DISTRICT_NAME_THA": "ขอนยูง",
+        "SUB_DISTRICT_NAME_ENG": "Khon Yung",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4102,
+        "LAT": 17.385000228881836,
+        "LONG": 102.45999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 410204,
+        "SUB_DISTRICT_NAME_THA": "เชียงเพ็ง",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Pheng",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4102,
+        "LAT": 17.489999771118164,
+        "LONG": 102.6520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 410205,
+        "SUB_DISTRICT_NAME_THA": "สร้างก่อ",
+        "SUB_DISTRICT_NAME_ENG": "Sang Ko",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4102,
+        "LAT": 17.479000091552734,
+        "LONG": 102.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 410206,
+        "SUB_DISTRICT_NAME_THA": "เมืองเพีย",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phia",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4102,
+        "LAT": 17.410999298095703,
+        "LONG": 102.5739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 410207,
+        "SUB_DISTRICT_NAME_THA": "ตาลเลียน",
+        "SUB_DISTRICT_NAME_ENG": "Tan Lian",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4102,
+        "LAT": 17.440000534057617,
+        "LONG": 102.42900085449219
+    }
+]

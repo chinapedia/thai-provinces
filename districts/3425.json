@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 342501,
+        "SUB_DISTRICT_NAME_THA": "คันไร่",
+        "SUB_DISTRICT_NAME_ENG": "Khan Rai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3425,
+        "LAT": 15.225000381469727,
+        "LONG": 105.33000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 342502,
+        "SUB_DISTRICT_NAME_THA": "ช่องเม็ก",
+        "SUB_DISTRICT_NAME_ENG": "Chong Mek",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3425,
+        "LAT": 15.12600040435791,
+        "LONG": 105.41400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 342503,
+        "SUB_DISTRICT_NAME_THA": "โนนก่อ",
+        "SUB_DISTRICT_NAME_ENG": "Non Ko",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3425,
+        "LAT": 14.993000030517578,
+        "LONG": 105.42500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 342504,
+        "SUB_DISTRICT_NAME_THA": "นิคมลำโดมน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Lam Dom Noi",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3425,
+        "LAT": 15.210000038146973,
+        "LONG": 105.41200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 342505,
+        "SUB_DISTRICT_NAME_THA": "ฝางคำ",
+        "SUB_DISTRICT_NAME_ENG": "Fang Kham",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3425,
+        "LAT": 15.133999824523926,
+        "LONG": 105.36399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 342506,
+        "SUB_DISTRICT_NAME_THA": "คำเขื่อนแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Kham Khuean Kaeo",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3425,
+        "LAT": 15.239999771118164,
+        "LONG": 105.50700378417969
+    }
+]

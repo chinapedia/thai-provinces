@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300401,
+        "SUB_DISTRICT_NAME_THA": "เมืองคง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Khong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.451000213623047,
+        "LONG": 102.33399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 300402,
+        "SUB_DISTRICT_NAME_THA": "คูขาด",
+        "SUB_DISTRICT_NAME_ENG": "Khu Khat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.444999694824219,
+        "LONG": 102.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 300403,
+        "SUB_DISTRICT_NAME_THA": "เทพาลัย",
+        "SUB_DISTRICT_NAME_ENG": "Thephalai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.368000030517578,
+        "LONG": 102.46600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 300404,
+        "SUB_DISTRICT_NAME_THA": "ตาจั่น",
+        "SUB_DISTRICT_NAME_ENG": "Ta Chan",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.314000129699707,
+        "LONG": 102.36799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 300405,
+        "SUB_DISTRICT_NAME_THA": "บ้านปรางค์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Prang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.473999977111816,
+        "LONG": 102.08000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 300406,
+        "SUB_DISTRICT_NAME_THA": "หนองมะนาว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Manao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.5,
+        "LONG": 102.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 300407,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.496000289916992,
+        "LONG": 102.16699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 300408,
+        "SUB_DISTRICT_NAME_THA": "โนนเต็ง",
+        "SUB_DISTRICT_NAME_ENG": "Non Teng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.449000358581543,
+        "LONG": 102.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 300409,
+        "SUB_DISTRICT_NAME_THA": "ดอนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Don Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.397000312805176,
+        "LONG": 102.35700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 300410,
+        "SUB_DISTRICT_NAME_THA": "ขามสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Kham Sombun",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3004,
+        "LAT": 15.371000289916992,
+        "LONG": 102.40299987792969
+    }
+]

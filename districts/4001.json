@@ -1,0 +1,164 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.437999725341797,
+        "LONG": 102.83699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 400102,
+        "SUB_DISTRICT_NAME_THA": "สำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Samran",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.53700065612793,
+        "LONG": 102.83699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 400103,
+        "SUB_DISTRICT_NAME_THA": "โคกสี",
+        "SUB_DISTRICT_NAME_ENG": "Khok Si",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.481000900268555,
+        "LONG": 102.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 400104,
+        "SUB_DISTRICT_NAME_THA": "ท่าพระ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phra",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.31399917602539,
+        "LONG": 102.81300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 400105,
+        "SUB_DISTRICT_NAME_THA": "บ้านทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thum",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.458999633789062,
+        "LONG": 102.70099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 400106,
+        "SUB_DISTRICT_NAME_THA": "เมืองเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Kao",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.385000228881836,
+        "LONG": 102.80899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 400107,
+        "SUB_DISTRICT_NAME_THA": "พระลับ",
+        "SUB_DISTRICT_NAME_ENG": "Phra Lap",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.400999069213867,
+        "LONG": 102.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 400108,
+        "SUB_DISTRICT_NAME_THA": "สาวะถี",
+        "SUB_DISTRICT_NAME_ENG": "Sawathi",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.538000106811523,
+        "LONG": 102.68399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 400109,
+        "SUB_DISTRICT_NAME_THA": "บ้านหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Wa",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.384000778198242,
+        "LONG": 102.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 400110,
+        "SUB_DISTRICT_NAME_THA": "บ้านค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kho",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.569000244140625,
+        "LONG": 102.75299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 400111,
+        "SUB_DISTRICT_NAME_THA": "แดงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Daeng Yai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.485000610351562,
+        "LONG": 102.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 400112,
+        "SUB_DISTRICT_NAME_THA": "ดอนช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Don Chang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.363000869750977,
+        "LONG": 102.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 400113,
+        "SUB_DISTRICT_NAME_THA": "ดอนหัน",
+        "SUB_DISTRICT_NAME_ENG": "Don Han",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.333999633789062,
+        "LONG": 102.86900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 400114,
+        "SUB_DISTRICT_NAME_THA": "ศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Sila",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.489999771118164,
+        "LONG": 102.85700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 400115,
+        "SUB_DISTRICT_NAME_THA": "บ้านเป็ด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pet",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.434999465942383,
+        "LONG": 102.78099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 400116,
+        "SUB_DISTRICT_NAME_THA": "หนองตูม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tum",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.516000747680664,
+        "LONG": 102.93099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 400117,
+        "SUB_DISTRICT_NAME_THA": "บึงเนียม",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Niam",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.43000030517578,
+        "LONG": 102.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 400118,
+        "SUB_DISTRICT_NAME_THA": "โนนท่อน",
+        "SUB_DISTRICT_NAME_ENG": "Non Thon",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4001,
+        "LAT": 16.594999313354492,
+        "LONG": 102.83699798583984
+    }
+]

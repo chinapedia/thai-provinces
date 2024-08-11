@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900201,
+        "SUB_DISTRICT_NAME_THA": "จะทิ้งพระ",
+        "SUB_DISTRICT_NAME_ENG": "Cha Thing Phra",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.468999862670898,
+        "LONG": 100.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 900202,
+        "SUB_DISTRICT_NAME_THA": "กระดังงา",
+        "SUB_DISTRICT_NAME_ENG": "Kradang Nga",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.508999824523926,
+        "LONG": 100.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 900203,
+        "SUB_DISTRICT_NAME_THA": "สนามชัย",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Chai",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.546999931335449,
+        "LONG": 100.41699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 900204,
+        "SUB_DISTRICT_NAME_THA": "ดีหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Di Luang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.579999923706055,
+        "LONG": 100.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 900205,
+        "SUB_DISTRICT_NAME_THA": "ชุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Chum Phon",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.603000164031982,
+        "LONG": 100.38500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 900206,
+        "SUB_DISTRICT_NAME_THA": "คลองรี",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Re",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.541999816894531,
+        "LONG": 100.38800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 900207,
+        "SUB_DISTRICT_NAME_THA": "คูขุด",
+        "SUB_DISTRICT_NAME_ENG": "Khu Khut",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.458000183105469,
+        "LONG": 100.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 900208,
+        "SUB_DISTRICT_NAME_THA": "ท่าหิน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Hin",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.394999980926514,
+        "LONG": 100.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 900209,
+        "SUB_DISTRICT_NAME_THA": "วัดจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Chan",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.381999969482422,
+        "LONG": 100.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 900210,
+        "SUB_DISTRICT_NAME_THA": "บ่อแดง",
+        "SUB_DISTRICT_NAME_ENG": "Bodaeng",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.406000137329102,
+        "LONG": 100.4540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 900211,
+        "SUB_DISTRICT_NAME_THA": "บ่อดาน",
+        "SUB_DISTRICT_NAME_ENG": "Bodan",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9002,
+        "LAT": 7.434999942779541,
+        "LONG": 100.4469985961914
+    }
+]

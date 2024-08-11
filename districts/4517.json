@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 451701,
+        "SUB_DISTRICT_NAME_THA": "ดินดำ",
+        "SUB_DISTRICT_NAME_ENG": "Din Dam",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.183000564575195,
+        "LONG": 103.67900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 451702,
+        "SUB_DISTRICT_NAME_THA": "ปาฝา",
+        "SUB_DISTRICT_NAME_ENG": "Pa Fa",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.139999389648438,
+        "LONG": 103.63700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 451703,
+        "SUB_DISTRICT_NAME_THA": "ม่วงลาด",
+        "SUB_DISTRICT_NAME_ENG": "Muang Lat",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.20400047302246,
+        "LONG": 103.54299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 451704,
+        "SUB_DISTRICT_NAME_THA": "จังหาร",
+        "SUB_DISTRICT_NAME_ENG": "Changhan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.139999389648438,
+        "LONG": 103.59400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 451705,
+        "SUB_DISTRICT_NAME_THA": "ดงสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Dong Sing",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.174999237060547,
+        "LONG": 103.58000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 451706,
+        "SUB_DISTRICT_NAME_THA": "ยางใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Yang Yai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.131999969482422,
+        "LONG": 103.67900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 451707,
+        "SUB_DISTRICT_NAME_THA": "ผักแว่น",
+        "SUB_DISTRICT_NAME_ENG": "Phak Waen",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.173999786376953,
+        "LONG": 103.53500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 451708,
+        "SUB_DISTRICT_NAME_THA": "แสนชาติ",
+        "SUB_DISTRICT_NAME_ENG": "Saen Chat",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4517,
+        "LAT": 16.176000595092773,
+        "LONG": 103.63899993896484
+    }
+]

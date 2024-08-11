@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550501,
+        "SUB_DISTRICT_NAME_THA": "ปัว",
+        "SUB_DISTRICT_NAME_ENG": "Pua",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.167999267578125,
+        "LONG": 100.90299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 550502,
+        "SUB_DISTRICT_NAME_THA": "แงง",
+        "SUB_DISTRICT_NAME_ENG": "Ngaeng",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.19700050354004,
+        "LONG": 100.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 550503,
+        "SUB_DISTRICT_NAME_THA": "สถาน",
+        "SUB_DISTRICT_NAME_ENG": "Sathan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.224000930786133,
+        "LONG": 100.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 550504,
+        "SUB_DISTRICT_NAME_THA": "ศิลาแลง",
+        "SUB_DISTRICT_NAME_ENG": "Sila Laeng",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.148000717163086,
+        "LONG": 100.96700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 550505,
+        "SUB_DISTRICT_NAME_THA": "ศิลาเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Sila Phet",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.097000122070312,
+        "LONG": 100.95700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 550506,
+        "SUB_DISTRICT_NAME_THA": "อวน",
+        "SUB_DISTRICT_NAME_ENG": "Ouan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.02899932861328,
+        "LONG": 100.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 550509,
+        "SUB_DISTRICT_NAME_THA": "ไชยวัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Chai Watthana",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.222000122070312,
+        "LONG": 100.8949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 550510,
+        "SUB_DISTRICT_NAME_THA": "เจดียชัย",
+        "SUB_DISTRICT_NAME_ENG": "Chedi Chai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.16200065612793,
+        "LONG": 100.83799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 550511,
+        "SUB_DISTRICT_NAME_THA": "ภูคา",
+        "SUB_DISTRICT_NAME_ENG": "Phu Kha",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.253999710083008,
+        "LONG": 101.09100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 550512,
+        "SUB_DISTRICT_NAME_THA": "สกาด",
+        "SUB_DISTRICT_NAME_ENG": "Sakat",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.270000457763672,
+        "LONG": 101.03099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 550513,
+        "SUB_DISTRICT_NAME_THA": "ป่ากลาง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Klang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.1299991607666,
+        "LONG": 100.9000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 550514,
+        "SUB_DISTRICT_NAME_THA": "วรนคร",
+        "SUB_DISTRICT_NAME_ENG": "Wara Nakhon",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5505,
+        "LAT": 19.176000595092773,
+        "LONG": 100.9469985961914
+    }
+]

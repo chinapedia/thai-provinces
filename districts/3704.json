@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 370401,
+        "SUB_DISTRICT_NAME_THA": "พนา",
+        "SUB_DISTRICT_NAME_ENG": "Phana",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3704,
+        "LAT": 15.678000450134277,
+        "LONG": 104.88200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 370402,
+        "SUB_DISTRICT_NAME_THA": "จานลาน",
+        "SUB_DISTRICT_NAME_ENG": "Chan Lan",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3704,
+        "LAT": 15.619000434875488,
+        "LONG": 104.9010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 370403,
+        "SUB_DISTRICT_NAME_THA": "ไม้กลอน",
+        "SUB_DISTRICT_NAME_ENG": "Mai Klon",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3704,
+        "LAT": 15.730999946594238,
+        "LONG": 104.81800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 370404,
+        "SUB_DISTRICT_NAME_THA": "พระเหลา",
+        "SUB_DISTRICT_NAME_ENG": "Phra Lao",
+        "PROVINCE_ID": 37,
+        "DISTRICT_ID": 3704,
+        "LAT": 15.737000465393066,
+        "LONG": 104.88200378417969
+    }
+]

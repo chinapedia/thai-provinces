@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 800301,
+        "SUB_DISTRICT_NAME_THA": "เขาแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Kaeo",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8003,
+        "LAT": 8.37399959564209,
+        "LONG": 99.74199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 800302,
+        "SUB_DISTRICT_NAME_THA": "ลานสกา",
+        "SUB_DISTRICT_NAME_ENG": "Lan Saka",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8003,
+        "LAT": 8.305000305175781,
+        "LONG": 99.77100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 800303,
+        "SUB_DISTRICT_NAME_THA": "ท่าดี",
+        "SUB_DISTRICT_NAME_ENG": "Tha Di",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8003,
+        "LAT": 8.442999839782715,
+        "LONG": 99.80400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 800304,
+        "SUB_DISTRICT_NAME_THA": "กำโลน",
+        "SUB_DISTRICT_NAME_ENG": "Kamlon",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8003,
+        "LAT": 8.442000389099121,
+        "LONG": 99.75700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 800305,
+        "SUB_DISTRICT_NAME_THA": "ขุนทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Khun Thale",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8003,
+        "LAT": 8.343999862670898,
+        "LONG": 99.8479995727539
+    }
+]

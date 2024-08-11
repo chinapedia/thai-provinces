@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 941001,
+        "SUB_DISTRICT_NAME_THA": "ยะรัง",
+        "SUB_DISTRICT_NAME_ENG": "Yarang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.769000053405762,
+        "LONG": 101.29900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 941002,
+        "SUB_DISTRICT_NAME_THA": "สะดาวา",
+        "SUB_DISTRICT_NAME_ENG": "Sadawa",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.821000099182129,
+        "LONG": 101.31099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 941003,
+        "SUB_DISTRICT_NAME_THA": "ประจัน",
+        "SUB_DISTRICT_NAME_ENG": "Prachan",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.796999931335449,
+        "LONG": 101.28900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 941004,
+        "SUB_DISTRICT_NAME_THA": "สะนอ",
+        "SUB_DISTRICT_NAME_ENG": "Sano",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.789000034332275,
+        "LONG": 101.322998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 941005,
+        "SUB_DISTRICT_NAME_THA": "ระแว้ง",
+        "SUB_DISTRICT_NAME_ENG": "Rawaeng",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.755000114440918,
+        "LONG": 101.3239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 941006,
+        "SUB_DISTRICT_NAME_THA": "ปิตูมุดี",
+        "SUB_DISTRICT_NAME_ENG": "Pitu Mudi",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.743000030517578,
+        "LONG": 101.28399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 941007,
+        "SUB_DISTRICT_NAME_THA": "วัด",
+        "SUB_DISTRICT_NAME_ENG": "Wat",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.735000133514404,
+        "LONG": 101.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 941008,
+        "SUB_DISTRICT_NAME_THA": "กระโด",
+        "SUB_DISTRICT_NAME_ENG": "Krado",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.7170000076293945,
+        "LONG": 101.29900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 941009,
+        "SUB_DISTRICT_NAME_THA": "คลองใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Mai",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.735000133514404,
+        "LONG": 101.26200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 941010,
+        "SUB_DISTRICT_NAME_THA": "เมาะมาวี",
+        "SUB_DISTRICT_NAME_ENG": "Mo Mawi",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.670000076293945,
+        "LONG": 101.3030014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 941011,
+        "SUB_DISTRICT_NAME_THA": "กอลำ",
+        "SUB_DISTRICT_NAME_ENG": "Ko Lam",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.672999858856201,
+        "LONG": 101.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 941012,
+        "SUB_DISTRICT_NAME_THA": "เขาตูม",
+        "SUB_DISTRICT_NAME_ENG": "Khao Tum",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9410,
+        "LAT": 6.603000164031982,
+        "LONG": 101.31400299072266
+    }
+]

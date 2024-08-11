@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 850101,
+        "SUB_DISTRICT_NAME_THA": "เขานิเวศน์",
+        "SUB_DISTRICT_NAME_ENG": "Khao Niwet",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 9.960000038146973,
+        "LONG": 98.62100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 850102,
+        "SUB_DISTRICT_NAME_THA": "ราชกรูด",
+        "SUB_DISTRICT_NAME_ENG": "Ratchakrut",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 9.720999717712402,
+        "LONG": 98.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 850103,
+        "SUB_DISTRICT_NAME_THA": "หงาว",
+        "SUB_DISTRICT_NAME_ENG": "Ngao",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 9.767000198364258,
+        "LONG": 98.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 850104,
+        "SUB_DISTRICT_NAME_THA": "บางริ้น",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rin",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 9.909000396728516,
+        "LONG": 98.64399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 850105,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 9.904999732971191,
+        "LONG": 98.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 850106,
+        "SUB_DISTRICT_NAME_THA": "บางนอน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Non",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 10.005000114440918,
+        "LONG": 98.64700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 850107,
+        "SUB_DISTRICT_NAME_THA": "หาดส้มแป้น",
+        "SUB_DISTRICT_NAME_ENG": "Hat Som Paen",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 9.916000366210938,
+        "LONG": 98.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 850108,
+        "SUB_DISTRICT_NAME_THA": "ทรายแดง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Daeng",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 10.130000114440918,
+        "LONG": 98.68000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 850109,
+        "SUB_DISTRICT_NAME_THA": "เกาะพยาม",
+        "SUB_DISTRICT_NAME_ENG": "Ko Phayam",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8501,
+        "LAT": 9.833000183105469,
+        "LONG": 98.44999694824219
+    }
+]

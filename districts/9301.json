@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930101,
+        "SUB_DISTRICT_NAME_THA": "คูหาสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Khu Ha Sa Wan",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.625,
+        "LONG": 100.08499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 930103,
+        "SUB_DISTRICT_NAME_THA": "เขาเจียก",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chiak",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.624000072479248,
+        "LONG": 100.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 930104,
+        "SUB_DISTRICT_NAME_THA": "ท่ามิหรำ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mi Ram",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.589000225067139,
+        "LONG": 100.05000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 930105,
+        "SUB_DISTRICT_NAME_THA": "โคกชะงาย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Cha Ngai",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.614999771118164,
+        "LONG": 100.00299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 930106,
+        "SUB_DISTRICT_NAME_THA": "นาท่อม",
+        "SUB_DISTRICT_NAME_ENG": "Na Thom",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.585000038146973,
+        "LONG": 100.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 930107,
+        "SUB_DISTRICT_NAME_THA": "ปรางหมู่",
+        "SUB_DISTRICT_NAME_ENG": "Prang Mu",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.646999835968018,
+        "LONG": 100.06800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 930108,
+        "SUB_DISTRICT_NAME_THA": "ท่าแค",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khae",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.545000076293945,
+        "LONG": 100.05000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 930109,
+        "SUB_DISTRICT_NAME_THA": "ลำปำ",
+        "SUB_DISTRICT_NAME_ENG": "Lam Pam",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.651000022888184,
+        "LONG": 100.14099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 930110,
+        "SUB_DISTRICT_NAME_THA": "ตำนาน",
+        "SUB_DISTRICT_NAME_ENG": "Tamnan",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.572000026702881,
+        "LONG": 100.08300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 930111,
+        "SUB_DISTRICT_NAME_THA": "ควนมะพร้าว",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Ma Phrao",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.5879998207092285,
+        "LONG": 100.1240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 930112,
+        "SUB_DISTRICT_NAME_THA": "ร่มเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Rom Mueang",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.556000232696533,
+        "LONG": 100.00800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 930113,
+        "SUB_DISTRICT_NAME_THA": "ชัยบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Chai Buri",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.697000026702881,
+        "LONG": 100.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 930114,
+        "SUB_DISTRICT_NAME_THA": "นาโหนด",
+        "SUB_DISTRICT_NAME_ENG": "Na Not",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.506999969482422,
+        "LONG": 100.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 930115,
+        "SUB_DISTRICT_NAME_THA": "พญาขัน",
+        "SUB_DISTRICT_NAME_ENG": "Phaya Khan",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9301,
+        "LAT": 7.6519999504089355,
+        "LONG": 100.10700225830078
+    }
+]

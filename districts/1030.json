@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 103001,
+        "SUB_DISTRICT_NAME_THA": "ลาดยาว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1030,
+        "LAT": 13.826000213623047,
+        "LONG": 100.56500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 961308,
+        "SUB_DISTRICT_NAME_THA": "จอมพล",
+        "SUB_DISTRICT_NAME_ENG": "Chom Phon",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1030,
+        "LAT": 13.8100004196167,
+        "LONG": 100.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 961309,
+        "SUB_DISTRICT_NAME_THA": "จตุจักร",
+        "SUB_DISTRICT_NAME_ENG": "Chatuchak",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1030,
+        "LAT": 13.812999725341797,
+        "LONG": 100.51599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 961319,
+        "SUB_DISTRICT_NAME_THA": "จันทรเกษม",
+        "SUB_DISTRICT_NAME_ENG": "Chandrakasem",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1030,
+        "LAT": 13.81687068939209,
+        "LONG": 100.57634735107422
+    },
+    {
+        "SUB_DISTRICT_ID": 961322,
+        "SUB_DISTRICT_NAME_THA": "เสนานิคม",
+        "SUB_DISTRICT_NAME_ENG": "Sena Nikhom",
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1030,
+        "LAT": 15.615799903869629,
+        "LONG": 102.41300201416016
+    }
+]

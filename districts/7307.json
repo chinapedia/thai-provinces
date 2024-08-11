@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 730701,
+        "SUB_DISTRICT_NAME_THA": "ศาลายา",
+        "SUB_DISTRICT_NAME_ENG": "Sala Ya",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7307,
+        "LAT": 13.812999725341797,
+        "LONG": 100.30500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 730702,
+        "SUB_DISTRICT_NAME_THA": "คลองโยง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Yong",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7307,
+        "LAT": 13.862000465393066,
+        "LONG": 100.28099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 730703,
+        "SUB_DISTRICT_NAME_THA": "มหาสวัสดิ์",
+        "SUB_DISTRICT_NAME_ENG": "Mahasawat",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7307,
+        "LAT": 13.8149995803833,
+        "LONG": 100.26200103759766
+    }
+]

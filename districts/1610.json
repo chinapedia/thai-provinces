@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 161001,
+        "SUB_DISTRICT_NAME_THA": "ลำสนธิ",
+        "SUB_DISTRICT_NAME_ENG": "Lam Sonthi",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1610,
+        "LAT": 15.340999603271484,
+        "LONG": 101.36199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 161002,
+        "SUB_DISTRICT_NAME_THA": "ซับสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Sap Sombun",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1610,
+        "LAT": 15.192999839782715,
+        "LONG": 101.35399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 161003,
+        "SUB_DISTRICT_NAME_THA": "หนองรี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ri",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1610,
+        "LAT": 15.281999588012695,
+        "LONG": 101.31900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 161004,
+        "SUB_DISTRICT_NAME_THA": "กุดตาเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Kut Ta Phet",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1610,
+        "LAT": 15.52299976348877,
+        "LONG": 101.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 161005,
+        "SUB_DISTRICT_NAME_THA": "เขารวก",
+        "SUB_DISTRICT_NAME_ENG": "Khao Ruak",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1610,
+        "LAT": 15.37399959564209,
+        "LONG": 101.33000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 161006,
+        "SUB_DISTRICT_NAME_THA": "เขาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Noi",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1610,
+        "LAT": 15.112000465393066,
+        "LONG": 101.38700103759766
+    }
+]

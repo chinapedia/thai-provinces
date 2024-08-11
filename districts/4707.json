@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470701,
+        "SUB_DISTRICT_NAME_THA": "นิคมน้ำอูน",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Nam Un",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4707,
+        "LAT": 17.142000198364258,
+        "LONG": 103.6449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 470702,
+        "SUB_DISTRICT_NAME_THA": "หนองปลิง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pling",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4707,
+        "LAT": 17.18000030517578,
+        "LONG": 103.7490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 470703,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4707,
+        "LAT": 17.148000717163086,
+        "LONG": 103.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 470704,
+        "SUB_DISTRICT_NAME_THA": "สุวรรณคาม",
+        "SUB_DISTRICT_NAME_ENG": "Suwanakham",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4707,
+        "LAT": 17.155000686645508,
+        "LONG": 103.71199798583984
+    }
+]

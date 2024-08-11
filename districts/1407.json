@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140701,
+        "SUB_DISTRICT_NAME_THA": "บางปะหัน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pahan",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.458000183105469,
+        "LONG": 100.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 140702,
+        "SUB_DISTRICT_NAME_THA": "ขยาย",
+        "SUB_DISTRICT_NAME_ENG": "Khayai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.413999557495117,
+        "LONG": 100.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 140703,
+        "SUB_DISTRICT_NAME_THA": "บางเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Duea",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.435999870300293,
+        "LONG": 100.57599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 140704,
+        "SUB_DISTRICT_NAME_THA": "เสาธง",
+        "SUB_DISTRICT_NAME_ENG": "Sao Thong",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.496000289916992,
+        "LONG": 100.54900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 140705,
+        "SUB_DISTRICT_NAME_THA": "ทางกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Thang Klang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.512999534606934,
+        "LONG": 100.54399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 140706,
+        "SUB_DISTRICT_NAME_THA": "บางเพลิง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phloeng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.5,
+        "LONG": 100.5770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 140707,
+        "SUB_DISTRICT_NAME_THA": "หันสัง",
+        "SUB_DISTRICT_NAME_ENG": "Han Sang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.51200008392334,
+        "LONG": 100.51699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 140708,
+        "SUB_DISTRICT_NAME_THA": "บางนางร้า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nang Ra",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.473999977111816,
+        "LONG": 100.53099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 140709,
+        "SUB_DISTRICT_NAME_THA": "ตานิม",
+        "SUB_DISTRICT_NAME_ENG": "Tanim",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.491000175476074,
+        "LONG": 100.53199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 140710,
+        "SUB_DISTRICT_NAME_THA": "ทับน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Thap Nam",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.46399974822998,
+        "LONG": 100.50800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 140711,
+        "SUB_DISTRICT_NAME_THA": "บ้านม้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ma",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.491999626159668,
+        "LONG": 100.51000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 140712,
+        "SUB_DISTRICT_NAME_THA": "ขวัญเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Khwan Mueang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.444000244140625,
+        "LONG": 100.53600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 140713,
+        "SUB_DISTRICT_NAME_THA": "บ้านลี่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Li",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.449000358581543,
+        "LONG": 100.52100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 140714,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์สามต้น",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sam Ton",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.420999526977539,
+        "LONG": 100.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 140715,
+        "SUB_DISTRICT_NAME_THA": "พุทเลา",
+        "SUB_DISTRICT_NAME_ENG": "Phut Lao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.418999671936035,
+        "LONG": 100.5250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 140716,
+        "SUB_DISTRICT_NAME_THA": "ตาลเอน",
+        "SUB_DISTRICT_NAME_ENG": "Tan En",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.52400016784668,
+        "LONG": 100.56300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 140717,
+        "SUB_DISTRICT_NAME_THA": "บ้านขล้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khlo",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1407,
+        "LAT": 14.531999588012695,
+        "LONG": 100.58599853515625
+    }
+]

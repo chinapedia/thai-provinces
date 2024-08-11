@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 390101,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.167999267578125,
+        "LONG": 102.44400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 390102,
+        "SUB_DISTRICT_NAME_THA": "หนองภัยศูนย์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai Sun",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.26300048828125,
+        "LONG": 102.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 390103,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chai",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.211000442504883,
+        "LONG": 102.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 390104,
+        "SUB_DISTRICT_NAME_THA": "หนองสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sawan",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.200000762939453,
+        "LONG": 102.31700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 390105,
+        "SUB_DISTRICT_NAME_THA": "หัวนา",
+        "SUB_DISTRICT_NAME_ENG": "Hua Na",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.031999588012695,
+        "LONG": 102.38999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 390106,
+        "SUB_DISTRICT_NAME_THA": "บ้านขาม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kham",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.111000061035156,
+        "LONG": 102.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 390107,
+        "SUB_DISTRICT_NAME_THA": "นามะเฟือง",
+        "SUB_DISTRICT_NAME_ENG": "Na Mafueang",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.04599952697754,
+        "LONG": 102.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 390108,
+        "SUB_DISTRICT_NAME_THA": "บ้านพร้าว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phrao",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.101999282836914,
+        "LONG": 102.39199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 390109,
+        "SUB_DISTRICT_NAME_THA": "โนนขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Non Khamin",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.163999557495117,
+        "LONG": 102.28299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 390110,
+        "SUB_DISTRICT_NAME_THA": "ลำภู",
+        "SUB_DISTRICT_NAME_ENG": "Lamphu",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.243000030517578,
+        "LONG": 102.44000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 390111,
+        "SUB_DISTRICT_NAME_THA": "กุดจิก",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chik",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.33300018310547,
+        "LONG": 102.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 390112,
+        "SUB_DISTRICT_NAME_THA": "โนนทัน",
+        "SUB_DISTRICT_NAME_ENG": "Non Than",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.2450008392334,
+        "LONG": 102.50299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 390113,
+        "SUB_DISTRICT_NAME_THA": "นาคำไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Na Kham Hai",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.280000686645508,
+        "LONG": 102.30400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 390114,
+        "SUB_DISTRICT_NAME_THA": "ป่าไม้งาม",
+        "SUB_DISTRICT_NAME_ENG": "Pa Mai Ngam",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 16.974000930786133,
+        "LONG": 102.36599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 390115,
+        "SUB_DISTRICT_NAME_THA": "หนองหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Wa",
+        "PROVINCE_ID": 39,
+        "DISTRICT_ID": 3901,
+        "LAT": 17.14699935913086,
+        "LONG": 102.3499984741211
+    }
+]

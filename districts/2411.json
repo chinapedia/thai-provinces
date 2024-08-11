@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 241101,
+        "SUB_DISTRICT_NAME_THA": "ก้อนแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Kon Kaeo",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2411,
+        "LAT": 13.765000343322754,
+        "LONG": 101.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 241102,
+        "SUB_DISTRICT_NAME_THA": "คลองเขื่อน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khuean",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2411,
+        "LAT": 13.772000312805176,
+        "LONG": 101.18499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 241103,
+        "SUB_DISTRICT_NAME_THA": "บางเล่า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Lao",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2411,
+        "LAT": 13.720999717712402,
+        "LONG": 101.1500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 241104,
+        "SUB_DISTRICT_NAME_THA": "บางโรง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rong",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2411,
+        "LAT": 13.824000358581543,
+        "LONG": 101.13700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 241105,
+        "SUB_DISTRICT_NAME_THA": "บางตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Talat",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2411,
+        "LAT": 13.736000061035156,
+        "LONG": 101.16500091552734
+    }
+]

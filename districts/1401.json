@@ -1,0 +1,191 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140101,
+        "SUB_DISTRICT_NAME_THA": "ประตูชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pratu Chai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.348999977111816,
+        "LONG": 100.5510025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 140102,
+        "SUB_DISTRICT_NAME_THA": "กะมัง",
+        "SUB_DISTRICT_NAME_ENG": "Kamang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.340999603271484,
+        "LONG": 100.58100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 140103,
+        "SUB_DISTRICT_NAME_THA": "หอรัตนไชย",
+        "SUB_DISTRICT_NAME_ENG": "Ho Rattana Chai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.354000091552734,
+        "LONG": 100.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 140104,
+        "SUB_DISTRICT_NAME_THA": "หัวรอ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Ro",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.368000030517578,
+        "LONG": 100.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 140105,
+        "SUB_DISTRICT_NAME_THA": "ท่าวาสุกรี",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wasukri",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.361000061035156,
+        "LONG": 100.552001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 140106,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ลิง",
+        "SUB_DISTRICT_NAME_ENG": "Phai Ling",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.355999946594238,
+        "LONG": 100.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 140107,
+        "SUB_DISTRICT_NAME_THA": "ปากกราน",
+        "SUB_DISTRICT_NAME_ENG": "Pak Kran",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.3100004196167,
+        "LONG": 100.53199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 140108,
+        "SUB_DISTRICT_NAME_THA": "ภูเขาทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Khao Thong",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.364999771118164,
+        "LONG": 100.54199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 140109,
+        "SUB_DISTRICT_NAME_THA": "สำเภาล่ม",
+        "SUB_DISTRICT_NAME_ENG": "Samphao Lom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.34000015258789,
+        "LONG": 100.56999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 140110,
+        "SUB_DISTRICT_NAME_THA": "สวนพริก",
+        "SUB_DISTRICT_NAME_ENG": "Suan Phrik",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.390999794006348,
+        "LONG": 100.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 140111,
+        "SUB_DISTRICT_NAME_THA": "คลองตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Takhian",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.331000328063965,
+        "LONG": 100.55400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 140112,
+        "SUB_DISTRICT_NAME_THA": "วัดตูม",
+        "SUB_DISTRICT_NAME_ENG": "Wat Tum",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.390000343322754,
+        "LONG": 100.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 140113,
+        "SUB_DISTRICT_NAME_THA": "หันตรา",
+        "SUB_DISTRICT_NAME_ENG": "Han Tra",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.371000289916992,
+        "LONG": 100.5999984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 140114,
+        "SUB_DISTRICT_NAME_THA": "ลุมพลี",
+        "SUB_DISTRICT_NAME_ENG": "Lumphli",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.37600040435791,
+        "LONG": 100.5479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 140115,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.390000343322754,
+        "LONG": 100.52100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 140116,
+        "SUB_DISTRICT_NAME_THA": "บ้านเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ko",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.388999938964844,
+        "LONG": 100.58200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 140117,
+        "SUB_DISTRICT_NAME_THA": "คลองสวนพลู",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Suan Phu",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.333999633789062,
+        "LONG": 100.59500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 140118,
+        "SUB_DISTRICT_NAME_THA": "คลองสระบัว",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sa Bua",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.371000289916992,
+        "LONG": 100.56300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 140119,
+        "SUB_DISTRICT_NAME_THA": "เกาะเรียน",
+        "SUB_DISTRICT_NAME_ENG": "Ko Rian",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.317999839782715,
+        "LONG": 100.5790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 140120,
+        "SUB_DISTRICT_NAME_THA": "บ้านป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.347000122070312,
+        "LONG": 100.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 140121,
+        "SUB_DISTRICT_NAME_THA": "บ้านรุม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Run",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1401,
+        "LAT": 14.312000274658203,
+        "LONG": 100.55899810791016
+    }
+]

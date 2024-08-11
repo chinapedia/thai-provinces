@@ -1,0 +1,164 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200101,
+        "SUB_DISTRICT_NAME_THA": "บางปลาสร้อย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pla Soi",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.36400032043457,
+        "LONG": 100.98699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 200102,
+        "SUB_DISTRICT_NAME_THA": "มะขามหย่ง",
+        "SUB_DISTRICT_NAME_ENG": "Makham Yong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.371999740600586,
+        "LONG": 100.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 200103,
+        "SUB_DISTRICT_NAME_THA": "บ้านโขด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khot",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.37600040435791,
+        "LONG": 100.98999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 200104,
+        "SUB_DISTRICT_NAME_THA": "แสนสุข",
+        "SUB_DISTRICT_NAME_ENG": "Saen Suk",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.27400016784668,
+        "LONG": 100.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 200105,
+        "SUB_DISTRICT_NAME_THA": "บ้านสวน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Suan",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.347000122070312,
+        "LONG": 100.97699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 200106,
+        "SUB_DISTRICT_NAME_THA": "หนองรี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ri",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.307000160217285,
+        "LONG": 101.05699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 200107,
+        "SUB_DISTRICT_NAME_THA": "นาป่า",
+        "SUB_DISTRICT_NAME_ENG": "Na Pa",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.385000228881836,
+        "LONG": 101.02999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 200108,
+        "SUB_DISTRICT_NAME_THA": "หนองข้างคอก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khang Khok",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.305000305175781,
+        "LONG": 101.00599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 200109,
+        "SUB_DISTRICT_NAME_THA": "ดอนหัวฬอ",
+        "SUB_DISTRICT_NAME_ENG": "Don Hua Lo",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.420999526977539,
+        "LONG": 101.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 200110,
+        "SUB_DISTRICT_NAME_THA": "หนองไม้แดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mai Daeng",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.406000137329102,
+        "LONG": 101.00299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 200111,
+        "SUB_DISTRICT_NAME_THA": "บางทราย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.392999649047852,
+        "LONG": 100.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 200112,
+        "SUB_DISTRICT_NAME_THA": "คลองตำหรุ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Tamru",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.440999984741211,
+        "LONG": 100.98200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 200113,
+        "SUB_DISTRICT_NAME_THA": "เหมือง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.262999534606934,
+        "LONG": 100.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 200114,
+        "SUB_DISTRICT_NAME_THA": "บ้านปึก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Puek",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.302000045776367,
+        "LONG": 100.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 200115,
+        "SUB_DISTRICT_NAME_THA": "ห้วยกะปิ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Kapi",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.303999900817871,
+        "LONG": 100.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 200116,
+        "SUB_DISTRICT_NAME_THA": "เสม็ด",
+        "SUB_DISTRICT_NAME_ENG": "Samet",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.326000213623047,
+        "LONG": 100.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 200117,
+        "SUB_DISTRICT_NAME_THA": "อ่างศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Ang Sila",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.324999809265137,
+        "LONG": 100.92900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 200118,
+        "SUB_DISTRICT_NAME_THA": "สำนักบก",
+        "SUB_DISTRICT_NAME_ENG": "Samnak Bok",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2001,
+        "LAT": 13.368000030517578,
+        "LONG": 101.06099700927734
+    }
+]

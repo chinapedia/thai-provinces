@@ -1,0 +1,173 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331001,
+        "SUB_DISTRICT_NAME_THA": "กำแพง",
+        "SUB_DISTRICT_NAME_ENG": "Kamphaeng",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.100000381469727,
+        "LONG": 104.1500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 331002,
+        "SUB_DISTRICT_NAME_THA": "อี่หล่ำ",
+        "SUB_DISTRICT_NAME_ENG": "I Lam",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.197999954223633,
+        "LONG": 104.18800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 331003,
+        "SUB_DISTRICT_NAME_THA": "ก้านเหลือง",
+        "SUB_DISTRICT_NAME_ENG": "Kan Lueang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.052000045776367,
+        "LONG": 104.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 331004,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งไชย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Chai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.015999794006348,
+        "LONG": 104.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 331005,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.145999908447266,
+        "LONG": 104.14800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 331006,
+        "SUB_DISTRICT_NAME_THA": "แขม",
+        "SUB_DISTRICT_NAME_ENG": "Khaem",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.197999954223633,
+        "LONG": 104.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 331007,
+        "SUB_DISTRICT_NAME_THA": "หนองไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.145000457763672,
+        "LONG": 104.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 331008,
+        "SUB_DISTRICT_NAME_THA": "ขะยูง",
+        "SUB_DISTRICT_NAME_ENG": "Khayung",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.12600040435791,
+        "LONG": 104.23799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 331010,
+        "SUB_DISTRICT_NAME_THA": "ตาเกษ",
+        "SUB_DISTRICT_NAME_ENG": "Ta Kat",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.142999649047852,
+        "LONG": 104.20999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 331011,
+        "SUB_DISTRICT_NAME_THA": "หัวช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Chang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.25100040435791,
+        "LONG": 104.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 331012,
+        "SUB_DISTRICT_NAME_THA": "รังแร้ง",
+        "SUB_DISTRICT_NAME_ENG": "Rang Raeng",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.222999572753906,
+        "LONG": 104.22799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 331014,
+        "SUB_DISTRICT_NAME_THA": "แต้",
+        "SUB_DISTRICT_NAME_ENG": "Tae",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.119999885559082,
+        "LONG": 104.1780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 331015,
+        "SUB_DISTRICT_NAME_THA": "แข้",
+        "SUB_DISTRICT_NAME_ENG": "Khae",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.067000389099121,
+        "LONG": 104.1760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 331016,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.17300033569336,
+        "LONG": 104.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 331017,
+        "SUB_DISTRICT_NAME_THA": "ปะอาว",
+        "SUB_DISTRICT_NAME_ENG": "Pa-Ao",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.10099983215332,
+        "LONG": 104.21399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 331018,
+        "SUB_DISTRICT_NAME_THA": "หนองห้าง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.097999572753906,
+        "LONG": 104.08799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 331022,
+        "SUB_DISTRICT_NAME_THA": "สระกำแพงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kamphaeng Yai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.093000411987305,
+        "LONG": 104.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 331024,
+        "SUB_DISTRICT_NAME_THA": "โคกหล่าม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Lam",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 15.220000267028809,
+        "LONG": 104.1709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 331025,
+        "SUB_DISTRICT_NAME_THA": "โคกจาน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Chan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3310,
+        "LAT": 14.965999603271484,
+        "LONG": 104.10399627685547
+    }
+]

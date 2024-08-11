@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 230601,
+        "SUB_DISTRICT_NAME_THA": "เกาะหมาก",
+        "SUB_DISTRICT_NAME_ENG": "Ko Mak",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2306,
+        "LAT": 11.817999839782715,
+        "LONG": 102.48100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 230602,
+        "SUB_DISTRICT_NAME_THA": "เกาะกูด",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kut",
+        "PROVINCE_ID": 23,
+        "DISTRICT_ID": 2306,
+        "LAT": 11.656999588012695,
+        "LONG": 102.56700134277344
+    }
+]

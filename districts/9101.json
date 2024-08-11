@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 910101,
+        "SUB_DISTRICT_NAME_THA": "พิมาน",
+        "SUB_DISTRICT_NAME_ENG": "Phiman",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.614999771118164,
+        "LONG": 100.07099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 910102,
+        "SUB_DISTRICT_NAME_THA": "คลองขุด",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khut",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.625,
+        "LONG": 100.12000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 910103,
+        "SUB_DISTRICT_NAME_THA": "ควนขัน",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Khan",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.632999897003174,
+        "LONG": 100.03600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 910104,
+        "SUB_DISTRICT_NAME_THA": "บ้านควน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khuan",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.690999984741211,
+        "LONG": 100.04900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 910105,
+        "SUB_DISTRICT_NAME_THA": "ฉลุง",
+        "SUB_DISTRICT_NAME_ENG": "Chalung",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.724999904632568,
+        "LONG": 100.03500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 910106,
+        "SUB_DISTRICT_NAME_THA": "เกาะสาหร่าย",
+        "SUB_DISTRICT_NAME_ENG": "Ko Sarai",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.540999889373779,
+        "LONG": 99.29900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 910107,
+        "SUB_DISTRICT_NAME_THA": "ตันหยงโป",
+        "SUB_DISTRICT_NAME_ENG": "Tanyong Po",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.589000225067139,
+        "LONG": 99.93599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 910108,
+        "SUB_DISTRICT_NAME_THA": "เจ๊ะบิลัง",
+        "SUB_DISTRICT_NAME_ENG": "Che Bi Lang",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.686999797821045,
+        "LONG": 99.96499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 910109,
+        "SUB_DISTRICT_NAME_THA": "ตำมะลัง",
+        "SUB_DISTRICT_NAME_ENG": "Tam Malang",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.556000232696533,
+        "LONG": 100.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 910110,
+        "SUB_DISTRICT_NAME_THA": "ปูยู",
+        "SUB_DISTRICT_NAME_ENG": "Puyu",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.517000198364258,
+        "LONG": 100.1240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 910111,
+        "SUB_DISTRICT_NAME_THA": "ควนโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Pho",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.769000053405762,
+        "LONG": 100.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 910112,
+        "SUB_DISTRICT_NAME_THA": "เกตรี",
+        "SUB_DISTRICT_NAME_ENG": "Ketari",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9101,
+        "LAT": 6.702000141143799,
+        "LONG": 100.09500122070312
+    }
+]

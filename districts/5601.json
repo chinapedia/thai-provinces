@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560101,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.172000885009766,
+        "LONG": 99.89399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 560102,
+        "SUB_DISTRICT_NAME_THA": "แม่ต๋ำ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Tam",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.142000198364258,
+        "LONG": 99.91200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 560104,
+        "SUB_DISTRICT_NAME_THA": "แม่นาเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Na Ruea",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.08799934387207,
+        "LONG": 99.7969970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 560105,
+        "SUB_DISTRICT_NAME_THA": "บ้านตุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tun",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.141000747680664,
+        "LONG": 99.822998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 560106,
+        "SUB_DISTRICT_NAME_THA": "บ้านต๊ำ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tam",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.215999603271484,
+        "LONG": 99.75599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 560107,
+        "SUB_DISTRICT_NAME_THA": "บ้านต๋อม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tom",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.197999954223633,
+        "LONG": 99.80000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 560108,
+        "SUB_DISTRICT_NAME_THA": "แม่ปีม",
+        "SUB_DISTRICT_NAME_ENG": "Mae Puem",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.336999893188477,
+        "LONG": 99.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 560110,
+        "SUB_DISTRICT_NAME_THA": "แม่กา",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ka",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.048999786376953,
+        "LONG": 99.91699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 560111,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.295000076293945,
+        "LONG": 99.73300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 560112,
+        "SUB_DISTRICT_NAME_THA": "จำป่าหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Champa Wai",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.104999542236328,
+        "LONG": 99.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 560113,
+        "SUB_DISTRICT_NAME_THA": "ท่าวังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wang Thong",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.20199966430664,
+        "LONG": 99.927001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 560114,
+        "SUB_DISTRICT_NAME_THA": "แม่ใส",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sai",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.12700080871582,
+        "LONG": 99.88600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 560115,
+        "SUB_DISTRICT_NAME_THA": "บ้านสาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.1560001373291,
+        "LONG": 99.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 560116,
+        "SUB_DISTRICT_NAME_THA": "ท่าจำปี",
+        "SUB_DISTRICT_NAME_ENG": "Tha Champi",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.2450008392334,
+        "LONG": 99.81500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 560118,
+        "SUB_DISTRICT_NAME_THA": "สันป่าม่วง",
+        "SUB_DISTRICT_NAME_ENG": "San Pa Muang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5601,
+        "LAT": 19.166000366210938,
+        "LONG": 99.75900268554688
+    }
+]

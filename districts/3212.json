@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321201,
+        "SUB_DISTRICT_NAME_THA": "สำโรงทาบ",
+        "SUB_DISTRICT_NAME_ENG": "Samrong Thap",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 14.98900032043457,
+        "LONG": 103.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 321202,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่ล้อม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai Lom",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.020000457763672,
+        "LONG": 103.90499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 321203,
+        "SUB_DISTRICT_NAME_THA": "กระออม",
+        "SUB_DISTRICT_NAME_ENG": "Kra-Om",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.130000114440918,
+        "LONG": 103.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 321204,
+        "SUB_DISTRICT_NAME_THA": "หนองฮะ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ha",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.097000122070312,
+        "LONG": 103.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 321205,
+        "SUB_DISTRICT_NAME_THA": "ศรีสุข",
+        "SUB_DISTRICT_NAME_ENG": "Si Suk",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.069999694824219,
+        "LONG": 103.9489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 321206,
+        "SUB_DISTRICT_NAME_THA": "เกาะแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kaeo",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 14.958000183105469,
+        "LONG": 103.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 321207,
+        "SUB_DISTRICT_NAME_THA": "หมื่นศรี",
+        "SUB_DISTRICT_NAME_ENG": "Muen Si",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.003000259399414,
+        "LONG": 103.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 321208,
+        "SUB_DISTRICT_NAME_THA": "เสม็จ",
+        "SUB_DISTRICT_NAME_ENG": "Samet",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.092000007629395,
+        "LONG": 103.875
+    },
+    {
+        "SUB_DISTRICT_ID": 321209,
+        "SUB_DISTRICT_NAME_THA": "สะโน",
+        "SUB_DISTRICT_NAME_ENG": "Sano",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.065999984741211,
+        "LONG": 103.9990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 321210,
+        "SUB_DISTRICT_NAME_THA": "ประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Pradu",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3212,
+        "LAT": 15.038999557495117,
+        "LONG": 103.9520034790039
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540101,
+        "SUB_DISTRICT_NAME_THA": "ในเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Wiang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.139999389648438,
+        "LONG": 100.14199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 540102,
+        "SUB_DISTRICT_NAME_THA": "นาจักร",
+        "SUB_DISTRICT_NAME_ENG": "Na Chak",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.113000869750977,
+        "LONG": 100.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 540103,
+        "SUB_DISTRICT_NAME_THA": "นาชำ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Cham",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.18600082397461,
+        "LONG": 100.25499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 540104,
+        "SUB_DISTRICT_NAME_THA": "ป่าแดง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Daeng",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.062999725341797,
+        "LONG": 100.31600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 540105,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งโฮ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Hong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.187999725341797,
+        "LONG": 100.19599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 540106,
+        "SUB_DISTRICT_NAME_THA": "เหมืองหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Mo",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.163000106811523,
+        "LONG": 100.20999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 540107,
+        "SUB_DISTRICT_NAME_THA": "วังธง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.208999633789062,
+        "LONG": 100.11000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 540108,
+        "SUB_DISTRICT_NAME_THA": "แม่หล่าย",
+        "SUB_DISTRICT_NAME_ENG": "Mae Lai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.21500015258789,
+        "LONG": 100.2040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 540109,
+        "SUB_DISTRICT_NAME_THA": "ห้วยม้า",
+        "SUB_DISTRICT_NAME_ENG": "Huai Ma",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.22800064086914,
+        "LONG": 100.23699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 540110,
+        "SUB_DISTRICT_NAME_THA": "ป่าแมต",
+        "SUB_DISTRICT_NAME_ENG": "Pa Maet",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.158000946044922,
+        "LONG": 100.09200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 540111,
+        "SUB_DISTRICT_NAME_THA": "บ้านถิ่น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thin",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.15399932861328,
+        "LONG": 100.2239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 540112,
+        "SUB_DISTRICT_NAME_THA": "สวนเขื่อน",
+        "SUB_DISTRICT_NAME_ENG": "Suan Khuean",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.128000259399414,
+        "LONG": 100.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 540113,
+        "SUB_DISTRICT_NAME_THA": "วังหงษ์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Hong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.246000289916992,
+        "LONG": 100.13899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 540114,
+        "SUB_DISTRICT_NAME_THA": "แม่คำมี",
+        "SUB_DISTRICT_NAME_ENG": "Mae Kham Mi",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.246999740600586,
+        "LONG": 100.21700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 540115,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกวาว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kwao",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.165000915527344,
+        "LONG": 100.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 540116,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.229000091552734,
+        "LONG": 100.1259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 540117,
+        "SUB_DISTRICT_NAME_THA": "แม่ยม",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yom",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.187000274658203,
+        "LONG": 100.15699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 540118,
+        "SUB_DISTRICT_NAME_THA": "ช่อแฮ",
+        "SUB_DISTRICT_NAME_ENG": "Cho Hae",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 17.95400047302246,
+        "LONG": 100.322998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 540119,
+        "SUB_DISTRICT_NAME_THA": "ร่องฟอง",
+        "SUB_DISTRICT_NAME_ENG": "Rong Fong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.16699981689453,
+        "LONG": 100.19300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 540120,
+        "SUB_DISTRICT_NAME_THA": "กาญจนา",
+        "SUB_DISTRICT_NAME_ENG": "Kanchana",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5401,
+        "LAT": 18.12299919128418,
+        "LONG": 100.18399810791016
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 840901,
+        "SUB_DISTRICT_NAME_THA": "เขาวง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Wong",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8409,
+        "LAT": 8.92300033569336,
+        "LONG": 98.92900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 840902,
+        "SUB_DISTRICT_NAME_THA": "พะแสง",
+        "SUB_DISTRICT_NAME_ENG": "Phasaeng",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8409,
+        "LAT": 8.928000450134277,
+        "LONG": 98.83999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 840903,
+        "SUB_DISTRICT_NAME_THA": "พรุไทย",
+        "SUB_DISTRICT_NAME_ENG": "Phru Thai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8409,
+        "LAT": 8.949000358581543,
+        "LONG": 98.89600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 840904,
+        "SUB_DISTRICT_NAME_THA": "เขาพัง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8409,
+        "LAT": 9.114999771118164,
+        "LONG": 98.6449966430664
+    }
+]

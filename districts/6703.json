@@ -1,0 +1,200 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670302,
+        "SUB_DISTRICT_NAME_THA": "วัดป่า",
+        "SUB_DISTRICT_NAME_ENG": "Wat Pa",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.795000076293945,
+        "LONG": 101.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 670303,
+        "SUB_DISTRICT_NAME_THA": "ตาลเดี่ยว",
+        "SUB_DISTRICT_NAME_ENG": "Tan Diao",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.78499984741211,
+        "LONG": 101.24800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 670304,
+        "SUB_DISTRICT_NAME_THA": "ฝายนาแซง",
+        "SUB_DISTRICT_NAME_ENG": "Fai Na Saeng",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.81100082397461,
+        "LONG": 101.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 670305,
+        "SUB_DISTRICT_NAME_THA": "หนองสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sawang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.839000701904297,
+        "LONG": 101.23899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 670306,
+        "SUB_DISTRICT_NAME_THA": "น้ำเฮี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Nam Hia",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.829999923706055,
+        "LONG": 101.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 670307,
+        "SUB_DISTRICT_NAME_THA": "สักหลง",
+        "SUB_DISTRICT_NAME_ENG": "Sak Long",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.8439998626709,
+        "LONG": 101.2750015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 670308,
+        "SUB_DISTRICT_NAME_THA": "ท่าอิบุญ",
+        "SUB_DISTRICT_NAME_ENG": "Tha I Bun",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.888999938964844,
+        "LONG": 101.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 670309,
+        "SUB_DISTRICT_NAME_THA": "บ้านโสก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sok",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.80299949645996,
+        "LONG": 101.28399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 670310,
+        "SUB_DISTRICT_NAME_THA": "บ้านติ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tio",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.781999588012695,
+        "LONG": 101.35700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 670311,
+        "SUB_DISTRICT_NAME_THA": "ห้วยไร่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.825000762939453,
+        "LONG": 101.31900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 670312,
+        "SUB_DISTRICT_NAME_THA": "น้ำก้อ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Ko",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.79400062561035,
+        "LONG": 101.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 670313,
+        "SUB_DISTRICT_NAME_THA": "ปากช่อง",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chong",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.70800018310547,
+        "LONG": 101.30400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 670314,
+        "SUB_DISTRICT_NAME_THA": "น้ำชุน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Chun",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.73900032043457,
+        "LONG": 101.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 670315,
+        "SUB_DISTRICT_NAME_THA": "หนองไขว่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khwai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.756999969482422,
+        "LONG": 101.22000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 670316,
+        "SUB_DISTRICT_NAME_THA": "ลานบ่า",
+        "SUB_DISTRICT_NAME_ENG": "Lan Ba",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.68000030517578,
+        "LONG": 101.20800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 670317,
+        "SUB_DISTRICT_NAME_THA": "บุ่งคล้า",
+        "SUB_DISTRICT_NAME_ENG": "Bung Khla",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.628999710083008,
+        "LONG": 101.1780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 670318,
+        "SUB_DISTRICT_NAME_THA": "บุ่งน้ำเต้า",
+        "SUB_DISTRICT_NAME_ENG": "Bung Namtao",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.677000045776367,
+        "LONG": 101.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 670319,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.642000198364258,
+        "LONG": 101.2979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 670320,
+        "SUB_DISTRICT_NAME_THA": "ช้างตะลูด",
+        "SUB_DISTRICT_NAME_ENG": "Chang Talut",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.58099937438965,
+        "LONG": 101.3239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 670321,
+        "SUB_DISTRICT_NAME_THA": "บ้านไร่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.607999801635742,
+        "LONG": 101.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 670322,
+        "SUB_DISTRICT_NAME_THA": "ปากดุก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Duk",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.719999313354492,
+        "LONG": 101.2490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 670323,
+        "SUB_DISTRICT_NAME_THA": "บ้านหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Wai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6703,
+        "LAT": 16.759000778198242,
+        "LONG": 101.29299926757812
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 471301,
+        "SUB_DISTRICT_NAME_THA": "ส่องดาว",
+        "SUB_DISTRICT_NAME_ENG": "Song Dao",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4713,
+        "LAT": 17.350000381469727,
+        "LONG": 103.4489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 471302,
+        "SUB_DISTRICT_NAME_THA": "ท่าศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sila",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4713,
+        "LAT": 17.284000396728516,
+        "LONG": 103.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 471303,
+        "SUB_DISTRICT_NAME_THA": "วัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Watthana",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4713,
+        "LAT": 17.36199951171875,
+        "LONG": 103.54000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 471304,
+        "SUB_DISTRICT_NAME_THA": "ปทุมวาปี",
+        "SUB_DISTRICT_NAME_ENG": "Pathum Wapi",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4713,
+        "LAT": 17.29800033569336,
+        "LONG": 103.48200225830078
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841201,
+        "SUB_DISTRICT_NAME_THA": "นาสาร",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.812000274658203,
+        "LONG": 99.35900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 841202,
+        "SUB_DISTRICT_NAME_THA": "พรุพี",
+        "SUB_DISTRICT_NAME_ENG": "Phru Phi",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.706999778747559,
+        "LONG": 99.39099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 841203,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งเตา",
+        "SUB_DISTRICT_NAME_ENG": "Thung Tao",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.916999816894531,
+        "LONG": 99.35700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 841204,
+        "SUB_DISTRICT_NAME_THA": "ลำพูน",
+        "SUB_DISTRICT_NAME_ENG": "Lamphun",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.845000267028809,
+        "LONG": 99.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 841205,
+        "SUB_DISTRICT_NAME_THA": "ท่าชี",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chi",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.755999565124512,
+        "LONG": 99.2750015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 841206,
+        "SUB_DISTRICT_NAME_THA": "ควนศรี",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Si",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.713000297546387,
+        "LONG": 99.3030014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 841207,
+        "SUB_DISTRICT_NAME_THA": "ควนสุบรรณ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.87600040435791,
+        "LONG": 99.36699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 841208,
+        "SUB_DISTRICT_NAME_THA": "คลองปราบ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Prap",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.74899959564209,
+        "LONG": 99.3479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 841209,
+        "SUB_DISTRICT_NAME_THA": "น้ำพุ",
+        "SUB_DISTRICT_NAME_ENG": "Namphu",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.781000137329102,
+        "LONG": 99.30000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 841210,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งเตาใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Thung Tao Mai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.95199966430664,
+        "LONG": 99.40799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 841211,
+        "SUB_DISTRICT_NAME_THA": "เพิ่มพูนทรัพย์",
+        "SUB_DISTRICT_NAME_ENG": "Phoem Phun Sap",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8412,
+        "LAT": 8.746000289916992,
+        "LONG": 99.46199798583984
+    }
+]

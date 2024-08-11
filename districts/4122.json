@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 412201,
+        "SUB_DISTRICT_NAME_THA": "นายูง",
+        "SUB_DISTRICT_NAME_ENG": "Na Yung",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4122,
+        "LAT": 17.916000366210938,
+        "LONG": 102.21299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 412202,
+        "SUB_DISTRICT_NAME_THA": "บ้านก้อง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kong",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4122,
+        "LAT": 17.820999145507812,
+        "LONG": 102.0790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 412203,
+        "SUB_DISTRICT_NAME_THA": "นาแค",
+        "SUB_DISTRICT_NAME_ENG": "Na Khae",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4122,
+        "LAT": 17.96299934387207,
+        "LONG": 102.08499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 412204,
+        "SUB_DISTRICT_NAME_THA": "โนนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Non Thong",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4122,
+        "LAT": 17.98900032043457,
+        "LONG": 102.197998046875
+    }
+]

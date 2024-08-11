@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200501,
+        "SUB_DISTRICT_NAME_THA": "พานทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phan Thong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.461000442504883,
+        "LONG": 101.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 200502,
+        "SUB_DISTRICT_NAME_THA": "หนองตำลึง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tamlueng",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.407999992370605,
+        "LONG": 101.0780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 200503,
+        "SUB_DISTRICT_NAME_THA": "มาบโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Map Pong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.430999755859375,
+        "LONG": 101.12100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 200504,
+        "SUB_DISTRICT_NAME_THA": "หนองกะขะ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kakha",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.430999755859375,
+        "LONG": 101.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 200505,
+        "SUB_DISTRICT_NAME_THA": "หนองหงษ์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.388999938964844,
+        "LONG": 101.11299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 200506,
+        "SUB_DISTRICT_NAME_THA": "โคกขี้หนอน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khi Non",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.552000045776367,
+        "LONG": 101.11399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 200507,
+        "SUB_DISTRICT_NAME_THA": "บ้านเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kao",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.454000473022461,
+        "LONG": 101.05899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 200508,
+        "SUB_DISTRICT_NAME_THA": "หน้าประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Na Pradu",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.496999740600586,
+        "LONG": 101.0989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 200509,
+        "SUB_DISTRICT_NAME_THA": "บางนาง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.487000465393066,
+        "LONG": 101.06700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 200510,
+        "SUB_DISTRICT_NAME_THA": "เกาะลอย",
+        "SUB_DISTRICT_NAME_ENG": "Ko Loi",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.519000053405762,
+        "LONG": 101.0739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 200511,
+        "SUB_DISTRICT_NAME_THA": "บางหัก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Hak",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2005,
+        "LAT": 13.543999671936035,
+        "LONG": 101.07499694824219
+    }
+]

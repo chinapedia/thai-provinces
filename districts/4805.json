@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480501,
+        "SUB_DISTRICT_NAME_THA": "ธาตุพนม",
+        "SUB_DISTRICT_NAME_ENG": "That Phanom",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 16.93899917602539,
+        "LONG": 104.72000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 480502,
+        "SUB_DISTRICT_NAME_THA": "ฝั่งแดง",
+        "SUB_DISTRICT_NAME_ENG": "Fang Daeng",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 16.913999557495117,
+        "LONG": 104.67500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 480503,
+        "SUB_DISTRICT_NAME_THA": "โพนแพง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Phaeng",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 17.148000717163086,
+        "LONG": 104.69499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 480504,
+        "SUB_DISTRICT_NAME_THA": "พระกลางทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Phra Klang Thung",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 16.986000061035156,
+        "LONG": 104.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 480505,
+        "SUB_DISTRICT_NAME_THA": "นาถ่อน",
+        "SUB_DISTRICT_NAME_ENG": "Na Thon",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 17.136999130249023,
+        "LONG": 104.74400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 480506,
+        "SUB_DISTRICT_NAME_THA": "แสนพัน",
+        "SUB_DISTRICT_NAME_ENG": "Saen Phan",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 17.06599998474121,
+        "LONG": 104.7490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 480507,
+        "SUB_DISTRICT_NAME_THA": "ดอนนางหงส์",
+        "SUB_DISTRICT_NAME_ENG": "Don Nang Hong",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 17.097000122070312,
+        "LONG": 104.74299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 480508,
+        "SUB_DISTRICT_NAME_THA": "น้ำก่ำ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Kam",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 16.871999740600586,
+        "LONG": 104.7229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 480509,
+        "SUB_DISTRICT_NAME_THA": "อุ่มเหม้า",
+        "SUB_DISTRICT_NAME_ENG": "Um Mao",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 16.839000701904297,
+        "LONG": 104.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 480510,
+        "SUB_DISTRICT_NAME_THA": "นาหนาด",
+        "SUB_DISTRICT_NAME_ENG": "Na Nat",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 16.915000915527344,
+        "LONG": 104.65399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 480511,
+        "SUB_DISTRICT_NAME_THA": "กุดฉิม",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chim",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 17.05900001525879,
+        "LONG": 104.72599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 480512,
+        "SUB_DISTRICT_NAME_THA": "ธาตุพนมเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "That Phanom Nuea",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4805,
+        "LAT": 16.975000381469727,
+        "LONG": 104.66699981689453
+    }
+]

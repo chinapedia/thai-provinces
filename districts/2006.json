@@ -1,0 +1,173 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200601,
+        "SUB_DISTRICT_NAME_THA": "พนัสนิคม",
+        "SUB_DISTRICT_NAME_ENG": "Phanat Nikhom",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.449999809265137,
+        "LONG": 101.18000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 200602,
+        "SUB_DISTRICT_NAME_THA": "หน้าพระธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Na Phrathat",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.468000411987305,
+        "LONG": 101.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 200603,
+        "SUB_DISTRICT_NAME_THA": "วัดหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Wat Luang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.517999649047852,
+        "LONG": 101.16100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 200604,
+        "SUB_DISTRICT_NAME_THA": "บ้านเชิด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Soet",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.444000244140625,
+        "LONG": 101.14399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 200605,
+        "SUB_DISTRICT_NAME_THA": "นาเริก",
+        "SUB_DISTRICT_NAME_ENG": "Na Roek",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.404999732971191,
+        "LONG": 101.24800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 200606,
+        "SUB_DISTRICT_NAME_THA": "หมอนนาง",
+        "SUB_DISTRICT_NAME_ENG": "Mon Nang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.345999717712402,
+        "LONG": 101.25700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 200607,
+        "SUB_DISTRICT_NAME_THA": "สระสี่เหลี่ยม",
+        "SUB_DISTRICT_NAME_ENG": "Sa Si Liam",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.553999900817871,
+        "LONG": 101.23899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 200608,
+        "SUB_DISTRICT_NAME_THA": "วัดโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Bot",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.498000144958496,
+        "LONG": 101.13899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 200609,
+        "SUB_DISTRICT_NAME_THA": "กุฎโง้ง",
+        "SUB_DISTRICT_NAME_ENG": "Kut Ngong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.444000244140625,
+        "LONG": 101.16500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 200610,
+        "SUB_DISTRICT_NAME_THA": "หัวถนน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Thanon",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.531000137329102,
+        "LONG": 101.26499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 200611,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.559000015258789,
+        "LONG": 101.177001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 200613,
+        "SUB_DISTRICT_NAME_THA": "หนองปรือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Prue",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.51099967956543,
+        "LONG": 101.25399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 200614,
+        "SUB_DISTRICT_NAME_THA": "หนองขยาด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khayat",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.402000427246094,
+        "LONG": 101.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 200615,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khwang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.399999618530273,
+        "LONG": 101.18800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 200616,
+        "SUB_DISTRICT_NAME_THA": "หนองเหียง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hiang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.46399974822998,
+        "LONG": 101.33000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 200617,
+        "SUB_DISTRICT_NAME_THA": "นาวังหิน",
+        "SUB_DISTRICT_NAME_ENG": "Na Wang Hin",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.442000389099121,
+        "LONG": 101.2509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 200618,
+        "SUB_DISTRICT_NAME_THA": "บ้านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.4350004196167,
+        "LONG": 101.21299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 200620,
+        "SUB_DISTRICT_NAME_THA": "โคกเพลาะ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Phlo",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.520000457763672,
+        "LONG": 101.12100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 200621,
+        "SUB_DISTRICT_NAME_THA": "ไร่หลักทอง",
+        "SUB_DISTRICT_NAME_ENG": "Rai Lak Thong",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2006,
+        "LAT": 13.484000205993652,
+        "LONG": 101.18399810791016
+    }
+]

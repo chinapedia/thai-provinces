@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331201,
+        "SUB_DISTRICT_NAME_THA": "ห้วยทับทัน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Thapthan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3312,
+        "LAT": 15.0649995803833,
+        "LONG": 104.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 331202,
+        "SUB_DISTRICT_NAME_THA": "เมืองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Luang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3312,
+        "LAT": 15.020999908447266,
+        "LONG": 104.0469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 331203,
+        "SUB_DISTRICT_NAME_THA": "กล้วยกว้าง",
+        "SUB_DISTRICT_NAME_ENG": "Kluai Kwang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3312,
+        "LAT": 14.965999603271484,
+        "LONG": 104.06900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 331204,
+        "SUB_DISTRICT_NAME_THA": "ผักไหม",
+        "SUB_DISTRICT_NAME_ENG": "Phak Mai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3312,
+        "LAT": 14.946999549865723,
+        "LONG": 104.01300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 331205,
+        "SUB_DISTRICT_NAME_THA": "จานแสนไชย",
+        "SUB_DISTRICT_NAME_ENG": "Chan Saen Chai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3312,
+        "LAT": 14.980999946594238,
+        "LONG": 104.01899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 331206,
+        "SUB_DISTRICT_NAME_THA": "ปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Prasat",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3312,
+        "LAT": 15.109999656677246,
+        "LONG": 104.0270004272461
+    }
+]

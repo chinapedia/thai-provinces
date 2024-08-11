@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600201,
+        "SUB_DISTRICT_NAME_THA": "โกรกพระ",
+        "SUB_DISTRICT_NAME_ENG": "Krok Phra",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.559000015258789,
+        "LONG": 100.05599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 600202,
+        "SUB_DISTRICT_NAME_THA": "ยางตาล",
+        "SUB_DISTRICT_NAME_ENG": "Yang Tan",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.585000038146973,
+        "LONG": 100.11399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 600203,
+        "SUB_DISTRICT_NAME_THA": "บางมะฝ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Mafo",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.593999862670898,
+        "LONG": 100.08100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 600204,
+        "SUB_DISTRICT_NAME_THA": "บางประมุง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pramung",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.661999702453613,
+        "LONG": 99.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 600205,
+        "SUB_DISTRICT_NAME_THA": "นากลาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Klang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.619999885559082,
+        "LONG": 99.98100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 600206,
+        "SUB_DISTRICT_NAME_THA": "ศาลาแดง",
+        "SUB_DISTRICT_NAME_ENG": "Sala Daeng",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.581000328063965,
+        "LONG": 99.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 600207,
+        "SUB_DISTRICT_NAME_THA": "เนินกว้าว",
+        "SUB_DISTRICT_NAME_ENG": "Noen Kwao",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.539999961853027,
+        "LONG": 100.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 600208,
+        "SUB_DISTRICT_NAME_THA": "เนินศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Noen Sala",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.539999961853027,
+        "LONG": 99.95999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 600209,
+        "SUB_DISTRICT_NAME_THA": "หาดสูง",
+        "SUB_DISTRICT_NAME_ENG": "Hat Sung",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6002,
+        "LAT": 15.503000259399414,
+        "LONG": 99.98899841308594
+    }
+]

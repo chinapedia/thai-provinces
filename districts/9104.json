@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 910401,
+        "SUB_DISTRICT_NAME_THA": "ท่าแพ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phae",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9104,
+        "LAT": 6.790999889373779,
+        "LONG": 99.96399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 910402,
+        "SUB_DISTRICT_NAME_THA": "แป-ระ",
+        "SUB_DISTRICT_NAME_ENG": "Pae-Ra",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9104,
+        "LAT": 6.855000019073486,
+        "LONG": 99.927001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 910403,
+        "SUB_DISTRICT_NAME_THA": "สาคร",
+        "SUB_DISTRICT_NAME_ENG": "Sakhon",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9104,
+        "LAT": 6.7870001792907715,
+        "LONG": 99.86499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 910404,
+        "SUB_DISTRICT_NAME_THA": "ท่าเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ruea",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9104,
+        "LAT": 6.802999973297119,
+        "LONG": 99.91699981689453
+    }
+]

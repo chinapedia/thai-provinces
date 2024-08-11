@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310201,
+        "SUB_DISTRICT_NAME_THA": "คูเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Khu Mueang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3102,
+        "LAT": 15.239999771118164,
+        "LONG": 103.0
+    },
+    {
+        "SUB_DISTRICT_ID": 310202,
+        "SUB_DISTRICT_NAME_THA": "ปะเคียบ",
+        "SUB_DISTRICT_NAME_ENG": "Pakhiap",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3102,
+        "LAT": 15.390999794006348,
+        "LONG": 103.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 310203,
+        "SUB_DISTRICT_NAME_THA": "บ้านแพ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phae",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3102,
+        "LAT": 15.387999534606934,
+        "LONG": 103.00800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 310204,
+        "SUB_DISTRICT_NAME_THA": "พรสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Phon Samran",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3102,
+        "LAT": 15.168999671936035,
+        "LONG": 103.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 310205,
+        "SUB_DISTRICT_NAME_THA": "หินเหล็กไฟ",
+        "SUB_DISTRICT_NAME_ENG": "Hin Lek Fai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3102,
+        "LAT": 15.156999588012695,
+        "LONG": 103.06400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 310206,
+        "SUB_DISTRICT_NAME_THA": "ตูมใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Tum Yai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3102,
+        "LAT": 15.164999961853027,
+        "LONG": 103.13700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 310207,
+        "SUB_DISTRICT_NAME_THA": "หนองขมาร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khaman",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3102,
+        "LAT": 15.314000129699707,
+        "LONG": 102.99500274658203
+    }
+]

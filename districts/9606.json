@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 960601,
+        "SUB_DISTRICT_NAME_THA": "รือเสาะ",
+        "SUB_DISTRICT_NAME_ENG": "Rueso",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.36899995803833,
+        "LONG": 101.50800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 960602,
+        "SUB_DISTRICT_NAME_THA": "สาวอ",
+        "SUB_DISTRICT_NAME_ENG": "Sawo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.434000015258789,
+        "LONG": 101.50700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 960603,
+        "SUB_DISTRICT_NAME_THA": "เรียง",
+        "SUB_DISTRICT_NAME_ENG": "Riang",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.3979997634887695,
+        "LONG": 101.44499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 960604,
+        "SUB_DISTRICT_NAME_THA": "สามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Samakkhi",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.422999858856201,
+        "LONG": 101.58699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 960605,
+        "SUB_DISTRICT_NAME_THA": "บาตง",
+        "SUB_DISTRICT_NAME_ENG": "Batong",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.335999965667725,
+        "LONG": 101.44499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 960606,
+        "SUB_DISTRICT_NAME_THA": "ลาโละ",
+        "SUB_DISTRICT_NAME_ENG": "La Lo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.3429999351501465,
+        "LONG": 101.58999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 960607,
+        "SUB_DISTRICT_NAME_THA": "รือเสาะออก",
+        "SUB_DISTRICT_NAME_ENG": "Rueso Ok",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.394000053405762,
+        "LONG": 101.55400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 960608,
+        "SUB_DISTRICT_NAME_THA": "โคกสะตอ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sato",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.2820000648498535,
+        "LONG": 101.4489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 960609,
+        "SUB_DISTRICT_NAME_THA": "สุวารี",
+        "SUB_DISTRICT_NAME_ENG": "Suwari",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9606,
+        "LAT": 6.458000183105469,
+        "LONG": 101.61100006103516
+    }
+]

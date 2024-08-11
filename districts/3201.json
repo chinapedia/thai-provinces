@@ -1,0 +1,191 @@
+[
+    {
+        "SUB_DISTRICT_ID": 320101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.883999824523926,
+        "LONG": 103.48999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 320102,
+        "SUB_DISTRICT_NAME_THA": "ตั้งใจ",
+        "SUB_DISTRICT_NAME_ENG": "Tang Chai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 15.074000358581543,
+        "LONG": 103.55000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 320103,
+        "SUB_DISTRICT_NAME_THA": "เพี้ยราม",
+        "SUB_DISTRICT_NAME_ENG": "Phia Ram",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 15.067000389099121,
+        "LONG": 103.47100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 320104,
+        "SUB_DISTRICT_NAME_THA": "นาดี",
+        "SUB_DISTRICT_NAME_ENG": "Na Di",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 15.02400016784668,
+        "LONG": 103.52799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 320105,
+        "SUB_DISTRICT_NAME_THA": "ท่าสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sawang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.954999923706055,
+        "LONG": 103.4520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 320106,
+        "SUB_DISTRICT_NAME_THA": "สลักได",
+        "SUB_DISTRICT_NAME_ENG": "Salak Dai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.854999542236328,
+        "LONG": 103.56199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 320107,
+        "SUB_DISTRICT_NAME_THA": "ตาอ็อง",
+        "SUB_DISTRICT_NAME_ENG": "Ta-Ong",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.748000144958496,
+        "LONG": 103.61699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 320109,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.802000045776367,
+        "LONG": 103.62699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 320110,
+        "SUB_DISTRICT_NAME_THA": "แกใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Kae Yai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.951000213623047,
+        "LONG": 103.51300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 320111,
+        "SUB_DISTRICT_NAME_THA": "นอกเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nok Mueang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.857999801635742,
+        "LONG": 103.49099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 320112,
+        "SUB_DISTRICT_NAME_THA": "คอโค",
+        "SUB_DISTRICT_NAME_ENG": "Kho Kho",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.902999877929688,
+        "LONG": 103.42500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 320113,
+        "SUB_DISTRICT_NAME_THA": "สวาย",
+        "SUB_DISTRICT_NAME_ENG": "Sawat",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.793000221252441,
+        "LONG": 103.33699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 320114,
+        "SUB_DISTRICT_NAME_THA": "เฉนียง",
+        "SUB_DISTRICT_NAME_ENG": "Chaniang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.795999526977539,
+        "LONG": 103.47699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 320116,
+        "SUB_DISTRICT_NAME_THA": "เทนมีย์",
+        "SUB_DISTRICT_NAME_ENG": "Then Mi",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.77400016784668,
+        "LONG": 103.54199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 320118,
+        "SUB_DISTRICT_NAME_THA": "นาบัว",
+        "SUB_DISTRICT_NAME_ENG": "Na Bua",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.781999588012695,
+        "LONG": 103.41200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 320119,
+        "SUB_DISTRICT_NAME_THA": "เมืองที",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Thi",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.90999984741211,
+        "LONG": 103.6520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 320120,
+        "SUB_DISTRICT_NAME_THA": "ราม",
+        "SUB_DISTRICT_NAME_ENG": "Ram",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.847999572753906,
+        "LONG": 103.6500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 320121,
+        "SUB_DISTRICT_NAME_THA": "บุฤาษี",
+        "SUB_DISTRICT_NAME_ENG": "Bu Ruesi",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.904000282287598,
+        "LONG": 103.59700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 320122,
+        "SUB_DISTRICT_NAME_THA": "ตระแสง",
+        "SUB_DISTRICT_NAME_ENG": "Trasaeng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.854999542236328,
+        "LONG": 103.40299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 320125,
+        "SUB_DISTRICT_NAME_THA": "แสลงพันธ์",
+        "SUB_DISTRICT_NAME_ENG": "Salaeng Phan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 14.918000221252441,
+        "LONG": 103.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 320126,
+        "SUB_DISTRICT_NAME_THA": "กาเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ka Ko",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3201,
+        "LAT": 15.11400032043457,
+        "LONG": 103.4729995727539
+    }
+]

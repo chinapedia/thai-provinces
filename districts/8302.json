@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 830201,
+        "SUB_DISTRICT_NAME_THA": "กะทู้",
+        "SUB_DISTRICT_NAME_ENG": "Kathu",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8302,
+        "LAT": 7.914000034332275,
+        "LONG": 98.33799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 830202,
+        "SUB_DISTRICT_NAME_THA": "ป่าตอง",
+        "SUB_DISTRICT_NAME_ENG": "Patong",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8302,
+        "LAT": 7.9039998054504395,
+        "LONG": 98.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 830203,
+        "SUB_DISTRICT_NAME_THA": "กมลา",
+        "SUB_DISTRICT_NAME_ENG": "Kamala",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8302,
+        "LAT": 7.945000171661377,
+        "LONG": 98.28900146484375
+    }
+]

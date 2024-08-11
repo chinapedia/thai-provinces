@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 740201,
+        "SUB_DISTRICT_NAME_THA": "ตลาดกระทุ่มแบน",
+        "SUB_DISTRICT_NAME_ENG": "Talat Krathum Baen",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.654000282287598,
+        "LONG": 100.25
+    },
+    {
+        "SUB_DISTRICT_ID": 740202,
+        "SUB_DISTRICT_NAME_THA": "อ้อมน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Om Noi",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.70199966430664,
+        "LONG": 100.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 740203,
+        "SUB_DISTRICT_NAME_THA": "ท่าไม้",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mai",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.670999526977539,
+        "LONG": 100.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 740204,
+        "SUB_DISTRICT_NAME_THA": "สวนหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Suan Luang",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.670999526977539,
+        "LONG": 100.322998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 740205,
+        "SUB_DISTRICT_NAME_THA": "บางยาง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Yang",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.652000427246094,
+        "LONG": 100.22599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 740206,
+        "SUB_DISTRICT_NAME_THA": "คลองมะเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Maduea",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.63700008392334,
+        "LONG": 100.29199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 740207,
+        "SUB_DISTRICT_NAME_THA": "หนองนกไข่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nok Khai",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.668000221252441,
+        "LONG": 100.19200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 740208,
+        "SUB_DISTRICT_NAME_THA": "ดอนไก่ดี",
+        "SUB_DISTRICT_NAME_ENG": "Don Kai Di",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.633000373840332,
+        "LONG": 100.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 740209,
+        "SUB_DISTRICT_NAME_THA": "แคราย",
+        "SUB_DISTRICT_NAME_ENG": "Khae Rai",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.642999649047852,
+        "LONG": 100.3239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 740210,
+        "SUB_DISTRICT_NAME_THA": "ท่าเสา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sao",
+        "PROVINCE_ID": 74,
+        "DISTRICT_ID": 7402,
+        "LAT": 13.623000144958496,
+        "LONG": 100.23999786376953
+    }
+]

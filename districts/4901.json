@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 490101,
+        "SUB_DISTRICT_NAME_THA": "มุกดาหาร",
+        "SUB_DISTRICT_NAME_ENG": "Mukdahan",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.558000564575195,
+        "LONG": 104.64600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 490102,
+        "SUB_DISTRICT_NAME_THA": "ศรีบุญเรือง",
+        "SUB_DISTRICT_NAME_ENG": "Si Bunrueang",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.530000686645508,
+        "LONG": 104.7239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 490103,
+        "SUB_DISTRICT_NAME_THA": "บ้านโคก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khok",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.639999389648438,
+        "LONG": 104.56500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 490104,
+        "SUB_DISTRICT_NAME_THA": "บางทรายใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai Yai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.618999481201172,
+        "LONG": 104.69300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 490105,
+        "SUB_DISTRICT_NAME_THA": "โพนทราย",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.541000366210938,
+        "LONG": 104.58399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 490106,
+        "SUB_DISTRICT_NAME_THA": "ผึ่งแดด",
+        "SUB_DISTRICT_NAME_ENG": "Phueng Daet",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.631000518798828,
+        "LONG": 104.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 490107,
+        "SUB_DISTRICT_NAME_THA": "นาโสก",
+        "SUB_DISTRICT_NAME_ENG": "Na Sok",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.48699951171875,
+        "LONG": 104.52200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 490108,
+        "SUB_DISTRICT_NAME_THA": "นาสีนวน",
+        "SUB_DISTRICT_NAME_ENG": "Na Si Nuan",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.454999923706055,
+        "LONG": 104.78500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 490109,
+        "SUB_DISTRICT_NAME_THA": "คำป่าหลาย",
+        "SUB_DISTRICT_NAME_ENG": "Kham Pa Lai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.711000442504883,
+        "LONG": 104.62100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 490110,
+        "SUB_DISTRICT_NAME_THA": "คำอาฮวน",
+        "SUB_DISTRICT_NAME_ENG": "Kham A Huan",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.493999481201172,
+        "LONG": 104.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 490111,
+        "SUB_DISTRICT_NAME_THA": "ดงเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Dong Yen",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.371000289916992,
+        "LONG": 104.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 490112,
+        "SUB_DISTRICT_NAME_THA": "ดงมอน",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mon",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.687000274658203,
+        "LONG": 104.5
+    },
+    {
+        "SUB_DISTRICT_ID": 490113,
+        "SUB_DISTRICT_NAME_THA": "กุดแข้",
+        "SUB_DISTRICT_NAME_ENG": "Kut Khae",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4901,
+        "LAT": 16.573999404907227,
+        "LONG": 104.56500244140625
+    }
+]

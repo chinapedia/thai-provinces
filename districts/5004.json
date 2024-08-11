@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500401,
+        "SUB_DISTRICT_NAME_THA": "เชียงดาว",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Dao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5004,
+        "LAT": 19.388999938964844,
+        "LONG": 98.9469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 500402,
+        "SUB_DISTRICT_NAME_THA": "เมืองนะ",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Na",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5004,
+        "LAT": 19.312000274658203,
+        "LONG": 98.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 500403,
+        "SUB_DISTRICT_NAME_THA": "เมืองงาย",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Ngai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5004,
+        "LAT": 19.476999282836914,
+        "LONG": 98.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 500404,
+        "SUB_DISTRICT_NAME_THA": "แม่นะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Na",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5004,
+        "LAT": 19.687000274658203,
+        "LONG": 98.9000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 500405,
+        "SUB_DISTRICT_NAME_THA": "เมืองคอง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Khong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5004,
+        "LAT": 19.38800048828125,
+        "LONG": 98.75299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 500406,
+        "SUB_DISTRICT_NAME_THA": "ปิงโค้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ping Khong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5004,
+        "LAT": 19.506999969482422,
+        "LONG": 99.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 500407,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งข้าวพวง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khao Phuang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5004,
+        "LAT": 19.552000045776367,
+        "LONG": 98.90599822998047
+    }
+]

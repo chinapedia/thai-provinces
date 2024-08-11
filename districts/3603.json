@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360301,
+        "SUB_DISTRICT_NAME_THA": "คอนสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Khon Sawan",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 15.930000305175781,
+        "LONG": 102.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 360302,
+        "SUB_DISTRICT_NAME_THA": "ยางหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Yang Wai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 15.88700008392334,
+        "LONG": 102.30999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 360303,
+        "SUB_DISTRICT_NAME_THA": "ช่องสามหมอ",
+        "SUB_DISTRICT_NAME_ENG": "Chong Sam Mo",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 16.01799964904785,
+        "LONG": 102.29199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 360304,
+        "SUB_DISTRICT_NAME_THA": "โนนสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Non Sa-At",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 15.815999984741211,
+        "LONG": 102.2750015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 360305,
+        "SUB_DISTRICT_NAME_THA": "ห้วยไร่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 16.020999908447266,
+        "LONG": 102.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 360306,
+        "SUB_DISTRICT_NAME_THA": "บ้านโสก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sok",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 15.892000198364258,
+        "LONG": 102.26300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 360307,
+        "SUB_DISTRICT_NAME_THA": "โคกมั่งงอย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Mang Ngoi",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 15.954999923706055,
+        "LONG": 102.25900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 360308,
+        "SUB_DISTRICT_NAME_THA": "หนองขาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kham",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 15.852999687194824,
+        "LONG": 102.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 360309,
+        "SUB_DISTRICT_NAME_THA": "ศรีสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Si Samran",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3603,
+        "LAT": 15.993000030517578,
+        "LONG": 102.33899688720703
+    }
+]

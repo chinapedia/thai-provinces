@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 150501,
+        "SUB_DISTRICT_NAME_THA": "แสวงหา",
+        "SUB_DISTRICT_NAME_ENG": "Sawaeng Ha",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1505,
+        "LAT": 14.762999534606934,
+        "LONG": 100.30999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 150502,
+        "SUB_DISTRICT_NAME_THA": "ศรีพราน",
+        "SUB_DISTRICT_NAME_ENG": "Si Phran",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1505,
+        "LAT": 14.725000381469727,
+        "LONG": 100.3280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 150503,
+        "SUB_DISTRICT_NAME_THA": "บ้านพราน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phran",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1505,
+        "LAT": 14.708999633789062,
+        "LONG": 100.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 150504,
+        "SUB_DISTRICT_NAME_THA": "วังน้ำเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nam Yen",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1505,
+        "LAT": 14.73799991607666,
+        "LONG": 100.22100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 150505,
+        "SUB_DISTRICT_NAME_THA": "สีบัวทอง",
+        "SUB_DISTRICT_NAME_ENG": "Si Bua Thong",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1505,
+        "LAT": 14.769000053405762,
+        "LONG": 100.24800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 150506,
+        "SUB_DISTRICT_NAME_THA": "ห้วยไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Phai",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1505,
+        "LAT": 14.788999557495117,
+        "LONG": 100.3239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 150507,
+        "SUB_DISTRICT_NAME_THA": "จำลอง",
+        "SUB_DISTRICT_NAME_ENG": "Chamlong",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1505,
+        "LAT": 14.741000175476074,
+        "LONG": 100.36399841308594
+    }
+]

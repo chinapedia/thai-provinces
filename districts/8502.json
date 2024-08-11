@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 850201,
+        "SUB_DISTRICT_NAME_THA": "ละอุ่นใต้",
+        "SUB_DISTRICT_NAME_ENG": "La-Un Tai",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8502,
+        "LAT": 10.12399959564209,
+        "LONG": 98.76899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 850202,
+        "SUB_DISTRICT_NAME_THA": "ละอุ่นเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "La-Un Nuea",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8502,
+        "LAT": 10.027000427246094,
+        "LONG": 98.80599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 850203,
+        "SUB_DISTRICT_NAME_THA": "บางพระใต้",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phra Tai",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8502,
+        "LAT": 10.12600040435791,
+        "LONG": 98.7300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 850204,
+        "SUB_DISTRICT_NAME_THA": "บางพระเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phra Nuea",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8502,
+        "LAT": 10.022000312805176,
+        "LONG": 98.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 850205,
+        "SUB_DISTRICT_NAME_THA": "บางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8502,
+        "LAT": 10.178999900817871,
+        "LONG": 98.77999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 850206,
+        "SUB_DISTRICT_NAME_THA": "ในวงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Nai Wong Nuea",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8502,
+        "LAT": 10.020000457763672,
+        "LONG": 98.84200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 850207,
+        "SUB_DISTRICT_NAME_THA": "ในวงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Nai Wong Tai",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8502,
+        "LAT": 10.029000282287598,
+        "LONG": 98.88400268554688
+    }
+]

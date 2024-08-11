@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 260401,
+        "SUB_DISTRICT_NAME_THA": "พระอาจารย์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 13.986000061035156,
+        "LONG": 101.0199966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 260402,
+        "SUB_DISTRICT_NAME_THA": "บึงศาล",
+        "SUB_DISTRICT_NAME_ENG": "Bueng San",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.052000045776367,
+        "LONG": 100.93800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 260403,
+        "SUB_DISTRICT_NAME_THA": "ศรีษะกระบือ",
+        "SUB_DISTRICT_NAME_ENG": "Sisa Krabue",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.043000221252441,
+        "LONG": 100.98600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 260404,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์แทน",
+        "SUB_DISTRICT_NAME_ENG": "Pho Thaen",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.208000183105469,
+        "LONG": 100.9489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 260405,
+        "SUB_DISTRICT_NAME_THA": "บางสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sombun",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.020999908447266,
+        "LONG": 101.11199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 260406,
+        "SUB_DISTRICT_NAME_THA": "ทรายมูล",
+        "SUB_DISTRICT_NAME_ENG": "Sai Mun",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.123000144958496,
+        "LONG": 101.06900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 260407,
+        "SUB_DISTRICT_NAME_THA": "บางปลากด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pla Kot",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.166000366210938,
+        "LONG": 100.97100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 260408,
+        "SUB_DISTRICT_NAME_THA": "บางลูกเสือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Luk Suea",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.053999900817871,
+        "LONG": 101.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 260409,
+        "SUB_DISTRICT_NAME_THA": "องครักษ์",
+        "SUB_DISTRICT_NAME_ENG": "Ongkharak",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.107000350952148,
+        "LONG": 101.00499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 260410,
+        "SUB_DISTRICT_NAME_THA": "ชุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Chum Phon",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 13.989999771118164,
+        "LONG": 100.93699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 260411,
+        "SUB_DISTRICT_NAME_THA": "คลองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Yai",
+        "PROVINCE_ID": 26,
+        "DISTRICT_ID": 2604,
+        "LAT": 14.126999855041504,
+        "LONG": 100.9800033569336
+    }
+]

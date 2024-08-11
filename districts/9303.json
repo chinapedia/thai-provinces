@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930301,
+        "SUB_DISTRICT_NAME_THA": "เขาชัยสน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chaison",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9303,
+        "LAT": 7.433000087738037,
+        "LONG": 100.11100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 930302,
+        "SUB_DISTRICT_NAME_THA": "ควนขนุน",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Kha Nun",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9303,
+        "LAT": 7.491000175476074,
+        "LONG": 100.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 930305,
+        "SUB_DISTRICT_NAME_THA": "จองถนน",
+        "SUB_DISTRICT_NAME_ENG": "Chong Tha Non",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9303,
+        "LAT": 7.488999843597412,
+        "LONG": 100.19400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 930306,
+        "SUB_DISTRICT_NAME_THA": "หานโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Han Pho",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9303,
+        "LAT": 7.540999889373779,
+        "LONG": 100.19499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 930307,
+        "SUB_DISTRICT_NAME_THA": "โคกม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Muang",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9303,
+        "LAT": 7.388999938964844,
+        "LONG": 100.06700134277344
+    }
+]

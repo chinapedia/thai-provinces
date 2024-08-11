@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 191101,
+        "SUB_DISTRICT_NAME_THA": "มวกเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Muak Lek",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1911,
+        "LAT": 14.704999923706055,
+        "LONG": 101.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 191102,
+        "SUB_DISTRICT_NAME_THA": "มิตรภาพ",
+        "SUB_DISTRICT_NAME_ENG": "Mittraphap",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1911,
+        "LAT": 14.473999977111816,
+        "LONG": 101.21299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 191104,
+        "SUB_DISTRICT_NAME_THA": "หนองย่างเสือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yang Suea",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1911,
+        "LAT": 14.788999557495117,
+        "LONG": 101.2699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 191105,
+        "SUB_DISTRICT_NAME_THA": "ลำสมพุง",
+        "SUB_DISTRICT_NAME_ENG": "Lam Somphung",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1911,
+        "LAT": 15.006999969482422,
+        "LONG": 101.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 191107,
+        "SUB_DISTRICT_NAME_THA": "ลำพญากลาง",
+        "SUB_DISTRICT_NAME_ENG": "Lam Phaya Klang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1911,
+        "LAT": 14.871000289916992,
+        "LONG": 101.36699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 191109,
+        "SUB_DISTRICT_NAME_THA": "ซับสนุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Sap Sanun",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1911,
+        "LAT": 14.932000160217285,
+        "LONG": 101.30899810791016
+    }
+]

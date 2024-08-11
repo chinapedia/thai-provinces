@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 960901,
+        "SUB_DISTRICT_NAME_THA": "มาโมง",
+        "SUB_DISTRICT_NAME_ENG": "Ma Mong",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9609,
+        "LAT": 5.875999927520752,
+        "LONG": 101.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 960902,
+        "SUB_DISTRICT_NAME_THA": "สุคิริน",
+        "SUB_DISTRICT_NAME_ENG": "Sukhirin",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9609,
+        "LAT": 5.951000213623047,
+        "LONG": 101.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 960903,
+        "SUB_DISTRICT_NAME_THA": "เกียร์",
+        "SUB_DISTRICT_NAME_ENG": "Kia",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9609,
+        "LAT": 5.984000205993652,
+        "LONG": 101.7750015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 960904,
+        "SUB_DISTRICT_NAME_THA": "ภูเขาทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Khao Thong",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9609,
+        "LAT": 5.796000003814697,
+        "LONG": 101.69999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 960905,
+        "SUB_DISTRICT_NAME_THA": "ร่มไทร",
+        "SUB_DISTRICT_NAME_ENG": "Rom Sai",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9609,
+        "LAT": 6.047999858856201,
+        "LONG": 101.75900268554688
+    }
+]

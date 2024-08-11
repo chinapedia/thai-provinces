@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 860501,
+        "SUB_DISTRICT_NAME_THA": "ละแม",
+        "SUB_DISTRICT_NAME_ENG": "Lamae",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8605,
+        "LAT": 9.751999855041504,
+        "LONG": 98.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 860502,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Luang",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8605,
+        "LAT": 9.800000190734863,
+        "LONG": 99.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 860503,
+        "SUB_DISTRICT_NAME_THA": "สวนแตง",
+        "SUB_DISTRICT_NAME_ENG": "Suan Taeng",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8605,
+        "LAT": 9.722999572753906,
+        "LONG": 99.10800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 860504,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งคาวัด",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kha Wat",
+        "PROVINCE_ID": 86,
+        "DISTRICT_ID": 8605,
+        "LAT": 9.748000144958496,
+        "LONG": 99.0
+    }
+]

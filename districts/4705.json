@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470501,
+        "SUB_DISTRICT_NAME_THA": "พังโคน",
+        "SUB_DISTRICT_NAME_ENG": "Phang Khon",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4705,
+        "LAT": 17.389999389648438,
+        "LONG": 103.7040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 470502,
+        "SUB_DISTRICT_NAME_THA": "ม่วงไข่",
+        "SUB_DISTRICT_NAME_ENG": "Muang Khai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4705,
+        "LAT": 17.405000686645508,
+        "LONG": 103.66500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 470503,
+        "SUB_DISTRICT_NAME_THA": "แร่",
+        "SUB_DISTRICT_NAME_ENG": "Rae",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4705,
+        "LAT": 17.297000885009766,
+        "LONG": 103.76699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 470504,
+        "SUB_DISTRICT_NAME_THA": "ไฮหย่อง",
+        "SUB_DISTRICT_NAME_ENG": "Hai Yong",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4705,
+        "LAT": 17.4060001373291,
+        "LONG": 103.76499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 470505,
+        "SUB_DISTRICT_NAME_THA": "ต้นผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ton Phueng",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4705,
+        "LAT": 17.43199920654297,
+        "LONG": 103.8270034790039
+    }
+]

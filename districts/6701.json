@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.420000076293945,
+        "LONG": 101.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 670102,
+        "SUB_DISTRICT_NAME_THA": "ตะเบาะ",
+        "SUB_DISTRICT_NAME_ENG": "Tabo",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.32200050354004,
+        "LONG": 101.29900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 670103,
+        "SUB_DISTRICT_NAME_THA": "บ้านโตก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tok",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.347000122070312,
+        "LONG": 101.05599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 670104,
+        "SUB_DISTRICT_NAME_THA": "สะเดียง",
+        "SUB_DISTRICT_NAME_ENG": "Sadiang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.395999908447266,
+        "LONG": 101.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 670105,
+        "SUB_DISTRICT_NAME_THA": "ป่าเลา",
+        "SUB_DISTRICT_NAME_ENG": "Pa Lao",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.448999404907227,
+        "LONG": 100.97200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 670106,
+        "SUB_DISTRICT_NAME_THA": "นางั่ว",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngua",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.506999969482422,
+        "LONG": 101.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 670107,
+        "SUB_DISTRICT_NAME_THA": "ท่าพล",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phon",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.59000015258789,
+        "LONG": 101.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 670108,
+        "SUB_DISTRICT_NAME_THA": "ดงมูลเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mun Lek",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.47800064086914,
+        "LONG": 101.2030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 670109,
+        "SUB_DISTRICT_NAME_THA": "บ้านโคก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khok",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.47100067138672,
+        "LONG": 101.25
+    },
+    {
+        "SUB_DISTRICT_ID": 670110,
+        "SUB_DISTRICT_NAME_THA": "ชอนไพร",
+        "SUB_DISTRICT_NAME_ENG": "Chon Phrai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.340999603271484,
+        "LONG": 101.15299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 670111,
+        "SUB_DISTRICT_NAME_THA": "นาป่า",
+        "SUB_DISTRICT_NAME_ENG": "Na Pa",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.389999389648438,
+        "LONG": 101.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 670112,
+        "SUB_DISTRICT_NAME_THA": "นายม",
+        "SUB_DISTRICT_NAME_ENG": "Na Yom",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.229000091552734,
+        "LONG": 101.2300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 670113,
+        "SUB_DISTRICT_NAME_THA": "วังชมภู",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chomphu",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.266000747680664,
+        "LONG": 101.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 670114,
+        "SUB_DISTRICT_NAME_THA": "น้ำร้อน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Ron",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.32200050354004,
+        "LONG": 101.18699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 670115,
+        "SUB_DISTRICT_NAME_THA": "ห้วยสะแก",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sakae",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.19099998474121,
+        "LONG": 101.06700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 670116,
+        "SUB_DISTRICT_NAME_THA": "ห้วยใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.5049991607666,
+        "LONG": 101.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 670117,
+        "SUB_DISTRICT_NAME_THA": "ระวิง",
+        "SUB_DISTRICT_NAME_ENG": "Rawing",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6701,
+        "LAT": 16.145999908447266,
+        "LONG": 101.13800048828125
+    }
+]

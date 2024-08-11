@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 720301,
+        "SUB_DISTRICT_NAME_THA": "หนองมะค่าโมง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Makha Mong",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7203,
+        "LAT": 14.881999969482422,
+        "LONG": 99.73699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 720302,
+        "SUB_DISTRICT_NAME_THA": "ด่านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Dan Chang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7203,
+        "LAT": 14.744000434875488,
+        "LONG": 99.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 720303,
+        "SUB_DISTRICT_NAME_THA": "ห้วยขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khamin",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7203,
+        "LAT": 14.92199993133545,
+        "LONG": 99.53399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 720304,
+        "SUB_DISTRICT_NAME_THA": "องค์พระ",
+        "SUB_DISTRICT_NAME_ENG": "Ong Phra",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7203,
+        "LAT": 14.800000190734863,
+        "LONG": 99.38600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 720305,
+        "SUB_DISTRICT_NAME_THA": "วังคัน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Khan",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7203,
+        "LAT": 14.937000274658203,
+        "LONG": 99.66600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 720306,
+        "SUB_DISTRICT_NAME_THA": "นิคมกระเสียว",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Krasiao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7203,
+        "LAT": 14.843999862670898,
+        "LONG": 99.5479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 720307,
+        "SUB_DISTRICT_NAME_THA": "วังยาว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7203,
+        "LAT": 14.954000473022461,
+        "LONG": 99.38099670410156
+    }
+]

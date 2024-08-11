@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 830301,
+        "SUB_DISTRICT_NAME_THA": "เทพกระษัตรี",
+        "SUB_DISTRICT_NAME_ENG": "Thep Krasattri",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8303,
+        "LAT": 8.107000350952148,
+        "LONG": 98.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 830302,
+        "SUB_DISTRICT_NAME_THA": "ศรีสุนทร",
+        "SUB_DISTRICT_NAME_ENG": "Si Sunthon",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8303,
+        "LAT": 7.984000205993652,
+        "LONG": 98.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 830303,
+        "SUB_DISTRICT_NAME_THA": "เชิงทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Choeng Thale",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8303,
+        "LAT": 7.995999813079834,
+        "LONG": 98.30899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 830304,
+        "SUB_DISTRICT_NAME_THA": "ป่าคลอก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Khlok",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8303,
+        "LAT": 8.055000305175781,
+        "LONG": 98.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 830305,
+        "SUB_DISTRICT_NAME_THA": "ไม้ขาว",
+        "SUB_DISTRICT_NAME_ENG": "Mai Khao",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8303,
+        "LAT": 8.147000312805176,
+        "LONG": 98.31800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 830306,
+        "SUB_DISTRICT_NAME_THA": "สาคู",
+        "SUB_DISTRICT_NAME_ENG": "Sakhu",
+        "PROVINCE_ID": 83,
+        "DISTRICT_ID": 8303,
+        "LAT": 8.093000411987305,
+        "LONG": 98.31500244140625
+    }
+]

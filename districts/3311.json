@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331101,
+        "SUB_DISTRICT_NAME_THA": "เป๊าะ",
+        "SUB_DISTRICT_NAME_ENG": "Po",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3311,
+        "LAT": 15.29699993133545,
+        "LONG": 104.05999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 331102,
+        "SUB_DISTRICT_NAME_THA": "บึงบูรพ์",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Bun",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3311,
+        "LAT": 15.32800006866455,
+        "LONG": 104.06700134277344
+    }
+]

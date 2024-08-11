@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 961201,
+        "SUB_DISTRICT_NAME_THA": "จะแนะ",
+        "SUB_DISTRICT_NAME_ENG": "Chanae",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9612,
+        "LAT": 6.077000141143799,
+        "LONG": 101.69300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 961202,
+        "SUB_DISTRICT_NAME_THA": "ดุซงญอ",
+        "SUB_DISTRICT_NAME_ENG": "Du Song Yo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9612,
+        "LAT": 6.123000144958496,
+        "LONG": 101.64299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 961203,
+        "SUB_DISTRICT_NAME_THA": "ผดุงมาตร",
+        "SUB_DISTRICT_NAME_ENG": "Phadung Mat",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9612,
+        "LAT": 6.131999969482422,
+        "LONG": 101.72799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 961204,
+        "SUB_DISTRICT_NAME_THA": "ช้างเผือก",
+        "SUB_DISTRICT_NAME_ENG": "Chang Phueak",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9612,
+        "LAT": 5.997000217437744,
+        "LONG": 101.572998046875
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 910601,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Thung Wa",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9106,
+        "LAT": 7.107999801635742,
+        "LONG": 99.80699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 910602,
+        "SUB_DISTRICT_NAME_THA": "นาทอน",
+        "SUB_DISTRICT_NAME_ENG": "Na Thon",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9106,
+        "LAT": 7.0320000648498535,
+        "LONG": 99.74299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 910603,
+        "SUB_DISTRICT_NAME_THA": "ขอนคลาน",
+        "SUB_DISTRICT_NAME_ENG": "Khon Khlan",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9106,
+        "LAT": 6.998000144958496,
+        "LONG": 99.69100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 910604,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งบุหลัง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Bu Lang",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9106,
+        "LAT": 7.046999931335449,
+        "LONG": 99.69200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 910605,
+        "SUB_DISTRICT_NAME_THA": "ป่าแก่บ่อหิน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Kae Bo Hin",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9106,
+        "LAT": 7.047999858856201,
+        "LONG": 99.81700134277344
+    }
+]

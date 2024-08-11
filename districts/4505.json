@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 450501,
+        "SUB_DISTRICT_NAME_THA": "นิเวศน์",
+        "SUB_DISTRICT_NAME_ENG": "Niwet",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.04199981689453,
+        "LONG": 103.73699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 450502,
+        "SUB_DISTRICT_NAME_THA": "ธงธานี",
+        "SUB_DISTRICT_NAME_ENG": "Thong Thani",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.10300064086914,
+        "LONG": 103.85299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 450503,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 15.996000289916992,
+        "LONG": 103.72200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 450504,
+        "SUB_DISTRICT_NAME_THA": "ธวัชบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Thawat Buri",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.115999221801758,
+        "LONG": 103.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 450506,
+        "SUB_DISTRICT_NAME_THA": "อุ่มเม้า",
+        "SUB_DISTRICT_NAME_ENG": "Um Mao",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.024999618530273,
+        "LONG": 103.77300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 450507,
+        "SUB_DISTRICT_NAME_THA": "มะอึ",
+        "SUB_DISTRICT_NAME_ENG": "Ma-Ue",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.08099937438965,
+        "LONG": 103.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 450510,
+        "SUB_DISTRICT_NAME_THA": "เขวาทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Khewa Thung",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 15.944999694824219,
+        "LONG": 103.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 450515,
+        "SUB_DISTRICT_NAME_THA": "ไพศาล",
+        "SUB_DISTRICT_NAME_ENG": "Phaisan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.025999069213867,
+        "LONG": 103.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 450517,
+        "SUB_DISTRICT_NAME_THA": "เมืองน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Noi",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 15.984999656677246,
+        "LONG": 103.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 450520,
+        "SUB_DISTRICT_NAME_THA": "บึงนคร",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Nakhon",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.07200050354004,
+        "LONG": 103.85199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 450522,
+        "SUB_DISTRICT_NAME_THA": "ราชธานี",
+        "SUB_DISTRICT_NAME_ENG": "Ratchathani",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 15.883000373840332,
+        "LONG": 103.72799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 450524,
+        "SUB_DISTRICT_NAME_THA": "หนองพอก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phok",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4505,
+        "LAT": 16.099000930786133,
+        "LONG": 103.76699829101562
+    }
+]

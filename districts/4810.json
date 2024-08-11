@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 481001,
+        "SUB_DISTRICT_NAME_THA": "โพนสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sawan",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4810,
+        "LAT": 17.444000244140625,
+        "LONG": 104.50399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 481002,
+        "SUB_DISTRICT_NAME_THA": "นาหัวบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Na Hua Bo",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4810,
+        "LAT": 17.48200035095215,
+        "LONG": 104.36799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 481003,
+        "SUB_DISTRICT_NAME_THA": "นาขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Na Khamin",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4810,
+        "LAT": 17.523000717163086,
+        "LONG": 104.51300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 481005,
+        "SUB_DISTRICT_NAME_THA": "บ้านค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kho",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4810,
+        "LAT": 17.472999572753906,
+        "LONG": 104.26399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 481006,
+        "SUB_DISTRICT_NAME_THA": "โพนจาน",
+        "SUB_DISTRICT_NAME_ENG": "Phon Chan",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4810,
+        "LAT": 17.409000396728516,
+        "LONG": 104.42400360107422
+    }
+]

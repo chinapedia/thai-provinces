@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 521101,
+        "SUB_DISTRICT_NAME_THA": "สบปราบ",
+        "SUB_DISTRICT_NAME_ENG": "Sop Prap",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5211,
+        "LAT": 17.834999084472656,
+        "LONG": 99.34400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 521102,
+        "SUB_DISTRICT_NAME_THA": "สมัย",
+        "SUB_DISTRICT_NAME_ENG": "Samai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5211,
+        "LAT": 17.899999618530273,
+        "LONG": 99.4209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 521103,
+        "SUB_DISTRICT_NAME_THA": "แม่กัวะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Kua",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5211,
+        "LAT": 17.95599937438965,
+        "LONG": 99.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 521104,
+        "SUB_DISTRICT_NAME_THA": "นายาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Yang",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5211,
+        "LAT": 17.90399932861328,
+        "LONG": 99.26599884033203
+    }
+]

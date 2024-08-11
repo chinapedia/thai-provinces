@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 150301,
+        "SUB_DISTRICT_NAME_THA": "บางปลากด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pla Kot",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.508999824523926,
+        "LONG": 100.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 150302,
+        "SUB_DISTRICT_NAME_THA": "ป่าโมก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Mok",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.50100040435791,
+        "LONG": 100.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 150303,
+        "SUB_DISTRICT_NAME_THA": "สายทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Thong",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.512999534606934,
+        "LONG": 100.48400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 150304,
+        "SUB_DISTRICT_NAME_THA": "โรงช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Rong Chang",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.48799991607666,
+        "LONG": 100.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 150305,
+        "SUB_DISTRICT_NAME_THA": "บางเสด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sadet",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.461000442504883,
+        "LONG": 100.4729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 150306,
+        "SUB_DISTRICT_NAME_THA": "นรสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Norasing",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.517999649047852,
+        "LONG": 100.43099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 150307,
+        "SUB_DISTRICT_NAME_THA": "เอกราช",
+        "SUB_DISTRICT_NAME_ENG": "Ekkarat",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.47700023651123,
+        "LONG": 100.4260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 150308,
+        "SUB_DISTRICT_NAME_THA": "โผงเผง",
+        "SUB_DISTRICT_NAME_ENG": "Phong Pheng",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1503,
+        "LAT": 14.454999923706055,
+        "LONG": 100.44200134277344
+    }
+]

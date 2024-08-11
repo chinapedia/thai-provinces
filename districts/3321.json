@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 332101,
+        "SUB_DISTRICT_NAME_THA": "โดด",
+        "SUB_DISTRICT_NAME_ENG": "Dot",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3321,
+        "LAT": 15.204000473022461,
+        "LONG": 104.0780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 332102,
+        "SUB_DISTRICT_NAME_THA": "เสียว",
+        "SUB_DISTRICT_NAME_ENG": "Siao",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3321,
+        "LAT": 15.25100040435791,
+        "LONG": 104.04299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 332103,
+        "SUB_DISTRICT_NAME_THA": "หนองม้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ma",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3321,
+        "LAT": 15.253999710083008,
+        "LONG": 104.08300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 332104,
+        "SUB_DISTRICT_NAME_THA": "ผือใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Phue Yai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3321,
+        "LAT": 15.232999801635742,
+        "LONG": 104.11100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 332105,
+        "SUB_DISTRICT_NAME_THA": "อีเซ",
+        "SUB_DISTRICT_NAME_ENG": "I Se",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3321,
+        "LAT": 15.269000053405762,
+        "LONG": 104.00900268554688
+    }
+]

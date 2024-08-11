@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 150101,
+        "SUB_DISTRICT_NAME_THA": "ตลาดหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Talat Luang",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.592000007629395,
+        "LONG": 100.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 150102,
+        "SUB_DISTRICT_NAME_THA": "บางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.588000297546387,
+        "LONG": 100.45899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 150103,
+        "SUB_DISTRICT_NAME_THA": "ศาลาแดง",
+        "SUB_DISTRICT_NAME_ENG": "Sala Daeng",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.598999977111816,
+        "LONG": 100.44499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 150104,
+        "SUB_DISTRICT_NAME_THA": "ป่างิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ngio",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.612000465393066,
+        "LONG": 100.41300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 150105,
+        "SUB_DISTRICT_NAME_THA": "บ้านแห",
+        "SUB_DISTRICT_NAME_ENG": "Ban Hae",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.5649995803833,
+        "LONG": 100.43399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 150106,
+        "SUB_DISTRICT_NAME_THA": "ตลาดกรวด",
+        "SUB_DISTRICT_NAME_ENG": "Talat Kruat",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.619000434875488,
+        "LONG": 100.47799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 150107,
+        "SUB_DISTRICT_NAME_THA": "มหาดไทย",
+        "SUB_DISTRICT_NAME_ENG": "Mahatthai",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.567999839782715,
+        "LONG": 100.4000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 150108,
+        "SUB_DISTRICT_NAME_THA": "บ้านอิฐ",
+        "SUB_DISTRICT_NAME_ENG": "Ban It",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.583000183105469,
+        "LONG": 100.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 150109,
+        "SUB_DISTRICT_NAME_THA": "หัวไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Hua Phai",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.553000450134277,
+        "LONG": 100.4739990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 150110,
+        "SUB_DISTRICT_NAME_THA": "จำปาหล่อ",
+        "SUB_DISTRICT_NAME_ENG": "Champa Lo",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.538999557495117,
+        "LONG": 100.43299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 150111,
+        "SUB_DISTRICT_NAME_THA": "โพสะ",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sa",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.541999816894531,
+        "LONG": 100.45700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 150112,
+        "SUB_DISTRICT_NAME_THA": "บ้านรี",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ri",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.604999542236328,
+        "LONG": 100.48500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 150113,
+        "SUB_DISTRICT_NAME_THA": "คลองวัว",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Wua",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.57800006866455,
+        "LONG": 100.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 150114,
+        "SUB_DISTRICT_NAME_THA": "ย่านซื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Yan Sue",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1501,
+        "LAT": 14.619000434875488,
+        "LONG": 100.4469985961914
+    }
+]

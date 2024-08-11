@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540601,
+        "SUB_DISTRICT_NAME_THA": "บ้านหนุน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Nun",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.437000274658203,
+        "LONG": 100.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 540602,
+        "SUB_DISTRICT_NAME_THA": "บ้านกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.485000610351562,
+        "LONG": 100.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 540603,
+        "SUB_DISTRICT_NAME_THA": "ห้วยหม้าย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Mai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.417999267578125,
+        "LONG": 100.08899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 540604,
+        "SUB_DISTRICT_NAME_THA": "เตาปูน",
+        "SUB_DISTRICT_NAME_ENG": "Tao Pun",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.5310001373291,
+        "LONG": 100.27100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 540605,
+        "SUB_DISTRICT_NAME_THA": "หัวเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Mueang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.33300018310547,
+        "LONG": 100.18099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 540606,
+        "SUB_DISTRICT_NAME_THA": "สะเอียบ",
+        "SUB_DISTRICT_NAME_ENG": "Sa-Iap",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.708999633789062,
+        "LONG": 100.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 540607,
+        "SUB_DISTRICT_NAME_THA": "แดนชุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Daen Chumphon",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.364999771118164,
+        "LONG": 100.197998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 540608,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งน้าว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Nao",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5406,
+        "LAT": 18.402000427246094,
+        "LONG": 100.19999694824219
+    }
+]

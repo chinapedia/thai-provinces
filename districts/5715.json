@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571501,
+        "SUB_DISTRICT_NAME_THA": "เทอดไทย",
+        "SUB_DISTRICT_NAME_ENG": "Thoet Thai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5715,
+        "LAT": 20.305999755859375,
+        "LONG": 99.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 571502,
+        "SUB_DISTRICT_NAME_THA": "แม่สลองใน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Salong Nai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5715,
+        "LAT": 20.194000244140625,
+        "LONG": 99.70600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 571503,
+        "SUB_DISTRICT_NAME_THA": "แม่สลองนอก",
+        "SUB_DISTRICT_NAME_ENG": "Mae Salong Nok",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5715,
+        "LAT": 20.141000747680664,
+        "LONG": 99.65399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 571504,
+        "SUB_DISTRICT_NAME_THA": "แม่ฟ้าหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Fa Luang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5715,
+        "LAT": 20.288000106811523,
+        "LONG": 99.78299713134766
+    }
+]

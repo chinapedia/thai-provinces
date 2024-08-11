@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 960701,
+        "SUB_DISTRICT_NAME_THA": "ซากอ",
+        "SUB_DISTRICT_NAME_ENG": "Sa Ko",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9607,
+        "LAT": 6.230000019073486,
+        "LONG": 101.52200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 960702,
+        "SUB_DISTRICT_NAME_THA": "ตะมะยูง",
+        "SUB_DISTRICT_NAME_ENG": "Tama Yung",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9607,
+        "LAT": 6.2820000648498535,
+        "LONG": 101.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 960703,
+        "SUB_DISTRICT_NAME_THA": "ศรีสาคร",
+        "SUB_DISTRICT_NAME_ENG": "Si Sakhon",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9607,
+        "LAT": 6.1519999504089355,
+        "LONG": 101.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 960704,
+        "SUB_DISTRICT_NAME_THA": "เชิงคีรี",
+        "SUB_DISTRICT_NAME_ENG": "Choeng Khiri",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9607,
+        "LAT": 6.269999980926514,
+        "LONG": 101.56999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 960705,
+        "SUB_DISTRICT_NAME_THA": "กาหลง",
+        "SUB_DISTRICT_NAME_ENG": "Kalong",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9607,
+        "LAT": 6.2129998207092285,
+        "LONG": 101.41400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 960706,
+        "SUB_DISTRICT_NAME_THA": "ศรีบรรพต",
+        "SUB_DISTRICT_NAME_ENG": "Si Banphot",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9607,
+        "LAT": 6.1519999504089355,
+        "LONG": 101.5739974975586
+    }
+]

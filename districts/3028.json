@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302801,
+        "SUB_DISTRICT_NAME_THA": "สระพระ",
+        "SUB_DISTRICT_NAME_ENG": "Sa Phra",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3028,
+        "LAT": 15.310999870300293,
+        "LONG": 101.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 302802,
+        "SUB_DISTRICT_NAME_THA": "มาบกราด",
+        "SUB_DISTRICT_NAME_ENG": "Map Krat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3028,
+        "LAT": 15.369000434875488,
+        "LONG": 101.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 302803,
+        "SUB_DISTRICT_NAME_THA": "พังเทียม",
+        "SUB_DISTRICT_NAME_ENG": "Phang Thiam",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3028,
+        "LAT": 15.274999618530273,
+        "LONG": 101.99500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 302804,
+        "SUB_DISTRICT_NAME_THA": "ทัพรั้ง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Rang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3028,
+        "LAT": 15.406000137329102,
+        "LONG": 101.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 302805,
+        "SUB_DISTRICT_NAME_THA": "หนองหอย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hoi",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3028,
+        "LAT": 15.333999633789062,
+        "LONG": 102.05599975585938
+    }
+]

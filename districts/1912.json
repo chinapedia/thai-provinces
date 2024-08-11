@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 191201,
+        "SUB_DISTRICT_NAME_THA": "แสลงพัน",
+        "SUB_DISTRICT_NAME_ENG": "Salaeng Phan",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1912,
+        "LAT": 14.744999885559082,
+        "LONG": 101.11599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 191202,
+        "SUB_DISTRICT_NAME_THA": "คำพราน",
+        "SUB_DISTRICT_NAME_ENG": "Kham Phran",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1912,
+        "LAT": 14.817999839782715,
+        "LONG": 101.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 191203,
+        "SUB_DISTRICT_NAME_THA": "วังม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Muang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1912,
+        "LAT": 14.861000061035156,
+        "LONG": 101.1510009765625
+    }
+]

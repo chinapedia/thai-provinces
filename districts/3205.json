@@ -1,0 +1,164 @@
+[
+    {
+        "SUB_DISTRICT_ID": 320501,
+        "SUB_DISTRICT_NAME_THA": "กังแอน",
+        "SUB_DISTRICT_NAME_ENG": "Kang Aen",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.656000137329102,
+        "LONG": 103.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 320502,
+        "SUB_DISTRICT_NAME_THA": "ทมอ",
+        "SUB_DISTRICT_NAME_ENG": "Thamo",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.722000122070312,
+        "LONG": 103.48600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 320503,
+        "SUB_DISTRICT_NAME_THA": "ไพล",
+        "SUB_DISTRICT_NAME_ENG": "Phrai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.687999725341797,
+        "LONG": 103.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 320504,
+        "SUB_DISTRICT_NAME_THA": "ปรือ",
+        "SUB_DISTRICT_NAME_ENG": "Prue",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.645000457763672,
+        "LONG": 103.28800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 320505,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งมน",
+        "SUB_DISTRICT_NAME_ENG": "Thung Mon",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.720000267028809,
+        "LONG": 103.28199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 320506,
+        "SUB_DISTRICT_NAME_THA": "ตาเบา",
+        "SUB_DISTRICT_NAME_ENG": "Ta Bao",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.614999771118164,
+        "LONG": 103.49299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 320507,
+        "SUB_DISTRICT_NAME_THA": "หนองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.552000045776367,
+        "LONG": 103.46199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 320508,
+        "SUB_DISTRICT_NAME_THA": "โคกยาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Yang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.67300033569336,
+        "LONG": 103.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 320509,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.541000366210938,
+        "LONG": 103.37300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 320510,
+        "SUB_DISTRICT_NAME_THA": "บ้านไทร",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.621999740600586,
+        "LONG": 103.60199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 320511,
+        "SUB_DISTRICT_NAME_THA": "โชคนาสาม",
+        "SUB_DISTRICT_NAME_ENG": "Chok Na Sam",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.543999671936035,
+        "LONG": 103.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 320512,
+        "SUB_DISTRICT_NAME_THA": "เชื้อเพลิง",
+        "SUB_DISTRICT_NAME_ENG": "Chue Phloeng",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.713000297546387,
+        "LONG": 103.41799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 320513,
+        "SUB_DISTRICT_NAME_THA": "ปราสาททนง",
+        "SUB_DISTRICT_NAME_ENG": "Prasat Thanong",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.652000427246094,
+        "LONG": 103.35600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 320514,
+        "SUB_DISTRICT_NAME_THA": "ตานี",
+        "SUB_DISTRICT_NAME_ENG": "Tani",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.616999626159668,
+        "LONG": 103.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 320515,
+        "SUB_DISTRICT_NAME_THA": "บ้านพลวง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phluang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.60200023651123,
+        "LONG": 103.40799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 320516,
+        "SUB_DISTRICT_NAME_THA": "กันตรวจระมวล",
+        "SUB_DISTRICT_NAME_ENG": "Kanta Wacharamuan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.592000007629395,
+        "LONG": 103.55699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 320517,
+        "SUB_DISTRICT_NAME_THA": "สมุด",
+        "SUB_DISTRICT_NAME_ENG": "Samut",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.685999870300293,
+        "LONG": 103.33899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 320518,
+        "SUB_DISTRICT_NAME_THA": "ประทัดบุ",
+        "SUB_DISTRICT_NAME_ENG": "Prathat Bu",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3205,
+        "LAT": 14.72700023651123,
+        "LONG": 103.34100341796875
+    }
+]

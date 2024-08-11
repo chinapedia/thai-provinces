@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 551001,
+        "SUB_DISTRICT_NAME_THA": "นาทะนุง",
+        "SUB_DISTRICT_NAME_ENG": "Na Thanung",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5510,
+        "LAT": 18.117000579833984,
+        "LONG": 100.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 551002,
+        "SUB_DISTRICT_NAME_THA": "บ่อแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kaeo",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5510,
+        "LAT": 18.138999938964844,
+        "LONG": 100.83200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 551003,
+        "SUB_DISTRICT_NAME_THA": "เมืองลี่",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Li",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5510,
+        "LAT": 18.22599983215332,
+        "LONG": 100.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 551004,
+        "SUB_DISTRICT_NAME_THA": "ปิงหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Ping Luang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5510,
+        "LAT": 18.114999771118164,
+        "LONG": 100.48600006103516
+    }
+]

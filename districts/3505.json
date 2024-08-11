@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 350501,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ไทร",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3505,
+        "LAT": 15.831999778747559,
+        "LONG": 104.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 350502,
+        "SUB_DISTRICT_NAME_THA": "กระจาย",
+        "SUB_DISTRICT_NAME_ENG": "Krachai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3505,
+        "LAT": 15.800999641418457,
+        "LONG": 104.29900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 350503,
+        "SUB_DISTRICT_NAME_THA": "โคกนาโก",
+        "SUB_DISTRICT_NAME_ENG": "Khok Na Ko",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3505,
+        "LAT": 15.925000190734863,
+        "LONG": 104.43000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 350504,
+        "SUB_DISTRICT_NAME_THA": "เชียงเพ็ง",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Pheng",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3505,
+        "LAT": 15.772000312805176,
+        "LONG": 104.40899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 350505,
+        "SUB_DISTRICT_NAME_THA": "ศรีฐาน",
+        "SUB_DISTRICT_NAME_ENG": "Si Than",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3505,
+        "LAT": 15.777000427246094,
+        "LONG": 104.34300231933594
+    }
+]

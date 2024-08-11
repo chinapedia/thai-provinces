@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560501,
+        "SUB_DISTRICT_NAME_THA": "ดอกคำใต้",
+        "SUB_DISTRICT_NAME_ENG": "Dok Khamtai",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.152000427246094,
+        "LONG": 99.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 560502,
+        "SUB_DISTRICT_NAME_THA": "ดอนศรีชุม",
+        "SUB_DISTRICT_NAME_ENG": "Don Si Chum",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.156999588012695,
+        "LONG": 100.0260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 560503,
+        "SUB_DISTRICT_NAME_THA": "บ้านถ้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tham",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.104999542236328,
+        "LONG": 100.0739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 560504,
+        "SUB_DISTRICT_NAME_THA": "บ้านปิน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pin",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 18.988000869750977,
+        "LONG": 100.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 560505,
+        "SUB_DISTRICT_NAME_THA": "ห้วยลาน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Lan",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.3700008392334,
+        "LONG": 100.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 560506,
+        "SUB_DISTRICT_NAME_THA": "สันโค้ง",
+        "SUB_DISTRICT_NAME_ENG": "San Khong",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.19499969482422,
+        "LONG": 100.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 560507,
+        "SUB_DISTRICT_NAME_THA": "ป่าซาง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.284000396728516,
+        "LONG": 100.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 560508,
+        "SUB_DISTRICT_NAME_THA": "หนองหล่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lom",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 18.924999237060547,
+        "LONG": 100.09600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 560509,
+        "SUB_DISTRICT_NAME_THA": "ดงสุวรรณ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Suwan",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.242000579833984,
+        "LONG": 100.0530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 560510,
+        "SUB_DISTRICT_NAME_THA": "บุญเกิด",
+        "SUB_DISTRICT_NAME_ENG": "Bunkoet",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.134000778198242,
+        "LONG": 99.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 560511,
+        "SUB_DISTRICT_NAME_THA": "สว่างอารมณ์",
+        "SUB_DISTRICT_NAME_ENG": "Sawang Arom",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.194000244140625,
+        "LONG": 99.98200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 560512,
+        "SUB_DISTRICT_NAME_THA": "คือเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Khue Wiang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5605,
+        "LAT": 19.084999084472656,
+        "LONG": 100.01399993896484
+    }
+]

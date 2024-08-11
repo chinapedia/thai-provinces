@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540501,
+        "SUB_DISTRICT_NAME_THA": "เด่นชัย",
+        "SUB_DISTRICT_NAME_ENG": "Den Chai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5405,
+        "LAT": 17.972999572753906,
+        "LONG": 100.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 540502,
+        "SUB_DISTRICT_NAME_THA": "แม่จั๊วะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Chua",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5405,
+        "LAT": 17.975000381469727,
+        "LONG": 100.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 540503,
+        "SUB_DISTRICT_NAME_THA": "ไทรย้อย",
+        "SUB_DISTRICT_NAME_ENG": "Sai Yoi",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5405,
+        "LAT": 17.892000198364258,
+        "LONG": 99.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 540504,
+        "SUB_DISTRICT_NAME_THA": "ห้วยไร่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5405,
+        "LAT": 17.898000717163086,
+        "LONG": 100.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 540505,
+        "SUB_DISTRICT_NAME_THA": "ปงป่าหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Pong Pa Wai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5405,
+        "LAT": 18.02400016784668,
+        "LONG": 99.99099731445312
+    }
+]

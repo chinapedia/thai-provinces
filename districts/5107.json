@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 510701,
+        "SUB_DISTRICT_NAME_THA": "บ้านธิ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thi",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5107,
+        "LAT": 18.61400032043457,
+        "LONG": 99.19000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 510702,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยาบ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yap",
+        "PROVINCE_ID": 51,
+        "DISTRICT_ID": 5107,
+        "LAT": 18.679000854492188,
+        "LONG": 99.16300201416016
+    }
+]

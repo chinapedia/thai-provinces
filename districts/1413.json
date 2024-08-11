@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 141301,
+        "SUB_DISTRICT_NAME_THA": "บางซ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1413,
+        "LAT": 14.314000129699707,
+        "LONG": 100.28600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 141302,
+        "SUB_DISTRICT_NAME_THA": "แก้วฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Kaeo Fa",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1413,
+        "LAT": 14.312999725341797,
+        "LONG": 100.32599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 141303,
+        "SUB_DISTRICT_NAME_THA": "เต่าเล่า",
+        "SUB_DISTRICT_NAME_ENG": "Tao Lao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1413,
+        "LAT": 14.34000015258789,
+        "LONG": 100.31900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 141304,
+        "SUB_DISTRICT_NAME_THA": "ปลายกลัด",
+        "SUB_DISTRICT_NAME_ENG": "Plai Klat",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1413,
+        "LAT": 14.381999969482422,
+        "LONG": 100.31500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 141305,
+        "SUB_DISTRICT_NAME_THA": "เทพมงคล",
+        "SUB_DISTRICT_NAME_ENG": "Thep Mongkhon",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1413,
+        "LAT": 14.236000061035156,
+        "LONG": 100.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 141306,
+        "SUB_DISTRICT_NAME_THA": "วังพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phatthana",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1413,
+        "LAT": 14.272000312805176,
+        "LONG": 100.2959976196289
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 461601,
+        "SUB_DISTRICT_NAME_THA": "นาคู",
+        "SUB_DISTRICT_NAME_ENG": "Na Khu",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4616,
+        "LAT": 16.808000564575195,
+        "LONG": 104.06999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 461602,
+        "SUB_DISTRICT_NAME_THA": "สายนาวัง",
+        "SUB_DISTRICT_NAME_ENG": "Sai Na Wang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4616,
+        "LAT": 16.76099967956543,
+        "LONG": 104.06300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 461603,
+        "SUB_DISTRICT_NAME_THA": "โนนนาจาง",
+        "SUB_DISTRICT_NAME_ENG": "Non Na Chan",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4616,
+        "LAT": 16.732999801635742,
+        "LONG": 103.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 461604,
+        "SUB_DISTRICT_NAME_THA": "บ่อแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kaeo",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4616,
+        "LAT": 16.791000366210938,
+        "LONG": 103.99400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 461605,
+        "SUB_DISTRICT_NAME_THA": "ภูแล่นช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Laen Chang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4616,
+        "LAT": 16.687999725341797,
+        "LONG": 103.97000122070312
+    }
+]

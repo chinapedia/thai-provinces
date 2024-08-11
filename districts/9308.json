@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930801,
+        "SUB_DISTRICT_NAME_THA": "ป่าบอน",
+        "SUB_DISTRICT_NAME_ENG": "Pa Bon",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9308,
+        "LAT": 7.336999893188477,
+        "LONG": 100.1709976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 930802,
+        "SUB_DISTRICT_NAME_THA": "โคกทราย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sai",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9308,
+        "LAT": 7.229000091552734,
+        "LONG": 100.22899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 930803,
+        "SUB_DISTRICT_NAME_THA": "หนองธง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Thong",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9308,
+        "LAT": 7.1620001792907715,
+        "LONG": 100.00800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 930804,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งนารี",
+        "SUB_DISTRICT_NAME_ENG": "Thung Nari",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9308,
+        "LAT": 7.190999984741211,
+        "LONG": 100.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 930806,
+        "SUB_DISTRICT_NAME_THA": "วังใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mai",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9308,
+        "LAT": 7.317999839782715,
+        "LONG": 100.2300033569336
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660601,
+        "SUB_DISTRICT_NAME_THA": "โพทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Pho Thale",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.10300064086914,
+        "LONG": 100.23600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 660602,
+        "SUB_DISTRICT_NAME_THA": "ท้ายน้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Thai Nam",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.14699935913086,
+        "LONG": 100.20700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 660603,
+        "SUB_DISTRICT_NAME_THA": "ทะนง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nong",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.077999114990234,
+        "LONG": 100.18000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 660604,
+        "SUB_DISTRICT_NAME_THA": "ท่าบัว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Bua",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.05900001525879,
+        "LONG": 100.32599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 660605,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Noi",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.117000579833984,
+        "LONG": 100.31500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 660606,
+        "SUB_DISTRICT_NAME_THA": "ท่าขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khamin",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.024999618530273,
+        "LONG": 100.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 660607,
+        "SUB_DISTRICT_NAME_THA": "ท่าเสา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sao",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 15.965999603271484,
+        "LONG": 100.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 660608,
+        "SUB_DISTRICT_NAME_THA": "บางคลาน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khlan",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.000999450683594,
+        "LONG": 100.28600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 660611,
+        "SUB_DISTRICT_NAME_THA": "ท่านั่ง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 15.963000297546387,
+        "LONG": 100.2760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 660612,
+        "SUB_DISTRICT_NAME_THA": "บ้านน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Noi",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.042999267578125,
+        "LONG": 100.28800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 660613,
+        "SUB_DISTRICT_NAME_THA": "วัดขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Wat Khwang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6606,
+        "LAT": 16.15999984741211,
+        "LONG": 100.2979965209961
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220401,
+        "SUB_DISTRICT_NAME_THA": "ทับไทร",
+        "SUB_DISTRICT_NAME_ENG": "Thap Sai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2204,
+        "LAT": 12.949999809265137,
+        "LONG": 102.24700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 220402,
+        "SUB_DISTRICT_NAME_THA": "โป่งน้ำร้อน",
+        "SUB_DISTRICT_NAME_ENG": "Pong Nam Ron",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2204,
+        "LAT": 12.890000343322754,
+        "LONG": 102.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 220404,
+        "SUB_DISTRICT_NAME_THA": "หนองตาคง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ta Khong",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2204,
+        "LAT": 13.067000389099121,
+        "LONG": 102.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 220409,
+        "SUB_DISTRICT_NAME_THA": "เทพนิมิต",
+        "SUB_DISTRICT_NAME_ENG": "Thep Nimit",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2204,
+        "LAT": 13.043999671936035,
+        "LONG": 102.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 220410,
+        "SUB_DISTRICT_NAME_THA": "คลองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Yai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2204,
+        "LAT": 12.873000144958496,
+        "LONG": 102.47599792480469
+    }
+]

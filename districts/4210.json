@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 421001,
+        "SUB_DISTRICT_NAME_THA": "ศรีฐาน",
+        "SUB_DISTRICT_NAME_ENG": "Si Than",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4210,
+        "LAT": 16.8799991607666,
+        "LONG": 101.77100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 421005,
+        "SUB_DISTRICT_NAME_THA": "ผานกเค้า",
+        "SUB_DISTRICT_NAME_ENG": "Pha Nok Khao",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4210,
+        "LAT": 16.895999908447266,
+        "LONG": 101.98600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 421007,
+        "SUB_DISTRICT_NAME_THA": "ภูกระดึง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Kradueng",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4210,
+        "LAT": 16.97100067138672,
+        "LONG": 101.8499984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 421010,
+        "SUB_DISTRICT_NAME_THA": "ห้วยส้ม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Som",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4210,
+        "LAT": 16.937000274658203,
+        "LONG": 101.93900299072266
+    }
+]

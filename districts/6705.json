@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670501,
+        "SUB_DISTRICT_NAME_THA": "ท่าโรง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Rong",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.65999984741211,
+        "LONG": 101.14099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 670502,
+        "SUB_DISTRICT_NAME_THA": "สระประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Sa Pradu",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.628000259399414,
+        "LONG": 101.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 670503,
+        "SUB_DISTRICT_NAME_THA": "สามแยก",
+        "SUB_DISTRICT_NAME_ENG": "Sam Yaek",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.708999633789062,
+        "LONG": 101.02899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 670504,
+        "SUB_DISTRICT_NAME_THA": "โคกปรง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Prong",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.814000129699707,
+        "LONG": 101.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 670505,
+        "SUB_DISTRICT_NAME_THA": "น้ำร้อน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Ron",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.687000274658203,
+        "LONG": 101.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 670506,
+        "SUB_DISTRICT_NAME_THA": "บ่อรัง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Rang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.607999801635742,
+        "LONG": 101.21700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 670507,
+        "SUB_DISTRICT_NAME_THA": "พุเตย",
+        "SUB_DISTRICT_NAME_ENG": "Phu Toei",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.586000442504883,
+        "LONG": 101.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 670508,
+        "SUB_DISTRICT_NAME_THA": "พุขาม",
+        "SUB_DISTRICT_NAME_ENG": "Phu Kham",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.529000282287598,
+        "LONG": 101.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 670509,
+        "SUB_DISTRICT_NAME_THA": "ภูน้ำหยด",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.529999732971191,
+        "LONG": 100.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 670510,
+        "SUB_DISTRICT_NAME_THA": "ซับสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Sap Sombun",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.668999671936035,
+        "LONG": 100.98300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 670511,
+        "SUB_DISTRICT_NAME_THA": "บึงกระจับ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Krachap",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.744000434875488,
+        "LONG": 101.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 670512,
+        "SUB_DISTRICT_NAME_THA": "วังใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.607000350952148,
+        "LONG": 100.9489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 670513,
+        "SUB_DISTRICT_NAME_THA": "ยางสาว",
+        "SUB_DISTRICT_NAME_ENG": "Yang Sao",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.755000114440918,
+        "LONG": 101.21600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 670514,
+        "SUB_DISTRICT_NAME_THA": "ซับน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Sap Noi",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6705,
+        "LAT": 15.656999588012695,
+        "LONG": 100.85800170898438
+    }
+]

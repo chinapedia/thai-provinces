@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180301,
+        "SUB_DISTRICT_NAME_THA": "วัดสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Sing",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1803,
+        "LAT": 15.262999534606934,
+        "LONG": 100.04100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 180302,
+        "SUB_DISTRICT_NAME_THA": "มะขามเฒ่า",
+        "SUB_DISTRICT_NAME_ENG": "Makham Thao",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1803,
+        "LAT": 15.22700023651123,
+        "LONG": 100.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 180303,
+        "SUB_DISTRICT_NAME_THA": "หนองน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Noi",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1803,
+        "LAT": 15.177000045776367,
+        "LONG": 100.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 180304,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1803,
+        "LAT": 15.282999992370605,
+        "LONG": 100.01300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 180306,
+        "SUB_DISTRICT_NAME_THA": "หนองขุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khun",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1803,
+        "LAT": 15.234999656677246,
+        "LONG": 99.97000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 180307,
+        "SUB_DISTRICT_NAME_THA": "บ่อแร่",
+        "SUB_DISTRICT_NAME_ENG": "Bo Rae",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1803,
+        "LAT": 15.282999992370605,
+        "LONG": 99.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 180311,
+        "SUB_DISTRICT_NAME_THA": "วังหมัน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Man",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1803,
+        "LAT": 15.170999526977539,
+        "LONG": 99.91600036621094
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530401,
+        "SUB_DISTRICT_NAME_THA": "แสนตอ",
+        "SUB_DISTRICT_NAME_ENG": "Saen To",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5304,
+        "LAT": 17.719999313354492,
+        "LONG": 100.64600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 530402,
+        "SUB_DISTRICT_NAME_THA": "บ้านฝาย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Fai",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5304,
+        "LAT": 17.739999771118164,
+        "LONG": 100.75800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 530403,
+        "SUB_DISTRICT_NAME_THA": "เด่นเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Den Lek",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5304,
+        "LAT": 17.81999969482422,
+        "LONG": 100.78800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 530404,
+        "SUB_DISTRICT_NAME_THA": "น้ำไคร้",
+        "SUB_DISTRICT_NAME_ENG": "Nam Khrai",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5304,
+        "LAT": 17.607999801635742,
+        "LONG": 100.54199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 530405,
+        "SUB_DISTRICT_NAME_THA": "น้ำไฝ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Phai",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5304,
+        "LAT": 17.601999282836914,
+        "LONG": 100.70500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 530406,
+        "SUB_DISTRICT_NAME_THA": "ห้วยมุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Huai Mun",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5304,
+        "LAT": 17.79400062561035,
+        "LONG": 100.93499755859375
+    }
+]

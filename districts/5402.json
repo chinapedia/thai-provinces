@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540201,
+        "SUB_DISTRICT_NAME_THA": "ร้องกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Rong Kwang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.35099983215332,
+        "LONG": 100.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 540204,
+        "SUB_DISTRICT_NAME_THA": "ร้องเข็ม",
+        "SUB_DISTRICT_NAME_ENG": "Si Narong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.292999267578125,
+        "LONG": 100.31300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 540205,
+        "SUB_DISTRICT_NAME_THA": "น้ำเลา",
+        "SUB_DISTRICT_NAME_ENG": "Nam Lao",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.253999710083008,
+        "LONG": 100.30899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 540206,
+        "SUB_DISTRICT_NAME_THA": "บ้านเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Wiang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.20800018310547,
+        "LONG": 100.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 540207,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งศรี",
+        "SUB_DISTRICT_NAME_ENG": "Rong Khem",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.31599998474121,
+        "LONG": 100.33999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 540208,
+        "SUB_DISTRICT_NAME_THA": "แม่ยางตาล",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yang Tan",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.304000854492188,
+        "LONG": 100.25700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 540209,
+        "SUB_DISTRICT_NAME_THA": "แม่ยางฮ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yang Ho",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.350000381469727,
+        "LONG": 100.26000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 540210,
+        "SUB_DISTRICT_NAME_THA": "ไผ่โทน",
+        "SUB_DISTRICT_NAME_ENG": "Phai Thon",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.31999969482422,
+        "LONG": 100.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 540213,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโรง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.43199920654297,
+        "LONG": 100.51300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 540214,
+        "SUB_DISTRICT_NAME_THA": "แม่ทราย",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.410999298095703,
+        "LONG": 100.31400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 540215,
+        "SUB_DISTRICT_NAME_THA": "แม่ยางร้อง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yang Rong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5402,
+        "LAT": 18.395999908447266,
+        "LONG": 100.24800109863281
+    }
+]

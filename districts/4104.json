@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 410401,
+        "SUB_DISTRICT_NAME_THA": "ตูมใต้",
+        "SUB_DISTRICT_NAME_ENG": "Tum Tai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.083999633789062,
+        "LONG": 102.96299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 410402,
+        "SUB_DISTRICT_NAME_THA": "พันดอน",
+        "SUB_DISTRICT_NAME_ENG": "Phan Don",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.136999130249023,
+        "LONG": 102.93800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 410403,
+        "SUB_DISTRICT_NAME_THA": "เวียงคำ",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Kham",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.097000122070312,
+        "LONG": 103.11599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 410404,
+        "SUB_DISTRICT_NAME_THA": "แชแล",
+        "SUB_DISTRICT_NAME_ENG": "Chae Lae",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.152999877929688,
+        "LONG": 103.07499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 410406,
+        "SUB_DISTRICT_NAME_THA": "เชียงแหว",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Wae",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.197999954223633,
+        "LONG": 103.0260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 410407,
+        "SUB_DISTRICT_NAME_THA": "ห้วยเกิ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Koeng",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.04400062561035,
+        "LONG": 102.93399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 410409,
+        "SUB_DISTRICT_NAME_THA": "เสอเพลอ",
+        "SUB_DISTRICT_NAME_ENG": "Soe Phloe",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.20199966430664,
+        "LONG": 102.8740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 410410,
+        "SUB_DISTRICT_NAME_THA": "สีออ",
+        "SUB_DISTRICT_NAME_ENG": "Si-O",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 16.9950008392334,
+        "LONG": 103.03800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 410411,
+        "SUB_DISTRICT_NAME_THA": "ปะโค",
+        "SUB_DISTRICT_NAME_ENG": "Pakho",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.055999755859375,
+        "LONG": 102.89600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 410413,
+        "SUB_DISTRICT_NAME_THA": "ผาสุก",
+        "SUB_DISTRICT_NAME_ENG": "Pha Suk",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.16900062561035,
+        "LONG": 102.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 410414,
+        "SUB_DISTRICT_NAME_THA": "ท่าลี่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Li",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 16.933000564575195,
+        "LONG": 103.06400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 410415,
+        "SUB_DISTRICT_NAME_THA": "กุมภวาปี",
+        "SUB_DISTRICT_NAME_ENG": "Kumphawapi",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.11199951171875,
+        "LONG": 103.00900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 410416,
+        "SUB_DISTRICT_NAME_THA": "หนองหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Wa",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4104,
+        "LAT": 17.033000946044922,
+        "LONG": 102.98100280761719
+    }
+]

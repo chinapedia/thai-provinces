@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520301,
+        "SUB_DISTRICT_NAME_THA": "ลำปางหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Lampang Luang",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.238000869750977,
+        "LONG": 99.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 520302,
+        "SUB_DISTRICT_NAME_THA": "นาแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Na Kaeo",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.0310001373291,
+        "LONG": 99.3010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 520303,
+        "SUB_DISTRICT_NAME_THA": "ไหล่หิน",
+        "SUB_DISTRICT_NAME_ENG": "Lai Hin",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.18600082397461,
+        "LONG": 99.25499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 520304,
+        "SUB_DISTRICT_NAME_THA": "วังพร้าว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phrao",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.14699935913086,
+        "LONG": 99.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 520305,
+        "SUB_DISTRICT_NAME_THA": "ศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Sala",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.195999145507812,
+        "LONG": 99.41300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 520306,
+        "SUB_DISTRICT_NAME_THA": "เกาะคา",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kha",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.20199966430664,
+        "LONG": 99.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 520307,
+        "SUB_DISTRICT_NAME_THA": "นาแส่ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Saeng",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.073999404907227,
+        "LONG": 99.38099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 520308,
+        "SUB_DISTRICT_NAME_THA": "ท่าผา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pha",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.17300033569336,
+        "LONG": 99.36499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 520309,
+        "SUB_DISTRICT_NAME_THA": "ใหม่พัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Mai Phatthana",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5203,
+        "LAT": 18.253999710083008,
+        "LONG": 99.31800079345703
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 420901,
+        "SUB_DISTRICT_NAME_THA": "วังสะพุง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Saphung",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.29599952697754,
+        "LONG": 101.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 420902,
+        "SUB_DISTRICT_NAME_THA": "ทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Khao",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.21299934387207,
+        "LONG": 101.53500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 420903,
+        "SUB_DISTRICT_NAME_THA": "หนองหญ้าปล้อง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ya Plong",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.233999252319336,
+        "LONG": 101.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 420904,
+        "SUB_DISTRICT_NAME_THA": "หนองงิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ngio",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.374000549316406,
+        "LONG": 101.57099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 420905,
+        "SUB_DISTRICT_NAME_THA": "ปากปวน",
+        "SUB_DISTRICT_NAME_ENG": "Pak Puan",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.35700035095215,
+        "LONG": 101.73899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 420906,
+        "SUB_DISTRICT_NAME_THA": "ผาน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Pha Noi",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.35099983215332,
+        "LONG": 101.83100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 420910,
+        "SUB_DISTRICT_NAME_THA": "ผาบิ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Pha Bing",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.19300079345703,
+        "LONG": 101.77300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 420911,
+        "SUB_DISTRICT_NAME_THA": "เขาหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Luang",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.336000442504883,
+        "LONG": 101.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 420912,
+        "SUB_DISTRICT_NAME_THA": "โคกขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khamin",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.17099952697754,
+        "LONG": 101.93800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 420913,
+        "SUB_DISTRICT_NAME_THA": "ศรีสงคราม",
+        "SUB_DISTRICT_NAME_ENG": "Si Songkhram",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4209,
+        "LAT": 17.253999710083008,
+        "LONG": 101.79900360107422
+    }
+]

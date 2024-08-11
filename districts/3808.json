@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 380801,
+        "SUB_DISTRICT_NAME_THA": "บุ่งคล้า",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3808,
+        "LAT": 18.25200080871582,
+        "LONG": 103.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 380802,
+        "SUB_DISTRICT_NAME_THA": "หนองเดิ่น",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3808,
+        "LAT": 18.29400062561035,
+        "LONG": 103.92500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 380803,
+        "SUB_DISTRICT_NAME_THA": "โคกกว้าง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3808,
+        "LAT": 18.218000411987305,
+        "LONG": 104.01000213623047
+    }
+]

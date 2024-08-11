@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640501,
+        "SUB_DISTRICT_NAME_THA": "หาดเสี้ยว",
+        "SUB_DISTRICT_NAME_ENG": "Hat Siao",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.520000457763672,
+        "LONG": 99.78399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 640502,
+        "SUB_DISTRICT_NAME_THA": "ป่างิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ngio",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.549999237060547,
+        "LONG": 99.82499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 640503,
+        "SUB_DISTRICT_NAME_THA": "แม่สำ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sam",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.607999801635742,
+        "LONG": 99.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 640504,
+        "SUB_DISTRICT_NAME_THA": "แม่สิน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sin",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.736000061035156,
+        "LONG": 99.58499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 640505,
+        "SUB_DISTRICT_NAME_THA": "บ้านตึก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tuek",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.64900016784668,
+        "LONG": 99.88099670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 640506,
+        "SUB_DISTRICT_NAME_THA": "หนองอ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Nong O",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.483999252319336,
+        "LONG": 99.7509994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 640507,
+        "SUB_DISTRICT_NAME_THA": "ท่าชัย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.444000244140625,
+        "LONG": 99.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 640508,
+        "SUB_DISTRICT_NAME_THA": "ศรีสัชนาลัย",
+        "SUB_DISTRICT_NAME_ENG": "Si Satchanalai",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.409000396728516,
+        "LONG": 99.77799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 640509,
+        "SUB_DISTRICT_NAME_THA": "ดงคู่",
+        "SUB_DISTRICT_NAME_ENG": "Dong Khu",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.547000885009766,
+        "LONG": 99.89900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 640510,
+        "SUB_DISTRICT_NAME_THA": "บ้านแก่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kaeng",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.448999404907227,
+        "LONG": 99.64299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 640511,
+        "SUB_DISTRICT_NAME_THA": "สารจิตร",
+        "SUB_DISTRICT_NAME_ENG": "Sarachit",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6405,
+        "LAT": 17.420000076293945,
+        "LONG": 99.72799682617188
+    }
+]

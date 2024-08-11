@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 430801,
+        "SUB_DISTRICT_NAME_THA": "แก้งไก่",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Kai",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4308,
+        "LAT": 18.03700065612793,
+        "LONG": 102.23500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 430802,
+        "SUB_DISTRICT_NAME_THA": "ผาตั้ง",
+        "SUB_DISTRICT_NAME_ENG": "Pha Tang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4308,
+        "LAT": 17.996000289916992,
+        "LONG": 102.3280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 430803,
+        "SUB_DISTRICT_NAME_THA": "บ้านม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Muang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4308,
+        "LAT": 18.180999755859375,
+        "LONG": 102.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 430804,
+        "SUB_DISTRICT_NAME_THA": "นางิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngio",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4308,
+        "LAT": 18.091999053955078,
+        "LONG": 102.125
+    },
+    {
+        "SUB_DISTRICT_ID": 430805,
+        "SUB_DISTRICT_NAME_THA": "สังคม",
+        "SUB_DISTRICT_NAME_ENG": "Sangkhom",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4308,
+        "LAT": 18.090999603271484,
+        "LONG": 102.21600341796875
+    }
+]

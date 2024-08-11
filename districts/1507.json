@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 150701,
+        "SUB_DISTRICT_NAME_THA": "สามโก้",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ko",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1507,
+        "LAT": 14.605999946594238,
+        "LONG": 100.25199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 150702,
+        "SUB_DISTRICT_NAME_THA": "ราษฎรพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Ratsadon Phatthana",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1507,
+        "LAT": 14.604999542236328,
+        "LONG": 100.29299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 150703,
+        "SUB_DISTRICT_NAME_THA": "อบทม",
+        "SUB_DISTRICT_NAME_ENG": "Optom",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1507,
+        "LAT": 14.581000328063965,
+        "LONG": 100.24600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 150704,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ม่วงพันธ์",
+        "SUB_DISTRICT_NAME_ENG": "Pho Muang Phan",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1507,
+        "LAT": 14.560999870300293,
+        "LONG": 100.25399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 150705,
+        "SUB_DISTRICT_NAME_THA": "มงคลธรรมนิมิต",
+        "SUB_DISTRICT_NAME_ENG": "Mongkhontham Nimit",
+        "PROVINCE_ID": 15,
+        "DISTRICT_ID": 1507,
+        "LAT": 14.640000343322754,
+        "LONG": 100.26000213623047
+    }
+]

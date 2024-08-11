@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650301,
+        "SUB_DISTRICT_NAME_THA": "ป่าแดง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Daeng",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6503,
+        "LAT": 17.28499984741211,
+        "LONG": 100.56099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 650302,
+        "SUB_DISTRICT_NAME_THA": "ชาติตระการ",
+        "SUB_DISTRICT_NAME_ENG": "Chat Trakan",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6503,
+        "LAT": 17.31999969482422,
+        "LONG": 100.7040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 650303,
+        "SUB_DISTRICT_NAME_THA": "สวนเมี่ยง",
+        "SUB_DISTRICT_NAME_ENG": "Suan Miang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6503,
+        "LAT": 17.194000244140625,
+        "LONG": 100.52899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 650304,
+        "SUB_DISTRICT_NAME_THA": "บ้านดง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6503,
+        "LAT": 17.361000061035156,
+        "LONG": 100.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 650305,
+        "SUB_DISTRICT_NAME_THA": "บ่อภาค",
+        "SUB_DISTRICT_NAME_ENG": "Bo Phak",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6503,
+        "LAT": 17.540000915527344,
+        "LONG": 100.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 650306,
+        "SUB_DISTRICT_NAME_THA": "ท่าสะแก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sakae",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6503,
+        "LAT": 17.240999221801758,
+        "LONG": 100.71099853515625
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900701,
+        "SUB_DISTRICT_NAME_THA": "ระโนด",
+        "SUB_DISTRICT_NAME_ENG": "Ra Not",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.754000186920166,
+        "LONG": 100.32499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 900702,
+        "SUB_DISTRICT_NAME_THA": "คลองแดน",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Daen",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.9120001792907715,
+        "LONG": 100.31900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 900703,
+        "SUB_DISTRICT_NAME_THA": "ตาเครียะ",
+        "SUB_DISTRICT_NAME_ENG": "Takhria",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.789000034332275,
+        "LONG": 100.26899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 900704,
+        "SUB_DISTRICT_NAME_THA": "ท่าบอน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Bon",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.8420000076293945,
+        "LONG": 100.34200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 900705,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.78000020980835,
+        "LONG": 100.28800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 900706,
+        "SUB_DISTRICT_NAME_THA": "บ่อตรุ",
+        "SUB_DISTRICT_NAME_ENG": "Botru",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.63100004196167,
+        "LONG": 100.3740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 900707,
+        "SUB_DISTRICT_NAME_THA": "ปากแตระ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Trae",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.765999794006348,
+        "LONG": 100.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 900708,
+        "SUB_DISTRICT_NAME_THA": "พังยาง",
+        "SUB_DISTRICT_NAME_ENG": "Phang Yang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.7210001945495605,
+        "LONG": 100.35399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 900709,
+        "SUB_DISTRICT_NAME_THA": "ระวะ",
+        "SUB_DISTRICT_NAME_ENG": "Ra Wa",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.7129998207092285,
+        "LONG": 100.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 900710,
+        "SUB_DISTRICT_NAME_THA": "วัดสน",
+        "SUB_DISTRICT_NAME_ENG": "Wat Son",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.668000221252441,
+        "LONG": 100.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 900711,
+        "SUB_DISTRICT_NAME_THA": "บ้านขาว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khao",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.833000183105469,
+        "LONG": 100.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 900712,
+        "SUB_DISTRICT_NAME_THA": "แดนสงวน",
+        "SUB_DISTRICT_NAME_ENG": "Daen Sa Nguan",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9007,
+        "LAT": 7.877999782562256,
+        "LONG": 100.29100036621094
+    }
+]

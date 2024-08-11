@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500801,
+        "SUB_DISTRICT_NAME_THA": "สะเมิงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Samoeng Tai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5008,
+        "LAT": 18.822999954223633,
+        "LONG": 98.71399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 500802,
+        "SUB_DISTRICT_NAME_THA": "สะเมิงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Samoeng Nuea",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5008,
+        "LAT": 18.976999282836914,
+        "LONG": 98.73899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 500803,
+        "SUB_DISTRICT_NAME_THA": "แม่สาบ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sap",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5008,
+        "LAT": 18.94499969482422,
+        "LONG": 98.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 500804,
+        "SUB_DISTRICT_NAME_THA": "บ่อแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kaeo",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5008,
+        "LAT": 18.791000366210938,
+        "LONG": 98.60399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 500805,
+        "SUB_DISTRICT_NAME_THA": "ยั้งเมิน",
+        "SUB_DISTRICT_NAME_ENG": "Yung Moen",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5008,
+        "LAT": 19.000999450683594,
+        "LONG": 98.46399688720703
+    }
+]

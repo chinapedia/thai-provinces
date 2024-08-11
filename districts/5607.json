@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560701,
+        "SUB_DISTRICT_NAME_THA": "แม่ใจ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Chai",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5607,
+        "LAT": 19.329999923706055,
+        "LONG": 99.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 560702,
+        "SUB_DISTRICT_NAME_THA": "ศรีถ้อย",
+        "SUB_DISTRICT_NAME_ENG": "Si Thoi",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5607,
+        "LAT": 19.35700035095215,
+        "LONG": 99.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 560703,
+        "SUB_DISTRICT_NAME_THA": "แม่สุก",
+        "SUB_DISTRICT_NAME_ENG": "Mae Suk",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5607,
+        "LAT": 19.312999725341797,
+        "LONG": 99.7959976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 560704,
+        "SUB_DISTRICT_NAME_THA": "ป่าแฝก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Faek",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5607,
+        "LAT": 19.426000595092773,
+        "LONG": 99.76300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 560705,
+        "SUB_DISTRICT_NAME_THA": "บ้านเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lao",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5607,
+        "LAT": 19.39900016784668,
+        "LONG": 99.85900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 560706,
+        "SUB_DISTRICT_NAME_THA": "เจริญราษฎร์",
+        "SUB_DISTRICT_NAME_ENG": "Charoen Rat",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5607,
+        "LAT": 19.395999908447266,
+        "LONG": 99.75599670410156
+    }
+]

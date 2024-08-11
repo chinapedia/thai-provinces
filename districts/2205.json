@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220501,
+        "SUB_DISTRICT_NAME_THA": "มะขาม",
+        "SUB_DISTRICT_NAME_ENG": "Makham",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2205,
+        "LAT": 12.677000045776367,
+        "LONG": 102.18699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 220502,
+        "SUB_DISTRICT_NAME_THA": "ท่าหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Luang",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2205,
+        "LAT": 12.699999809265137,
+        "LONG": 102.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 220503,
+        "SUB_DISTRICT_NAME_THA": "ปัถวี",
+        "SUB_DISTRICT_NAME_ENG": "Patthawi",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2205,
+        "LAT": 12.743000030517578,
+        "LONG": 102.27200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 220504,
+        "SUB_DISTRICT_NAME_THA": "วังแซ้ม",
+        "SUB_DISTRICT_NAME_ENG": "Wang Saem",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2205,
+        "LAT": 12.755999565124512,
+        "LONG": 102.15599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 220506,
+        "SUB_DISTRICT_NAME_THA": "ฉมัน",
+        "SUB_DISTRICT_NAME_ENG": "Cha Man",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2205,
+        "LAT": 12.817000389099121,
+        "LONG": 102.2239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 220508,
+        "SUB_DISTRICT_NAME_THA": "อ่างคีรี",
+        "SUB_DISTRICT_NAME_ENG": "Ang Khiri",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2205,
+        "LAT": 12.644000053405762,
+        "LONG": 102.22599792480469
+    }
+]

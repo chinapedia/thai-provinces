@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140201,
+        "SUB_DISTRICT_NAME_THA": "ท่าเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ruea",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.565999984741211,
+        "LONG": 100.71900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 140202,
+        "SUB_DISTRICT_NAME_THA": "จำปา",
+        "SUB_DISTRICT_NAME_ENG": "Champa",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.550000190734863,
+        "LONG": 100.74099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 140203,
+        "SUB_DISTRICT_NAME_THA": "ท่าหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Luang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.54800033569336,
+        "LONG": 100.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 140204,
+        "SUB_DISTRICT_NAME_THA": "บ้านร่อม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.567000389099121,
+        "LONG": 100.697998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 140205,
+        "SUB_DISTRICT_NAME_THA": "ศาลาลอย",
+        "SUB_DISTRICT_NAME_ENG": "Sala Loi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.531999588012695,
+        "LONG": 100.69999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 140206,
+        "SUB_DISTRICT_NAME_THA": "วังแดง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Daeng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.541000366210938,
+        "LONG": 100.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 140207,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์เอน",
+        "SUB_DISTRICT_NAME_ENG": "Pho En",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.519000053405762,
+        "LONG": 100.6760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 140208,
+        "SUB_DISTRICT_NAME_THA": "ปากท่า",
+        "SUB_DISTRICT_NAME_ENG": "Pak Tha",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.503999710083008,
+        "LONG": 100.69200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 140209,
+        "SUB_DISTRICT_NAME_THA": "หนองขนาก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khanak",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.51200008392334,
+        "LONG": 100.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 140210,
+        "SUB_DISTRICT_NAME_THA": "ท่าเจ้าสนุก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chao Sanuk",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1402,
+        "LAT": 14.543000221252441,
+        "LONG": 100.71700286865234
+    }
+]

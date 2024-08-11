@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 711001,
+        "SUB_DISTRICT_NAME_THA": "เลาขวัญ",
+        "SUB_DISTRICT_NAME_ENG": "Lao Khwan",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7110,
+        "LAT": 14.579999923706055,
+        "LONG": 99.75299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 711002,
+        "SUB_DISTRICT_NAME_THA": "หนองโสน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sano",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7110,
+        "LAT": 14.64799976348877,
+        "LONG": 99.75800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 711003,
+        "SUB_DISTRICT_NAME_THA": "หนองประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pradu",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7110,
+        "LAT": 14.456000328063965,
+        "LONG": 99.73799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 711004,
+        "SUB_DISTRICT_NAME_THA": "หนองปลิง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pling",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7110,
+        "LAT": 14.71500015258789,
+        "LONG": 99.74299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 711005,
+        "SUB_DISTRICT_NAME_THA": "หนองนกแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nok Kaeo",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7110,
+        "LAT": 14.515999794006348,
+        "LONG": 99.65499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 711006,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกระบ่ำ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Krabam",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7110,
+        "LAT": 14.616000175476074,
+        "LONG": 99.58599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 711007,
+        "SUB_DISTRICT_NAME_THA": "หนองฝ้าย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Fai",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7110,
+        "LAT": 14.682000160217285,
+        "LONG": 99.64199829101562
+    }
+]

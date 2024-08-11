@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 330701,
+        "SUB_DISTRICT_NAME_THA": "พิมาย",
+        "SUB_DISTRICT_NAME_ENG": "Phimai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.835000038146973,
+        "LONG": 104.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 330702,
+        "SUB_DISTRICT_NAME_THA": "กู่",
+        "SUB_DISTRICT_NAME_ENG": "Ku",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.852999687194824,
+        "LONG": 103.95700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 330703,
+        "SUB_DISTRICT_NAME_THA": "หนองเชียงทูน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chiang Thun",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.875,
+        "LONG": 104.10099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 330704,
+        "SUB_DISTRICT_NAME_THA": "ตูม",
+        "SUB_DISTRICT_NAME_ENG": "Tum",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.902999877929688,
+        "LONG": 104.00900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 330705,
+        "SUB_DISTRICT_NAME_THA": "สมอ",
+        "SUB_DISTRICT_NAME_ENG": "Samo",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.819999694824219,
+        "LONG": 104.09400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 330706,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ศรี",
+        "SUB_DISTRICT_NAME_ENG": "Pho Si",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.779999732971191,
+        "LONG": 104.08200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 330707,
+        "SUB_DISTRICT_NAME_THA": "สำโรงปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Samrong Prasat",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.916999816894531,
+        "LONG": 104.08100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 330708,
+        "SUB_DISTRICT_NAME_THA": "ดู่",
+        "SUB_DISTRICT_NAME_ENG": "Du",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.781999588012695,
+        "LONG": 104.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 330709,
+        "SUB_DISTRICT_NAME_THA": "สวาย",
+        "SUB_DISTRICT_NAME_ENG": "Sawat",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.913000106811523,
+        "LONG": 103.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 330710,
+        "SUB_DISTRICT_NAME_THA": "พิมายเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Phimai Nuea",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3307,
+        "LAT": 14.880999565124512,
+        "LONG": 104.04199981689453
+    }
+]

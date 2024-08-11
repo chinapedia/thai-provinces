@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270801,
+        "SUB_DISTRICT_NAME_THA": "โคกสูง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sung",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2708,
+        "LAT": 13.831000328063965,
+        "LONG": 102.71900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 270802,
+        "SUB_DISTRICT_NAME_THA": "หนองม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Muang",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2708,
+        "LAT": 13.87399959564209,
+        "LONG": 102.58200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 270803,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2708,
+        "LAT": 13.866000175476074,
+        "LONG": 102.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 270804,
+        "SUB_DISTRICT_NAME_THA": "โนนหมากมุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Non Mak Mun",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2708,
+        "LAT": 13.77400016784668,
+        "LONG": 102.66400146484375
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 412101,
+        "SUB_DISTRICT_NAME_THA": "หนองแสง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saeng",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4121,
+        "LAT": 17.172000885009766,
+        "LONG": 102.84200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 412102,
+        "SUB_DISTRICT_NAME_THA": "แสงสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Saeng Sawang",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4121,
+        "LAT": 17.121000289916992,
+        "LONG": 102.80400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 412103,
+        "SUB_DISTRICT_NAME_THA": "นาดี",
+        "SUB_DISTRICT_NAME_ENG": "Na Di",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4121,
+        "LAT": 17.08099937438965,
+        "LONG": 102.84400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 412104,
+        "SUB_DISTRICT_NAME_THA": "ทับกุง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Kung",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4121,
+        "LAT": 17.18199920654297,
+        "LONG": 102.73699951171875
+    }
+]

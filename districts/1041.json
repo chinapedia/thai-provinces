@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 104101,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสองห้อง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1041,
+        "LAT": 13.883000373840332,
+        "LONG": 100.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 104102,
+        "SUB_DISTRICT_NAME_THA": "ตลาดบางเขน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1041,
+        "LAT": 13.871000289916992,
+        "LONG": 100.58000183105469
+    }
+]

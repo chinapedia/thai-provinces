@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660701,
+        "SUB_DISTRICT_NAME_THA": "สามง่าม",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ngam",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6607,
+        "LAT": 16.49799919128418,
+        "LONG": 100.21299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 660702,
+        "SUB_DISTRICT_NAME_THA": "กำแพงดิน",
+        "SUB_DISTRICT_NAME_ENG": "Kamphaeng Din",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6607,
+        "LAT": 16.584999084472656,
+        "LONG": 100.21900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 660703,
+        "SUB_DISTRICT_NAME_THA": "รังนก",
+        "SUB_DISTRICT_NAME_ENG": "Rang Nok",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6607,
+        "LAT": 16.43199920654297,
+        "LONG": 100.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 660706,
+        "SUB_DISTRICT_NAME_THA": "เนินปอ",
+        "SUB_DISTRICT_NAME_ENG": "Noen Po",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6607,
+        "LAT": 16.408000946044922,
+        "LONG": 100.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 660707,
+        "SUB_DISTRICT_NAME_THA": "หนองโสน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sano",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6607,
+        "LAT": 16.388999938964844,
+        "LONG": 100.04399871826172
+    }
+]

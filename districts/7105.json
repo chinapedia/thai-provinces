@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710501,
+        "SUB_DISTRICT_NAME_THA": "พงตึก",
+        "SUB_DISTRICT_NAME_ENG": "Phong Tuek",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.869000434875488,
+        "LONG": 99.7760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 710502,
+        "SUB_DISTRICT_NAME_THA": "ยางม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Yang Muang",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.920999526977539,
+        "LONG": 99.83399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 710503,
+        "SUB_DISTRICT_NAME_THA": "ดอนชะเอม",
+        "SUB_DISTRICT_NAME_ENG": "Don Cha-Em",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.970999717712402,
+        "LONG": 99.80699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 710504,
+        "SUB_DISTRICT_NAME_THA": "ท่าไม้",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mai",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.906000137329102,
+        "LONG": 99.8010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 710505,
+        "SUB_DISTRICT_NAME_THA": "ตะคร้ำเอน",
+        "SUB_DISTRICT_NAME_ENG": "Takhram En",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.991999626159668,
+        "LONG": 99.74400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 710506,
+        "SUB_DISTRICT_NAME_THA": "ท่ามะกา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Maka",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.930000305175781,
+        "LONG": 99.77899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 710507,
+        "SUB_DISTRICT_NAME_THA": "ท่าเรือ (เทศบาลเมืองพระแท่น)",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ruea",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.954000473022461,
+        "LONG": 99.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 710508,
+        "SUB_DISTRICT_NAME_THA": "โคกตะบอง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Tabong",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.83899974822998,
+        "LONG": 99.74600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 710509,
+        "SUB_DISTRICT_NAME_THA": "ดอนขมิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Don Khamin",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.883999824523926,
+        "LONG": 99.82599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 710510,
+        "SUB_DISTRICT_NAME_THA": "อุโลกสี่หมื่น",
+        "SUB_DISTRICT_NAME_ENG": "Ulok Si Muen",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 14.0600004196167,
+        "LONG": 99.77300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 710511,
+        "SUB_DISTRICT_NAME_THA": "เขาสามสิบหาบ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Sam Sip Hap",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.864999771118164,
+        "LONG": 99.71900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 710512,
+        "SUB_DISTRICT_NAME_THA": "พระแท่น",
+        "SUB_DISTRICT_NAME_ENG": "Phra Thaen",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 14.017999649047852,
+        "LONG": 99.79199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 710513,
+        "SUB_DISTRICT_NAME_THA": "หวายเหนียว",
+        "SUB_DISTRICT_NAME_ENG": "Wai Niao",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.902000427246094,
+        "LONG": 99.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 710514,
+        "SUB_DISTRICT_NAME_THA": "แสนตอ",
+        "SUB_DISTRICT_NAME_ENG": "Saen To",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.92199993133545,
+        "LONG": 99.73200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 710515,
+        "SUB_DISTRICT_NAME_THA": "สนามแย้",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Yae",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.954000473022461,
+        "LONG": 99.85099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 710516,
+        "SUB_DISTRICT_NAME_THA": "ท่าเสา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sao",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 13.843000411987305,
+        "LONG": 99.80500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 710517,
+        "SUB_DISTRICT_NAME_THA": "หนองลาน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lan",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7105,
+        "LAT": 14.036999702453613,
+        "LONG": 99.8270034790039
+    }
+]

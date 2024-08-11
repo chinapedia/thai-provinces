@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 960101,
+        "SUB_DISTRICT_NAME_THA": "บางนาค",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nak",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9601,
+        "LAT": 6.423999786376953,
+        "LONG": 101.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 960102,
+        "SUB_DISTRICT_NAME_THA": "ลำภู",
+        "SUB_DISTRICT_NAME_ENG": "Lamphu",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9601,
+        "LAT": 6.379000186920166,
+        "LONG": 101.81900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 960103,
+        "SUB_DISTRICT_NAME_THA": "มะนังตายอ",
+        "SUB_DISTRICT_NAME_ENG": "Manang Tayo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9601,
+        "LAT": 6.354000091552734,
+        "LONG": 101.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 960104,
+        "SUB_DISTRICT_NAME_THA": "บางปอ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Po",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9601,
+        "LAT": 6.329999923706055,
+        "LONG": 101.80400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 960105,
+        "SUB_DISTRICT_NAME_THA": "กะลุวอ",
+        "SUB_DISTRICT_NAME_ENG": "Kaluwo",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9601,
+        "LAT": 6.3420000076293945,
+        "LONG": 101.8740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 960106,
+        "SUB_DISTRICT_NAME_THA": "กะลุวอเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Kaluwo Nuea",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9601,
+        "LAT": 6.4039998054504395,
+        "LONG": 101.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 960107,
+        "SUB_DISTRICT_NAME_THA": "โคกเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khian",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9601,
+        "LAT": 6.48199987411499,
+        "LONG": 101.76300048828125
+    }
+]

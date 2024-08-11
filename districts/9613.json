@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 961301,
+        "SUB_DISTRICT_NAME_THA": "จวบ",
+        "SUB_DISTRICT_NAME_ENG": "Chuap",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9613,
+        "LAT": 6.25600004196167,
+        "LONG": 101.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 961302,
+        "SUB_DISTRICT_NAME_THA": "บูกิต",
+        "SUB_DISTRICT_NAME_ENG": "Bu Kit",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9613,
+        "LAT": 6.182000160217285,
+        "LONG": 101.8280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 961303,
+        "SUB_DISTRICT_NAME_THA": "มะรือโบออก",
+        "SUB_DISTRICT_NAME_ENG": "Marue Bo Ok",
+        "PROVINCE_ID": 96,
+        "DISTRICT_ID": 9613,
+        "LAT": 6.249000072479248,
+        "LONG": 101.875
+    }
+]

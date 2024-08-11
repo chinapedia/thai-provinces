@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 102105,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1021,
+        "LAT": 13.555000305175781,
+        "LONG": 100.43399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 102107,
+        "SUB_DISTRICT_NAME_THA": "แสมดำ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1021,
+        "LAT": 13.604999542236328,
+        "LONG": 100.3949966430664
+    }
+]

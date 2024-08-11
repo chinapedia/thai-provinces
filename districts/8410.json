@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841001,
+        "SUB_DISTRICT_NAME_THA": "พนม",
+        "SUB_DISTRICT_NAME_ENG": "Phanom",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8410,
+        "LAT": 8.82800006866455,
+        "LONG": 98.78099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 841002,
+        "SUB_DISTRICT_NAME_THA": "ต้นยวน",
+        "SUB_DISTRICT_NAME_ENG": "Ton Yuan",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8410,
+        "LAT": 8.776000022888184,
+        "LONG": 98.9000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 841003,
+        "SUB_DISTRICT_NAME_THA": "คลองศก",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sok",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8410,
+        "LAT": 8.857000350952148,
+        "LONG": 98.68800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 841004,
+        "SUB_DISTRICT_NAME_THA": "พลูเถื่อน",
+        "SUB_DISTRICT_NAME_ENG": "Phlu Thuean",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8410,
+        "LAT": 8.734999656677246,
+        "LONG": 98.73799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 841005,
+        "SUB_DISTRICT_NAME_THA": "พังกาญจน์",
+        "SUB_DISTRICT_NAME_ENG": "Phang Kan",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8410,
+        "LAT": 8.878000259399414,
+        "LONG": 98.80599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 841006,
+        "SUB_DISTRICT_NAME_THA": "คลองชะอุ่น",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Cha-Un",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8410,
+        "LAT": 8.72700023651123,
+        "LONG": 98.86499786376953
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 401001,
+        "SUB_DISTRICT_NAME_THA": "บ้านไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 16.118999481201172,
+        "LONG": 102.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 401002,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 16.03499984741211,
+        "LONG": 102.7229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 401005,
+        "SUB_DISTRICT_NAME_THA": "เมืองเพีย",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phia",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 16.101999282836914,
+        "LONG": 102.68399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 401009,
+        "SUB_DISTRICT_NAME_THA": "บ้านลาน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lan",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 15.991999626159668,
+        "LONG": 102.83799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 401010,
+        "SUB_DISTRICT_NAME_THA": "แคนเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Khaen Nuea",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 15.989999771118164,
+        "LONG": 102.77100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 401011,
+        "SUB_DISTRICT_NAME_THA": "ภูเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Phu Lek",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 16.114999771118164,
+        "LONG": 102.8280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 401013,
+        "SUB_DISTRICT_NAME_THA": "ป่าปอ",
+        "SUB_DISTRICT_NAME_ENG": "Pa Po",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 15.918999671936035,
+        "LONG": 102.7770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 401014,
+        "SUB_DISTRICT_NAME_THA": "หินตั้ง",
+        "SUB_DISTRICT_NAME_ENG": "Hin Tang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 16.045000076293945,
+        "LONG": 102.83100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 401016,
+        "SUB_DISTRICT_NAME_THA": "หนองน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam Sai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 16.04199981689453,
+        "LONG": 102.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 401017,
+        "SUB_DISTRICT_NAME_THA": "หัวหนอง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Nong",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4010,
+        "LAT": 16.040000915527344,
+        "LONG": 102.6969985961914
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200701,
+        "SUB_DISTRICT_NAME_THA": "ศรีราชา",
+        "SUB_DISTRICT_NAME_ENG": "Si Racha",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.173999786376953,
+        "LONG": 100.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 200702,
+        "SUB_DISTRICT_NAME_THA": "สุรศักดิ์",
+        "SUB_DISTRICT_NAME_ENG": "Surasak",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.15999984741211,
+        "LONG": 100.98300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 200703,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสุขลา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.097000122070312,
+        "LONG": 100.91200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 200704,
+        "SUB_DISTRICT_NAME_THA": "บึง",
+        "SUB_DISTRICT_NAME_ENG": "Bueng",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.072999954223633,
+        "LONG": 101.00599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 200705,
+        "SUB_DISTRICT_NAME_THA": "หนองขาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kham",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.133999824523926,
+        "LONG": 101.03800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 200706,
+        "SUB_DISTRICT_NAME_THA": "เขาคันทรง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Khan Song",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.128999710083008,
+        "LONG": 101.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 200707,
+        "SUB_DISTRICT_NAME_THA": "บางพระ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phra",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.222999572753906,
+        "LONG": 101.00700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 200708,
+        "SUB_DISTRICT_NAME_THA": "บ่อวิน",
+        "SUB_DISTRICT_NAME_ENG": "Bo Win",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2007,
+        "LAT": 13.052000045776367,
+        "LONG": 101.09300231933594
+    }
+]

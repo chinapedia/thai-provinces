@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560401,
+        "SUB_DISTRICT_NAME_THA": "เชียงม่วน",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Muan",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5604,
+        "LAT": 18.88800048828125,
+        "LONG": 100.33399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 560402,
+        "SUB_DISTRICT_NAME_THA": "บ้านมาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5604,
+        "LAT": 18.868999481201172,
+        "LONG": 100.22000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 560403,
+        "SUB_DISTRICT_NAME_THA": "สระ",
+        "SUB_DISTRICT_NAME_ENG": "Sa",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5604,
+        "LAT": 18.992000579833984,
+        "LONG": 100.40399932861328
+    }
+]

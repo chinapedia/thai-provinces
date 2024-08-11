@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 342201,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 15.010000228881836,
+        "LONG": 104.79299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 342202,
+        "SUB_DISTRICT_NAME_THA": "โคกก่อง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Kong",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 15.032999992370605,
+        "LONG": 104.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 342203,
+        "SUB_DISTRICT_NAME_THA": "หนองไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 14.960000038146973,
+        "LONG": 104.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 342204,
+        "SUB_DISTRICT_NAME_THA": "ค้อน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Kho Noi",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 14.92199993133545,
+        "LONG": 104.81199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 342205,
+        "SUB_DISTRICT_NAME_THA": "โนนกาเล็น",
+        "SUB_DISTRICT_NAME_ENG": "Non Kalen",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 15.020000457763672,
+        "LONG": 104.72000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 342206,
+        "SUB_DISTRICT_NAME_THA": "โคกสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sawang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 14.935999870300293,
+        "LONG": 104.86499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 342207,
+        "SUB_DISTRICT_NAME_THA": "โนนกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Non Klang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 14.958999633789062,
+        "LONG": 104.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 342208,
+        "SUB_DISTRICT_NAME_THA": "บอน",
+        "SUB_DISTRICT_NAME_ENG": "Bon",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 15.055000305175781,
+        "LONG": 104.76499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 342209,
+        "SUB_DISTRICT_NAME_THA": "ขามป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Kham Pom",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3422,
+        "LAT": 14.980999946594238,
+        "LONG": 104.82099914550781
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.815000534057617,
+        "LONG": 100.26000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 650102,
+        "SUB_DISTRICT_NAME_THA": "วังน้ำคู้",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nam Khu",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.652000427246094,
+        "LONG": 100.26899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 650103,
+        "SUB_DISTRICT_NAME_THA": "วัดจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Chan",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.788999557495117,
+        "LONG": 100.25
+    },
+    {
+        "SUB_DISTRICT_ID": 650104,
+        "SUB_DISTRICT_NAME_THA": "วัดพริก",
+        "SUB_DISTRICT_NAME_ENG": "Wat Phrik",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.71500015258789,
+        "LONG": 100.24299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 650105,
+        "SUB_DISTRICT_NAME_THA": "ท่าทอง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Thong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.79800033569336,
+        "LONG": 100.1969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 650106,
+        "SUB_DISTRICT_NAME_THA": "ท่าโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pho",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.757999420166016,
+        "LONG": 100.19499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 650107,
+        "SUB_DISTRICT_NAME_THA": "สมอแข",
+        "SUB_DISTRICT_NAME_ENG": "Samo Khae",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.822999954223633,
+        "LONG": 100.32499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 650108,
+        "SUB_DISTRICT_NAME_THA": "ดอนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Don Thong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.884000778198242,
+        "LONG": 100.39199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 650109,
+        "SUB_DISTRICT_NAME_THA": "บ้านป่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pa",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.926000595092773,
+        "LONG": 100.36799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 650110,
+        "SUB_DISTRICT_NAME_THA": "ปากโทก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Thok",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.905000686645508,
+        "LONG": 100.25900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 650111,
+        "SUB_DISTRICT_NAME_THA": "หัวรอ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Ro",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.875,
+        "LONG": 100.27400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 650112,
+        "SUB_DISTRICT_NAME_THA": "จอมทอง",
+        "SUB_DISTRICT_NAME_ENG": "Chom Thong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.902000427246094,
+        "LONG": 100.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 650113,
+        "SUB_DISTRICT_NAME_THA": "บ้านกร่าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Krang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.854999542236328,
+        "LONG": 100.18399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 650114,
+        "SUB_DISTRICT_NAME_THA": "บ้านคลอง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khlong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.829999923706055,
+        "LONG": 100.23899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 650115,
+        "SUB_DISTRICT_NAME_THA": "พลายชุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Phlai Chumphon",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.854000091552734,
+        "LONG": 100.22599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 650116,
+        "SUB_DISTRICT_NAME_THA": "มะขามสูง",
+        "SUB_DISTRICT_NAME_ENG": "Makham Sung",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.929000854492188,
+        "LONG": 100.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 650117,
+        "SUB_DISTRICT_NAME_THA": "อรัญญิก",
+        "SUB_DISTRICT_NAME_ENG": "Aranyik",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.799999237060547,
+        "LONG": 100.28800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 650118,
+        "SUB_DISTRICT_NAME_THA": "บึงพระ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Phra",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.749000549316406,
+        "LONG": 100.27300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 650119,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ขอดอน",
+        "SUB_DISTRICT_NAME_ENG": "Phai Kho Don",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.910999298095703,
+        "LONG": 100.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 650120,
+        "SUB_DISTRICT_NAME_THA": "งิ้วงาม",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Ngam",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6501,
+        "LAT": 16.67099952697754,
+        "LONG": 100.23699951171875
+    }
+]

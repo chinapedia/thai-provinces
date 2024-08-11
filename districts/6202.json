@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620201,
+        "SUB_DISTRICT_NAME_THA": "ไทรงาม",
+        "SUB_DISTRICT_NAME_ENG": "Sai Ngam",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6202,
+        "LAT": 16.48699951171875,
+        "LONG": 99.89700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 620202,
+        "SUB_DISTRICT_NAME_THA": "หนองคล้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khla",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6202,
+        "LAT": 16.45199966430664,
+        "LONG": 99.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 620203,
+        "SUB_DISTRICT_NAME_THA": "หนองทอง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Thong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6202,
+        "LAT": 16.41699981689453,
+        "LONG": 99.75599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 620204,
+        "SUB_DISTRICT_NAME_THA": "หนองไม้กอง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mai Kong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6202,
+        "LAT": 16.464000701904297,
+        "LONG": 99.9729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 620205,
+        "SUB_DISTRICT_NAME_THA": "มหาชัย",
+        "SUB_DISTRICT_NAME_ENG": "Mahachai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6202,
+        "LAT": 16.506999969482422,
+        "LONG": 99.7979965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 620206,
+        "SUB_DISTRICT_NAME_THA": "พานทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phan Thong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6202,
+        "LAT": 16.384000778198242,
+        "LONG": 99.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 620207,
+        "SUB_DISTRICT_NAME_THA": "หนองแม่แตง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mae Taeng",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6202,
+        "LAT": 16.39900016784668,
+        "LONG": 99.90899658203125
+    }
+]

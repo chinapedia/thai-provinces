@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340301,
+        "SUB_DISTRICT_NAME_THA": "โขงเจียม",
+        "SUB_DISTRICT_NAME_ENG": "Khong Chiam",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3403,
+        "LAT": 15.295999526977539,
+        "LONG": 105.4520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 340302,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยาง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3403,
+        "LAT": 15.467000007629395,
+        "LONG": 105.45500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 340303,
+        "SUB_DISTRICT_NAME_THA": "นาโพธิ์กลาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Pho Klang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3403,
+        "LAT": 15.553000450134277,
+        "LONG": 105.55699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 340304,
+        "SUB_DISTRICT_NAME_THA": "หนองแสงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saeng Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3403,
+        "LAT": 15.33899974822998,
+        "LONG": 105.38899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 340305,
+        "SUB_DISTRICT_NAME_THA": "ห้วยไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Phai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3403,
+        "LAT": 15.420000076293945,
+        "LONG": 105.5510025024414
+    }
+]

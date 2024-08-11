@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190501,
+        "SUB_DISTRICT_NAME_THA": "หนองแซง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saeng",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.510000228881836,
+        "LONG": 100.75900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 190502,
+        "SUB_DISTRICT_NAME_THA": "หนองควายโซ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khwai So",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.487000465393066,
+        "LONG": 100.79499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 190503,
+        "SUB_DISTRICT_NAME_THA": "หนองหัวโพ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hua Pho",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.482999801635742,
+        "LONG": 100.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 190504,
+        "SUB_DISTRICT_NAME_THA": "หนองสีดา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sida",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.515000343322754,
+        "LONG": 100.84100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 190505,
+        "SUB_DISTRICT_NAME_THA": "หนองกบ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kop",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.456000328063965,
+        "LONG": 100.7760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 190506,
+        "SUB_DISTRICT_NAME_THA": "ไก่เส่า",
+        "SUB_DISTRICT_NAME_ENG": "Kai Sao",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.515999794006348,
+        "LONG": 100.79299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 190507,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.456000328063965,
+        "LONG": 100.802001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 190508,
+        "SUB_DISTRICT_NAME_THA": "ม่วงหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Muang Wan",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1905,
+        "LAT": 14.47599983215332,
+        "LONG": 100.83599853515625
+    }
+]

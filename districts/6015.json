@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 601501,
+        "SUB_DISTRICT_NAME_THA": "ชุมตาบง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Ta Bong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6015,
+        "LAT": 15.626999855041504,
+        "LONG": 99.5719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 601502,
+        "SUB_DISTRICT_NAME_THA": "ปางสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Pang Sawan",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6015,
+        "LAT": 15.687999725341797,
+        "LONG": 99.55999755859375
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 130301,
+        "SUB_DISTRICT_NAME_THA": "ประชาธิปัตย์",
+        "SUB_DISTRICT_NAME_ENG": "Pracha Thipat",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1303,
+        "LAT": 13.987000465393066,
+        "LONG": 100.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 130302,
+        "SUB_DISTRICT_NAME_THA": "บึงยี่โถ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Yitho",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1303,
+        "LAT": 13.99899959564209,
+        "LONG": 100.68699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 130303,
+        "SUB_DISTRICT_NAME_THA": "รังสิต",
+        "SUB_DISTRICT_NAME_ENG": "Rangsit",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1303,
+        "LAT": 14.017999649047852,
+        "LONG": 100.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 130304,
+        "SUB_DISTRICT_NAME_THA": "ลำผักกูด",
+        "SUB_DISTRICT_NAME_ENG": "Lam Phak Kut",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1303,
+        "LAT": 14.03600025177002,
+        "LONG": 100.77899932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 130305,
+        "SUB_DISTRICT_NAME_THA": "บึงสนั่น",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Sanan",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1303,
+        "LAT": 14.052000045776367,
+        "LONG": 100.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 130306,
+        "SUB_DISTRICT_NAME_THA": "บึงน้ำรักษ์",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Nam Rak",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1303,
+        "LAT": 14.071000099182129,
+        "LONG": 100.87999725341797
+    }
+]

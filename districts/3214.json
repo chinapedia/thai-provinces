@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321401,
+        "SUB_DISTRICT_NAME_THA": "บักได",
+        "SUB_DISTRICT_NAME_ENG": "Bak Dai",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3214,
+        "LAT": 14.416000366210938,
+        "LONG": 103.3499984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 321402,
+        "SUB_DISTRICT_NAME_THA": "โคกกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Klang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3214,
+        "LAT": 14.489999771118164,
+        "LONG": 103.2490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 321403,
+        "SUB_DISTRICT_NAME_THA": "จีกแดก",
+        "SUB_DISTRICT_NAME_ENG": "Chik Daek",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3214,
+        "LAT": 14.496999740600586,
+        "LONG": 103.35399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 321404,
+        "SUB_DISTRICT_NAME_THA": "ตาเมียง",
+        "SUB_DISTRICT_NAME_ENG": "Ta Miang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3214,
+        "LAT": 14.38599967956543,
+        "LONG": 103.26000213623047
+    }
+]

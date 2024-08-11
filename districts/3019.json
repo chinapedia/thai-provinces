@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 301901,
+        "SUB_DISTRICT_NAME_THA": "ขามทะเลสอ",
+        "SUB_DISTRICT_NAME_ENG": "Kham Thale So",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3019,
+        "LAT": 14.973999977111816,
+        "LONG": 101.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 301902,
+        "SUB_DISTRICT_NAME_THA": "โป่งแดง",
+        "SUB_DISTRICT_NAME_ENG": "Pong Daeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3019,
+        "LAT": 14.970000267028809,
+        "LONG": 101.91600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 301903,
+        "SUB_DISTRICT_NAME_THA": "พันดุง",
+        "SUB_DISTRICT_NAME_ENG": "Phan Dung",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3019,
+        "LAT": 15.069000244140625,
+        "LONG": 101.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 301904,
+        "SUB_DISTRICT_NAME_THA": "หนองสรวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Suang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3019,
+        "LAT": 15.086000442504883,
+        "LONG": 101.89399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 301905,
+        "SUB_DISTRICT_NAME_THA": "บึงอ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng O",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3019,
+        "LAT": 15.027999877929688,
+        "LONG": 101.93199920654297
+    }
+]

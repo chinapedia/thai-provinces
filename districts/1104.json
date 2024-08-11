@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 110401,
+        "SUB_DISTRICT_NAME_THA": "เทศบาลเมืองพระประแดง",
+        "SUB_DISTRICT_NAME_ENG": "Talat",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.656000137329102,
+        "LONG": 100.53299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 110402,
+        "SUB_DISTRICT_NAME_THA": "ตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phueng",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.670999526977539,
+        "LONG": 100.5199966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 110403,
+        "SUB_DISTRICT_NAME_THA": "บางจาก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chak",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.616000175476074,
+        "LONG": 100.53600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 110404,
+        "SUB_DISTRICT_NAME_THA": "บางครุ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khru",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.630999565124512,
+        "LONG": 100.5260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 110405,
+        "SUB_DISTRICT_NAME_THA": "บางหญ้าแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ya Phraek",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.645000457763672,
+        "LONG": 100.5459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 110406,
+        "SUB_DISTRICT_NAME_THA": "บางหัวเสือ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Hua Suea",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.625,
+        "LONG": 100.54900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 110407,
+        "SUB_DISTRICT_NAME_THA": "เทศบาลสำโรงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Samrong Tai",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.640999794006348,
+        "LONG": 100.572998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 110408,
+        "SUB_DISTRICT_NAME_THA": "บางยอ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Yo",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.678999900817871,
+        "LONG": 100.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 110409,
+        "SUB_DISTRICT_NAME_THA": "บางกะเจ้า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kachao",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.696999549865723,
+        "LONG": 100.56099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 110410,
+        "SUB_DISTRICT_NAME_THA": "บางน้ำผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nam Phueng",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.678999900817871,
+        "LONG": 100.5780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 110411,
+        "SUB_DISTRICT_NAME_THA": "บางกระสอบ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krasop",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.666000366210938,
+        "LONG": 100.56600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 110412,
+        "SUB_DISTRICT_NAME_THA": "บางกอบัว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ko Bua",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.692999839782715,
+        "LONG": 100.5770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 110413,
+        "SUB_DISTRICT_NAME_THA": "ทรงคนอง",
+        "SUB_DISTRICT_NAME_ENG": "Song Khanong",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.664999961853027,
+        "LONG": 100.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 110414,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.659000396728516,
+        "LONG": 100.58399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 110415,
+        "SUB_DISTRICT_NAME_THA": "สำโรงกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong Klang",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.652999877929688,
+        "LONG": 100.56400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 961317,
+        "SUB_DISTRICT_NAME_THA": "บางพึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phueng",
+        "PROVINCE_ID": 11,
+        "DISTRICT_ID": 1104,
+        "LAT": 13.66100025177002,
+        "LONG": 100.5260009765625
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670801,
+        "SUB_DISTRICT_NAME_THA": "ซับสมอทอด",
+        "SUB_DISTRICT_NAME_ENG": "Sap Samo Thot",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.845999717712402,
+        "LONG": 100.93900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 670802,
+        "SUB_DISTRICT_NAME_THA": "ซับไม้แดง",
+        "SUB_DISTRICT_NAME_ENG": "Sap Mai Daeng",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.788000106811523,
+        "LONG": 100.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 670803,
+        "SUB_DISTRICT_NAME_THA": "หนองแจง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chaeng",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.876999855041504,
+        "LONG": 100.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 670804,
+        "SUB_DISTRICT_NAME_THA": "กันจุ",
+        "SUB_DISTRICT_NAME_ENG": "Kan Chu",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.817000389099121,
+        "LONG": 101.07499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 670805,
+        "SUB_DISTRICT_NAME_THA": "วังพิกุล",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phikun",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.746999740600586,
+        "LONG": 100.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 670806,
+        "SUB_DISTRICT_NAME_THA": "พญาวัง",
+        "SUB_DISTRICT_NAME_ENG": "Phaya Wang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.880000114440918,
+        "LONG": 100.84700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 670807,
+        "SUB_DISTRICT_NAME_THA": "ศรีมงคล",
+        "SUB_DISTRICT_NAME_ENG": "Si Mongkhon",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.819999694824219,
+        "LONG": 100.83499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 670808,
+        "SUB_DISTRICT_NAME_THA": "สระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kaeo",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.894000053405762,
+        "LONG": 101.3239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 670809,
+        "SUB_DISTRICT_NAME_THA": "บึงสามพัน",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Sam Phan",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6708,
+        "LAT": 15.791000366210938,
+        "LONG": 101.02200317382812
+    }
+]

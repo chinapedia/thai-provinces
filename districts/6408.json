@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640801,
+        "SUB_DISTRICT_NAME_THA": "ศรีนคร",
+        "SUB_DISTRICT_NAME_ENG": "Si Nakhon",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6408,
+        "LAT": 17.37299919128418,
+        "LONG": 99.9800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 640802,
+        "SUB_DISTRICT_NAME_THA": "นครเดิฐ",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Doet",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6408,
+        "LAT": 17.47100067138672,
+        "LONG": 99.95500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 640803,
+        "SUB_DISTRICT_NAME_THA": "น้ำขุม",
+        "SUB_DISTRICT_NAME_ENG": "Nam Khum",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6408,
+        "LAT": 17.41200065612793,
+        "LONG": 99.98200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 640804,
+        "SUB_DISTRICT_NAME_THA": "คลองมะพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Maphlap",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6408,
+        "LAT": 17.319000244140625,
+        "LONG": 99.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 640805,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6408,
+        "LAT": 17.28499984741211,
+        "LONG": 99.95800018310547
+    }
+]

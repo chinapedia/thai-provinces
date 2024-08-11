@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 440901,
+        "SUB_DISTRICT_NAME_THA": "หนองแสง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saeng",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.829000473022461,
+        "LONG": 103.36000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 440902,
+        "SUB_DISTRICT_NAME_THA": "ขามป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Kham Pom",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.920999526977539,
+        "LONG": 103.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 440903,
+        "SUB_DISTRICT_NAME_THA": "เสือโก้ก",
+        "SUB_DISTRICT_NAME_ENG": "Suea Kok",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.947999954223633,
+        "LONG": 103.44200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 440904,
+        "SUB_DISTRICT_NAME_THA": "ดงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Dong Yai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.89799976348877,
+        "LONG": 103.30799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 440905,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.729000091552734,
+        "LONG": 103.41500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 440906,
+        "SUB_DISTRICT_NAME_THA": "หัวเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Ruea",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.76200008392334,
+        "LONG": 103.3489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 440907,
+        "SUB_DISTRICT_NAME_THA": "แคน",
+        "SUB_DISTRICT_NAME_ENG": "Khaen",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.875,
+        "LONG": 103.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 440908,
+        "SUB_DISTRICT_NAME_THA": "งัวบา",
+        "SUB_DISTRICT_NAME_ENG": "Ngua Ba",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.954999923706055,
+        "LONG": 103.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 440909,
+        "SUB_DISTRICT_NAME_THA": "นาข่า",
+        "SUB_DISTRICT_NAME_ENG": "Nakha",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.836000442504883,
+        "LONG": 103.19300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 440910,
+        "SUB_DISTRICT_NAME_THA": "บ้านหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Wai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.812000274658203,
+        "LONG": 103.29399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 440911,
+        "SUB_DISTRICT_NAME_THA": "หนองไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.885000228881836,
+        "LONG": 103.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 440912,
+        "SUB_DISTRICT_NAME_THA": "ประชาพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Pracha Phatthana",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.815999984741211,
+        "LONG": 103.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 440913,
+        "SUB_DISTRICT_NAME_THA": "หนองทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Thum",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.875,
+        "LONG": 103.39900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 440914,
+        "SUB_DISTRICT_NAME_THA": "หนองแสน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saen",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.982999801635742,
+        "LONG": 103.44400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 440915,
+        "SUB_DISTRICT_NAME_THA": "โคกสีทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Si Thong Lang",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4409,
+        "LAT": 15.85200023651123,
+        "LONG": 103.31199645996094
+    }
+]

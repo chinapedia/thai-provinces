@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760801,
+        "SUB_DISTRICT_NAME_THA": "แก่งกระจาน",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Krachan",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7608,
+        "LAT": 12.979000091552734,
+        "LONG": 99.60900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 760802,
+        "SUB_DISTRICT_NAME_THA": "สองพี่น้อง",
+        "SUB_DISTRICT_NAME_ENG": "Song Phi Nong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7608,
+        "LAT": 12.852999687194824,
+        "LONG": 99.61399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 760803,
+        "SUB_DISTRICT_NAME_THA": "วังจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chan",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7608,
+        "LAT": 12.942000389099121,
+        "LONG": 99.73500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 760804,
+        "SUB_DISTRICT_NAME_THA": "ป่าเด็ง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Deng",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7608,
+        "LAT": 12.651000022888184,
+        "LONG": 99.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 760805,
+        "SUB_DISTRICT_NAME_THA": "พุสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Phu Sawan",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7608,
+        "LAT": 12.996999740600586,
+        "LONG": 99.74299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 760806,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแม่เพรียง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Mae Phriang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7608,
+        "LAT": 12.913000106811523,
+        "LONG": 99.28399658203125
+    }
+]

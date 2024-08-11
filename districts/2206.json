@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 220601,
+        "SUB_DISTRICT_NAME_THA": "ปากน้ำแหลมสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nam Laem Sing",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2206,
+        "LAT": 12.45199966430664,
+        "LONG": 102.12200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 220602,
+        "SUB_DISTRICT_NAME_THA": "เกาะเปริด",
+        "SUB_DISTRICT_NAME_ENG": "Ko Proet",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2206,
+        "LAT": 12.409000396728516,
+        "LONG": 102.12200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 220603,
+        "SUB_DISTRICT_NAME_THA": "หนองชิ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chim",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2206,
+        "LAT": 12.416999816894531,
+        "LONG": 102.1780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 220604,
+        "SUB_DISTRICT_NAME_THA": "พลิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Phlio",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2206,
+        "LAT": 12.515999794006348,
+        "LONG": 102.16100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 220605,
+        "SUB_DISTRICT_NAME_THA": "คลองน้ำเค็ม",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Nam Khem",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2206,
+        "LAT": 12.498000144958496,
+        "LONG": 102.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 220606,
+        "SUB_DISTRICT_NAME_THA": "บางสระเก้า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sa Kao",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2206,
+        "LAT": 12.51099967956543,
+        "LONG": 102.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 220607,
+        "SUB_DISTRICT_NAME_THA": "บางกะไชย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kachai",
+        "PROVINCE_ID": 22,
+        "DISTRICT_ID": 2206,
+        "LAT": 12.463000297546387,
+        "LONG": 102.02300262451172
+    }
+]

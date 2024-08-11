@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650501,
+        "SUB_DISTRICT_NAME_THA": "บางกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krathum",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.590999603271484,
+        "LONG": 100.2969970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 650502,
+        "SUB_DISTRICT_NAME_THA": "บ้านไร่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rai",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.6200008392334,
+        "LONG": 100.25299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 650503,
+        "SUB_DISTRICT_NAME_THA": "โคกสลุด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Salut",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.57699966430664,
+        "LONG": 100.24500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 650504,
+        "SUB_DISTRICT_NAME_THA": "สนามคลี",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Khli",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.547000885009766,
+        "LONG": 100.25599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 650505,
+        "SUB_DISTRICT_NAME_THA": "ท่าตาล",
+        "SUB_DISTRICT_NAME_ENG": "Tha Tan",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.658000946044922,
+        "LONG": 100.33100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 650506,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ล้อม",
+        "SUB_DISTRICT_NAME_ENG": "Phai Lom",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.559999465942383,
+        "LONG": 100.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 650507,
+        "SUB_DISTRICT_NAME_THA": "นครป่าหมาก",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Pa Mak",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.608999252319336,
+        "LONG": 100.35099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 650508,
+        "SUB_DISTRICT_NAME_THA": "เนินกุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Noen Kum",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.541000366210938,
+        "LONG": 100.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 650509,
+        "SUB_DISTRICT_NAME_THA": "วัดตายม",
+        "SUB_DISTRICT_NAME_ENG": "Wat Ta Yom",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6505,
+        "LAT": 16.594999313354492,
+        "LONG": 100.44400024414062
+    }
+]

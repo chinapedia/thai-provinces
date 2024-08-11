@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570101,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.906999588012695,
+        "LONG": 99.83200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 570102,
+        "SUB_DISTRICT_NAME_THA": "รอบเวียง",
+        "SUB_DISTRICT_NAME_ENG": "Rop Wiang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.898000717163086,
+        "LONG": 99.8030014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 570103,
+        "SUB_DISTRICT_NAME_THA": "บ้านดู่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Du",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.97100067138672,
+        "LONG": 99.84700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 570104,
+        "SUB_DISTRICT_NAME_THA": "นางแล",
+        "SUB_DISTRICT_NAME_ENG": "Nang Lae",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 20.04800033569336,
+        "LONG": 99.8759994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 570105,
+        "SUB_DISTRICT_NAME_THA": "แม่ข้าวต้ม",
+        "SUB_DISTRICT_NAME_ENG": "Mae Khao Tom",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 20.020999908447266,
+        "LONG": 99.9219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 570106,
+        "SUB_DISTRICT_NAME_THA": "แม่ยาว",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yao",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.990999221801758,
+        "LONG": 99.72899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 570107,
+        "SUB_DISTRICT_NAME_THA": "สันทราย",
+        "SUB_DISTRICT_NAME_ENG": "San Sai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.854999542236328,
+        "LONG": 99.80500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 570111,
+        "SUB_DISTRICT_NAME_THA": "แม่กรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Mae Kon",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.86199951171875,
+        "LONG": 99.697998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 570112,
+        "SUB_DISTRICT_NAME_THA": "ห้วยชมภู",
+        "SUB_DISTRICT_NAME_ENG": "Huai Chomphu",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 20.014999389648438,
+        "LONG": 99.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 570113,
+        "SUB_DISTRICT_NAME_THA": "ห้วยสัก",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sak",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.756000518798828,
+        "LONG": 99.87200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 570114,
+        "SUB_DISTRICT_NAME_THA": "ริมกก",
+        "SUB_DISTRICT_NAME_ENG": "Rim Kok",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.937000274658203,
+        "LONG": 99.88700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 570115,
+        "SUB_DISTRICT_NAME_THA": "ดอยลาน",
+        "SUB_DISTRICT_NAME_ENG": "Doi Lan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.68199920654297,
+        "LONG": 99.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 570116,
+        "SUB_DISTRICT_NAME_THA": "ป่าอ้อดอนชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pa O Don Chai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.76799964904785,
+        "LONG": 99.81900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 570118,
+        "SUB_DISTRICT_NAME_THA": "ท่าสาย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.836999893188477,
+        "LONG": 99.85099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 570120,
+        "SUB_DISTRICT_NAME_THA": "ดอยฮาง",
+        "SUB_DISTRICT_NAME_ENG": "Doi Hang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5701,
+        "LAT": 19.930999755859375,
+        "LONG": 99.71299743652344
+    }
+]

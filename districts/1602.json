@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160201,
+        "SUB_DISTRICT_NAME_THA": "พัฒนานิคม",
+        "SUB_DISTRICT_NAME_ENG": "Phatthana Nikhom",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.895999908447266,
+        "LONG": 100.96600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 160202,
+        "SUB_DISTRICT_NAME_THA": "ช่องสาริกา",
+        "SUB_DISTRICT_NAME_ENG": "Chong Sarika",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.802000045776367,
+        "LONG": 100.90899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 160203,
+        "SUB_DISTRICT_NAME_THA": "มะนาวหวาน",
+        "SUB_DISTRICT_NAME_ENG": "Manao Wan",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.934000015258789,
+        "LONG": 101.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 160204,
+        "SUB_DISTRICT_NAME_THA": "ดีลัง",
+        "SUB_DISTRICT_NAME_ENG": "Di Lang",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.9399995803833,
+        "LONG": 100.85199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 160205,
+        "SUB_DISTRICT_NAME_THA": "โคกสลุง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Salung",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 15.010000228881836,
+        "LONG": 100.96900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 160206,
+        "SUB_DISTRICT_NAME_THA": "ชอนน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Chon Noi",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.795000076293945,
+        "LONG": 100.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 160207,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.85099983215332,
+        "LONG": 101.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 160208,
+        "SUB_DISTRICT_NAME_THA": "ห้วยขุนราม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khun Ram",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.951000213623047,
+        "LONG": 101.20500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 160209,
+        "SUB_DISTRICT_NAME_THA": "น้ำสุด",
+        "SUB_DISTRICT_NAME_ENG": "Nam Sut",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1602,
+        "LAT": 14.95199966430664,
+        "LONG": 101.14600372314453
+    }
+]

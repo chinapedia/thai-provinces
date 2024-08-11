@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920601,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยอด",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yot",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.776000022888184,
+        "LONG": 99.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 920602,
+        "SUB_DISTRICT_NAME_THA": "หนองช้างแล่น",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chang Laen",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.840000152587891,
+        "LONG": 99.58499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 920605,
+        "SUB_DISTRICT_NAME_THA": "บางดี",
+        "SUB_DISTRICT_NAME_ENG": "Bang Di",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.841000080108643,
+        "LONG": 99.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 920606,
+        "SUB_DISTRICT_NAME_THA": "บางกุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kung",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.76200008392334,
+        "LONG": 99.45700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 920607,
+        "SUB_DISTRICT_NAME_THA": "เขากอบ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Kop",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.797999858856201,
+        "LONG": 99.56300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 920608,
+        "SUB_DISTRICT_NAME_THA": "เขาขาว",
+        "SUB_DISTRICT_NAME_ENG": "Khao Khao",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.810999870300293,
+        "LONG": 99.61799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 920609,
+        "SUB_DISTRICT_NAME_THA": "เขาปูน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Pun",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.802999973297119,
+        "LONG": 99.66799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 920610,
+        "SUB_DISTRICT_NAME_THA": "ปากแจ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chaem",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.736999988555908,
+        "LONG": 99.7239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 920611,
+        "SUB_DISTRICT_NAME_THA": "ปากคม",
+        "SUB_DISTRICT_NAME_ENG": "Pak Khom",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.73199987411499,
+        "LONG": 99.60700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 920614,
+        "SUB_DISTRICT_NAME_THA": "ท่างิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ngio",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.84499979019165,
+        "LONG": 99.6510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 920615,
+        "SUB_DISTRICT_NAME_THA": "ลำภูรา",
+        "SUB_DISTRICT_NAME_ENG": "Lamphura",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.697999954223633,
+        "LONG": 99.58300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 920616,
+        "SUB_DISTRICT_NAME_THA": "นาวง",
+        "SUB_DISTRICT_NAME_ENG": "Na Wong",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.739999771118164,
+        "LONG": 99.51100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 920617,
+        "SUB_DISTRICT_NAME_THA": "ห้วยนาง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Nang",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.89300012588501,
+        "LONG": 99.57599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 920619,
+        "SUB_DISTRICT_NAME_THA": "ในเตา",
+        "SUB_DISTRICT_NAME_ENG": "Nai Tao",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.860000133514404,
+        "LONG": 99.72699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 920620,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งต่อ",
+        "SUB_DISTRICT_NAME_ENG": "Thung To",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.758999824523926,
+        "LONG": 99.57499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 920621,
+        "SUB_DISTRICT_NAME_THA": "วังคีรี",
+        "SUB_DISTRICT_NAME_ENG": "Wang Khiri",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9206,
+        "LAT": 7.789999961853027,
+        "LONG": 99.47200012207031
+    }
+]

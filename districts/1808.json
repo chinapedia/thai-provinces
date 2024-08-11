@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180801,
+        "SUB_DISTRICT_NAME_THA": "เนินขาม",
+        "SUB_DISTRICT_NAME_ENG": "Noen Kham",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1808,
+        "LAT": 14.956999778747559,
+        "LONG": 99.9010009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 180802,
+        "SUB_DISTRICT_NAME_THA": "กะบกเตี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Kabok Tia",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1808,
+        "LAT": 15.03600025177002,
+        "LONG": 99.81600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 180803,
+        "SUB_DISTRICT_NAME_THA": "สุขเดือนห้า",
+        "SUB_DISTRICT_NAME_ENG": "Suk Duean Ha",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1808,
+        "LAT": 14.968000411987305,
+        "LONG": 99.8280029296875
+    }
+]

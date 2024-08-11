@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 410701,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งฝน",
+        "SUB_DISTRICT_NAME_ENG": "Thung Fon",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4107,
+        "LAT": 17.47800064086914,
+        "LONG": 103.26300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 410702,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Thung Yai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4107,
+        "LAT": 17.475000381469727,
+        "LONG": 103.17400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 410703,
+        "SUB_DISTRICT_NAME_THA": "นาชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Na Chum Saeng",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4107,
+        "LAT": 17.56100082397461,
+        "LONG": 103.19300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 410704,
+        "SUB_DISTRICT_NAME_THA": "นาทม",
+        "SUB_DISTRICT_NAME_ENG": "Na Thom",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4107,
+        "LAT": 17.54199981689453,
+        "LONG": 103.15899658203125
+    }
+]

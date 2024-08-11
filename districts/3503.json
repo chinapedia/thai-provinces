@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 350301,
+        "SUB_DISTRICT_NAME_THA": "กุดชุม",
+        "SUB_DISTRICT_NAME_ENG": "Kut Chum",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 16.069000244140625,
+        "LONG": 104.3489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 350302,
+        "SUB_DISTRICT_NAME_THA": "โนนเปือย",
+        "SUB_DISTRICT_NAME_ENG": "Non Pueai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 16.01099967956543,
+        "LONG": 104.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 350303,
+        "SUB_DISTRICT_NAME_THA": "กำแมด",
+        "SUB_DISTRICT_NAME_ENG": "Kammaet",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 15.942999839782715,
+        "LONG": 104.37899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 350304,
+        "SUB_DISTRICT_NAME_THA": "นาโส่",
+        "SUB_DISTRICT_NAME_ENG": "Na So",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 15.972000122070312,
+        "LONG": 104.31700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 350305,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแก้ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Kaeng",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 16.006999969482422,
+        "LONG": 104.29100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 350306,
+        "SUB_DISTRICT_NAME_THA": "หนองหมี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mi",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 16.051000595092773,
+        "LONG": 104.2959976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 350307,
+        "SUB_DISTRICT_NAME_THA": "โพนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Phon Ngam",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 16.045000076293945,
+        "LONG": 104.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 350308,
+        "SUB_DISTRICT_NAME_THA": "คำน้ำสร้าง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Nam Sang",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 16.099000930786133,
+        "LONG": 104.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 350309,
+        "SUB_DISTRICT_NAME_THA": "หนองแหน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nae",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3503,
+        "LAT": 16.12700080871582,
+        "LONG": 104.21700286865234
+    }
+]

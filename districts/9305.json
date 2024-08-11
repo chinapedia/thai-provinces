@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930501,
+        "SUB_DISTRICT_NAME_THA": "ควนขนุน",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Kha Nun",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.75600004196167,
+        "LONG": 100.00299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 930502,
+        "SUB_DISTRICT_NAME_THA": "ทะเลน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Thale Noi",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.823999881744385,
+        "LONG": 100.1449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 930504,
+        "SUB_DISTRICT_NAME_THA": "นาขยาด",
+        "SUB_DISTRICT_NAME_ENG": "Nakhayat",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.686999797821045,
+        "LONG": 99.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 930505,
+        "SUB_DISTRICT_NAME_THA": "พนมวังก์",
+        "SUB_DISTRICT_NAME_ENG": "Phanom Wang",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.684000015258789,
+        "LONG": 100.02300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 930506,
+        "SUB_DISTRICT_NAME_THA": "แหลมโตนด",
+        "SUB_DISTRICT_NAME_ENG": "Laem Tanot",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.826000213623047,
+        "LONG": 100.02999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 930508,
+        "SUB_DISTRICT_NAME_THA": "ปันแต",
+        "SUB_DISTRICT_NAME_ENG": "Pantae",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.7829999923706055,
+        "LONG": 100.0510025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 930509,
+        "SUB_DISTRICT_NAME_THA": "โตนดด้วน",
+        "SUB_DISTRICT_NAME_ENG": "Tanot Duan",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.7179999351501465,
+        "LONG": 100.03600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 930510,
+        "SUB_DISTRICT_NAME_THA": "ดอนทราย",
+        "SUB_DISTRICT_NAME_ENG": "Don Sai",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.716000080108643,
+        "LONG": 99.9749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 930511,
+        "SUB_DISTRICT_NAME_THA": "มะกอกเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Makok Nuea",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.745999813079834,
+        "LONG": 100.072998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 930512,
+        "SUB_DISTRICT_NAME_THA": "พนางตุง",
+        "SUB_DISTRICT_NAME_ENG": "Phanang Tung",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.758999824523926,
+        "LONG": 100.13999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 930513,
+        "SUB_DISTRICT_NAME_THA": "ชะมวง",
+        "SUB_DISTRICT_NAME_ENG": "Chamuang",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.764999866485596,
+        "LONG": 99.95600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 930516,
+        "SUB_DISTRICT_NAME_THA": "แพรกหา",
+        "SUB_DISTRICT_NAME_ENG": "Phraek Ha",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9305,
+        "LAT": 7.6539998054504395,
+        "LONG": 100.01000213623047
+    }
+]

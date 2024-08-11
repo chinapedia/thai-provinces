@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400901,
+        "SUB_DISTRICT_NAME_THA": "หนองโก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ko",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.726999282836914,
+        "LONG": 103.11000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 400902,
+        "SUB_DISTRICT_NAME_THA": "หนองกุงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung Yai",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.645999908447266,
+        "LONG": 103.08599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 400905,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโจด",
+        "SUB_DISTRICT_NAME_ENG": "Huai Chot",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.66699981689453,
+        "LONG": 103.02200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 400906,
+        "SUB_DISTRICT_NAME_THA": "ห้วยยาง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.8700008392334,
+        "LONG": 103.08499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 400907,
+        "SUB_DISTRICT_NAME_THA": "บ้านฝาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Fang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.768999099731445,
+        "LONG": 103.05000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 400909,
+        "SUB_DISTRICT_NAME_THA": "ดูนสาด",
+        "SUB_DISTRICT_NAME_ENG": "Dun Sat",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.809999465942383,
+        "LONG": 103.14900207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 400910,
+        "SUB_DISTRICT_NAME_THA": "หนองโน",
+        "SUB_DISTRICT_NAME_ENG": "Nong No",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.722000122070312,
+        "LONG": 103.02999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 400911,
+        "SUB_DISTRICT_NAME_THA": "น้ำอ้อม",
+        "SUB_DISTRICT_NAME_ENG": "Nam Om",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.67099952697754,
+        "LONG": 103.12699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 400912,
+        "SUB_DISTRICT_NAME_THA": "หัวนาคำ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Na Kham",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4009,
+        "LAT": 16.812999725341797,
+        "LONG": 103.08000183105469
+    }
+]

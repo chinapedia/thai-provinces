@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480301,
+        "SUB_DISTRICT_NAME_THA": "ท่าอุเทน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Uthen",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.576000213623047,
+        "LONG": 104.59100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 480302,
+        "SUB_DISTRICT_NAME_THA": "โนนตาล",
+        "SUB_DISTRICT_NAME_ENG": "Non Tan",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.534000396728516,
+        "LONG": 104.5979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 480303,
+        "SUB_DISTRICT_NAME_THA": "ท่าจำปา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Champa",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.591999053955078,
+        "LONG": 104.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 480304,
+        "SUB_DISTRICT_NAME_THA": "ไชยบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Chai Buri",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.63599967956543,
+        "LONG": 104.43299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 480305,
+        "SUB_DISTRICT_NAME_THA": "พนอม",
+        "SUB_DISTRICT_NAME_ENG": "Phanom",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.69700050354004,
+        "LONG": 104.39299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 480306,
+        "SUB_DISTRICT_NAME_THA": "พะทาย",
+        "SUB_DISTRICT_NAME_ENG": "Phathai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.756000518798828,
+        "LONG": 104.31600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 480311,
+        "SUB_DISTRICT_NAME_THA": "เวินพระบาท",
+        "SUB_DISTRICT_NAME_ENG": "Woen Phrabat",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.509000778198242,
+        "LONG": 104.6760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 480312,
+        "SUB_DISTRICT_NAME_THA": "รามราช",
+        "SUB_DISTRICT_NAME_ENG": "Rammarat",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.468000411987305,
+        "LONG": 104.63500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 480314,
+        "SUB_DISTRICT_NAME_THA": "หนองเทา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Thao",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4803,
+        "LAT": 17.783000946044922,
+        "LONG": 104.35199737548828
+    }
+]

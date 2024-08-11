@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 240501,
+        "SUB_DISTRICT_NAME_THA": "บ้านโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pho",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.588000297546387,
+        "LONG": 101.08599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 240502,
+        "SUB_DISTRICT_NAME_THA": "เกาะไร่",
+        "SUB_DISTRICT_NAME_ENG": "Ko Rai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.678000450134277,
+        "LONG": 100.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 240503,
+        "SUB_DISTRICT_NAME_THA": "คลองขุด",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Khut",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.611000061035156,
+        "LONG": 101.19400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 240504,
+        "SUB_DISTRICT_NAME_THA": "คลองบ้านโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Ban Pho",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.571999549865723,
+        "LONG": 101.05699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 240505,
+        "SUB_DISTRICT_NAME_THA": "คลองประเวศ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Prawet",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.630000114440918,
+        "LONG": 101.02400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 240506,
+        "SUB_DISTRICT_NAME_THA": "ดอนทราย",
+        "SUB_DISTRICT_NAME_ENG": "Don Sai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.630999565124512,
+        "LONG": 101.125
+    },
+    {
+        "SUB_DISTRICT_ID": 240507,
+        "SUB_DISTRICT_NAME_THA": "เทพราช",
+        "SUB_DISTRICT_NAME_ENG": "Theppharat",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.640999794006348,
+        "LONG": 100.98200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 240508,
+        "SUB_DISTRICT_NAME_THA": "ท่าพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Phlap",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.616000175476074,
+        "LONG": 101.07499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 240509,
+        "SUB_DISTRICT_NAME_THA": "หนองตีนนก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tin Nok",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.585000038146973,
+        "LONG": 101.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 240510,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.616999626159668,
+        "LONG": 101.10099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 240511,
+        "SUB_DISTRICT_NAME_THA": "บางซ่อน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Son",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.557999610900879,
+        "LONG": 101.05799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 240512,
+        "SUB_DISTRICT_NAME_THA": "บางกรูด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krut",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.633000373840332,
+        "LONG": 101.0780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 240513,
+        "SUB_DISTRICT_NAME_THA": "แหลมประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Laem Pradu",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.597000122070312,
+        "LONG": 101.20899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 240514,
+        "SUB_DISTRICT_NAME_THA": "ลาดขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Lat Khwang",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.604999542236328,
+        "LONG": 101.02300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 240515,
+        "SUB_DISTRICT_NAME_THA": "สนามจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Chan",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.593999862670898,
+        "LONG": 101.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 240516,
+        "SUB_DISTRICT_NAME_THA": "แสนภูดาษ",
+        "SUB_DISTRICT_NAME_ENG": "Saen Phu Dat",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.581999778747559,
+        "LONG": 101.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 240517,
+        "SUB_DISTRICT_NAME_THA": "สิบเอ็ดศอก",
+        "SUB_DISTRICT_NAME_ENG": "Sip Et Sok",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2405,
+        "LAT": 13.604999542236328,
+        "LONG": 101.14800262451172
+    }
+]

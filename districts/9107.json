@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 910701,
+        "SUB_DISTRICT_NAME_THA": "ปาล์มพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Pam Phatthana",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9107,
+        "LAT": 7.038000106811523,
+        "LONG": 99.93399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 910702,
+        "SUB_DISTRICT_NAME_THA": "นิคมพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Phatthana",
+        "PROVINCE_ID": 91,
+        "DISTRICT_ID": 9107,
+        "LAT": 6.949999809265137,
+        "LONG": 99.93099975585938
+    }
+]

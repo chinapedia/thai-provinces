@@ -1,0 +1,173 @@
+[
+    {
+        "SUB_DISTRICT_ID": 240101,
+        "SUB_DISTRICT_NAME_THA": "หน้าเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Na Mueang",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.685999870300293,
+        "LONG": 101.06600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 240102,
+        "SUB_DISTRICT_NAME_THA": "ท่าไข่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.736000061035156,
+        "LONG": 101.05999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 240103,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.706999778747559,
+        "LONG": 101.0999984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 240104,
+        "SUB_DISTRICT_NAME_THA": "คลองนา",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Na",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.64799976348877,
+        "LONG": 101.10199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 240105,
+        "SUB_DISTRICT_NAME_THA": "บางตีนเป็ด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Tin Pet",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.66100025177002,
+        "LONG": 101.07499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 240106,
+        "SUB_DISTRICT_NAME_THA": "บางไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.692000389099121,
+        "LONG": 101.10199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 240107,
+        "SUB_DISTRICT_NAME_THA": "คลองจุกกระเฌอ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chuk Khachoe",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.685999870300293,
+        "LONG": 101.125
+    },
+    {
+        "SUB_DISTRICT_ID": 240108,
+        "SUB_DISTRICT_NAME_THA": "บางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.765000343322754,
+        "LONG": 101.09400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 240109,
+        "SUB_DISTRICT_NAME_THA": "บางขวัญ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khwan",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.779999732971191,
+        "LONG": 101.05400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 240110,
+        "SUB_DISTRICT_NAME_THA": "คลองนครเนื่องเขต",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Nakhon Nueang Khet",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.765999794006348,
+        "LONG": 101.00800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 240111,
+        "SUB_DISTRICT_NAME_THA": "วังตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Takhian",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.718999862670898,
+        "LONG": 101.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 240112,
+        "SUB_DISTRICT_NAME_THA": "โสธร",
+        "SUB_DISTRICT_NAME_ENG": "Sothon",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.680000305175781,
+        "LONG": 101.0530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 240113,
+        "SUB_DISTRICT_NAME_THA": "บางพระ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phra",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.652999877929688,
+        "LONG": 101.0199966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 240114,
+        "SUB_DISTRICT_NAME_THA": "บางกระไห",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kahai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.670000076293945,
+        "LONG": 101.00199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 240115,
+        "SUB_DISTRICT_NAME_THA": "หนามแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Daeng",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.736000061035156,
+        "LONG": 100.98899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 240116,
+        "SUB_DISTRICT_NAME_THA": "คลองเปรง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Preng",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.706999778747559,
+        "LONG": 100.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 240117,
+        "SUB_DISTRICT_NAME_THA": "คลองอุดมชลจร",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Udom Chonlachon",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.736000061035156,
+        "LONG": 100.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 240118,
+        "SUB_DISTRICT_NAME_THA": "คลองหลวงแพ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Luang Phaeng",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.779999732971191,
+        "LONG": 100.927001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 240119,
+        "SUB_DISTRICT_NAME_THA": "บางเตย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Toei",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2401,
+        "LAT": 13.706000328063965,
+        "LONG": 100.99299621582031
+    }
+]

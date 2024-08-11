@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 711201,
+        "SUB_DISTRICT_NAME_THA": "หนองปรือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Prue",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7112,
+        "LAT": 14.630000114440918,
+        "LONG": 99.4540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 711202,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาไหล",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Lai",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7112,
+        "LAT": 14.62600040435791,
+        "LONG": 99.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 711203,
+        "SUB_DISTRICT_NAME_THA": "สมเด็จเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Somdet Charoen",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7112,
+        "LAT": 14.746000289916992,
+        "LONG": 99.33799743652344
+    }
+]

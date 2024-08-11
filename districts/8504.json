@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 850401,
+        "SUB_DISTRICT_NAME_THA": "น้ำจืด",
+        "SUB_DISTRICT_NAME_ENG": "Nam Chuet",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8504,
+        "LAT": 10.394000053405762,
+        "LONG": 98.84200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 850402,
+        "SUB_DISTRICT_NAME_THA": "น้ำจืดน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Nam Chuet Noi",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8504,
+        "LAT": 10.427000045776367,
+        "LONG": 98.79299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 850403,
+        "SUB_DISTRICT_NAME_THA": "มะมุ",
+        "SUB_DISTRICT_NAME_ENG": "Mamu",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8504,
+        "LAT": 10.456999778747559,
+        "LONG": 98.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 850404,
+        "SUB_DISTRICT_NAME_THA": "ปากจั่น",
+        "SUB_DISTRICT_NAME_ENG": "Pak Chan",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8504,
+        "LAT": 10.574999809265137,
+        "LONG": 98.83200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 850405,
+        "SUB_DISTRICT_NAME_THA": "ลำเลียง",
+        "SUB_DISTRICT_NAME_ENG": "Lamliang",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8504,
+        "LAT": 10.286999702453613,
+        "LONG": 98.84200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 850406,
+        "SUB_DISTRICT_NAME_THA": "จ.ป.ร.",
+        "SUB_DISTRICT_NAME_ENG": "Cho.Po.Ro.",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8504,
+        "LAT": 10.64799976348877,
+        "LONG": 98.88300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 850407,
+        "SUB_DISTRICT_NAME_THA": "บางใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Yai",
+        "PROVINCE_ID": 85,
+        "DISTRICT_ID": 8504,
+        "LAT": 10.265000343322754,
+        "LONG": 98.75700378417969
+    }
+]

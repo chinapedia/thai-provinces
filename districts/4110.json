@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 411001,
+        "SUB_DISTRICT_NAME_THA": "หนองกุงทับม้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung Thap Ma",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4110,
+        "LAT": 17.018999099731445,
+        "LONG": 103.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 411002,
+        "SUB_DISTRICT_NAME_THA": "หนองหญ้าไซ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ya Sai",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4110,
+        "LAT": 16.95199966430664,
+        "LONG": 103.36799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 411003,
+        "SUB_DISTRICT_NAME_THA": "บะยาว",
+        "SUB_DISTRICT_NAME_ENG": "Bayao",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4110,
+        "LAT": 17.083999633789062,
+        "LONG": 103.40499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 411004,
+        "SUB_DISTRICT_NAME_THA": "ผาสุก",
+        "SUB_DISTRICT_NAME_ENG": "Pha Suk",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4110,
+        "LAT": 17.134000778198242,
+        "LONG": 103.53700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 411005,
+        "SUB_DISTRICT_NAME_THA": "คำโคกสูง",
+        "SUB_DISTRICT_NAME_ENG": "Kham Khok Sung",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4110,
+        "LAT": 16.881999969482422,
+        "LONG": 103.4260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 411006,
+        "SUB_DISTRICT_NAME_THA": "วังสามหมอ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Sam Mo",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4110,
+        "LAT": 16.94099998474121,
+        "LONG": 103.45600128173828
+    }
+]

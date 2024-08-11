@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530701,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.301000595092773,
+        "LONG": 100.10700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 530702,
+        "SUB_DISTRICT_NAME_THA": "บ้านดารา",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dara",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.3700008392334,
+        "LONG": 100.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 530703,
+        "SUB_DISTRICT_NAME_THA": "ไร่อ้อย",
+        "SUB_DISTRICT_NAME_ENG": "Rai Oi",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.357999801635742,
+        "LONG": 100.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 530704,
+        "SUB_DISTRICT_NAME_THA": "ท่าสัก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sak",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.378999710083008,
+        "LONG": 100.1780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 530705,
+        "SUB_DISTRICT_NAME_THA": "คอรุม",
+        "SUB_DISTRICT_NAME_ENG": "Kho Rum",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.29199981689453,
+        "LONG": 100.03099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 530706,
+        "SUB_DISTRICT_NAME_THA": "บ้านหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mo",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.256000518798828,
+        "LONG": 100.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 530707,
+        "SUB_DISTRICT_NAME_THA": "ท่ามะเฟือง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mafueang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.238000869750977,
+        "LONG": 100.02100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 530708,
+        "SUB_DISTRICT_NAME_THA": "บ้านโคน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khon",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.20800018310547,
+        "LONG": 100.13800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 530709,
+        "SUB_DISTRICT_NAME_THA": "พญาแมน",
+        "SUB_DISTRICT_NAME_ENG": "Phaya Maen",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.187000274658203,
+        "LONG": 100.01599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 530710,
+        "SUB_DISTRICT_NAME_THA": "นาอิน",
+        "SUB_DISTRICT_NAME_ENG": "Na In",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.2450008392334,
+        "LONG": 100.19300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 530711,
+        "SUB_DISTRICT_NAME_THA": "นายาง",
+        "SUB_DISTRICT_NAME_ENG": "Na Yang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5307,
+        "LAT": 17.31800079345703,
+        "LONG": 100.20999908447266
+    }
+]

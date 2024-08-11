@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 430501,
+        "SUB_DISTRICT_NAME_THA": "จุมพล",
+        "SUB_DISTRICT_NAME_ENG": "Chum Phon",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 18.027000427246094,
+        "LONG": 103.14600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 430502,
+        "SUB_DISTRICT_NAME_THA": "วัดหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Wat Luang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.948999404907227,
+        "LONG": 103.01300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 430503,
+        "SUB_DISTRICT_NAME_THA": "กุดบง",
+        "SUB_DISTRICT_NAME_ENG": "Kut Bong",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 18.104999542236328,
+        "LONG": 103.11799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 430504,
+        "SUB_DISTRICT_NAME_THA": "ชุมช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Chang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.974000930786133,
+        "LONG": 103.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 430506,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Luang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.895999908447266,
+        "LONG": 102.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 430507,
+        "SUB_DISTRICT_NAME_THA": "เหล่าต่างคำ",
+        "SUB_DISTRICT_NAME_ENG": "Lao Tang Kham",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.91699981689453,
+        "LONG": 102.91100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 430508,
+        "SUB_DISTRICT_NAME_THA": "นาหนัง",
+        "SUB_DISTRICT_NAME_ENG": "Na Nang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.88800048828125,
+        "LONG": 103.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 430509,
+        "SUB_DISTRICT_NAME_THA": "เซิม",
+        "SUB_DISTRICT_NAME_ENG": "Some",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.926000595092773,
+        "LONG": 103.2770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 430513,
+        "SUB_DISTRICT_NAME_THA": "บ้านโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pho",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.860000610351562,
+        "LONG": 103.29100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 430521,
+        "SUB_DISTRICT_NAME_THA": "บ้านผือ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phue",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.93000030517578,
+        "LONG": 103.21299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 430522,
+        "SUB_DISTRICT_NAME_THA": "สร้างนางขาว",
+        "SUB_DISTRICT_NAME_ENG": "Sang Nang Khao",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4305,
+        "LAT": 17.89900016784668,
+        "LONG": 103.01000213623047
+    }
+]

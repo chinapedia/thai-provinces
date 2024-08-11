@@ -1,0 +1,164 @@
+[
+    {
+        "SUB_DISTRICT_ID": 451001,
+        "SUB_DISTRICT_NAME_THA": "กลาง",
+        "SUB_DISTRICT_NAME_ENG": "Klang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.02400016784668,
+        "LONG": 103.9209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 451002,
+        "SUB_DISTRICT_NAME_THA": "นางาม",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngam",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 15.91100025177002,
+        "LONG": 103.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 451003,
+        "SUB_DISTRICT_NAME_THA": "เมืองไพร",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phrai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.000999450683594,
+        "LONG": 103.99299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 451004,
+        "SUB_DISTRICT_NAME_THA": "นาแซง",
+        "SUB_DISTRICT_NAME_ENG": "Na Saeng",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.143999099731445,
+        "LONG": 103.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 451005,
+        "SUB_DISTRICT_NAME_THA": "นาเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Na Mueang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.073999404907227,
+        "LONG": 103.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 451006,
+        "SUB_DISTRICT_NAME_THA": "วังหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Luang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.09000015258789,
+        "LONG": 103.99500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 451007,
+        "SUB_DISTRICT_NAME_THA": "ท่าม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Muang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.124000549316406,
+        "LONG": 103.89299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 451008,
+        "SUB_DISTRICT_NAME_THA": "ขวาว",
+        "SUB_DISTRICT_NAME_ENG": "Khwao",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 15.946000099182129,
+        "LONG": 103.98999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 451009,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ทอง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Thong",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.13599967956543,
+        "LONG": 104.13800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 451010,
+        "SUB_DISTRICT_NAME_THA": "ภูเงิน",
+        "SUB_DISTRICT_NAME_ENG": "Phu Ngoen",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.040000915527344,
+        "LONG": 104.0780029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 451011,
+        "SUB_DISTRICT_NAME_THA": "เกาะแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ko Kaeo",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.160999298095703,
+        "LONG": 103.86799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 451012,
+        "SUB_DISTRICT_NAME_THA": "นาเลิง",
+        "SUB_DISTRICT_NAME_ENG": "Na Loeng",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 15.932999610900879,
+        "LONG": 103.91500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 451013,
+        "SUB_DISTRICT_NAME_THA": "เหล่าน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Lao Noi",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.094999313354492,
+        "LONG": 104.05999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 451014,
+        "SUB_DISTRICT_NAME_THA": "ศรีวิสัย",
+        "SUB_DISTRICT_NAME_ENG": "Si Wilai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.131999969482422,
+        "LONG": 104.0790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 451015,
+        "SUB_DISTRICT_NAME_THA": "หนองหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Luang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.148000717163086,
+        "LONG": 103.9229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 451016,
+        "SUB_DISTRICT_NAME_THA": "พรสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sawan",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.18400001525879,
+        "LONG": 104.14800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 451017,
+        "SUB_DISTRICT_NAME_THA": "ขวัญเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Khwan Mueang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.027999877929688,
+        "LONG": 103.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 451018,
+        "SUB_DISTRICT_NAME_THA": "บึงเกลือ",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Kluea",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4510,
+        "LAT": 16.020000457763672,
+        "LONG": 104.02100372314453
+    }
+]

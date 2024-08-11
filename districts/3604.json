@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360401,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.285999298095703,
+        "LONG": 101.86900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 360402,
+        "SUB_DISTRICT_NAME_THA": "บ้านหัน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Han",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.30699920654297,
+        "LONG": 102.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 360403,
+        "SUB_DISTRICT_NAME_THA": "บ้านเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Duea",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.089000701904297,
+        "LONG": 101.90799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 360404,
+        "SUB_DISTRICT_NAME_THA": "บ้านเป้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pao",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.371999740600586,
+        "LONG": 101.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 360405,
+        "SUB_DISTRICT_NAME_THA": "กุดเลาะ",
+        "SUB_DISTRICT_NAME_ENG": "Kut Lo",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.30900001525879,
+        "LONG": 101.94300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 360406,
+        "SUB_DISTRICT_NAME_THA": "โนนกอก",
+        "SUB_DISTRICT_NAME_ENG": "Non Kok",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.17099952697754,
+        "LONG": 101.9489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 360407,
+        "SUB_DISTRICT_NAME_THA": "สระโพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sa Phon Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.246000289916992,
+        "LONG": 101.98400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 360408,
+        "SUB_DISTRICT_NAME_THA": "หนองข่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kha",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.16900062561035,
+        "LONG": 101.86900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 360409,
+        "SUB_DISTRICT_NAME_THA": "หนองโพนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phon Ngam",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.43400001525879,
+        "LONG": 101.87699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 360410,
+        "SUB_DISTRICT_NAME_THA": "บ้านบัว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bua",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.242000579833984,
+        "LONG": 101.8740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 360412,
+        "SUB_DISTRICT_NAME_THA": "โนนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Non Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3604,
+        "LAT": 16.378999710083008,
+        "LONG": 101.7969970703125
+    }
+]

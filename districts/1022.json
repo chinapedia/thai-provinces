@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 102201,
+        "SUB_DISTRICT_NAME_THA": "บางหว้า",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1022,
+        "LAT": 13.71399974822998,
+        "LONG": 100.44300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 102202,
+        "SUB_DISTRICT_NAME_THA": "บางด้วน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1022,
+        "LAT": 13.722999572753906,
+        "LONG": 100.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 102206,
+        "SUB_DISTRICT_NAME_THA": "บางจาก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1022,
+        "LAT": 13.72700023651123,
+        "LONG": 100.44999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 102207,
+        "SUB_DISTRICT_NAME_THA": "บางแวก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1022,
+        "LAT": 13.736000061035156,
+        "LONG": 100.44499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 102208,
+        "SUB_DISTRICT_NAME_THA": "คลองขวาง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1022,
+        "LAT": 13.73799991607666,
+        "LONG": 100.4229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 102209,
+        "SUB_DISTRICT_NAME_THA": "ปากคลองภาษีเจริญ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1022,
+        "LAT": 13.722000122070312,
+        "LONG": 100.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 102210,
+        "SUB_DISTRICT_NAME_THA": "คูหาสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1022,
+        "LAT": 13.72700023651123,
+        "LONG": 100.45700073242188
+    }
+]

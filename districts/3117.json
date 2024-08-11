@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311701,
+        "SUB_DISTRICT_NAME_THA": "โนนสุวรรณ",
+        "SUB_DISTRICT_NAME_ENG": "Non Suwan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3117,
+        "LAT": 14.538000106811523,
+        "LONG": 102.60399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 311702,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งจังหัน",
+        "SUB_DISTRICT_NAME_ENG": "Thung Changhan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3117,
+        "LAT": 14.565999984741211,
+        "LONG": 102.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 311703,
+        "SUB_DISTRICT_NAME_THA": "โกรกแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Krok Kaeo",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3117,
+        "LAT": 14.621000289916992,
+        "LONG": 102.63700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 311704,
+        "SUB_DISTRICT_NAME_THA": "ดงอีจาน",
+        "SUB_DISTRICT_NAME_ENG": "Dong I Chan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3117,
+        "LAT": 14.545999526977539,
+        "LONG": 102.51699829101562
+    }
+]

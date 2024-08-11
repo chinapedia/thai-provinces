@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 312101,
+        "SUB_DISTRICT_NAME_THA": "บ้านด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3121,
+        "LAT": 15.112000465393066,
+        "LONG": 103.16200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 312102,
+        "SUB_DISTRICT_NAME_THA": "ปราสาท",
+        "SUB_DISTRICT_NAME_ENG": "Prasat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3121,
+        "LAT": 15.081000328063965,
+        "LONG": 103.21700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 312103,
+        "SUB_DISTRICT_NAME_THA": "วังเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nuea",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3121,
+        "LAT": 15.137999534606934,
+        "LONG": 103.21900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 312104,
+        "SUB_DISTRICT_NAME_THA": "โนนขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Non Khwang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3121,
+        "LAT": 15.190999984741211,
+        "LONG": 103.15699768066406
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 330901,
+        "SUB_DISTRICT_NAME_THA": "เมืองคง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Khong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.355999946594238,
+        "LONG": 104.15899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 330902,
+        "SUB_DISTRICT_NAME_THA": "เมืองแคน",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Khaen",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.35099983215332,
+        "LONG": 104.21399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 330903,
+        "SUB_DISTRICT_NAME_THA": "หนองแค",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khae",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.380000114440918,
+        "LONG": 104.10600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 330906,
+        "SUB_DISTRICT_NAME_THA": "จิกสังข์ทอง",
+        "SUB_DISTRICT_NAME_ENG": "Chik Sang Thong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.4350004196167,
+        "LONG": 104.125
+    },
+    {
+        "SUB_DISTRICT_ID": 330907,
+        "SUB_DISTRICT_NAME_THA": "ด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Dan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.420999526977539,
+        "LONG": 104.0260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 330908,
+        "SUB_DISTRICT_NAME_THA": "ดู่",
+        "SUB_DISTRICT_NAME_ENG": "Du",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.416000366210938,
+        "LONG": 104.16200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 330909,
+        "SUB_DISTRICT_NAME_THA": "หนองอึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ueng",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.277999877929688,
+        "LONG": 104.1760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 330910,
+        "SUB_DISTRICT_NAME_THA": "บัวหุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Bua Hung",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.321000099182129,
+        "LONG": 104.1050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 330911,
+        "SUB_DISTRICT_NAME_THA": "ไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Phai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.331999778747559,
+        "LONG": 104.25700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 330912,
+        "SUB_DISTRICT_NAME_THA": "ส้มป่อย",
+        "SUB_DISTRICT_NAME_ENG": "Som Poi",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.282999992370605,
+        "LONG": 104.23200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 330913,
+        "SUB_DISTRICT_NAME_THA": "หนองหมี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mi",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.270999908447266,
+        "LONG": 104.29299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 330914,
+        "SUB_DISTRICT_NAME_THA": "หว้านคำ",
+        "SUB_DISTRICT_NAME_ENG": "Wan Kham",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.406999588012695,
+        "LONG": 104.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 330915,
+        "SUB_DISTRICT_NAME_THA": "สร้างปี่",
+        "SUB_DISTRICT_NAME_ENG": "Sang Pi",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3309,
+        "LAT": 15.317000389099121,
+        "LONG": 104.30500030517578
+    }
+]

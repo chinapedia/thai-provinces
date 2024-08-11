@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660301,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ประทับช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Pho Prathap Chang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6603,
+        "LAT": 16.322999954223633,
+        "LONG": 100.30000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 660302,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ท่าโพ",
+        "SUB_DISTRICT_NAME_ENG": "Phai Tha Pho",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6603,
+        "LAT": 16.277999877929688,
+        "LONG": 100.23500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 660303,
+        "SUB_DISTRICT_NAME_THA": "วังจิก",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chik",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6603,
+        "LAT": 16.35099983215332,
+        "LONG": 100.26399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 660304,
+        "SUB_DISTRICT_NAME_THA": "ไผ่รอบ",
+        "SUB_DISTRICT_NAME_ENG": "Phai Rop",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6603,
+        "LAT": 16.354000091552734,
+        "LONG": 100.1520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 660305,
+        "SUB_DISTRICT_NAME_THA": "ดงเสือเหลือง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Suea Lueang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6603,
+        "LAT": 16.270000457763672,
+        "LONG": 100.18199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 660306,
+        "SUB_DISTRICT_NAME_THA": "เนินสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Noen Sawang",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6603,
+        "LAT": 16.31800079345703,
+        "LONG": 100.13800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 660307,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Thung Yai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6603,
+        "LAT": 16.29199981689453,
+        "LONG": 100.07099914550781
+    }
+]

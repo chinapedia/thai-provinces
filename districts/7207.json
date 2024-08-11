@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 720701,
+        "SUB_DISTRICT_NAME_THA": "สองพี่น้อง",
+        "SUB_DISTRICT_NAME_ENG": "Song Phi Nong",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.225000381469727,
+        "LONG": 100.02300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 720702,
+        "SUB_DISTRICT_NAME_THA": "บางเลน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Len",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.168999671936035,
+        "LONG": 100.08499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 720703,
+        "SUB_DISTRICT_NAME_THA": "บางตาเถร",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ta Then",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.199000358581543,
+        "LONG": 100.17400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 720704,
+        "SUB_DISTRICT_NAME_THA": "บางตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Takhian",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.213000297546387,
+        "LONG": 100.10299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 720705,
+        "SUB_DISTRICT_NAME_THA": "บ้านกุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kum",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.260000228881836,
+        "LONG": 100.11399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 720706,
+        "SUB_DISTRICT_NAME_THA": "หัวโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Hua Pho",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.302000045776367,
+        "LONG": 99.98100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 720707,
+        "SUB_DISTRICT_NAME_THA": "บางพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phlap",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.251999855041504,
+        "LONG": 100.0459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 720708,
+        "SUB_DISTRICT_NAME_THA": "เนินพระปรางค์",
+        "SUB_DISTRICT_NAME_ENG": "Noen Phraprang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.194000244140625,
+        "LONG": 100.0479965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 720709,
+        "SUB_DISTRICT_NAME_THA": "บ้านช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.234000205993652,
+        "LONG": 100.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 720710,
+        "SUB_DISTRICT_NAME_THA": "ต้นตาล",
+        "SUB_DISTRICT_NAME_ENG": "Ton Tan",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.220000267028809,
+        "LONG": 100.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 720711,
+        "SUB_DISTRICT_NAME_THA": "ศรีสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Si Samran",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.217000007629395,
+        "LONG": 99.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 720712,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งคอก",
+        "SUB_DISTRICT_NAME_ENG": "Thung Khok",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.166000366210938,
+        "LONG": 99.95899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 720713,
+        "SUB_DISTRICT_NAME_THA": "หนองบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bo",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.204000473022461,
+        "LONG": 99.86000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 720714,
+        "SUB_DISTRICT_NAME_THA": "บ่อสุพรรณ",
+        "SUB_DISTRICT_NAME_ENG": "Bo Suphan",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.130000114440918,
+        "LONG": 99.8489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 720715,
+        "SUB_DISTRICT_NAME_THA": "ดอนมะนาว",
+        "SUB_DISTRICT_NAME_ENG": "Don Manao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7207,
+        "LAT": 14.166000366210938,
+        "LONG": 100.01100158691406
+    }
+]

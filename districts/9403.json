@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940301,
+        "SUB_DISTRICT_NAME_THA": "เกาะเปาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ko Po",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.815000057220459,
+        "LONG": 101.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 940302,
+        "SUB_DISTRICT_NAME_THA": "คอลอตันหยง",
+        "SUB_DISTRICT_NAME_ENG": "Kholo Tanyong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.74399995803833,
+        "LONG": 101.22200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 940303,
+        "SUB_DISTRICT_NAME_THA": "ดอนรัก",
+        "SUB_DISTRICT_NAME_ENG": "Don Rak",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.8480000495910645,
+        "LONG": 101.22000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 940304,
+        "SUB_DISTRICT_NAME_THA": "ดาโต๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Dato",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.7170000076293945,
+        "LONG": 101.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 940305,
+        "SUB_DISTRICT_NAME_THA": "ตุยง",
+        "SUB_DISTRICT_NAME_ENG": "Tuyong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.831999778747559,
+        "LONG": 101.1780014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 940306,
+        "SUB_DISTRICT_NAME_THA": "ท่ากำชำ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kamcham",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.826000213623047,
+        "LONG": 101.0719985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 940307,
+        "SUB_DISTRICT_NAME_THA": "บ่อทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Thong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.789000034332275,
+        "LONG": 101.13500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 940308,
+        "SUB_DISTRICT_NAME_THA": "บางเขา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khao",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.834000110626221,
+        "LONG": 101.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 940309,
+        "SUB_DISTRICT_NAME_THA": "บางตาวา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Tawa",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.857999801635742,
+        "LONG": 101.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 940310,
+        "SUB_DISTRICT_NAME_THA": "ปุโละปุโย",
+        "SUB_DISTRICT_NAME_ENG": "Pulo Puyo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.77400016784668,
+        "LONG": 101.19400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 940311,
+        "SUB_DISTRICT_NAME_THA": "ยาบี",
+        "SUB_DISTRICT_NAME_ENG": "Ya Bi",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.7820000648498535,
+        "LONG": 101.24600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 940312,
+        "SUB_DISTRICT_NAME_THA": "ลิปะสะโง",
+        "SUB_DISTRICT_NAME_ENG": "Lipa Sa-Ngo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9403,
+        "LAT": 6.804999828338623,
+        "LONG": 101.23100280761719
+    }
+]

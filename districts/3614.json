@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 361401,
+        "SUB_DISTRICT_NAME_THA": "บ้านเจียง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chiang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3614,
+        "LAT": 16.131000518798828,
+        "LONG": 101.375
+    },
+    {
+        "SUB_DISTRICT_ID": 361402,
+        "SUB_DISTRICT_NAME_THA": "เจาทอง",
+        "SUB_DISTRICT_NAME_ENG": "Chao Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3614,
+        "LAT": 15.887999534606934,
+        "LONG": 101.39700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 361403,
+        "SUB_DISTRICT_NAME_THA": "วังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3614,
+        "LAT": 15.793000221252441,
+        "LONG": 101.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 361404,
+        "SUB_DISTRICT_NAME_THA": "แหลมทอง",
+        "SUB_DISTRICT_NAME_ENG": "Laem Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3614,
+        "LAT": 16.013999938964844,
+        "LONG": 101.37899780273438
+    }
+]

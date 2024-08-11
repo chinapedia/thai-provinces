@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 461301,
+        "SUB_DISTRICT_NAME_THA": "สมเด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Somdet",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.704999923706055,
+        "LONG": 103.75399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 461302,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.65999984741211,
+        "LONG": 103.69000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 461303,
+        "SUB_DISTRICT_NAME_THA": "แซงบาดาล",
+        "SUB_DISTRICT_NAME_ENG": "Saeng Badan",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.819000244140625,
+        "LONG": 103.69999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 461304,
+        "SUB_DISTRICT_NAME_THA": "มหาไชย",
+        "SUB_DISTRICT_NAME_ENG": "Mahachai",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.822999954223633,
+        "LONG": 103.78299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 461305,
+        "SUB_DISTRICT_NAME_THA": "หมูม่น",
+        "SUB_DISTRICT_NAME_ENG": "Mu Mon",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.759000778198242,
+        "LONG": 103.67900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 461306,
+        "SUB_DISTRICT_NAME_THA": "ผาเสวย",
+        "SUB_DISTRICT_NAME_ENG": "Pha Sawoei",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.797000885009766,
+        "LONG": 103.86299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 461307,
+        "SUB_DISTRICT_NAME_THA": "ศรีสมเด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Si Somdet",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.738000869750977,
+        "LONG": 103.70600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 461308,
+        "SUB_DISTRICT_NAME_THA": "ลำห้วยหลัว",
+        "SUB_DISTRICT_NAME_ENG": "Lam Huai Lua",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4613,
+        "LAT": 16.73200035095215,
+        "LONG": 103.81500244140625
+    }
+]

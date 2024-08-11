@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311001,
+        "SUB_DISTRICT_NAME_THA": "ลำปลายมาศ",
+        "SUB_DISTRICT_NAME_ENG": "Lam Plai Mat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.019000053405762,
+        "LONG": 102.83399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 311002,
+        "SUB_DISTRICT_NAME_THA": "หนองคู",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khu",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 14.99899959564209,
+        "LONG": 102.8030014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 311003,
+        "SUB_DISTRICT_NAME_THA": "แสลงพัน",
+        "SUB_DISTRICT_NAME_ENG": "Salaeng Phan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 14.989999771118164,
+        "LONG": 102.95700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 311004,
+        "SUB_DISTRICT_NAME_THA": "ทะเมนชัย",
+        "SUB_DISTRICT_NAME_ENG": "Thamenchai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.050999641418457,
+        "LONG": 102.94499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 311005,
+        "SUB_DISTRICT_NAME_THA": "ตลาดโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Talat Pho",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.083000183105469,
+        "LONG": 102.89299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 311006,
+        "SUB_DISTRICT_NAME_THA": "หนองกระทิง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kathing",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 14.973999977111816,
+        "LONG": 102.76000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 311007,
+        "SUB_DISTRICT_NAME_THA": "โคกกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Klang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 14.949000358581543,
+        "LONG": 102.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 311008,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.154000282287598,
+        "LONG": 102.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 311009,
+        "SUB_DISTRICT_NAME_THA": "เมืองแฝก",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Faek",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.154000282287598,
+        "LONG": 102.9729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 311010,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 14.873000144958496,
+        "LONG": 102.88600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 311011,
+        "SUB_DISTRICT_NAME_THA": "ผไทรินทร์",
+        "SUB_DISTRICT_NAME_ENG": "Phathai Rin",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 14.916999816894531,
+        "LONG": 102.7770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 311012,
+        "SUB_DISTRICT_NAME_THA": "โคกล่าม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Lam",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.11400032043457,
+        "LONG": 102.83899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 311013,
+        "SUB_DISTRICT_NAME_THA": "หินโคน",
+        "SUB_DISTRICT_NAME_ENG": "Hin Khon",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.057000160217285,
+        "LONG": 102.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 311014,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวโคก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Khok",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.005999565124512,
+        "LONG": 102.88899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 311015,
+        "SUB_DISTRICT_NAME_THA": "บุโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Bu Pho",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 15.109000205993652,
+        "LONG": 102.93800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 311016,
+        "SUB_DISTRICT_NAME_THA": "หนองโดน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Don",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3110,
+        "LAT": 14.881999969482422,
+        "LONG": 102.8239974975586
+    }
+]

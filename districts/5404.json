@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540401,
+        "SUB_DISTRICT_NAME_THA": "สูงเม่น",
+        "SUB_DISTRICT_NAME_ENG": "Sung Men",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.05900001525879,
+        "LONG": 100.08699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 540402,
+        "SUB_DISTRICT_NAME_THA": "น้ำชำ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Cham",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.034000396728516,
+        "LONG": 100.09100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 540403,
+        "SUB_DISTRICT_NAME_THA": "หัวฝาย",
+        "SUB_DISTRICT_NAME_ENG": "Hua Fai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 17.961000442504883,
+        "LONG": 100.18800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 540404,
+        "SUB_DISTRICT_NAME_THA": "ดอนมูล",
+        "SUB_DISTRICT_NAME_ENG": "Don Mun",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.066999435424805,
+        "LONG": 100.1259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 540405,
+        "SUB_DISTRICT_NAME_THA": "บ้านเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lao",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.014999389648438,
+        "LONG": 100.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 540406,
+        "SUB_DISTRICT_NAME_THA": "บ้านกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kwang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.033000946044922,
+        "LONG": 100.22200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 540407,
+        "SUB_DISTRICT_NAME_THA": "บ้านปง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.059999465942383,
+        "LONG": 100.0260009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 540408,
+        "SUB_DISTRICT_NAME_THA": "บ้านกาศ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kat",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.09000015258789,
+        "LONG": 100.16799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 540409,
+        "SUB_DISTRICT_NAME_THA": "ร่องกาศ",
+        "SUB_DISTRICT_NAME_ENG": "Rong Kat",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.09600067138672,
+        "LONG": 100.1259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 540410,
+        "SUB_DISTRICT_NAME_THA": "สบสาย",
+        "SUB_DISTRICT_NAME_ENG": "Sop Sai",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.101999282836914,
+        "LONG": 100.02300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 540411,
+        "SUB_DISTRICT_NAME_THA": "เวียงทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Thong",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.124000549316406,
+        "LONG": 100.0459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 540412,
+        "SUB_DISTRICT_NAME_THA": "พระหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Phra Luang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5404,
+        "LAT": 18.069000244140625,
+        "LONG": 100.11100006103516
+    }
+]

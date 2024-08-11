@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550301,
+        "SUB_DISTRICT_NAME_THA": "บ้านฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Fa",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5503,
+        "LAT": 18.781999588012695,
+        "LONG": 100.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 550302,
+        "SUB_DISTRICT_NAME_THA": "ป่าคาหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Kha Luang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5503,
+        "LAT": 18.857999801635742,
+        "LONG": 100.40499877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 550303,
+        "SUB_DISTRICT_NAME_THA": "สวด",
+        "SUB_DISTRICT_NAME_ENG": "Suat",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5503,
+        "LAT": 18.849000930786133,
+        "LONG": 100.48400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 550304,
+        "SUB_DISTRICT_NAME_THA": "บ้านพี้",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phi",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5503,
+        "LAT": 18.906999588012695,
+        "LONG": 100.42500305175781
+    }
+]

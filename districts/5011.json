@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501101,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.378000259399414,
+        "LONG": 99.2030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 501102,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.358999252319336,
+        "LONG": 99.2020034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 501103,
+        "SUB_DISTRICT_NAME_THA": "ป่าตุ้ม",
+        "SUB_DISTRICT_NAME_ENG": "Pa Tum",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.3700008392334,
+        "LONG": 99.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 501104,
+        "SUB_DISTRICT_NAME_THA": "ป่าไหน่",
+        "SUB_DISTRICT_NAME_ENG": "Pa Nai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.440000534057617,
+        "LONG": 99.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 501105,
+        "SUB_DISTRICT_NAME_THA": "สันทราย",
+        "SUB_DISTRICT_NAME_ENG": "San Sai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.503999710083008,
+        "LONG": 99.2040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 501106,
+        "SUB_DISTRICT_NAME_THA": "บ้านโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pong",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.392000198364258,
+        "LONG": 99.12100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 501107,
+        "SUB_DISTRICT_NAME_THA": "น้ำแพร่",
+        "SUB_DISTRICT_NAME_ENG": "Nam Phrae",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.329999923706055,
+        "LONG": 99.10900115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 501108,
+        "SUB_DISTRICT_NAME_THA": "เขื่อนผาก",
+        "SUB_DISTRICT_NAME_ENG": "Khuean Phak",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.308000564575195,
+        "LONG": 99.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 501109,
+        "SUB_DISTRICT_NAME_THA": "แม่แวน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Waen",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.30299949645996,
+        "LONG": 99.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 501110,
+        "SUB_DISTRICT_NAME_THA": "แม่ปั๋ง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Pang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.21299934387207,
+        "LONG": 99.21199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 501111,
+        "SUB_DISTRICT_NAME_THA": "โหล่งขอด",
+        "SUB_DISTRICT_NAME_ENG": "Long Khot",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5011,
+        "LAT": 19.073999404907227,
+        "LONG": 99.2249984741211
+    }
+]

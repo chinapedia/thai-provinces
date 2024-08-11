@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480601,
+        "SUB_DISTRICT_NAME_THA": "เรณู",
+        "SUB_DISTRICT_NAME_ENG": "Renu",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 17.08099937438965,
+        "LONG": 104.64399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 480602,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 17.06800079345703,
+        "LONG": 104.6969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 480603,
+        "SUB_DISTRICT_NAME_THA": "ท่าลาด",
+        "SUB_DISTRICT_NAME_ENG": "Tha Lat",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 17.006999969482422,
+        "LONG": 104.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 480604,
+        "SUB_DISTRICT_NAME_THA": "นางาม",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngam",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 17.106000900268555,
+        "LONG": 104.6719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 480605,
+        "SUB_DISTRICT_NAME_THA": "โคกหินแฮ่",
+        "SUB_DISTRICT_NAME_ENG": "Khok Hin Hae",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 17.04599952697754,
+        "LONG": 104.62799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 480607,
+        "SUB_DISTRICT_NAME_THA": "หนองย่างชิ้น",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yang Chin",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 17.018999099731445,
+        "LONG": 104.697998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 480608,
+        "SUB_DISTRICT_NAME_THA": "เรณูใต้",
+        "SUB_DISTRICT_NAME_ENG": "Renu Tai",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 17.018999099731445,
+        "LONG": 104.66000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 480609,
+        "SUB_DISTRICT_NAME_THA": "นาขาม",
+        "SUB_DISTRICT_NAME_ENG": "Nakham",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4806,
+        "LAT": 16.983999252319336,
+        "LONG": 104.62999725341797
+    }
+]

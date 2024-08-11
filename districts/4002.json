@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 400201,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4002,
+        "LAT": 16.496999740600586,
+        "LONG": 102.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 400202,
+        "SUB_DISTRICT_NAME_THA": "ป่าหวายนั่ง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Wai Nang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4002,
+        "LAT": 16.608999252319336,
+        "LONG": 102.6500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 400203,
+        "SUB_DISTRICT_NAME_THA": "โนนฆ้อง",
+        "SUB_DISTRICT_NAME_ENG": "Non Khong",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4002,
+        "LAT": 16.416000366210938,
+        "LONG": 102.58899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 400204,
+        "SUB_DISTRICT_NAME_THA": "บ้านเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Lao",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4002,
+        "LAT": 16.39900016784668,
+        "LONG": 102.6500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 400205,
+        "SUB_DISTRICT_NAME_THA": "ป่ามะนาว",
+        "SUB_DISTRICT_NAME_ENG": "Pa Manao",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4002,
+        "LAT": 16.367000579833984,
+        "LONG": 102.572998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 400206,
+        "SUB_DISTRICT_NAME_THA": "บ้านฝาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Fang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4002,
+        "LAT": 16.44300079345703,
+        "LONG": 102.65399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 400207,
+        "SUB_DISTRICT_NAME_THA": "โคกงาม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Ngam",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4002,
+        "LAT": 16.582000732421875,
+        "LONG": 102.5999984741211
+    }
+]

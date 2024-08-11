@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 550901,
+        "SUB_DISTRICT_NAME_THA": "เชียงกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Klang",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5509,
+        "LAT": 19.31999969482422,
+        "LONG": 100.97000122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 550902,
+        "SUB_DISTRICT_NAME_THA": "เปือ",
+        "SUB_DISTRICT_NAME_ENG": "Puea",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5509,
+        "LAT": 19.323999404907227,
+        "LONG": 100.84300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 550903,
+        "SUB_DISTRICT_NAME_THA": "เชียงคาน",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Khan",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5509,
+        "LAT": 19.246000289916992,
+        "LONG": 100.8550033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 550904,
+        "SUB_DISTRICT_NAME_THA": "พระธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Phrathat",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5509,
+        "LAT": 19.33799934387207,
+        "LONG": 100.92500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 550908,
+        "SUB_DISTRICT_NAME_THA": "พญาแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Phaya Kaeo",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5509,
+        "LAT": 19.270000457763672,
+        "LONG": 100.90899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 550909,
+        "SUB_DISTRICT_NAME_THA": "พระพุทธบาท",
+        "SUB_DISTRICT_NAME_ENG": "Phraphutthabat",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5509,
+        "LAT": 19.257999420166016,
+        "LONG": 100.81400299072266
+    }
+]

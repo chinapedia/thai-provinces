@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570901,
+        "SUB_DISTRICT_NAME_THA": "แม่สาย",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.430999755859375,
+        "LONG": 99.91300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 570902,
+        "SUB_DISTRICT_NAME_THA": "ห้วยไคร้",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khrai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.285999298095703,
+        "LONG": 99.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 570903,
+        "SUB_DISTRICT_NAME_THA": "เกาะช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Ko Chang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.398000717163086,
+        "LONG": 100.01000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 570904,
+        "SUB_DISTRICT_NAME_THA": "โป่งผา",
+        "SUB_DISTRICT_NAME_ENG": "Pong Pha",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.3700008392334,
+        "LONG": 99.89399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 570905,
+        "SUB_DISTRICT_NAME_THA": "ศรีเมืองชุม",
+        "SUB_DISTRICT_NAME_ENG": "Si Mueang Chum",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.378000259399414,
+        "LONG": 99.95700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 570906,
+        "SUB_DISTRICT_NAME_THA": "เวียงพางคำ",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Phang Kham",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.409000396728516,
+        "LONG": 99.9000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 570908,
+        "SUB_DISTRICT_NAME_THA": "บ้านด้าย",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.309999465942383,
+        "LONG": 99.92900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 570909,
+        "SUB_DISTRICT_NAME_THA": "โป่งงาม",
+        "SUB_DISTRICT_NAME_ENG": "Pong Ngam",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5709,
+        "LAT": 20.325000762939453,
+        "LONG": 99.86900329589844
+    }
+]

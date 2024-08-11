@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650401,
+        "SUB_DISTRICT_NAME_THA": "บางระกำ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rakam",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.738000869750977,
+        "LONG": 100.1449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 650402,
+        "SUB_DISTRICT_NAME_THA": "ปลักแรด",
+        "SUB_DISTRICT_NAME_ENG": "Plak Raet",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.69300079345703,
+        "LONG": 100.09400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 650403,
+        "SUB_DISTRICT_NAME_THA": "พันเสา",
+        "SUB_DISTRICT_NAME_ENG": "Phan Sao",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.621999740600586,
+        "LONG": 100.06400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 650404,
+        "SUB_DISTRICT_NAME_THA": "วังอิทก",
+        "SUB_DISTRICT_NAME_ENG": "Wang I Thok",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.665000915527344,
+        "LONG": 100.16400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 650405,
+        "SUB_DISTRICT_NAME_THA": "บึงกอก",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Kok",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.700000762939453,
+        "LONG": 100.01100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 650406,
+        "SUB_DISTRICT_NAME_THA": "หนองกุลา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kula",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.63599967956543,
+        "LONG": 99.95999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 650407,
+        "SUB_DISTRICT_NAME_THA": "ชุมแสงสงคราม",
+        "SUB_DISTRICT_NAME_ENG": "Chum Saeng Songkhram",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.760000228881836,
+        "LONG": 99.97699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 650408,
+        "SUB_DISTRICT_NAME_THA": "นิคมพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Phatthana",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.740999221801758,
+        "LONG": 99.88500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 650409,
+        "SUB_DISTRICT_NAME_THA": "บ่อทอง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Thong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.631000518798828,
+        "LONG": 100.13400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 650410,
+        "SUB_DISTRICT_NAME_THA": "ท่านางงาม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nang Ngam",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.809999465942383,
+        "LONG": 100.11399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 650411,
+        "SUB_DISTRICT_NAME_THA": "คุยม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Khui Muang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6504,
+        "LAT": 16.81999969482422,
+        "LONG": 99.96199798583984
+    }
+]

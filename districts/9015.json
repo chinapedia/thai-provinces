@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 901501,
+        "SUB_DISTRICT_NAME_THA": "ชิงโค",
+        "SUB_DISTRICT_NAME_ENG": "Ching Kho",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.265999794006348,
+        "LONG": 100.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 901502,
+        "SUB_DISTRICT_NAME_THA": "สทิงหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Sathing Mo",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.210000038146973,
+        "LONG": 100.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 901503,
+        "SUB_DISTRICT_NAME_THA": "ทำนบ",
+        "SUB_DISTRICT_NAME_ENG": "Tham Nop",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.245999813079834,
+        "LONG": 100.50599670410156
+    },
+    {
+        "SUB_DISTRICT_ID": 901504,
+        "SUB_DISTRICT_NAME_THA": "รำแดง",
+        "SUB_DISTRICT_NAME_ENG": "Ram Daeng",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.289999961853027,
+        "LONG": 100.48600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 901505,
+        "SUB_DISTRICT_NAME_THA": "วัดขนุน",
+        "SUB_DISTRICT_NAME_ENG": "Wat Khanun",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.303999900817871,
+        "LONG": 100.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 901506,
+        "SUB_DISTRICT_NAME_THA": "ชะแล้",
+        "SUB_DISTRICT_NAME_ENG": "Chalae",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.308000087738037,
+        "LONG": 100.44100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 901507,
+        "SUB_DISTRICT_NAME_THA": "ปากรอ",
+        "SUB_DISTRICT_NAME_ENG": "Pak Ro",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.2769999504089355,
+        "LONG": 100.44100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 901508,
+        "SUB_DISTRICT_NAME_THA": "ป่าขาด",
+        "SUB_DISTRICT_NAME_ENG": "Pa Khat",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.241000175476074,
+        "LONG": 100.46900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 901509,
+        "SUB_DISTRICT_NAME_THA": "หัวเขา",
+        "SUB_DISTRICT_NAME_ENG": "Hua Khao",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.214000225067139,
+        "LONG": 100.56700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 901510,
+        "SUB_DISTRICT_NAME_THA": "บางเขียด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khiat",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.3460001945495605,
+        "LONG": 100.43699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 901511,
+        "SUB_DISTRICT_NAME_THA": "ม่วงงาม",
+        "SUB_DISTRICT_NAME_ENG": "Muang Ngam",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9015,
+        "LAT": 7.3470001220703125,
+        "LONG": 100.47599792480469
+    }
+]

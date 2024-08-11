@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 130601,
+        "SUB_DISTRICT_NAME_THA": "คูคต",
+        "SUB_DISTRICT_NAME_ENG": "Khu Khot",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 13.954999923706055,
+        "LONG": 100.64099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 130602,
+        "SUB_DISTRICT_NAME_THA": "ลาดสวาย",
+        "SUB_DISTRICT_NAME_ENG": "Lat Sawai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 13.958000183105469,
+        "LONG": 100.68499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 130603,
+        "SUB_DISTRICT_NAME_THA": "บึงคำพร้อย",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Kham Phoi",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 13.961000442504883,
+        "LONG": 100.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 130604,
+        "SUB_DISTRICT_NAME_THA": "ลำลูกกา",
+        "SUB_DISTRICT_NAME_ENG": "Lam Luk Ka",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 13.972000122070312,
+        "LONG": 100.77400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 130605,
+        "SUB_DISTRICT_NAME_THA": "บึงทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Thong Lang",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 13.984000205993652,
+        "LONG": 100.81999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 130606,
+        "SUB_DISTRICT_NAME_THA": "ลำไทร",
+        "SUB_DISTRICT_NAME_ENG": "Lam Sai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 13.972999572753906,
+        "LONG": 100.86100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 130607,
+        "SUB_DISTRICT_NAME_THA": "บึงคอไห",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Kho Hai",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 14.029000282287598,
+        "LONG": 100.86199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 130608,
+        "SUB_DISTRICT_NAME_THA": "พืชอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Phuet Udom",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1306,
+        "LAT": 13.975000381469727,
+        "LONG": 100.89600372314453
+    }
+]

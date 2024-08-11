@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340501,
+        "SUB_DISTRICT_NAME_THA": "เขมราฐ",
+        "SUB_DISTRICT_NAME_ENG": "Khemarat",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 16.048999786376953,
+        "LONG": 105.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 340503,
+        "SUB_DISTRICT_NAME_THA": "ขามป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Kham Pom",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 15.97700023651123,
+        "LONG": 105.17900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 340504,
+        "SUB_DISTRICT_NAME_THA": "เจียด",
+        "SUB_DISTRICT_NAME_ENG": "Chiat",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 15.871999740600586,
+        "LONG": 105.22200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 340507,
+        "SUB_DISTRICT_NAME_THA": "หนองผือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phue",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 15.949999809265137,
+        "LONG": 105.05799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 340508,
+        "SUB_DISTRICT_NAME_THA": "นาแวง",
+        "SUB_DISTRICT_NAME_ENG": "Na Waeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 16.01099967956543,
+        "LONG": 105.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 340510,
+        "SUB_DISTRICT_NAME_THA": "แก้งเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Nuea",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 15.932000160217285,
+        "LONG": 105.12799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 340511,
+        "SUB_DISTRICT_NAME_THA": "หนองนกทา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nok Tha",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 16.018999099731445,
+        "LONG": 105.09600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 340512,
+        "SUB_DISTRICT_NAME_THA": "หนองสิม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sim",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 16.024999618530273,
+        "LONG": 105.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 340513,
+        "SUB_DISTRICT_NAME_THA": "หัวนา",
+        "SUB_DISTRICT_NAME_ENG": "Hua Na",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3405,
+        "LAT": 15.866999626159668,
+        "LONG": 105.15499877929688
+    }
+]

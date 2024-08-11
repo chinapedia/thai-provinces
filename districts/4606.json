@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 460601,
+        "SUB_DISTRICT_NAME_THA": "คุ้มเก่า",
+        "SUB_DISTRICT_NAME_ENG": "Khum Kao",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4606,
+        "LAT": 16.679000854492188,
+        "LONG": 104.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 460602,
+        "SUB_DISTRICT_NAME_THA": "สงเปลือย",
+        "SUB_DISTRICT_NAME_ENG": "Song Plueai",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4606,
+        "LAT": 16.625999450683594,
+        "LONG": 104.11900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 460603,
+        "SUB_DISTRICT_NAME_THA": "หนองผือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phue",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4606,
+        "LAT": 16.750999450683594,
+        "LONG": 104.09400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 460606,
+        "SUB_DISTRICT_NAME_THA": "กุดสิมคุ้มใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Kut Sinkhum Mai",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4606,
+        "LAT": 16.676000595092773,
+        "LONG": 104.04900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 460608,
+        "SUB_DISTRICT_NAME_THA": "สระพังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Sa Phang Thong",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4606,
+        "LAT": 16.7189998626709,
+        "LONG": 104.05500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 460611,
+        "SUB_DISTRICT_NAME_THA": "กุดปลาค้าว",
+        "SUB_DISTRICT_NAME_ENG": "Kut Pla Khao",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4606,
+        "LAT": 16.71500015258789,
+        "LONG": 104.11499786376953
+    }
+]

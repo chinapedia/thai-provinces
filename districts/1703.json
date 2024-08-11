@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 170301,
+        "SUB_DISTRICT_NAME_THA": "โพทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Pho Thale",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1703,
+        "LAT": 14.829000473022461,
+        "LONG": 100.25700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 170302,
+        "SUB_DISTRICT_NAME_THA": "บางระจัน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rachan",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1703,
+        "LAT": 14.798999786376953,
+        "LONG": 100.2959976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 170303,
+        "SUB_DISTRICT_NAME_THA": "โพสังโฆ",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sangkho",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1703,
+        "LAT": 14.833000183105469,
+        "LONG": 100.3489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 170304,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1703,
+        "LAT": 14.82699966430664,
+        "LONG": 100.36799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 170305,
+        "SUB_DISTRICT_NAME_THA": "คอทราย",
+        "SUB_DISTRICT_NAME_ENG": "Kho Sai",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1703,
+        "LAT": 14.817000389099121,
+        "LONG": 100.28099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 170306,
+        "SUB_DISTRICT_NAME_THA": "หนองกระทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krathum",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1703,
+        "LAT": 14.819999694824219,
+        "LONG": 100.2249984741211
+    }
+]

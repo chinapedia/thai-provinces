@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340801,
+        "SUB_DISTRICT_NAME_THA": "นาจะหลวย",
+        "SUB_DISTRICT_NAME_ENG": "Na Chaluai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3408,
+        "LAT": 14.487000465393066,
+        "LONG": 105.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 340802,
+        "SUB_DISTRICT_NAME_THA": "โนนสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Non Sombun",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3408,
+        "LAT": 14.687999725341797,
+        "LONG": 105.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 340803,
+        "SUB_DISTRICT_NAME_THA": "พรสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sawan",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3408,
+        "LAT": 14.626999855041504,
+        "LONG": 105.18000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 340804,
+        "SUB_DISTRICT_NAME_THA": "บ้านตูม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tum",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3408,
+        "LAT": 14.607999801635742,
+        "LONG": 105.24099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 340805,
+        "SUB_DISTRICT_NAME_THA": "โสกแสง",
+        "SUB_DISTRICT_NAME_ENG": "Sok Saeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3408,
+        "LAT": 14.66100025177002,
+        "LONG": 105.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 340806,
+        "SUB_DISTRICT_NAME_THA": "โนนสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Non Sawan",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3408,
+        "LAT": 14.659000396728516,
+        "LONG": 105.14099884033203
+    }
+]

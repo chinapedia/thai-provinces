@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 430201,
+        "SUB_DISTRICT_NAME_THA": "ท่าบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Bo",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.82699966430664,
+        "LONG": 102.56800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 430202,
+        "SUB_DISTRICT_NAME_THA": "น้ำโมง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Mong",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.84000015258789,
+        "LONG": 102.52400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 430203,
+        "SUB_DISTRICT_NAME_THA": "กองนาง",
+        "SUB_DISTRICT_NAME_ENG": "Kong Nang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.888999938964844,
+        "LONG": 102.59200286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 430204,
+        "SUB_DISTRICT_NAME_THA": "โคกคอน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khon",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.7810001373291,
+        "LONG": 102.49600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 430205,
+        "SUB_DISTRICT_NAME_THA": "บ้านเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Duea",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.774999618530273,
+        "LONG": 102.5790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 430206,
+        "SUB_DISTRICT_NAME_THA": "บ้านถ่อน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thon",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.775999069213867,
+        "LONG": 102.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 430207,
+        "SUB_DISTRICT_NAME_THA": "บ้านว่าน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Wan",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.743000030517578,
+        "LONG": 102.55799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 430208,
+        "SUB_DISTRICT_NAME_THA": "นาข่า",
+        "SUB_DISTRICT_NAME_ENG": "Nakha",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.784000396728516,
+        "LONG": 102.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 430209,
+        "SUB_DISTRICT_NAME_THA": "โพนสา",
+        "SUB_DISTRICT_NAME_ENG": "Phon Sa",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.819000244140625,
+        "LONG": 102.61000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 430210,
+        "SUB_DISTRICT_NAME_THA": "หนองนาง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4302,
+        "LAT": 17.71299934387207,
+        "LONG": 102.62100219726562
+    }
+]

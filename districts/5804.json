@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 580401,
+        "SUB_DISTRICT_NAME_THA": "บ้านกาศ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kat",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5804,
+        "LAT": 18.259000778198242,
+        "LONG": 97.87999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 580402,
+        "SUB_DISTRICT_NAME_THA": "แม่สะเรียง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Sariang",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5804,
+        "LAT": 18.148000717163086,
+        "LONG": 97.97200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 580403,
+        "SUB_DISTRICT_NAME_THA": "แม่คง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Khong",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5804,
+        "LAT": 18.23699951171875,
+        "LONG": 97.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 580404,
+        "SUB_DISTRICT_NAME_THA": "แม่เหาะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ho",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5804,
+        "LAT": 18.1200008392334,
+        "LONG": 98.0739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 580405,
+        "SUB_DISTRICT_NAME_THA": "แม่ยวม",
+        "SUB_DISTRICT_NAME_ENG": "Mae Yuam",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5804,
+        "LAT": 18.062999725341797,
+        "LONG": 97.80799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 580406,
+        "SUB_DISTRICT_NAME_THA": "เสาหิน",
+        "SUB_DISTRICT_NAME_ENG": "Sao Hin",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5804,
+        "LAT": 18.43199920654297,
+        "LONG": 97.71900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 580408,
+        "SUB_DISTRICT_NAME_THA": "ป่าแป๋",
+        "SUB_DISTRICT_NAME_ENG": "Pa Pae",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5804,
+        "LAT": 18.26799964904785,
+        "LONG": 98.0719985961914
+    }
+]

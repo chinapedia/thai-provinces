@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321301,
+        "SUB_DISTRICT_NAME_THA": "บัวเชด",
+        "SUB_DISTRICT_NAME_ENG": "Bua Chet",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3213,
+        "LAT": 14.527000427246094,
+        "LONG": 103.94200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 321302,
+        "SUB_DISTRICT_NAME_THA": "สะเดา",
+        "SUB_DISTRICT_NAME_ENG": "Sadao",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3213,
+        "LAT": 14.531999588012695,
+        "LONG": 104.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 321303,
+        "SUB_DISTRICT_NAME_THA": "จรัส",
+        "SUB_DISTRICT_NAME_ENG": "Charat",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3213,
+        "LAT": 14.413000106811523,
+        "LONG": 103.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 321304,
+        "SUB_DISTRICT_NAME_THA": "ตาวัง",
+        "SUB_DISTRICT_NAME_ENG": "Ta Wang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3213,
+        "LAT": 14.609000205993652,
+        "LONG": 104.01599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 321305,
+        "SUB_DISTRICT_NAME_THA": "อาโพน",
+        "SUB_DISTRICT_NAME_ENG": "A Phon",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3213,
+        "LAT": 14.479000091552734,
+        "LONG": 103.9209976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 321306,
+        "SUB_DISTRICT_NAME_THA": "สำเภาลูน",
+        "SUB_DISTRICT_NAME_ENG": "Samphao Lun",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3213,
+        "LAT": 14.569999694824219,
+        "LONG": 103.9530029296875
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770801,
+        "SUB_DISTRICT_NAME_THA": "สามร้อยยอด",
+        "SUB_DISTRICT_NAME_ENG": "Sam Roi Yot",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7708,
+        "LAT": 12.265999794006348,
+        "LONG": 99.94599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 770802,
+        "SUB_DISTRICT_NAME_THA": "ศิลาลอย",
+        "SUB_DISTRICT_NAME_ENG": "Sila Loi",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7708,
+        "LAT": 12.309000015258789,
+        "LONG": 99.55999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 770803,
+        "SUB_DISTRICT_NAME_THA": "ไร่เก่า",
+        "SUB_DISTRICT_NAME_ENG": "Rai Kao",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7708,
+        "LAT": 12.251999855041504,
+        "LONG": 99.70600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 770804,
+        "SUB_DISTRICT_NAME_THA": "ศาลาลัย",
+        "SUB_DISTRICT_NAME_ENG": "Sala Lai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7708,
+        "LAT": 12.270999908447266,
+        "LONG": 99.59300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 770805,
+        "SUB_DISTRICT_NAME_THA": "ไร่ใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Rai Mai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7708,
+        "LAT": 12.21399974822998,
+        "LONG": 99.74600219726562
+    }
+]

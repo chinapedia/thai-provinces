@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 450401,
+        "SUB_DISTRICT_NAME_THA": "หัวช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Chang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.845000267028809,
+        "LONG": 103.56900024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 450402,
+        "SUB_DISTRICT_NAME_THA": "หนองผือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phue",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.836000442504883,
+        "LONG": 103.51399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 450403,
+        "SUB_DISTRICT_NAME_THA": "เมืองหงส์",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Hong",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.87399959564209,
+        "LONG": 103.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 450404,
+        "SUB_DISTRICT_NAME_THA": "โคกล่าม",
+        "SUB_DISTRICT_NAME_ENG": "Khok Lam",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.907999992370605,
+        "LONG": 103.53500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 450405,
+        "SUB_DISTRICT_NAME_THA": "น้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Nam Sai",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.901000022888184,
+        "LONG": 103.5989990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 450406,
+        "SUB_DISTRICT_NAME_THA": "ดงแดง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Daeng",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.854000091552734,
+        "LONG": 103.66899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 450407,
+        "SUB_DISTRICT_NAME_THA": "ดงกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Dong Klang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.803000450134277,
+        "LONG": 103.60399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 450408,
+        "SUB_DISTRICT_NAME_THA": "ป่าสังข์",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sang",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.805000305175781,
+        "LONG": 103.66500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 450409,
+        "SUB_DISTRICT_NAME_THA": "อีง่อง",
+        "SUB_DISTRICT_NAME_ENG": "I Ngong",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.776000022888184,
+        "LONG": 103.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 450410,
+        "SUB_DISTRICT_NAME_THA": "ลิ้นฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Lin Fa",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.755999565124512,
+        "LONG": 103.43399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 450411,
+        "SUB_DISTRICT_NAME_THA": "ดู่น้อย",
+        "SUB_DISTRICT_NAME_ENG": "Du Noi",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.784000396728516,
+        "LONG": 103.46700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 450412,
+        "SUB_DISTRICT_NAME_THA": "ศรีโคตร",
+        "SUB_DISTRICT_NAME_ENG": "Si Khot",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4504,
+        "LAT": 15.77299976348877,
+        "LONG": 103.56600189208984
+    }
+]

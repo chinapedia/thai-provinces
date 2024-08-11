@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 340201,
+        "SUB_DISTRICT_NAME_THA": "นาคำ",
+        "SUB_DISTRICT_NAME_ENG": "Na Kham",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.506999969482422,
+        "LONG": 105.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 340202,
+        "SUB_DISTRICT_NAME_THA": "แก้งกอก",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Kok",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.477999687194824,
+        "LONG": 105.23699951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 340203,
+        "SUB_DISTRICT_NAME_THA": "เอือดใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Ueat Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.520000457763672,
+        "LONG": 105.21900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 340204,
+        "SUB_DISTRICT_NAME_THA": "วาริน",
+        "SUB_DISTRICT_NAME_ENG": "Warin",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.414999961853027,
+        "LONG": 105.26000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 340205,
+        "SUB_DISTRICT_NAME_THA": "ลาดควาย",
+        "SUB_DISTRICT_NAME_ENG": "Lat Khwai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.564000129699707,
+        "LONG": 105.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 340206,
+        "SUB_DISTRICT_NAME_THA": "สงยาง",
+        "SUB_DISTRICT_NAME_ENG": "Song Yang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.623000144958496,
+        "LONG": 105.28600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 340207,
+        "SUB_DISTRICT_NAME_THA": "ตะบ่าย",
+        "SUB_DISTRICT_NAME_ENG": "Tabai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.5600004196167,
+        "LONG": 105.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 340208,
+        "SUB_DISTRICT_NAME_THA": "คำไหล",
+        "SUB_DISTRICT_NAME_ENG": "Kham Lai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.409000396728516,
+        "LONG": 105.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 340209,
+        "SUB_DISTRICT_NAME_THA": "หนามแท่ง",
+        "SUB_DISTRICT_NAME_ENG": "Nam Thaeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.694999694824219,
+        "LONG": 105.56500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 340210,
+        "SUB_DISTRICT_NAME_THA": "นาเลิน",
+        "SUB_DISTRICT_NAME_ENG": "Na Loen",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.607000350952148,
+        "LONG": 105.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 340211,
+        "SUB_DISTRICT_NAME_THA": "ดอนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Don Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3402,
+        "LAT": 15.446999549865723,
+        "LONG": 105.31600189208984
+    }
+]

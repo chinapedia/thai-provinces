@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530501,
+        "SUB_DISTRICT_NAME_THA": "ฟากท่า",
+        "SUB_DISTRICT_NAME_ENG": "Fak Tha",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5305,
+        "LAT": 18.06800079345703,
+        "LONG": 100.93699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 530502,
+        "SUB_DISTRICT_NAME_THA": "สองคอน",
+        "SUB_DISTRICT_NAME_ENG": "Song Khon",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5305,
+        "LAT": 17.954999923706055,
+        "LONG": 100.90599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 530503,
+        "SUB_DISTRICT_NAME_THA": "บ้านเสี้ยว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Siao",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5305,
+        "LAT": 17.913999557495117,
+        "LONG": 100.8479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 530504,
+        "SUB_DISTRICT_NAME_THA": "สองห้อง",
+        "SUB_DISTRICT_NAME_ENG": "Song Hong",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5305,
+        "LAT": 17.93000030517578,
+        "LONG": 100.75700378417969
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 730501,
+        "SUB_DISTRICT_NAME_THA": "บางเลน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Len",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.013999938964844,
+        "LONG": 100.1510009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 730502,
+        "SUB_DISTRICT_NAME_THA": "บางปลา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pla",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 13.970000267028809,
+        "LONG": 100.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 730503,
+        "SUB_DISTRICT_NAME_THA": "บางหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Luang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.107999801635742,
+        "LONG": 100.09300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 730504,
+        "SUB_DISTRICT_NAME_THA": "บางภาษี",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phasi",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.038000106811523,
+        "LONG": 100.24299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 730505,
+        "SUB_DISTRICT_NAME_THA": "บางระกำ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rakam",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 13.913999557495117,
+        "LONG": 100.25399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 730506,
+        "SUB_DISTRICT_NAME_THA": "บางไทรป่า",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai Pa",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.04699993133545,
+        "LONG": 100.1500015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 730507,
+        "SUB_DISTRICT_NAME_THA": "หินมูล",
+        "SUB_DISTRICT_NAME_ENG": "Hin Mun",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.104000091552734,
+        "LONG": 100.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 730508,
+        "SUB_DISTRICT_NAME_THA": "ไทรงาม",
+        "SUB_DISTRICT_NAME_ENG": "Sai Ngam",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.093000411987305,
+        "LONG": 100.177001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 730509,
+        "SUB_DISTRICT_NAME_THA": "ดอนตูม",
+        "SUB_DISTRICT_NAME_ENG": "Don Tum",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 13.99899959564209,
+        "LONG": 100.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 730510,
+        "SUB_DISTRICT_NAME_THA": "นิลเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Nin Phet",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.121000289916992,
+        "LONG": 100.23500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 730511,
+        "SUB_DISTRICT_NAME_THA": "บัวปากท่า",
+        "SUB_DISTRICT_NAME_ENG": "Bua Pak Tha",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.159000396728516,
+        "LONG": 100.22799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 730512,
+        "SUB_DISTRICT_NAME_THA": "คลองนกกระทุง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Nok Krathung",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 13.991000175476074,
+        "LONG": 100.22200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 730513,
+        "SUB_DISTRICT_NAME_THA": "นราภิรมย์",
+        "SUB_DISTRICT_NAME_ENG": "Nara Phirom",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 13.95300006866455,
+        "LONG": 100.26200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 730514,
+        "SUB_DISTRICT_NAME_THA": "ลำพญา",
+        "SUB_DISTRICT_NAME_ENG": "Lam Phaya",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 13.954000473022461,
+        "LONG": 100.1989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 730515,
+        "SUB_DISTRICT_NAME_THA": "ไผ่หูช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Phai Hu Chang",
+        "PROVINCE_ID": 73,
+        "DISTRICT_ID": 7305,
+        "LAT": 14.064000129699707,
+        "LONG": 100.11599731445312
+    }
+]

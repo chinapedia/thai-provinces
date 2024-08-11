@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 431401,
+        "SUB_DISTRICT_NAME_THA": "สระใคร",
+        "SUB_DISTRICT_NAME_ENG": "Sa Khrai",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4314,
+        "LAT": 17.702999114990234,
+        "LONG": 102.75
+    },
+    {
+        "SUB_DISTRICT_ID": 431402,
+        "SUB_DISTRICT_NAME_THA": "คอกช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Chang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4314,
+        "LAT": 17.63800048828125,
+        "LONG": 102.73600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 431403,
+        "SUB_DISTRICT_NAME_THA": "บ้านฝาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Fang",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4314,
+        "LAT": 17.650999069213867,
+        "LONG": 102.66500091552734
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 610601,
+        "SUB_DISTRICT_NAME_THA": "บ้านไร่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rai",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.050000190734863,
+        "LONG": 99.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 610602,
+        "SUB_DISTRICT_NAME_THA": "ทัพหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Luang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.053999900817871,
+        "LONG": 99.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 610603,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแห้ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Haeng",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.175000190734863,
+        "LONG": 99.55599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 610604,
+        "SUB_DISTRICT_NAME_THA": "คอกควาย",
+        "SUB_DISTRICT_NAME_ENG": "Khok Khwai",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.22599983215332,
+        "LONG": 99.41200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 610605,
+        "SUB_DISTRICT_NAME_THA": "วังหิน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Hin",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.270000457763672,
+        "LONG": 99.69999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 610606,
+        "SUB_DISTRICT_NAME_THA": "เมืองการุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Karung",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.177000045776367,
+        "LONG": 99.7239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 610607,
+        "SUB_DISTRICT_NAME_THA": "แก่นมะกรูด",
+        "SUB_DISTRICT_NAME_ENG": "Kaen Makrut",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.291999816894531,
+        "LONG": 99.16799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 610609,
+        "SUB_DISTRICT_NAME_THA": "หนองจอก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chok",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.04699993133545,
+        "LONG": 99.68499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 610610,
+        "SUB_DISTRICT_NAME_THA": "หูช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Hu Chang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.142000198364258,
+        "LONG": 99.68099975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 610611,
+        "SUB_DISTRICT_NAME_THA": "บ้านบึง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Bueng",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.027999877929688,
+        "LONG": 99.5530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 610612,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่คลองเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai Khlong Khian",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.23799991607666,
+        "LONG": 99.67400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 610613,
+        "SUB_DISTRICT_NAME_THA": "หนองบ่มกล้วย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bom Kluai",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.020999908447266,
+        "LONG": 99.7300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 610614,
+        "SUB_DISTRICT_NAME_THA": "เจ้าวัด",
+        "SUB_DISTRICT_NAME_ENG": "Chao Wat",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6106,
+        "LAT": 15.131999969482422,
+        "LONG": 99.43099975585938
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571601,
+        "SUB_DISTRICT_NAME_THA": "ดงมะดะ",
+        "SUB_DISTRICT_NAME_ENG": "Dong Mada",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5716,
+        "LAT": 19.733999252319336,
+        "LONG": 99.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 571602,
+        "SUB_DISTRICT_NAME_THA": "จอมหมอกแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Chom Mok Kaeo",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5716,
+        "LAT": 19.756999969482422,
+        "LONG": 99.74700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 571603,
+        "SUB_DISTRICT_NAME_THA": "บัวสลี",
+        "SUB_DISTRICT_NAME_ENG": "Bua Sali",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5716,
+        "LAT": 19.804000854492188,
+        "LONG": 99.76799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 571604,
+        "SUB_DISTRICT_NAME_THA": "ป่าก่อดำ",
+        "SUB_DISTRICT_NAME_ENG": "Pa Ko Dam",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5716,
+        "LAT": 19.79400062561035,
+        "LONG": 99.71499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 571605,
+        "SUB_DISTRICT_NAME_THA": "โป่งแพร่",
+        "SUB_DISTRICT_NAME_ENG": "Pong Phrae",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5716,
+        "LAT": 19.812000274658203,
+        "LONG": 99.65299987792969
+    }
+]

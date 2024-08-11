@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 170401,
+        "SUB_DISTRICT_NAME_THA": "พระงาม",
+        "SUB_DISTRICT_NAME_ENG": "Phra Ngam",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1704,
+        "LAT": 14.748000144958496,
+        "LONG": 100.4219970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 170402,
+        "SUB_DISTRICT_NAME_THA": "พรหมบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Phrom Buri",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1704,
+        "LAT": 14.836999893188477,
+        "LONG": 100.45099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 170403,
+        "SUB_DISTRICT_NAME_THA": "บางน้ำเชี่ยว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nam Chiao",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1704,
+        "LAT": 14.782999992370605,
+        "LONG": 100.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 170404,
+        "SUB_DISTRICT_NAME_THA": "บ้านหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mo",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1704,
+        "LAT": 14.746000289916992,
+        "LONG": 100.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 170405,
+        "SUB_DISTRICT_NAME_THA": "บ้านแป้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Paeng",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1704,
+        "LAT": 14.810999870300293,
+        "LONG": 100.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 170406,
+        "SUB_DISTRICT_NAME_THA": "หัวป่า",
+        "SUB_DISTRICT_NAME_ENG": "Hua Pa",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1704,
+        "LAT": 14.831000328063965,
+        "LONG": 100.42500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 170407,
+        "SUB_DISTRICT_NAME_THA": "โรงช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Rong Chang",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1704,
+        "LAT": 14.800999641418457,
+        "LONG": 100.42500305175781
+    }
+]

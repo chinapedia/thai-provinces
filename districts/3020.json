@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302001,
+        "SUB_DISTRICT_NAME_THA": "สีคิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sikhio",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.904999732971191,
+        "LONG": 101.68699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 302002,
+        "SUB_DISTRICT_NAME_THA": "บ้านหัน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Han",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.984999656677246,
+        "LONG": 101.75
+    },
+    {
+        "SUB_DISTRICT_ID": 302003,
+        "SUB_DISTRICT_NAME_THA": "กฤษณา",
+        "SUB_DISTRICT_NAME_ENG": "Kritsana",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 15.045999526977539,
+        "LONG": 101.55599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 302004,
+        "SUB_DISTRICT_NAME_THA": "ลาดบัวขาว",
+        "SUB_DISTRICT_NAME_ENG": "Lat Bua Khao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.822999954223633,
+        "LONG": 101.62899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 302005,
+        "SUB_DISTRICT_NAME_THA": "หนองหญ้าขาว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ya Khao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.958999633789062,
+        "LONG": 101.5739974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 302006,
+        "SUB_DISTRICT_NAME_THA": "กุดน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Kut Noi",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.930999755859375,
+        "LONG": 101.75299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 302007,
+        "SUB_DISTRICT_NAME_THA": "หนองน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Nong Nam Sai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.932000160217285,
+        "LONG": 101.48500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 302008,
+        "SUB_DISTRICT_NAME_THA": "วังโรงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Rong Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 15.045000076293945,
+        "LONG": 101.65899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 302009,
+        "SUB_DISTRICT_NAME_THA": "มิตรภาพ",
+        "SUB_DISTRICT_NAME_ENG": "Mittraphap",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.79699993133545,
+        "LONG": 101.68499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 302010,
+        "SUB_DISTRICT_NAME_THA": "คลองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 14.883000373840332,
+        "LONG": 101.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 302011,
+        "SUB_DISTRICT_NAME_THA": "ดอนเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Don Mueang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 15.020000457763672,
+        "LONG": 101.45600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 302012,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Noi",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3020,
+        "LAT": 15.04699993133545,
+        "LONG": 101.76000213623047
+    }
+]

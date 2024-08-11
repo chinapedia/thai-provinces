@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200901,
+        "SUB_DISTRICT_NAME_THA": "สัตหีบ",
+        "SUB_DISTRICT_NAME_ENG": "Sattahip",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2009,
+        "LAT": 12.696000099182129,
+        "LONG": 100.78500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 200902,
+        "SUB_DISTRICT_NAME_THA": "นาจอมเทียน",
+        "SUB_DISTRICT_NAME_ENG": "Na Chom Thian",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2009,
+        "LAT": 12.774999618530273,
+        "LONG": 100.94000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 200903,
+        "SUB_DISTRICT_NAME_THA": "พลูตาหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Phlu Ta Luang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2009,
+        "LAT": 12.701000213623047,
+        "LONG": 100.96700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 200904,
+        "SUB_DISTRICT_NAME_THA": "บางเสร่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sare",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2009,
+        "LAT": 12.744000434875488,
+        "LONG": 100.90799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 200905,
+        "SUB_DISTRICT_NAME_THA": "แสมสาร",
+        "SUB_DISTRICT_NAME_ENG": "Samae San",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2009,
+        "LAT": 12.623000144958496,
+        "LONG": 100.9540023803711
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 321101,
+        "SUB_DISTRICT_NAME_THA": "ลำดวน",
+        "SUB_DISTRICT_NAME_ENG": "Lamduan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3211,
+        "LAT": 14.70199966430664,
+        "LONG": 103.64199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 321102,
+        "SUB_DISTRICT_NAME_THA": "โชคเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Chok Nuea",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3211,
+        "LAT": 14.73799991607666,
+        "LONG": 103.72100067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 321103,
+        "SUB_DISTRICT_NAME_THA": "อู่โลก",
+        "SUB_DISTRICT_NAME_ENG": "U Lok",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3211,
+        "LAT": 14.684000015258789,
+        "LONG": 103.69100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 321104,
+        "SUB_DISTRICT_NAME_THA": "ตรำดม",
+        "SUB_DISTRICT_NAME_ENG": "Tramdom",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3211,
+        "LAT": 14.762999534606934,
+        "LONG": 103.68000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 321105,
+        "SUB_DISTRICT_NAME_THA": "ตระเปียงเตีย",
+        "SUB_DISTRICT_NAME_ENG": "Trapiang Tia",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3211,
+        "LAT": 14.75100040435791,
+        "LONG": 103.7699966430664
+    }
+]

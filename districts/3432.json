@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 343201,
+        "SUB_DISTRICT_NAME_THA": "แก่งโดม",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Dom",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3432,
+        "LAT": 15.204000473022461,
+        "LONG": 105.08699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 343202,
+        "SUB_DISTRICT_NAME_THA": "ท่าช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Chang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3432,
+        "LAT": 15.229000091552734,
+        "LONG": 104.98999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 343203,
+        "SUB_DISTRICT_NAME_THA": "บุ่งมะแลง",
+        "SUB_DISTRICT_NAME_ENG": "Bung Malaeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3432,
+        "LAT": 15.23799991607666,
+        "LONG": 105.04499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 343204,
+        "SUB_DISTRICT_NAME_THA": "สว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Sawang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3432,
+        "LAT": 15.27400016784668,
+        "LONG": 105.11799621582031
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760101,
+        "SUB_DISTRICT_NAME_THA": "ท่าราบ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Rap",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.097000122070312,
+        "LONG": 99.9489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 760102,
+        "SUB_DISTRICT_NAME_THA": "คลองกระแซง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Krachaeng",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.112000465393066,
+        "LONG": 99.94300079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 760103,
+        "SUB_DISTRICT_NAME_THA": "บางจาน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chan",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.130000114440918,
+        "LONG": 100.01499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 760104,
+        "SUB_DISTRICT_NAME_THA": "นาพันสาม",
+        "SUB_DISTRICT_NAME_ENG": "Na Phan Sam",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.053999900817871,
+        "LONG": 100.02999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 760105,
+        "SUB_DISTRICT_NAME_THA": "ธงชัย",
+        "SUB_DISTRICT_NAME_ENG": "Thong Chai",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.151000022888184,
+        "LONG": 99.91799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 760106,
+        "SUB_DISTRICT_NAME_THA": "บ้านกุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kum",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.156000137329102,
+        "LONG": 99.94100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 760107,
+        "SUB_DISTRICT_NAME_THA": "หนองโสน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sano",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.133999824523926,
+        "LONG": 99.9729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 760108,
+        "SUB_DISTRICT_NAME_THA": "ไร่ส้ม",
+        "SUB_DISTRICT_NAME_ENG": "Rai Som",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.112000465393066,
+        "LONG": 99.91600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 760109,
+        "SUB_DISTRICT_NAME_THA": "เวียงคอย",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Khoi",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.121000289916992,
+        "LONG": 99.9000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 760110,
+        "SUB_DISTRICT_NAME_THA": "บางจาก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chak",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.157999992370605,
+        "LONG": 99.89099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 760111,
+        "SUB_DISTRICT_NAME_THA": "บ้านหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mo",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.092000007629395,
+        "LONG": 99.93199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 760112,
+        "SUB_DISTRICT_NAME_THA": "ต้นมะม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Ton Mamuang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.079000473022461,
+        "LONG": 99.95800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 760113,
+        "SUB_DISTRICT_NAME_THA": "ช่องสะแก",
+        "SUB_DISTRICT_NAME_ENG": "Chong Sakae",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.104999542236328,
+        "LONG": 99.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 760114,
+        "SUB_DISTRICT_NAME_THA": "นาวุ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Na Wung",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.088000297546387,
+        "LONG": 99.97699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 760115,
+        "SUB_DISTRICT_NAME_THA": "สำมะโรง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Marong",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.069999694824219,
+        "LONG": 99.99199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 760116,
+        "SUB_DISTRICT_NAME_THA": "โพพระ",
+        "SUB_DISTRICT_NAME_ENG": "Pho Phra",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.081999778747559,
+        "LONG": 100.03900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 760117,
+        "SUB_DISTRICT_NAME_THA": "หาดเจ้าสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Hat Chao Samran",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.006999969482422,
+        "LONG": 100.04399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 760118,
+        "SUB_DISTRICT_NAME_THA": "หัวสะพาน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Saphan",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.116999626159668,
+        "LONG": 99.86599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 760119,
+        "SUB_DISTRICT_NAME_THA": "ต้นมะพร้าว",
+        "SUB_DISTRICT_NAME_ENG": "Ton Maphrao",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.145999908447266,
+        "LONG": 99.86000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 760120,
+        "SUB_DISTRICT_NAME_THA": "วังตะโก",
+        "SUB_DISTRICT_NAME_ENG": "Wang Tako",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.133999824523926,
+        "LONG": 99.89299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 760121,
+        "SUB_DISTRICT_NAME_THA": "โพไร่หวาน",
+        "SUB_DISTRICT_NAME_ENG": "Pho Rai Wan",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.053000450134277,
+        "LONG": 99.9739990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 760122,
+        "SUB_DISTRICT_NAME_THA": "ดอนยาง",
+        "SUB_DISTRICT_NAME_ENG": "Don Yang",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.015000343322754,
+        "LONG": 99.97599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 760123,
+        "SUB_DISTRICT_NAME_THA": "หนองขนาน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khanan",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 12.994999885559082,
+        "LONG": 100.01300048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 760124,
+        "SUB_DISTRICT_NAME_THA": "หนองพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phlap",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7601,
+        "LAT": 13.04800033569336,
+        "LONG": 100.0
+    }
+]

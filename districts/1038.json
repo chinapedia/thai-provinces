@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 103801,
+        "SUB_DISTRICT_NAME_THA": "ลาดพร้าว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1038,
+        "LAT": 13.810999870300293,
+        "LONG": 100.61199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 103802,
+        "SUB_DISTRICT_NAME_THA": "จรเข้บัว",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1038,
+        "LAT": 13.84000015258789,
+        "LONG": 100.5999984741211
+    }
+]

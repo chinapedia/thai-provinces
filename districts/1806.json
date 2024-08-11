@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 180601,
+        "SUB_DISTRICT_NAME_THA": "หันคา",
+        "SUB_DISTRICT_NAME_ENG": "Han Kha",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 15.015999794006348,
+        "LONG": 99.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 180602,
+        "SUB_DISTRICT_NAME_THA": "บ้านเชี่ยน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Chian",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 14.942000389099121,
+        "LONG": 99.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 180605,
+        "SUB_DISTRICT_NAME_THA": "ไพรนกยูง",
+        "SUB_DISTRICT_NAME_ENG": "Phrai Nok Yung",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 15.081000328063965,
+        "LONG": 99.85600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 180606,
+        "SUB_DISTRICT_NAME_THA": "หนองแซง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Saeng",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 15.107000350952148,
+        "LONG": 99.9729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 180607,
+        "SUB_DISTRICT_NAME_THA": "ห้วยงู",
+        "SUB_DISTRICT_NAME_ENG": "Huai Ngu",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 15.071999549865723,
+        "LONG": 100.06700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 180608,
+        "SUB_DISTRICT_NAME_THA": "วังไก่เถื่อน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Kai Thuean",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 15.003999710083008,
+        "LONG": 100.05599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 180609,
+        "SUB_DISTRICT_NAME_THA": "เด่นใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Den Yai",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 15.017000198364258,
+        "LONG": 99.93000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 180611,
+        "SUB_DISTRICT_NAME_THA": "สามง่ามท่าโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ngam Tha Bot",
+        "PROVINCE_ID": 18,
+        "DISTRICT_ID": 1806,
+        "LAT": 15.0649995803833,
+        "LONG": 100.0260009765625
+    }
+]

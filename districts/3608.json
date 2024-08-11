@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 360801,
+        "SUB_DISTRICT_NAME_THA": "หนองบัวระเหว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua Rawe",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3608,
+        "LAT": 15.756999969482422,
+        "LONG": 101.78600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 360802,
+        "SUB_DISTRICT_NAME_THA": "วังตะเฆ่",
+        "SUB_DISTRICT_NAME_ENG": "Wang Takhe",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3608,
+        "LAT": 15.829999923706055,
+        "LONG": 101.58300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 360803,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแย้",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yae",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3608,
+        "LAT": 15.920999526977539,
+        "LONG": 101.63999938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 360804,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3608,
+        "LAT": 15.777999877929688,
+        "LONG": 101.6989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 360805,
+        "SUB_DISTRICT_NAME_THA": "โสกปลาดุก",
+        "SUB_DISTRICT_NAME_ENG": "Sok Pla Duk",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3608,
+        "LAT": 15.718000411987305,
+        "LONG": 101.69499969482422
+    }
+]

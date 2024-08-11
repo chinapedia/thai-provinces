@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 160701,
+        "SUB_DISTRICT_NAME_THA": "ท่าหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Luang",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1607,
+        "LAT": 15.071000099182129,
+        "LONG": 101.11699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 160702,
+        "SUB_DISTRICT_NAME_THA": "แก่งผักกูด",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Phak Kut",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1607,
+        "LAT": 15.013999938964844,
+        "LONG": 101.08499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 160703,
+        "SUB_DISTRICT_NAME_THA": "ซับจำปา",
+        "SUB_DISTRICT_NAME_ENG": "Sap Champa",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1607,
+        "LAT": 15.026000022888184,
+        "LONG": 101.22799682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 160704,
+        "SUB_DISTRICT_NAME_THA": "หนองผักแว่น",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phak Waen",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1607,
+        "LAT": 15.119000434875488,
+        "LONG": 101.21600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 160705,
+        "SUB_DISTRICT_NAME_THA": "ทะเลวังวัด",
+        "SUB_DISTRICT_NAME_ENG": "Thale Wang Wat",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1607,
+        "LAT": 15.02299976348877,
+        "LONG": 101.18399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 160706,
+        "SUB_DISTRICT_NAME_THA": "หัวลำ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Lam",
+        "PROVINCE_ID": 16,
+        "DISTRICT_ID": 1607,
+        "LAT": 15.029000282287598,
+        "LONG": 101.29199981689453
+    }
+]

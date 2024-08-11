@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 671101,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งสมอ",
+        "SUB_DISTRICT_NAME_ENG": "Thung Samo",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6711,
+        "LAT": 16.716999053955078,
+        "LONG": 100.96199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 671102,
+        "SUB_DISTRICT_NAME_THA": "แคมป์สน",
+        "SUB_DISTRICT_NAME_ENG": "Khaem Son",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6711,
+        "LAT": 16.780000686645508,
+        "LONG": 101.05500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 671103,
+        "SUB_DISTRICT_NAME_THA": "เขาค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Khao Kho",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6711,
+        "LAT": 16.631000518798828,
+        "LONG": 100.9990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 671104,
+        "SUB_DISTRICT_NAME_THA": "ริมสีม่วง",
+        "SUB_DISTRICT_NAME_ENG": "Rim Si Muang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6711,
+        "LAT": 16.520000457763672,
+        "LONG": 101.04199981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 671105,
+        "SUB_DISTRICT_NAME_THA": "สะเดาะพง",
+        "SUB_DISTRICT_NAME_ENG": "Sadao Phong",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6711,
+        "LAT": 16.545000076293945,
+        "LONG": 100.96800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 671106,
+        "SUB_DISTRICT_NAME_THA": "หนองแม่นา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mae Na",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6711,
+        "LAT": 16.577999114990234,
+        "LONG": 100.89800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 671107,
+        "SUB_DISTRICT_NAME_THA": "เข็กน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Khek Noi",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6711,
+        "LAT": 16.832000732421875,
+        "LONG": 101.01499938964844
+    }
+]

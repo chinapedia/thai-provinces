@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 380501,
+        "SUB_DISTRICT_NAME_THA": "ปากคาด",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3805,
+        "LAT": 18.343000411987305,
+        "LONG": 103.31600189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 380502,
+        "SUB_DISTRICT_NAME_THA": "หนองยอง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3805,
+        "LAT": 18.20800018310547,
+        "LONG": 103.35099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 380503,
+        "SUB_DISTRICT_NAME_THA": "นากั้ง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3805,
+        "LAT": 18.381999969482422,
+        "LONG": 103.28500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 380504,
+        "SUB_DISTRICT_NAME_THA": "โนนศิลา",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3805,
+        "LAT": 18.29199981689453,
+        "LONG": 103.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 380505,
+        "SUB_DISTRICT_NAME_THA": "สมสนุก",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3805,
+        "LAT": 18.222000122070312,
+        "LONG": 103.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 380506,
+        "SUB_DISTRICT_NAME_THA": "นาดง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 38,
+        "DISTRICT_ID": 3805,
+        "LAT": 18.256000518798828,
+        "LONG": 103.30400085449219
+    }
+]

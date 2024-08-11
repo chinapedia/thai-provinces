@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530101,
+        "SUB_DISTRICT_NAME_THA": "ท่าอิฐ",
+        "SUB_DISTRICT_NAME_ENG": "Tha It",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.613000869750977,
+        "LONG": 100.0790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 530102,
+        "SUB_DISTRICT_NAME_THA": "ท่าเสา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sao",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.652000427246094,
+        "LONG": 100.08599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 530103,
+        "SUB_DISTRICT_NAME_THA": "บ้านเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ko",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.57900047302246,
+        "LONG": 100.11699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 530104,
+        "SUB_DISTRICT_NAME_THA": "ป่าเซ่า",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sao",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.600000381469727,
+        "LONG": 100.16000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 530105,
+        "SUB_DISTRICT_NAME_THA": "คุ้งตะเภา",
+        "SUB_DISTRICT_NAME_ENG": "Khung Taphao",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.641000747680664,
+        "LONG": 100.16600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 530106,
+        "SUB_DISTRICT_NAME_THA": "วังกะพี้",
+        "SUB_DISTRICT_NAME_ENG": "Wang Kaphi",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.545000076293945,
+        "LONG": 100.0790023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 530107,
+        "SUB_DISTRICT_NAME_THA": "หาดกรวด",
+        "SUB_DISTRICT_NAME_ENG": "Hat Kruat",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.562000274658203,
+        "LONG": 100.1989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 530108,
+        "SUB_DISTRICT_NAME_THA": "น้ำริด",
+        "SUB_DISTRICT_NAME_ENG": "Nam Rit",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.68400001525879,
+        "LONG": 100.13200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 530109,
+        "SUB_DISTRICT_NAME_THA": "งิ้วงาม",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Ngam",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.70199966430664,
+        "LONG": 100.17400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 530110,
+        "SUB_DISTRICT_NAME_THA": "บ้านด่านนาขาม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dan Na Kham",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.784000396728516,
+        "LONG": 100.16100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 530111,
+        "SUB_DISTRICT_NAME_THA": "บ้านด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dan",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.663000106811523,
+        "LONG": 100.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 530112,
+        "SUB_DISTRICT_NAME_THA": "ผาจุก",
+        "SUB_DISTRICT_NAME_ENG": "Pha Chuk",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.638999938964844,
+        "LONG": 100.24299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 530113,
+        "SUB_DISTRICT_NAME_THA": "วังดิน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Din",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.73699951171875,
+        "LONG": 100.26599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 530114,
+        "SUB_DISTRICT_NAME_THA": "แสนตอ",
+        "SUB_DISTRICT_NAME_ENG": "Saen To",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.650999069213867,
+        "LONG": 100.36499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 530115,
+        "SUB_DISTRICT_NAME_THA": "หาดงิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Hat Ngio",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.680999755859375,
+        "LONG": 100.33699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 530116,
+        "SUB_DISTRICT_NAME_THA": "ขุนฝาง",
+        "SUB_DISTRICT_NAME_ENG": "Khun Fang",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.760000228881836,
+        "LONG": 100.2229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 530117,
+        "SUB_DISTRICT_NAME_THA": "ถ้ำฉลอง",
+        "SUB_DISTRICT_NAME_ENG": "Tham Chalong",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5301,
+        "LAT": 17.606000900268555,
+        "LONG": 100.36000061035156
+    }
+]

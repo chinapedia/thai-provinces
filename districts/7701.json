@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 770101,
+        "SUB_DISTRICT_NAME_THA": "ประจวบคีรีขันธ์",
+        "SUB_DISTRICT_NAME_ENG": "Prachuap Khiri Khan",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7701,
+        "LAT": 11.805000305175781,
+        "LONG": 99.78399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 770102,
+        "SUB_DISTRICT_NAME_THA": "เกาะหลัก",
+        "SUB_DISTRICT_NAME_ENG": "Ko Lak",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7701,
+        "LAT": 11.807999610900879,
+        "LONG": 99.72899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 770103,
+        "SUB_DISTRICT_NAME_THA": "คลองวาฬ",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Wan",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7701,
+        "LAT": 11.755999565124512,
+        "LONG": 99.7249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 770104,
+        "SUB_DISTRICT_NAME_THA": "ห้วยทราย",
+        "SUB_DISTRICT_NAME_ENG": "Huai Sai",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7701,
+        "LAT": 11.708999633789062,
+        "LONG": 99.6719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 770105,
+        "SUB_DISTRICT_NAME_THA": "อ่าวน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Ao Noi",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7701,
+        "LAT": 11.904000282287598,
+        "LONG": 99.70099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 770106,
+        "SUB_DISTRICT_NAME_THA": "บ่อนอก",
+        "SUB_DISTRICT_NAME_ENG": "Bo Nok",
+        "PROVINCE_ID": 77,
+        "DISTRICT_ID": 7701,
+        "LAT": 11.996000289916992,
+        "LONG": 99.77100372314453
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 490701,
+        "SUB_DISTRICT_NAME_THA": "หนองสูง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sung",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4907,
+        "LAT": 16.458999633789062,
+        "LONG": 104.36100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 490702,
+        "SUB_DISTRICT_NAME_THA": "โนนยาง",
+        "SUB_DISTRICT_NAME_ENG": "Non Yang",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4907,
+        "LAT": 16.489999771118164,
+        "LONG": 104.27799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 490703,
+        "SUB_DISTRICT_NAME_THA": "ภูวง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Wong",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4907,
+        "LAT": 16.454999923706055,
+        "LONG": 104.4469985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 490704,
+        "SUB_DISTRICT_NAME_THA": "บ้านเป้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pao",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4907,
+        "LAT": 16.40999984741211,
+        "LONG": 104.33699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 490705,
+        "SUB_DISTRICT_NAME_THA": "หนองสูงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sung Tai",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4907,
+        "LAT": 16.38800048828125,
+        "LONG": 104.38200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 490706,
+        "SUB_DISTRICT_NAME_THA": "หนองสูงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sung Nuea",
+        "PROVINCE_ID": 49,
+        "DISTRICT_ID": 4907,
+        "LAT": 16.490999221801758,
+        "LONG": 104.36000061035156
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 700301,
+        "SUB_DISTRICT_NAME_THA": "สวนผึ้ง",
+        "SUB_DISTRICT_NAME_ENG": "Suan Phueng",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7003,
+        "LAT": 13.612000465393066,
+        "LONG": 99.2490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 700302,
+        "SUB_DISTRICT_NAME_THA": "ป่าหวาย",
+        "SUB_DISTRICT_NAME_ENG": "Pa Wai",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7003,
+        "LAT": 13.57800006866455,
+        "LONG": 99.4229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 700304,
+        "SUB_DISTRICT_NAME_THA": "ท่าเคย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khoei",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7003,
+        "LAT": 13.522000312805176,
+        "LONG": 99.41999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 700307,
+        "SUB_DISTRICT_NAME_THA": "ตะนาวศรี",
+        "SUB_DISTRICT_NAME_ENG": "Tanao Si",
+        "PROVINCE_ID": 70,
+        "DISTRICT_ID": 7003,
+        "LAT": 13.418000221252441,
+        "LONG": 99.27300262451172
+    }
+]

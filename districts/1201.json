@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 120101,
+        "SUB_DISTRICT_NAME_THA": "สวนใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Suan Yai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.842000007629395,
+        "LONG": 100.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 120102,
+        "SUB_DISTRICT_NAME_THA": "ตลาดขวัญ",
+        "SUB_DISTRICT_NAME_ENG": "Talat Khwan",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.850000381469727,
+        "LONG": 100.50900268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 120103,
+        "SUB_DISTRICT_NAME_THA": "บางเขน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khen",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.835000038146973,
+        "LONG": 100.51599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 120104,
+        "SUB_DISTRICT_NAME_THA": "บางกระสอ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kraso",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.869000434875488,
+        "LONG": 100.49099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 120105,
+        "SUB_DISTRICT_NAME_THA": "ท่าทราย",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.883999824523926,
+        "LONG": 100.5009994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 120106,
+        "SUB_DISTRICT_NAME_THA": "บางไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phai",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.822999954223633,
+        "LONG": 100.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 120107,
+        "SUB_DISTRICT_NAME_THA": "บางศรีเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Si Mueang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.840999603271484,
+        "LONG": 100.4749984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 120108,
+        "SUB_DISTRICT_NAME_THA": "บางกร่าง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krang",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.835000038146973,
+        "LONG": 100.43800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 120109,
+        "SUB_DISTRICT_NAME_THA": "ไทรม้า",
+        "SUB_DISTRICT_NAME_ENG": "Sai Ma",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.869999885559082,
+        "LONG": 100.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 120110,
+        "SUB_DISTRICT_NAME_THA": "บางรักน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rak Noi",
+        "PROVINCE_ID": 12,
+        "DISTRICT_ID": 1201,
+        "LAT": 13.859000205993652,
+        "LONG": 100.46399688720703
+    }
+]

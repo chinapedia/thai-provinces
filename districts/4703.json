@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 470301,
+        "SUB_DISTRICT_NAME_THA": "กุดบาก",
+        "SUB_DISTRICT_NAME_ENG": "Kut Bak",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4703,
+        "LAT": 17.051000595092773,
+        "LONG": 103.76200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 470303,
+        "SUB_DISTRICT_NAME_THA": "นาม่อง",
+        "SUB_DISTRICT_NAME_ENG": "Na Mong",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4703,
+        "LAT": 17.093000411987305,
+        "LONG": 103.90599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 470305,
+        "SUB_DISTRICT_NAME_THA": "กุดไห",
+        "SUB_DISTRICT_NAME_ENG": "Kut Hai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4703,
+        "LAT": 17.100000381469727,
+        "LONG": 103.69599914550781
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 760701,
+        "SUB_DISTRICT_NAME_THA": "บ้านแหลม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Laem",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.206000328063965,
+        "LONG": 99.9800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 760702,
+        "SUB_DISTRICT_NAME_THA": "บางขุนไทร",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khun Sai",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.16100025177002,
+        "LONG": 100.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 760703,
+        "SUB_DISTRICT_NAME_THA": "ปากทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Pak Thale",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.144000053405762,
+        "LONG": 100.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 760704,
+        "SUB_DISTRICT_NAME_THA": "บางแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kaeo",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.111000061035156,
+        "LONG": 100.04499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 760705,
+        "SUB_DISTRICT_NAME_THA": "แหลมผักเบี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Laem Phak Bia",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.043999671936035,
+        "LONG": 100.07599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 760706,
+        "SUB_DISTRICT_NAME_THA": "บางตะบูน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Tabun",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.258999824523926,
+        "LONG": 99.91200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 760707,
+        "SUB_DISTRICT_NAME_THA": "บางตะบูนออก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Tabun Ok",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.246999740600586,
+        "LONG": 99.94999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 760708,
+        "SUB_DISTRICT_NAME_THA": "บางครก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khrok",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.204000473022461,
+        "LONG": 99.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 760709,
+        "SUB_DISTRICT_NAME_THA": "ท่าแร้ง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Raeng",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.159000396728516,
+        "LONG": 99.95999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 760710,
+        "SUB_DISTRICT_NAME_THA": "ท่าแร้งออก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Raeng Ok",
+        "PROVINCE_ID": 76,
+        "DISTRICT_ID": 7607,
+        "LAT": 13.154999732971191,
+        "LONG": 99.97599792480469
+    }
+]

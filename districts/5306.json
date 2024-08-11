@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 530601,
+        "SUB_DISTRICT_NAME_THA": "ม่วงเจ็ดต้น",
+        "SUB_DISTRICT_NAME_ENG": "Muang Chet Ton",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5306,
+        "LAT": 18.114999771118164,
+        "LONG": 101.06199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 530602,
+        "SUB_DISTRICT_NAME_THA": "บ้านโคก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khok",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5306,
+        "LAT": 18.007999420166016,
+        "LONG": 101.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 530603,
+        "SUB_DISTRICT_NAME_THA": "นาขุม",
+        "SUB_DISTRICT_NAME_ENG": "Na Khum",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5306,
+        "LAT": 17.951000213623047,
+        "LONG": 100.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 530604,
+        "SUB_DISTRICT_NAME_THA": "บ่อเบี้ย",
+        "SUB_DISTRICT_NAME_ENG": "Bo Bia",
+        "PROVINCE_ID": 53,
+        "DISTRICT_ID": 5306,
+        "LAT": 18.253000259399414,
+        "LONG": 101.04399871826172
+    }
+]

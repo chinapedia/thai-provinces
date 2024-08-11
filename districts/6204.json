@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620403,
+        "SUB_DISTRICT_NAME_THA": "ยางสูง",
+        "SUB_DISTRICT_NAME_ENG": "Yang Sung",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.124000549316406,
+        "LONG": 99.85700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 620404,
+        "SUB_DISTRICT_NAME_THA": "ป่าพุทรา",
+        "SUB_DISTRICT_NAME_ENG": "Pa Phutsa",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.0939998626709,
+        "LONG": 99.91799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 620405,
+        "SUB_DISTRICT_NAME_THA": "แสนตอ",
+        "SUB_DISTRICT_NAME_ENG": "Saen To",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.051000595092773,
+        "LONG": 99.83100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 620406,
+        "SUB_DISTRICT_NAME_THA": "สลกบาตร",
+        "SUB_DISTRICT_NAME_ENG": "Salok Bat",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.0,
+        "LONG": 99.8010025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 620407,
+        "SUB_DISTRICT_NAME_THA": "บ่อถ้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Bo Tham",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 15.911999702453613,
+        "LONG": 99.73799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 620408,
+        "SUB_DISTRICT_NAME_THA": "ดอนแตง",
+        "SUB_DISTRICT_NAME_ENG": "Don Taeng",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.05299949645996,
+        "LONG": 99.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 620409,
+        "SUB_DISTRICT_NAME_THA": "วังชะพลู",
+        "SUB_DISTRICT_NAME_ENG": "Wang Chaphlu",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.01099967956543,
+        "LONG": 99.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 620410,
+        "SUB_DISTRICT_NAME_THA": "โค้งไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Khong Phai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.107999801635742,
+        "LONG": 99.65699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 620411,
+        "SUB_DISTRICT_NAME_THA": "ปางมะค่า",
+        "SUB_DISTRICT_NAME_ENG": "Pang Makha",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 15.967000007629395,
+        "LONG": 99.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 620412,
+        "SUB_DISTRICT_NAME_THA": "วังหามแห",
+        "SUB_DISTRICT_NAME_ENG": "Wang Ham Hae",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.06599998474121,
+        "LONG": 99.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 620413,
+        "SUB_DISTRICT_NAME_THA": "เกาะตาล",
+        "SUB_DISTRICT_NAME_ENG": "Ko Tan",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6204,
+        "LAT": 16.10300064086914,
+        "LONG": 99.78800201416016
+    }
+]

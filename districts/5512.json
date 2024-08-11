@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 551201,
+        "SUB_DISTRICT_NAME_THA": "บ่อเกลือเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kluea Nuea",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5512,
+        "LAT": 19.297000885009766,
+        "LONG": 101.1760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 551202,
+        "SUB_DISTRICT_NAME_THA": "บ่อเกลือใต้",
+        "SUB_DISTRICT_NAME_ENG": "Bo Kluea Tai",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5512,
+        "LAT": 19.12700080871582,
+        "LONG": 101.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 551204,
+        "SUB_DISTRICT_NAME_THA": "ภูฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Phu Fa",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5512,
+        "LAT": 18.972999572753906,
+        "LONG": 101.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 551205,
+        "SUB_DISTRICT_NAME_THA": "ดงพญา",
+        "SUB_DISTRICT_NAME_ENG": "Dong Phaya",
+        "PROVINCE_ID": 55,
+        "DISTRICT_ID": 5512,
+        "LAT": 19.219999313354492,
+        "LONG": 101.197998046875
+    }
+]

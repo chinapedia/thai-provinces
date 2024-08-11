@@ -1,0 +1,155 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140601,
+        "SUB_DISTRICT_NAME_THA": "บ้านเลน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Len",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.241000175476074,
+        "LONG": 100.5979995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 140602,
+        "SUB_DISTRICT_NAME_THA": "เชียงรากน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Rak Noi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.15999984741211,
+        "LONG": 100.59400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 140603,
+        "SUB_DISTRICT_NAME_THA": "บ้านโพ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pho",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.272000312805176,
+        "LONG": 100.58799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 140604,
+        "SUB_DISTRICT_NAME_THA": "บ้านกรด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Krot",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.307000160217285,
+        "LONG": 100.60399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 140605,
+        "SUB_DISTRICT_NAME_THA": "บางกระสั้น",
+        "SUB_DISTRICT_NAME_ENG": "Bang Krasan",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.189000129699707,
+        "LONG": 100.56500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 140606,
+        "SUB_DISTRICT_NAME_THA": "คลองจิก",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chik",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.21399974822998,
+        "LONG": 100.59700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 140607,
+        "SUB_DISTRICT_NAME_THA": "บ้านหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Wa",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.258000373840332,
+        "LONG": 100.61599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 140608,
+        "SUB_DISTRICT_NAME_THA": "วัดยม",
+        "SUB_DISTRICT_NAME_ENG": "Wat Yom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.260000228881836,
+        "LONG": 100.56800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 140609,
+        "SUB_DISTRICT_NAME_THA": "บางประแดง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pradaeng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.288000106811523,
+        "LONG": 100.54399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 140610,
+        "SUB_DISTRICT_NAME_THA": "สามเรือน",
+        "SUB_DISTRICT_NAME_ENG": "Sam Ruean",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.291999816894531,
+        "LONG": 100.64700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 140611,
+        "SUB_DISTRICT_NAME_THA": "เกาะเกิด",
+        "SUB_DISTRICT_NAME_ENG": "Ko Koet",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.206000328063965,
+        "LONG": 100.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 140612,
+        "SUB_DISTRICT_NAME_THA": "บ้านพลับ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phlap",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.222999572753906,
+        "LONG": 100.552001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 140613,
+        "SUB_DISTRICT_NAME_THA": "บ้านแป้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Paeng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.23900032043457,
+        "LONG": 100.55699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 140614,
+        "SUB_DISTRICT_NAME_THA": "คุ้งลาน",
+        "SUB_DISTRICT_NAME_ENG": "Khung Lan",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.295000076293945,
+        "LONG": 100.62100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 140615,
+        "SUB_DISTRICT_NAME_THA": "ตลิ่งชัน",
+        "SUB_DISTRICT_NAME_ENG": "Taling Chan",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.25,
+        "LONG": 100.64199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 140616,
+        "SUB_DISTRICT_NAME_THA": "บ้านสร้าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.288999557495117,
+        "LONG": 100.66799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 140618,
+        "SUB_DISTRICT_NAME_THA": "ขนอนหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Khanon Luang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1406,
+        "LAT": 14.265999794006348,
+        "LONG": 100.54199981689453
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302701,
+        "SUB_DISTRICT_NAME_THA": "เมืองยาง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Yang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3027,
+        "LAT": 15.418000221252441,
+        "LONG": 102.88600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 302702,
+        "SUB_DISTRICT_NAME_THA": "กระเบื้องนอก",
+        "SUB_DISTRICT_NAME_ENG": "Krabueang Nok",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3027,
+        "LAT": 15.4399995803833,
+        "LONG": 102.95700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 302703,
+        "SUB_DISTRICT_NAME_THA": "ละหานปลาค้าว",
+        "SUB_DISTRICT_NAME_ENG": "Lahan Pla Khao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3027,
+        "LAT": 15.487000465393066,
+        "LONG": 102.88899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 302704,
+        "SUB_DISTRICT_NAME_THA": "โนนอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Non Udom",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3027,
+        "LAT": 15.425999641418457,
+        "LONG": 102.81199645996094
+    }
+]

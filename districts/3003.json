@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 300301,
+        "SUB_DISTRICT_NAME_THA": "เสิงสาง",
+        "SUB_DISTRICT_NAME_ENG": "Soeng Sang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3003,
+        "LAT": 14.425999641418457,
+        "LONG": 102.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 300302,
+        "SUB_DISTRICT_NAME_THA": "สระตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Sa Takhian",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3003,
+        "LAT": 14.324999809265137,
+        "LONG": 102.552001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 300303,
+        "SUB_DISTRICT_NAME_THA": "โนนสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Non Sombun",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3003,
+        "LAT": 14.277999877929688,
+        "LONG": 102.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 300304,
+        "SUB_DISTRICT_NAME_THA": "กุดโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Kut Bot",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3003,
+        "LAT": 14.456999778747559,
+        "LONG": 102.54000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 300305,
+        "SUB_DISTRICT_NAME_THA": "สุขไพบูลย์",
+        "SUB_DISTRICT_NAME_ENG": "Suk Phaibun",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3003,
+        "LAT": 14.526000022888184,
+        "LONG": 102.447998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 300306,
+        "SUB_DISTRICT_NAME_THA": "บ้านราษฎร์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3003,
+        "LAT": 14.246999740600586,
+        "LONG": 102.4739990234375
+    }
+]

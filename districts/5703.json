@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570301,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5703,
+        "LAT": 20.266000747680664,
+        "LONG": 100.36900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 570302,
+        "SUB_DISTRICT_NAME_THA": "สถาน",
+        "SUB_DISTRICT_NAME_ENG": "Sathan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5703,
+        "LAT": 20.20199966430664,
+        "LONG": 100.36399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 570303,
+        "SUB_DISTRICT_NAME_THA": "ครึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Khrueng",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5703,
+        "LAT": 20.058000564575195,
+        "LONG": 100.4020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 570304,
+        "SUB_DISTRICT_NAME_THA": "บุญเรือง",
+        "SUB_DISTRICT_NAME_ENG": "Bunrueang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5703,
+        "LAT": 19.98900032043457,
+        "LONG": 100.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 570305,
+        "SUB_DISTRICT_NAME_THA": "ห้วยซ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Huai So",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5703,
+        "LAT": 20.06100082397461,
+        "LONG": 100.28399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 570308,
+        "SUB_DISTRICT_NAME_THA": "ศรีดอนชัย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5703,
+        "LAT": 20.149999618530273,
+        "LONG": 100.3239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 570310,
+        "SUB_DISTRICT_NAME_THA": "ริมโขง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5703,
+        "LAT": 20.361000061035156,
+        "LONG": 100.31300354003906
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 710801,
+        "SUB_DISTRICT_NAME_THA": "หนองลู",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lu",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7108,
+        "LAT": 15.112000465393066,
+        "LONG": 98.34100341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 710802,
+        "SUB_DISTRICT_NAME_THA": "ปรังเผล",
+        "SUB_DISTRICT_NAME_ENG": "Prang Phle",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7108,
+        "LAT": 14.99899959564209,
+        "LONG": 98.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 710803,
+        "SUB_DISTRICT_NAME_THA": "ไล่โว่",
+        "SUB_DISTRICT_NAME_ENG": "Lai Wo",
+        "PROVINCE_ID": 71,
+        "DISTRICT_ID": 7108,
+        "LAT": 15.345000267028809,
+        "LONG": 98.66400146484375
+    }
+]

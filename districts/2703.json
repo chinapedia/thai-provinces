@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270301,
+        "SUB_DISTRICT_NAME_THA": "ตาพระยา",
+        "SUB_DISTRICT_NAME_ENG": "Ta Phraya",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2703,
+        "LAT": 13.956000328063965,
+        "LONG": 102.76399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 270302,
+        "SUB_DISTRICT_NAME_THA": "ทัพเสด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Thap Sadet",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2703,
+        "LAT": 14.04699993133545,
+        "LONG": 102.81300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 270306,
+        "SUB_DISTRICT_NAME_THA": "ทัพราช",
+        "SUB_DISTRICT_NAME_ENG": "Thappharat",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2703,
+        "LAT": 14.079000473022461,
+        "LONG": 102.63899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 270307,
+        "SUB_DISTRICT_NAME_THA": "ทัพไทย",
+        "SUB_DISTRICT_NAME_ENG": "Thap Thai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2703,
+        "LAT": 14.123000144958496,
+        "LONG": 102.84500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 270309,
+        "SUB_DISTRICT_NAME_THA": "โคคลาน",
+        "SUB_DISTRICT_NAME_ENG": "Khot Lan",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2703,
+        "LAT": 13.968000411987305,
+        "LONG": 102.6500015258789
+    }
+]

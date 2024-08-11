@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310601,
+        "SUB_DISTRICT_NAME_THA": "ละหานทราย",
+        "SUB_DISTRICT_NAME_ENG": "Lahan Sai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3106,
+        "LAT": 14.418000221252441,
+        "LONG": 102.85399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 310603,
+        "SUB_DISTRICT_NAME_THA": "ตาจง",
+        "SUB_DISTRICT_NAME_ENG": "Ta Chong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3106,
+        "LAT": 14.439000129699707,
+        "LONG": 102.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 310604,
+        "SUB_DISTRICT_NAME_THA": "สำโรงใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Samrong Mai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3106,
+        "LAT": 14.284000396728516,
+        "LONG": 102.8499984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 310607,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3106,
+        "LAT": 14.267999649047852,
+        "LONG": 102.93499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 310610,
+        "SUB_DISTRICT_NAME_THA": "หนองตระครอง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Takhrong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3106,
+        "LAT": 14.392999649047852,
+        "LONG": 102.78700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 310611,
+        "SUB_DISTRICT_NAME_THA": "โคกว่าน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Wan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3106,
+        "LAT": 14.449000358581543,
+        "LONG": 102.78399658203125
+    }
+]

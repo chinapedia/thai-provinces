@@ -1,0 +1,200 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140401,
+        "SUB_DISTRICT_NAME_THA": "บางไทร",
+        "SUB_DISTRICT_NAME_ENG": "Bang Sai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.190999984741211,
+        "LONG": 100.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 140402,
+        "SUB_DISTRICT_NAME_THA": "บางพลี",
+        "SUB_DISTRICT_NAME_ENG": "Bang Phli",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.211999893188477,
+        "LONG": 100.46499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 140403,
+        "SUB_DISTRICT_NAME_THA": "สนามชัย",
+        "SUB_DISTRICT_NAME_ENG": "Sanam Chai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.213000297546387,
+        "LONG": 100.52200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 140404,
+        "SUB_DISTRICT_NAME_THA": "บ้านแป้ง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Paeng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.232000350952148,
+        "LONG": 100.50700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 140405,
+        "SUB_DISTRICT_NAME_THA": "หน้าไม้",
+        "SUB_DISTRICT_NAME_ENG": "Na Mai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.3149995803833,
+        "LONG": 100.46199798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 140406,
+        "SUB_DISTRICT_NAME_THA": "บางยี่โท",
+        "SUB_DISTRICT_NAME_ENG": "Bang Yitho",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.298999786376953,
+        "LONG": 100.44499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 140407,
+        "SUB_DISTRICT_NAME_THA": "แคออก",
+        "SUB_DISTRICT_NAME_ENG": "Khae Ok",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.305000305175781,
+        "LONG": 100.47200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 140408,
+        "SUB_DISTRICT_NAME_THA": "แคตก",
+        "SUB_DISTRICT_NAME_ENG": "Khae Tok",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.286999702453613,
+        "LONG": 100.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 140409,
+        "SUB_DISTRICT_NAME_THA": "ช่างเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Chang Lek",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.277999877929688,
+        "LONG": 100.4530029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 140410,
+        "SUB_DISTRICT_NAME_THA": "กระแชง",
+        "SUB_DISTRICT_NAME_ENG": "Krachaeng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.279000282287598,
+        "LONG": 100.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 140411,
+        "SUB_DISTRICT_NAME_THA": "บ้างกลึง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Klueng",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.309000015258789,
+        "LONG": 100.4990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 140412,
+        "SUB_DISTRICT_NAME_THA": "ช้างน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Chang Noi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.251999855041504,
+        "LONG": 100.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 140413,
+        "SUB_DISTRICT_NAME_THA": "ห่อหมก",
+        "SUB_DISTRICT_NAME_ENG": "Ho Mok",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.258999824523926,
+        "LONG": 100.4739990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 140414,
+        "SUB_DISTRICT_NAME_THA": "ไผ่พระ",
+        "SUB_DISTRICT_NAME_ENG": "Phai Phra",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.222000122070312,
+        "LONG": 100.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 140415,
+        "SUB_DISTRICT_NAME_THA": "กกแก้วบูรพา",
+        "SUB_DISTRICT_NAME_ENG": "Kok Kaeo Burapha",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.187999725341797,
+        "LONG": 100.43499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 140416,
+        "SUB_DISTRICT_NAME_THA": "ไม้ตรา",
+        "SUB_DISTRICT_NAME_ENG": "Mai Tra",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.163999557495117,
+        "LONG": 100.4729995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 140417,
+        "SUB_DISTRICT_NAME_THA": "บ้านม้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ma",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.140999794006348,
+        "LONG": 100.48999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 140418,
+        "SUB_DISTRICT_NAME_THA": "บ้านเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ko",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.236000061035156,
+        "LONG": 100.45999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 140419,
+        "SUB_DISTRICT_NAME_THA": "ราชคราม",
+        "SUB_DISTRICT_NAME_ENG": "Ratchakhram",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.185999870300293,
+        "LONG": 100.51899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 140420,
+        "SUB_DISTRICT_NAME_THA": "ช้างใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Chang Yai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.16100025177002,
+        "LONG": 100.52200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 140422,
+        "SUB_DISTRICT_NAME_THA": "เชียงรากน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Rak Noi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.133999824523926,
+        "LONG": 100.56099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 140423,
+        "SUB_DISTRICT_NAME_THA": "โคกช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Khok Chang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1404,
+        "LAT": 14.123000144958496,
+        "LONG": 100.49199676513672
+    }
+]

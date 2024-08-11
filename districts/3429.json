@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 342901,
+        "SUB_DISTRICT_NAME_THA": "นาเยีย",
+        "SUB_DISTRICT_NAME_ENG": "Na Yia",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3429,
+        "LAT": 15.005999565124512,
+        "LONG": 105.14299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 342902,
+        "SUB_DISTRICT_NAME_THA": "นาดี",
+        "SUB_DISTRICT_NAME_ENG": "Na Di",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3429,
+        "LAT": 15.116000175476074,
+        "LONG": 105.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 342903,
+        "SUB_DISTRICT_NAME_THA": "นาเรือง",
+        "SUB_DISTRICT_NAME_ENG": "Na Rueang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3429,
+        "LAT": 14.987000465393066,
+        "LONG": 105.06800079345703
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311301,
+        "SUB_DISTRICT_NAME_THA": "นาโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Na Pho",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3113,
+        "LAT": 15.635000228881836,
+        "LONG": 102.94400024414062
+    },
+    {
+        "SUB_DISTRICT_ID": 311302,
+        "SUB_DISTRICT_NAME_THA": "บ้านคู",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khu",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3113,
+        "LAT": 15.711999893188477,
+        "LONG": 102.93299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 311303,
+        "SUB_DISTRICT_NAME_THA": "บ้านดู่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Du",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3113,
+        "LAT": 15.713000297546387,
+        "LONG": 102.97699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 311304,
+        "SUB_DISTRICT_NAME_THA": "ดอนกอก",
+        "SUB_DISTRICT_NAME_ENG": "Don Kok",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3113,
+        "LAT": 15.762999534606934,
+        "LONG": 102.8949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 311305,
+        "SUB_DISTRICT_NAME_THA": "ศรีสว่าง",
+        "SUB_DISTRICT_NAME_ENG": "Si Sawang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3113,
+        "LAT": 15.67300033569336,
+        "LONG": 102.93399810791016
+    }
+]

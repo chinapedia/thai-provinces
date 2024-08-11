@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 950801,
+        "SUB_DISTRICT_NAME_THA": "กรงปินัง",
+        "SUB_DISTRICT_NAME_ENG": "Krong Pinang",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9508,
+        "LAT": 6.422999858856201,
+        "LONG": 101.28500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 950802,
+        "SUB_DISTRICT_NAME_THA": "สะเอะ",
+        "SUB_DISTRICT_NAME_ENG": "Sa-Ae",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9508,
+        "LAT": 6.3979997634887695,
+        "LONG": 101.2020034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 950803,
+        "SUB_DISTRICT_NAME_THA": "ห้วยกระทิง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Krathing",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9508,
+        "LAT": 6.343999862670898,
+        "LONG": 101.25
+    },
+    {
+        "SUB_DISTRICT_ID": 950804,
+        "SUB_DISTRICT_NAME_THA": "ปุโรง",
+        "SUB_DISTRICT_NAME_ENG": "Pu Rong",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9508,
+        "LAT": 6.455999851226807,
+        "LONG": 101.2300033569336
+    }
+]

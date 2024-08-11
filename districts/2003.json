@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 200301,
+        "SUB_DISTRICT_NAME_THA": "หนองใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2003,
+        "LAT": 13.152999877929688,
+        "LONG": 101.375
+    },
+    {
+        "SUB_DISTRICT_ID": 200302,
+        "SUB_DISTRICT_NAME_THA": "คลองพลู",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Phlu",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2003,
+        "LAT": 13.114999771118164,
+        "LONG": 101.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 200303,
+        "SUB_DISTRICT_NAME_THA": "หนองเสือช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Suea Chang",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2003,
+        "LAT": 13.116999626159668,
+        "LONG": 101.28299713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 200304,
+        "SUB_DISTRICT_NAME_THA": "ห้างสูง",
+        "SUB_DISTRICT_NAME_ENG": "Hang Sung",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2003,
+        "LAT": 13.243000030517578,
+        "LONG": 101.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 200305,
+        "SUB_DISTRICT_NAME_THA": "เขาซก",
+        "SUB_DISTRICT_NAME_ENG": "Khao Sok",
+        "PROVINCE_ID": 20,
+        "DISTRICT_ID": 2003,
+        "LAT": 13.069999694824219,
+        "LONG": 101.41999816894531
+    }
+]

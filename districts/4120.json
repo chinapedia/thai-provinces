@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 412001,
+        "SUB_DISTRICT_NAME_THA": "สร้างคอม",
+        "SUB_DISTRICT_NAME_ENG": "Sang Khom",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4120,
+        "LAT": 17.81399917602539,
+        "LONG": 103.08999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 412002,
+        "SUB_DISTRICT_NAME_THA": "เชียงดา",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Da",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4120,
+        "LAT": 17.858999252319336,
+        "LONG": 103.0270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 412003,
+        "SUB_DISTRICT_NAME_THA": "บ้านยวด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yuat",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4120,
+        "LAT": 17.733999252319336,
+        "LONG": 103.04000091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 412004,
+        "SUB_DISTRICT_NAME_THA": "บ้านโคก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khok",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4120,
+        "LAT": 17.785999298095703,
+        "LONG": 103.01599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 412005,
+        "SUB_DISTRICT_NAME_THA": "นาสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Na Sa-At",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4120,
+        "LAT": 17.843000411987305,
+        "LONG": 103.05799865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 412006,
+        "SUB_DISTRICT_NAME_THA": "บ้านหินโงม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Hin Ngom",
+        "PROVINCE_ID": 41,
+        "DISTRICT_ID": 4120,
+        "LAT": 17.738000869750977,
+        "LONG": 103.0989990234375
+    }
+]

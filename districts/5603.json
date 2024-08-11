@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560301,
+        "SUB_DISTRICT_NAME_THA": "หย่วน",
+        "SUB_DISTRICT_NAME_ENG": "Yuan",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.535999298095703,
+        "LONG": 100.29299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 560306,
+        "SUB_DISTRICT_NAME_THA": "น้ำแวน",
+        "SUB_DISTRICT_NAME_ENG": "Nam Waen",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.476999282836914,
+        "LONG": 100.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 560307,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.4950008392334,
+        "LONG": 100.3270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 560308,
+        "SUB_DISTRICT_NAME_THA": "ฝายกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Fai Kwang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.393999099731445,
+        "LONG": 100.24400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 560309,
+        "SUB_DISTRICT_NAME_THA": "เจดีย์คำ",
+        "SUB_DISTRICT_NAME_ENG": "Chedi Kham",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.53700065612793,
+        "LONG": 100.33699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 560310,
+        "SUB_DISTRICT_NAME_THA": "ร่มเย็น",
+        "SUB_DISTRICT_NAME_ENG": "Rom Yen",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.51099967956543,
+        "LONG": 100.50399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 560311,
+        "SUB_DISTRICT_NAME_THA": "เชียงบาน",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Ban",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.586000442504883,
+        "LONG": 100.23400115966797
+    },
+    {
+        "SUB_DISTRICT_ID": 560312,
+        "SUB_DISTRICT_NAME_THA": "แม่ลาว",
+        "SUB_DISTRICT_NAME_ENG": "Mae Lao",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.43199920654297,
+        "LONG": 100.45099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 560313,
+        "SUB_DISTRICT_NAME_THA": "อ่างทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ang Thong",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.552000045776367,
+        "LONG": 100.20099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 560314,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งผาสุข",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5603,
+        "LAT": 19.472999572753906,
+        "LONG": 100.29100036621094
+    }
+]

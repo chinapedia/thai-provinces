@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 461801,
+        "SUB_DISTRICT_NAME_THA": "ฆ้องชัยพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Khong Chai Phatthana",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4618,
+        "LAT": 16.256999969482422,
+        "LONG": 103.46299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 461802,
+        "SUB_DISTRICT_NAME_THA": "เหล่ากลาง",
+        "SUB_DISTRICT_NAME_ENG": "Lao Klang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4618,
+        "LAT": 16.2450008392334,
+        "LONG": 103.51499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 461803,
+        "SUB_DISTRICT_NAME_THA": "โนนศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sa-At",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4618,
+        "LAT": 16.28499984741211,
+        "LONG": 103.43499755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 461804,
+        "SUB_DISTRICT_NAME_THA": "ลำชี",
+        "SUB_DISTRICT_NAME_ENG": "Non Sila Loeng",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4618,
+        "LAT": 16.320999145507812,
+        "LONG": 103.49299621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 461805,
+        "SUB_DISTRICT_NAME_THA": "โคกสะอาด",
+        "SUB_DISTRICT_NAME_ENG": "Lam Chi",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4618,
+        "LAT": 16.21500015258789,
+        "LONG": 103.46800231933594
+    }
+]

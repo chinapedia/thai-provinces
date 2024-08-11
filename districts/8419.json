@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841901,
+        "SUB_DISTRICT_NAME_THA": "ตะกุกใต้",
+        "SUB_DISTRICT_NAME_ENG": "Takuk Tai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8419,
+        "LAT": 9.22700023651123,
+        "LONG": 98.80699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 841902,
+        "SUB_DISTRICT_NAME_THA": "ตะกุกเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Takuk Nuea",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8419,
+        "LAT": 9.251999855041504,
+        "LONG": 98.90899658203125
+    }
+]

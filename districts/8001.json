@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 800101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.407999992370605,
+        "LONG": 99.97200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 800102,
+        "SUB_DISTRICT_NAME_THA": "ท่าวัง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.449000358581543,
+        "LONG": 99.96099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 800103,
+        "SUB_DISTRICT_NAME_THA": "คลัง",
+        "SUB_DISTRICT_NAME_ENG": "Khlang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.434000015258789,
+        "LONG": 99.96600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 800106,
+        "SUB_DISTRICT_NAME_THA": "ท่าไร่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Rai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.430000305175781,
+        "LONG": 100.04100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 800107,
+        "SUB_DISTRICT_NAME_THA": "ปากนคร",
+        "SUB_DISTRICT_NAME_ENG": "Pak Nakhon",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.420999526977539,
+        "LONG": 99.99600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 800108,
+        "SUB_DISTRICT_NAME_THA": "นาทราย",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.479000091552734,
+        "LONG": 99.93199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 800112,
+        "SUB_DISTRICT_NAME_THA": "กำแพงเซา",
+        "SUB_DISTRICT_NAME_ENG": "Kamphaeng Sao",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.401000022888184,
+        "LONG": 99.86799621582031
+    },
+    {
+        "SUB_DISTRICT_ID": 800113,
+        "SUB_DISTRICT_NAME_THA": "ไชยมนตรี",
+        "SUB_DISTRICT_NAME_ENG": "Chai Montri",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.401000022888184,
+        "LONG": 99.91400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 800114,
+        "SUB_DISTRICT_NAME_THA": "มะม่วงสองต้น",
+        "SUB_DISTRICT_NAME_ENG": "Mamuang Song Ton",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.397000312805176,
+        "LONG": 99.9520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 800115,
+        "SUB_DISTRICT_NAME_THA": "นาเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Na Khian",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.45199966430664,
+        "LONG": 99.91899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 800116,
+        "SUB_DISTRICT_NAME_THA": "ท่างิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ngio",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.45199966430664,
+        "LONG": 99.83499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 800118,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์เสด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Pho Sadet",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.428000450134277,
+        "LONG": 99.91999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 800119,
+        "SUB_DISTRICT_NAME_THA": "บางจาก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chak",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.37600040435791,
+        "LONG": 100.06099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 800120,
+        "SUB_DISTRICT_NAME_THA": "ปากพูน",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phun",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.529000282287598,
+        "LONG": 99.99700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 800121,
+        "SUB_DISTRICT_NAME_THA": "ท่าซัก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sak",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.510000228881836,
+        "LONG": 100.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 800122,
+        "SUB_DISTRICT_NAME_THA": "ท่าเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ruea",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8001,
+        "LAT": 8.321000099182129,
+        "LONG": 100.01300048828125
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 170601,
+        "SUB_DISTRICT_NAME_THA": "อินทร์บุรี",
+        "SUB_DISTRICT_NAME_ENG": "In Buri",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 15.008999824523926,
+        "LONG": 100.3290023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 170602,
+        "SUB_DISTRICT_NAME_THA": "ประศุก",
+        "SUB_DISTRICT_NAME_ENG": "Prasuk",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 15.041999816894531,
+        "LONG": 100.29100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 170603,
+        "SUB_DISTRICT_NAME_THA": "ทับยา",
+        "SUB_DISTRICT_NAME_ENG": "Thap Ya",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 14.960000038146973,
+        "LONG": 100.33399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 170604,
+        "SUB_DISTRICT_NAME_THA": "งิ้วราย",
+        "SUB_DISTRICT_NAME_ENG": "Ngio Rai",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 14.98799991607666,
+        "LONG": 100.38899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 170605,
+        "SUB_DISTRICT_NAME_THA": "ชีน้ำร้าย",
+        "SUB_DISTRICT_NAME_ENG": "Chi Nam Rai",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 15.081000328063965,
+        "LONG": 100.33100128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 170606,
+        "SUB_DISTRICT_NAME_THA": "ท่างาม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ngam",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 15.041000366210938,
+        "LONG": 100.34300231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 170607,
+        "SUB_DISTRICT_NAME_THA": "น้ำตาล",
+        "SUB_DISTRICT_NAME_ENG": "Namtan",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 14.97599983215332,
+        "LONG": 100.36100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 170608,
+        "SUB_DISTRICT_NAME_THA": "ทองเอน",
+        "SUB_DISTRICT_NAME_ENG": "Thong En",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 15.045999526977539,
+        "LONG": 100.38500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 170609,
+        "SUB_DISTRICT_NAME_THA": "ห้วยชัน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Chan",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 15.019000053405762,
+        "LONG": 100.26899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 170610,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์ชัย",
+        "SUB_DISTRICT_NAME_ENG": "Pho Chai",
+        "PROVINCE_ID": 17,
+        "DISTRICT_ID": 1706,
+        "LAT": 15.027000427246094,
+        "LONG": 100.43900299072266
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 361101,
+        "SUB_DISTRICT_NAME_THA": "บ้านแท่น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thaen",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3611,
+        "LAT": 16.405000686645508,
+        "LONG": 102.3489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 361102,
+        "SUB_DISTRICT_NAME_THA": "สามสวน",
+        "SUB_DISTRICT_NAME_ENG": "Sam Suan",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3611,
+        "LAT": 16.41900062561035,
+        "LONG": 102.2699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 361103,
+        "SUB_DISTRICT_NAME_THA": "สระพัง",
+        "SUB_DISTRICT_NAME_ENG": "Sa Phang",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3611,
+        "LAT": 16.400999069213867,
+        "LONG": 102.41799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 361104,
+        "SUB_DISTRICT_NAME_THA": "บ้านเต่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tao",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3611,
+        "LAT": 16.350000381469727,
+        "LONG": 102.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 361105,
+        "SUB_DISTRICT_NAME_THA": "หนองคู",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khu",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3611,
+        "LAT": 16.292999267578125,
+        "LONG": 102.39800262451172
+    }
+]

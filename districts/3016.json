@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 301601,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแถลง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Thalaeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 14.967000007629395,
+        "LONG": 102.6520004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 301602,
+        "SUB_DISTRICT_NAME_THA": "ทับสวาย",
+        "SUB_DISTRICT_NAME_ENG": "Thap Sawai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 15.020999908447266,
+        "LONG": 102.63400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 301603,
+        "SUB_DISTRICT_NAME_THA": "เมืองพลับพลา",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phlapphla",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 15.062999725341797,
+        "LONG": 102.63400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 301604,
+        "SUB_DISTRICT_NAME_THA": "หลุ่งตะเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Lung Takhian",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 15.119999885559082,
+        "LONG": 102.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 301605,
+        "SUB_DISTRICT_NAME_THA": "หินดาด",
+        "SUB_DISTRICT_NAME_ENG": "Hin Dat",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 14.994999885559082,
+        "LONG": 102.56500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 301606,
+        "SUB_DISTRICT_NAME_THA": "งิ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ngio",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 15.07699966430664,
+        "LONG": 102.68900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 301607,
+        "SUB_DISTRICT_NAME_THA": "กงรถ",
+        "SUB_DISTRICT_NAME_ENG": "Kong Rot",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 15.04699993133545,
+        "LONG": 102.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 301608,
+        "SUB_DISTRICT_NAME_THA": "หลุ่งประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Lung Pradu",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 15.0600004196167,
+        "LONG": 102.58200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 301609,
+        "SUB_DISTRICT_NAME_THA": "ตะโก",
+        "SUB_DISTRICT_NAME_ENG": "Tako",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 15.019000053405762,
+        "LONG": 102.71800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 301610,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแคน",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khaen",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3016,
+        "LAT": 14.984999656677246,
+        "LONG": 102.68699645996094
+    }
+]

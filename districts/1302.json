@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 130201,
+        "SUB_DISTRICT_NAME_THA": "คลองหนึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Nueng",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1302,
+        "LAT": 14.065999984741211,
+        "LONG": 100.60700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 130202,
+        "SUB_DISTRICT_NAME_THA": "คลองสอง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Song",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1302,
+        "LAT": 14.079000473022461,
+        "LONG": 100.64199829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 130203,
+        "SUB_DISTRICT_NAME_THA": "คลองสาม",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sam",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1302,
+        "LAT": 14.086999893188477,
+        "LONG": 100.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 130204,
+        "SUB_DISTRICT_NAME_THA": "คลองสี่",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Si",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1302,
+        "LAT": 14.097000122070312,
+        "LONG": 100.68699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 130205,
+        "SUB_DISTRICT_NAME_THA": "คลองห้า",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Ha",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1302,
+        "LAT": 14.105999946594238,
+        "LONG": 100.70999908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 130206,
+        "SUB_DISTRICT_NAME_THA": "คลองหก",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Hok",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1302,
+        "LAT": 14.116999626159668,
+        "LONG": 100.73300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 130207,
+        "SUB_DISTRICT_NAME_THA": "คลองเจ็ด",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Chet",
+        "PROVINCE_ID": 13,
+        "DISTRICT_ID": 1302,
+        "LAT": 14.125,
+        "LONG": 100.75
+    }
+]

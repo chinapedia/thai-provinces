@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 341001,
+        "SUB_DISTRICT_NAME_THA": "โพนงาม",
+        "SUB_DISTRICT_NAME_ENG": "Phon Ngam",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.758999824523926,
+        "LONG": 105.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 341002,
+        "SUB_DISTRICT_NAME_THA": "ห้วยข่า",
+        "SUB_DISTRICT_NAME_ENG": "Huai Kha",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.567000389099121,
+        "LONG": 105.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 341003,
+        "SUB_DISTRICT_NAME_THA": "คอแลน",
+        "SUB_DISTRICT_NAME_ENG": "Kho Laen",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.866999626159668,
+        "LONG": 105.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 341004,
+        "SUB_DISTRICT_NAME_THA": "นาโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Na Pho",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.890999794006348,
+        "LONG": 105.29399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 341005,
+        "SUB_DISTRICT_NAME_THA": "หนองสะโน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sano",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.770999908447266,
+        "LONG": 105.28800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 341006,
+        "SUB_DISTRICT_NAME_THA": "โนนค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Non Kho",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.67199993133545,
+        "LONG": 105.30699920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 341007,
+        "SUB_DISTRICT_NAME_THA": "บัวงาม",
+        "SUB_DISTRICT_NAME_ENG": "Bua Ngam",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.741000175476074,
+        "LONG": 105.37100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 341008,
+        "SUB_DISTRICT_NAME_THA": "บ้านแมด",
+        "SUB_DISTRICT_NAME_ENG": "Ban Maet",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3410,
+        "LAT": 14.906000137329102,
+        "LONG": 105.3479995727539
+    }
+]

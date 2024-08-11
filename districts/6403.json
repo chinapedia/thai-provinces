@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 640301,
+        "SUB_DISTRICT_NAME_THA": "โตนด",
+        "SUB_DISTRICT_NAME_ENG": "Tanot",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.839000701904297,
+        "LONG": 99.8239974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 640302,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Luang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.87700080871582,
+        "LONG": 99.77400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 640303,
+        "SUB_DISTRICT_NAME_THA": "บ้านป้อม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pom",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.930999755859375,
+        "LONG": 99.7760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 640304,
+        "SUB_DISTRICT_NAME_THA": "สามพวง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Phuang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.790000915527344,
+        "LONG": 99.78500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 640305,
+        "SUB_DISTRICT_NAME_THA": "ศรีคีรีมาศ",
+        "SUB_DISTRICT_NAME_ENG": "Si Khiri Mat",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.82699966430664,
+        "LONG": 99.70600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 640306,
+        "SUB_DISTRICT_NAME_THA": "หนองจิก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chik",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.763999938964844,
+        "LONG": 99.7490005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 640307,
+        "SUB_DISTRICT_NAME_THA": "นาเชิงคีรี",
+        "SUB_DISTRICT_NAME_ENG": "Na Choeng Khiri",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.929000854492188,
+        "LONG": 99.68800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 640308,
+        "SUB_DISTRICT_NAME_THA": "หนองกระดิ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krading",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.79800033569336,
+        "LONG": 99.85099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 640309,
+        "SUB_DISTRICT_NAME_THA": "บ้านน้ำพุ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Namphu",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.815000534057617,
+        "LONG": 99.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 640310,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งยางเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Yang Mueang",
+        "PROVINCE_ID": 64,
+        "DISTRICT_ID": 6403,
+        "LAT": 16.74799919128418,
+        "LONG": 99.83399963378906
+    }
+]

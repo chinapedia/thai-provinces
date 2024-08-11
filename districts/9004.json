@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 900401,
+        "SUB_DISTRICT_NAME_THA": "นาทวี",
+        "SUB_DISTRICT_NAME_ENG": "Na Thawi",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.692999839782715,
+        "LONG": 100.7770004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 900402,
+        "SUB_DISTRICT_NAME_THA": "ฉาง",
+        "SUB_DISTRICT_NAME_ENG": "Chang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.76200008392334,
+        "LONG": 100.70899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 900403,
+        "SUB_DISTRICT_NAME_THA": "นาหมอศรี",
+        "SUB_DISTRICT_NAME_ENG": "Na Mosri",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.781000137329102,
+        "LONG": 100.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 900404,
+        "SUB_DISTRICT_NAME_THA": "คลองทราย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sai",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.741000175476074,
+        "LONG": 100.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 900405,
+        "SUB_DISTRICT_NAME_THA": "ปลักหนู",
+        "SUB_DISTRICT_NAME_ENG": "Plak Nu",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.676000118255615,
+        "LONG": 100.66300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 900406,
+        "SUB_DISTRICT_NAME_THA": "ท่าประดู่",
+        "SUB_DISTRICT_NAME_ENG": "Tha Pradu",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.681000232696533,
+        "LONG": 100.7300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 900407,
+        "SUB_DISTRICT_NAME_THA": "สะท้อน",
+        "SUB_DISTRICT_NAME_ENG": "Sa Thon",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.622000217437744,
+        "LONG": 100.6729965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 900408,
+        "SUB_DISTRICT_NAME_THA": "ทับช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Chang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.585999965667725,
+        "LONG": 100.69499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 900409,
+        "SUB_DISTRICT_NAME_THA": "ประกอบ",
+        "SUB_DISTRICT_NAME_ENG": "Prakop",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.482999801635742,
+        "LONG": 100.64299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 900410,
+        "SUB_DISTRICT_NAME_THA": "คลองกวาง",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Kwang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9004,
+        "LAT": 6.636000156402588,
+        "LONG": 100.61000061035156
+    }
+]

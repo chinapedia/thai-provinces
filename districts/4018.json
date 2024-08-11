@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 401801,
+        "SUB_DISTRICT_NAME_THA": "ชนบท",
+        "SUB_DISTRICT_NAME_ENG": "Chonnabot",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 16.066999435424805,
+        "LONG": 102.63200378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 401802,
+        "SUB_DISTRICT_NAME_THA": "กุดเพียขอม",
+        "SUB_DISTRICT_NAME_ENG": "Kut Phia Khom",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 16.031999588012695,
+        "LONG": 102.61299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 401803,
+        "SUB_DISTRICT_NAME_THA": "วังแสง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Saeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 16.01300048828125,
+        "LONG": 102.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 401804,
+        "SUB_DISTRICT_NAME_THA": "ห้วยแก",
+        "SUB_DISTRICT_NAME_ENG": "Huai Kae",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 15.993000030517578,
+        "LONG": 102.53099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 401805,
+        "SUB_DISTRICT_NAME_THA": "บ้านแท่น",
+        "SUB_DISTRICT_NAME_ENG": "Ban Thaen",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 15.965999603271484,
+        "LONG": 102.60299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 401806,
+        "SUB_DISTRICT_NAME_THA": "ศรีบุญเรือง",
+        "SUB_DISTRICT_NAME_ENG": "Si Bunrueang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 16.114999771118164,
+        "LONG": 102.62300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 401807,
+        "SUB_DISTRICT_NAME_THA": "โนนพะยอม",
+        "SUB_DISTRICT_NAME_ENG": "Non Phayom",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 16.054000854492188,
+        "LONG": 102.5469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 401808,
+        "SUB_DISTRICT_NAME_THA": "ปอแดง",
+        "SUB_DISTRICT_NAME_ENG": "Po Daeng",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4018,
+        "LAT": 15.949999809265137,
+        "LONG": 102.5790023803711
+    }
+]

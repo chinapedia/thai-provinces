@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 610801,
+        "SUB_DISTRICT_NAME_THA": "สุขฤทัย",
+        "SUB_DISTRICT_NAME_ENG": "Suk Ruethai",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6108,
+        "LAT": 15.27400016784668,
+        "LONG": 99.64600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 610802,
+        "SUB_DISTRICT_NAME_THA": "ทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Thong Lang",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6108,
+        "LAT": 15.315999984741211,
+        "LONG": 99.48100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 610803,
+        "SUB_DISTRICT_NAME_THA": "ห้วยคต",
+        "SUB_DISTRICT_NAME_ENG": "Huai Khot",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6108,
+        "LAT": 15.272000312805176,
+        "LONG": 99.56800079345703
+    }
+]

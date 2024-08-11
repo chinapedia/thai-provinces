@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 501401,
+        "SUB_DISTRICT_NAME_THA": "สันทรายหลวง",
+        "SUB_DISTRICT_NAME_ENG": "San Sai Luang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.85700035095215,
+        "LONG": 99.0459976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 501402,
+        "SUB_DISTRICT_NAME_THA": "สันทรายน้อย",
+        "SUB_DISTRICT_NAME_ENG": "San Sai Noi",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.819000244140625,
+        "LONG": 99.02400207519531
+    },
+    {
+        "SUB_DISTRICT_ID": 501403,
+        "SUB_DISTRICT_NAME_THA": "สันพระเนตร",
+        "SUB_DISTRICT_NAME_ENG": "San Phranet",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.808000564575195,
+        "LONG": 99.03800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 501404,
+        "SUB_DISTRICT_NAME_THA": "สันนาเม็ง",
+        "SUB_DISTRICT_NAME_ENG": "San Na Meng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.841999053955078,
+        "LONG": 99.06199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 501405,
+        "SUB_DISTRICT_NAME_THA": "สันป่าเปา",
+        "SUB_DISTRICT_NAME_ENG": "San Pa Pao",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.861000061035156,
+        "LONG": 99.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 501406,
+        "SUB_DISTRICT_NAME_THA": "หนองแหย่ง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yaeng",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.910999298095703,
+        "LONG": 99.10099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 501407,
+        "SUB_DISTRICT_NAME_THA": "หนองจ๊อม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chom",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.851999282836914,
+        "LONG": 99.02300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 501408,
+        "SUB_DISTRICT_NAME_THA": "หนองหาร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Han",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.93000030517578,
+        "LONG": 99.01399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 501410,
+        "SUB_DISTRICT_NAME_THA": "แม่แฝกใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Mae Faek Mai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 19.025999069213867,
+        "LONG": 99.00700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 501411,
+        "SUB_DISTRICT_NAME_THA": "เมืองเล็น",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Len",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.895999908447266,
+        "LONG": 99.08000183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 501412,
+        "SUB_DISTRICT_NAME_THA": "ป่าไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Pa Phai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5014,
+        "LAT": 18.906999588012695,
+        "LONG": 99.0510025024414
+    }
+]

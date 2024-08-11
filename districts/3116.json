@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311601,
+        "SUB_DISTRICT_NAME_THA": "ห้วยราช",
+        "SUB_DISTRICT_NAME_ENG": "Huai Rat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 14.96399974822998,
+        "LONG": 103.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 311602,
+        "SUB_DISTRICT_NAME_THA": "สามแวง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Waeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 15.008999824523926,
+        "LONG": 103.19200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 311603,
+        "SUB_DISTRICT_NAME_THA": "ตาเสา",
+        "SUB_DISTRICT_NAME_ENG": "Ta Sao",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 15.088000297546387,
+        "LONG": 103.28500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 311604,
+        "SUB_DISTRICT_NAME_THA": "บ้านตะโก",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tako",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 14.968999862670898,
+        "LONG": 103.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 311605,
+        "SUB_DISTRICT_NAME_THA": "สนวน",
+        "SUB_DISTRICT_NAME_ENG": "Sanuan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 14.932999610900879,
+        "LONG": 103.18199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 311606,
+        "SUB_DISTRICT_NAME_THA": "โคกเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Khok Lek",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 15.02299976348877,
+        "LONG": 103.2300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 311607,
+        "SUB_DISTRICT_NAME_THA": "เมืองโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Pho",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 15.041999816894531,
+        "LONG": 103.26799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 311608,
+        "SUB_DISTRICT_NAME_THA": "ห้วยราชา",
+        "SUB_DISTRICT_NAME_ENG": "Huai Racha",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3116,
+        "LAT": 14.982000350952148,
+        "LONG": 103.2030029296875
+    }
+]

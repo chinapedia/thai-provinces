@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 840301,
+        "SUB_DISTRICT_NAME_THA": "ดอนสัก",
+        "SUB_DISTRICT_NAME_ENG": "Don Sak",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8403,
+        "LAT": 9.35200023651123,
+        "LONG": 99.68299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 840302,
+        "SUB_DISTRICT_NAME_THA": "ชลคราม",
+        "SUB_DISTRICT_NAME_ENG": "Chon Khram",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8403,
+        "LAT": 9.248000144958496,
+        "LONG": 99.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 840303,
+        "SUB_DISTRICT_NAME_THA": "ไชยคราม",
+        "SUB_DISTRICT_NAME_ENG": "Chai Khram",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8403,
+        "LAT": 9.182000160217285,
+        "LONG": 99.65299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 840304,
+        "SUB_DISTRICT_NAME_THA": "ปากแพรก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Phraek",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8403,
+        "LAT": 9.133999824523926,
+        "LONG": 99.70099639892578
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520201,
+        "SUB_DISTRICT_NAME_THA": "บ้านดง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dong",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5202,
+        "LAT": 18.374000549316406,
+        "LONG": 99.70099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 520202,
+        "SUB_DISTRICT_NAME_THA": "นาสัก",
+        "SUB_DISTRICT_NAME_ENG": "Na Sak",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5202,
+        "LAT": 18.343000411987305,
+        "LONG": 99.83599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 520203,
+        "SUB_DISTRICT_NAME_THA": "จางเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Chang Nuea",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5202,
+        "LAT": 18.45599937438965,
+        "LONG": 99.94100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 520204,
+        "SUB_DISTRICT_NAME_THA": "แม่เมาะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Mo",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5202,
+        "LAT": 18.297000885009766,
+        "LONG": 99.66799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 520205,
+        "SUB_DISTRICT_NAME_THA": "สบป้าน",
+        "SUB_DISTRICT_NAME_ENG": "Sop Pat",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5202,
+        "LAT": 18.25,
+        "LONG": 99.80699920654297
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 480401,
+        "SUB_DISTRICT_NAME_THA": "บ้านแพง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phaeng",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4804,
+        "LAT": 17.966999053955078,
+        "LONG": 104.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 480402,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ล้อม",
+        "SUB_DISTRICT_NAME_ENG": "Phai Lom",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4804,
+        "LAT": 17.98900032043457,
+        "LONG": 104.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 480403,
+        "SUB_DISTRICT_NAME_THA": "โพนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Thong",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4804,
+        "LAT": 17.875999450683594,
+        "LONG": 104.21700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 480404,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4804,
+        "LAT": 17.78499984741211,
+        "LONG": 104.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 480408,
+        "SUB_DISTRICT_NAME_THA": "นางัว",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngua",
+        "PROVINCE_ID": 48,
+        "DISTRICT_ID": 4804,
+        "LAT": 17.94300079345703,
+        "LONG": 104.18199920654297
+    }
+]

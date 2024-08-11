@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 270601,
+        "SUB_DISTRICT_NAME_THA": "อรัญประเทศ",
+        "SUB_DISTRICT_NAME_ENG": "Aranya Prathet",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.680000305175781,
+        "LONG": 102.51699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 270602,
+        "SUB_DISTRICT_NAME_THA": "เมืองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Phai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.651000022888184,
+        "LONG": 102.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 270603,
+        "SUB_DISTRICT_NAME_THA": "หันทราย",
+        "SUB_DISTRICT_NAME_ENG": "Han Sai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.805999755859375,
+        "LONG": 102.4520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 270604,
+        "SUB_DISTRICT_NAME_THA": "คลองน้ำใส",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Nam Sai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.59000015258789,
+        "LONG": 102.51399993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 270605,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.638999938964844,
+        "LONG": 102.53099822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 270606,
+        "SUB_DISTRICT_NAME_THA": "ป่าไร่",
+        "SUB_DISTRICT_NAME_ENG": "Pa Rai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.744999885559082,
+        "LONG": 102.58499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 270607,
+        "SUB_DISTRICT_NAME_THA": "ทับพริก",
+        "SUB_DISTRICT_NAME_ENG": "Thap Phrik",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.505999565124512,
+        "LONG": 102.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 270608,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่หนองไทร",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai Nong Sai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.71500015258789,
+        "LONG": 102.51000213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 270609,
+        "SUB_DISTRICT_NAME_THA": "ผ่านศึก",
+        "SUB_DISTRICT_NAME_ENG": "Phan Suek",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.592000007629395,
+        "LONG": 102.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 270610,
+        "SUB_DISTRICT_NAME_THA": "หนองสังข์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sang",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.803999900817871,
+        "LONG": 102.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 270611,
+        "SUB_DISTRICT_NAME_THA": "คลองทับจันทร์",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Thap Chan",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.642999649047852,
+        "LONG": 102.38700103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 270612,
+        "SUB_DISTRICT_NAME_THA": "ฟากห้วย",
+        "SUB_DISTRICT_NAME_ENG": "Fak Huai",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.645999908447266,
+        "LONG": 102.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 270613,
+        "SUB_DISTRICT_NAME_THA": "บ้านด่าน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Dan",
+        "PROVINCE_ID": 27,
+        "DISTRICT_ID": 2706,
+        "LAT": 13.746000289916992,
+        "LONG": 102.5260009765625
+    }
+]

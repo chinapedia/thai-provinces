@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600401,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.850000381469727,
+        "LONG": 100.65399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 600402,
+        "SUB_DISTRICT_NAME_THA": "หนองกลับ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Klap",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.923999786376953,
+        "LONG": 100.61399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 600403,
+        "SUB_DISTRICT_NAME_THA": "ธารทหาร",
+        "SUB_DISTRICT_NAME_ENG": "Than Thahan",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.786999702453613,
+        "LONG": 100.54900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 600404,
+        "SUB_DISTRICT_NAME_THA": "ห้วยร่วม",
+        "SUB_DISTRICT_NAME_ENG": "Huai Ruam",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.907999992370605,
+        "LONG": 100.49400329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 600405,
+        "SUB_DISTRICT_NAME_THA": "ห้วยถั่วใต้",
+        "SUB_DISTRICT_NAME_ENG": "Huai Thua Tai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.836999893188477,
+        "LONG": 100.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 600406,
+        "SUB_DISTRICT_NAME_THA": "ห้วยถั่วเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Huai Thua Nuea",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.854999542236328,
+        "LONG": 100.50399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 600407,
+        "SUB_DISTRICT_NAME_THA": "ห้วยใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Huai Yai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.86400032043457,
+        "LONG": 100.42900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 600408,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Thong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.937000274658203,
+        "LONG": 100.71299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 600409,
+        "SUB_DISTRICT_NAME_THA": "วังบ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Bo",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6004,
+        "LAT": 15.782999992370605,
+        "LONG": 100.64900207519531
+    }
+]

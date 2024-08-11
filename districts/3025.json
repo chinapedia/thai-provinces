@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302501,
+        "SUB_DISTRICT_NAME_THA": "วังน้ำเขียว",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nam Khiao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3025,
+        "LAT": 14.39900016784668,
+        "LONG": 101.81700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 302502,
+        "SUB_DISTRICT_NAME_THA": "วังหมี",
+        "SUB_DISTRICT_NAME_ENG": "Wang Mi",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3025,
+        "LAT": 14.473999977111816,
+        "LONG": 101.76899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 302503,
+        "SUB_DISTRICT_NAME_THA": "ระเริง",
+        "SUB_DISTRICT_NAME_ENG": "Raroeng",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3025,
+        "LAT": 14.574000358581543,
+        "LONG": 101.73100280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 302504,
+        "SUB_DISTRICT_NAME_THA": "อุดมทรัพย์",
+        "SUB_DISTRICT_NAME_ENG": "Udom Sap",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3025,
+        "LAT": 14.489999771118164,
+        "LONG": 101.96900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 302505,
+        "SUB_DISTRICT_NAME_THA": "ไทยสามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Thai Samakkhi",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3025,
+        "LAT": 14.352999687194824,
+        "LONG": 101.96600341796875
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 841701,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.062000274658203,
+        "LONG": 99.21800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 841702,
+        "SUB_DISTRICT_NAME_THA": "ท่าสะท้อน",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sathon",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 8.994000434875488,
+        "LONG": 99.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 841703,
+        "SUB_DISTRICT_NAME_THA": "ลีเล็ด",
+        "SUB_DISTRICT_NAME_ENG": "Li Let",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.20300006866455,
+        "LONG": 99.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 841704,
+        "SUB_DISTRICT_NAME_THA": "บางมะเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Maduea",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.031000137329102,
+        "LONG": 99.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 841705,
+        "SUB_DISTRICT_NAME_THA": "บางเดือน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Duean",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.026000022888184,
+        "LONG": 99.08699798583984
+    },
+    {
+        "SUB_DISTRICT_ID": 841706,
+        "SUB_DISTRICT_NAME_THA": "ท่าโรงช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Rong Chang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.031000137329102,
+        "LONG": 99.17500305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 841707,
+        "SUB_DISTRICT_NAME_THA": "กรูด",
+        "SUB_DISTRICT_NAME_ENG": "Krut",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 8.949000358581543,
+        "LONG": 99.1259994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 841708,
+        "SUB_DISTRICT_NAME_THA": "พุนพิน",
+        "SUB_DISTRICT_NAME_ENG": "Phunphin",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.125,
+        "LONG": 99.1989974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 841709,
+        "SUB_DISTRICT_NAME_THA": "บางงอน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ngon",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.116000175476074,
+        "LONG": 99.05999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 841710,
+        "SUB_DISTRICT_NAME_THA": "ศรีวิชัย",
+        "SUB_DISTRICT_NAME_ENG": "Si Wichai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.161999702453613,
+        "LONG": 99.21299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 841711,
+        "SUB_DISTRICT_NAME_THA": "น้ำรอบ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Rop",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.098999977111816,
+        "LONG": 99.11199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 841712,
+        "SUB_DISTRICT_NAME_THA": "มะลวน",
+        "SUB_DISTRICT_NAME_ENG": "Maluan",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.166000366210938,
+        "LONG": 99.10600280761719
+    },
+    {
+        "SUB_DISTRICT_ID": 841713,
+        "SUB_DISTRICT_NAME_THA": "หัวเตย",
+        "SUB_DISTRICT_NAME_ENG": "Hua Toei",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.13599967956543,
+        "LONG": 99.16300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 841714,
+        "SUB_DISTRICT_NAME_THA": "หนองไทร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.095999717712402,
+        "LONG": 99.15899658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 841715,
+        "SUB_DISTRICT_NAME_THA": "เขาหัวควาย",
+        "SUB_DISTRICT_NAME_ENG": "Khao Hua Khwai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 9.038999557495117,
+        "LONG": 99.26699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 841716,
+        "SUB_DISTRICT_NAME_THA": "ตะปาน",
+        "SUB_DISTRICT_NAME_ENG": "Tapan",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8417,
+        "LAT": 8.866000175476074,
+        "LONG": 99.08699798583984
+    }
+]

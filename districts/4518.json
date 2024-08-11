@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 451801,
+        "SUB_DISTRICT_NAME_THA": "เชียงขวัญ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4518,
+        "LAT": 16.19099998474121,
+        "LONG": 103.7239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 451802,
+        "SUB_DISTRICT_NAME_THA": "พลับพลา",
+        "SUB_DISTRICT_NAME_ENG": "Phlapphla",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4518,
+        "LAT": 16.135000228881836,
+        "LONG": 103.78199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 451803,
+        "SUB_DISTRICT_NAME_THA": "พระธาตุ",
+        "SUB_DISTRICT_NAME_ENG": "Phrathat",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4518,
+        "LAT": 16.15999984741211,
+        "LONG": 103.76899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 451804,
+        "SUB_DISTRICT_NAME_THA": "พระเจ้า",
+        "SUB_DISTRICT_NAME_ENG": "Phrachao",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4518,
+        "LAT": 16.128000259399414,
+        "LONG": 103.74099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 451805,
+        "SUB_DISTRICT_NAME_THA": "หมูม้น",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4518,
+        "LAT": 16.10099983215332,
+        "LONG": 103.70500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 451806,
+        "SUB_DISTRICT_NAME_THA": "บ้านเขือง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4518,
+        "LAT": 16.149999618530273,
+        "LONG": 103.70999908447266
+    }
+]

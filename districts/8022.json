@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 802201,
+        "SUB_DISTRICT_NAME_THA": "ช้างกลาง",
+        "SUB_DISTRICT_NAME_ENG": "Chang Klang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8022,
+        "LAT": 8.336000442504883,
+        "LONG": 99.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 802202,
+        "SUB_DISTRICT_NAME_THA": "หลักช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Lak Chang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8022,
+        "LAT": 8.354000091552734,
+        "LONG": 99.53500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 802203,
+        "SUB_DISTRICT_NAME_THA": "สวนขัน",
+        "SUB_DISTRICT_NAME_ENG": "Suan Khan",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8022,
+        "LAT": 8.416000366210938,
+        "LONG": 99.64299774169922
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 930901,
+        "SUB_DISTRICT_NAME_THA": "ท่ามะเดื่อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Maduea",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9309,
+        "LAT": 7.451000213623047,
+        "LONG": 100.15699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 930902,
+        "SUB_DISTRICT_NAME_THA": "นาปะขอ",
+        "SUB_DISTRICT_NAME_ENG": "Na Pakho",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9309,
+        "LAT": 7.434999942779541,
+        "LONG": 100.1969985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 930903,
+        "SUB_DISTRICT_NAME_THA": "โคกสัก",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sak",
+        "PROVINCE_ID": 93,
+        "DISTRICT_ID": 9309,
+        "LAT": 7.389999866485596,
+        "LONG": 100.1449966430664
+    }
+]

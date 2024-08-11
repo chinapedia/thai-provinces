@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 460701,
+        "SUB_DISTRICT_NAME_THA": "ยางตลาด",
+        "SUB_DISTRICT_NAME_ENG": "Yang Talat",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.39299964904785,
+        "LONG": 103.35199737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 460702,
+        "SUB_DISTRICT_NAME_THA": "หัวงัว",
+        "SUB_DISTRICT_NAME_ENG": "Hua Ngua",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.336999893188477,
+        "LONG": 103.44599914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 460703,
+        "SUB_DISTRICT_NAME_THA": "อุ่มเม่า",
+        "SUB_DISTRICT_NAME_ENG": "Um Mao",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.398000717163086,
+        "LONG": 103.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 460704,
+        "SUB_DISTRICT_NAME_THA": "บัวบาน",
+        "SUB_DISTRICT_NAME_ENG": "Bua Ban",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.479000091552734,
+        "LONG": 103.41600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 460705,
+        "SUB_DISTRICT_NAME_THA": "เว่อ",
+        "SUB_DISTRICT_NAME_ENG": "Woe",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.542999267578125,
+        "LONG": 103.35099792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 460706,
+        "SUB_DISTRICT_NAME_THA": "อิตื้อ",
+        "SUB_DISTRICT_NAME_ENG": "I Tue",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.464000701904297,
+        "LONG": 103.26200103759766
+    },
+    {
+        "SUB_DISTRICT_ID": 460707,
+        "SUB_DISTRICT_NAME_THA": "หัวนาคำ",
+        "SUB_DISTRICT_NAME_ENG": "Hua Na Kham",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.392000198364258,
+        "LONG": 103.22699737548828
+    },
+    {
+        "SUB_DISTRICT_ID": 460708,
+        "SUB_DISTRICT_NAME_THA": "หนองอีเฒ่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong I Thao",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.339000701904297,
+        "LONG": 103.37100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 460709,
+        "SUB_DISTRICT_NAME_THA": "ดอนสมบูรณ์",
+        "SUB_DISTRICT_NAME_ENG": "Don Sombun",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.437000274658203,
+        "LONG": 103.40599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 460710,
+        "SUB_DISTRICT_NAME_THA": "นาเชือก",
+        "SUB_DISTRICT_NAME_ENG": "Na Chueak",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.55699920654297,
+        "LONG": 103.41500091552734
+    },
+    {
+        "SUB_DISTRICT_ID": 460711,
+        "SUB_DISTRICT_NAME_THA": "คลองขาม",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Kham",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.45599937438965,
+        "LONG": 103.33799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 460712,
+        "SUB_DISTRICT_NAME_THA": "เขาพระนอน",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phra Non",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.52899932861328,
+        "LONG": 103.37999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 460713,
+        "SUB_DISTRICT_NAME_THA": "นาดี",
+        "SUB_DISTRICT_NAME_ENG": "Na Di",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.361000061035156,
+        "LONG": 103.4739990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 460714,
+        "SUB_DISTRICT_NAME_THA": "โนนสูง",
+        "SUB_DISTRICT_NAME_ENG": "Non Sung",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.464000701904297,
+        "LONG": 103.20700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 460715,
+        "SUB_DISTRICT_NAME_THA": "หนองตอกแป้น",
+        "SUB_DISTRICT_NAME_ENG": "Nong Tok Paen",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4607,
+        "LAT": 16.319000244140625,
+        "LONG": 103.40599822998047
+    }
+]

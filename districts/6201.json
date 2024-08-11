@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 620101,
+        "SUB_DISTRICT_NAME_THA": "ในเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nai Mueang",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.472999572753906,
+        "LONG": 99.52799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 620102,
+        "SUB_DISTRICT_NAME_THA": "ไตรตรึงษ์",
+        "SUB_DISTRICT_NAME_ENG": "Trai Trueng",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.327999114990234,
+        "LONG": 99.5530014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 620103,
+        "SUB_DISTRICT_NAME_THA": "อ่างทอง",
+        "SUB_DISTRICT_NAME_ENG": "Ang Thong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.267000198364258,
+        "LONG": 99.46499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 620104,
+        "SUB_DISTRICT_NAME_THA": "นาบ่อคำ",
+        "SUB_DISTRICT_NAME_ENG": "Na Bo Kham",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.45800018310547,
+        "LONG": 99.32099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 620105,
+        "SUB_DISTRICT_NAME_THA": "นครชุม",
+        "SUB_DISTRICT_NAME_ENG": "Nakhon Chum",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.489999771118164,
+        "LONG": 99.45700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 620106,
+        "SUB_DISTRICT_NAME_THA": "ทรงธรรม",
+        "SUB_DISTRICT_NAME_ENG": "Songtham",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.530000686645508,
+        "LONG": 99.4540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 620107,
+        "SUB_DISTRICT_NAME_THA": "ลานดอกไม้",
+        "SUB_DISTRICT_NAME_ENG": "Lan Dokmai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.634000778198242,
+        "LONG": 99.44000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 620110,
+        "SUB_DISTRICT_NAME_THA": "หนองปลิง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pling",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.56599998474121,
+        "LONG": 99.52100372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 620111,
+        "SUB_DISTRICT_NAME_THA": "คณฑี",
+        "SUB_DISTRICT_NAME_ENG": "Kon Ti",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.367000579833984,
+        "LONG": 99.69499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 620112,
+        "SUB_DISTRICT_NAME_THA": "นิคมทุ่งโพธิ์ทะเล",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Thung Pho Thale",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.485000610351562,
+        "LONG": 99.7030029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 620113,
+        "SUB_DISTRICT_NAME_THA": "เทพนคร",
+        "SUB_DISTRICT_NAME_ENG": "Thep Nakhon",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.427000045776367,
+        "LONG": 99.61100006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 620114,
+        "SUB_DISTRICT_NAME_THA": "วังทอง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.270000457763672,
+        "LONG": 99.3759994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 620115,
+        "SUB_DISTRICT_NAME_THA": "ท่าขุนราม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khun Ram",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.451000213623047,
+        "LONG": 99.4520034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 620117,
+        "SUB_DISTRICT_NAME_THA": "คลองแม่ลาย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Mae Lai",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.375,
+        "LONG": 99.41000366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 620118,
+        "SUB_DISTRICT_NAME_THA": "ธำมรงค์",
+        "SUB_DISTRICT_NAME_ENG": "Thammarong",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.329999923706055,
+        "LONG": 99.62799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 620119,
+        "SUB_DISTRICT_NAME_THA": "สระแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Sa Kaeo",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6201,
+        "LAT": 16.520999908447266,
+        "LONG": 99.58999633789062
+    }
+]

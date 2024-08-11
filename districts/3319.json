@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 331901,
+        "SUB_DISTRICT_NAME_THA": "เสียว",
+        "SUB_DISTRICT_NAME_ENG": "Siao",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3319,
+        "LAT": 14.798999786376953,
+        "LONG": 104.66799926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 331902,
+        "SUB_DISTRICT_NAME_THA": "หนองหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Wa",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3319,
+        "LAT": 14.753999710083008,
+        "LONG": 104.72200012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 331903,
+        "SUB_DISTRICT_NAME_THA": "หนองงูเหลือม",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ngu Lueam",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3319,
+        "LAT": 14.836000442504883,
+        "LONG": 104.65299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 331904,
+        "SUB_DISTRICT_NAME_THA": "หนองฮาง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hang",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3319,
+        "LAT": 14.777999877929688,
+        "LONG": 104.59400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 331905,
+        "SUB_DISTRICT_NAME_THA": "ท่าคล้อ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khlo",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3319,
+        "LAT": 14.76099967956543,
+        "LONG": 104.78299713134766
+    }
+]

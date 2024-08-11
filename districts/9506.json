@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 950601,
+        "SUB_DISTRICT_NAME_THA": "กายูบอเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Kayu Boko",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.47599983215332,
+        "LONG": 101.41300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 950602,
+        "SUB_DISTRICT_NAME_THA": "กาลูปัง",
+        "SUB_DISTRICT_NAME_ENG": "Kalupang",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.464000225067139,
+        "LONG": 101.3740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 950603,
+        "SUB_DISTRICT_NAME_THA": "กาลอ",
+        "SUB_DISTRICT_NAME_ENG": "Kalo",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.377999782562256,
+        "LONG": 101.38300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 950604,
+        "SUB_DISTRICT_NAME_THA": "กอตอตือร๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Koto Tuera",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.5,
+        "LONG": 101.38899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 950605,
+        "SUB_DISTRICT_NAME_THA": "โกตาบารู",
+        "SUB_DISTRICT_NAME_ENG": "Kota Baru",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.452000141143799,
+        "LONG": 101.34500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 950606,
+        "SUB_DISTRICT_NAME_THA": "เกะรอ",
+        "SUB_DISTRICT_NAME_ENG": "Ke Ro",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.534999847412109,
+        "LONG": 101.57599639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 950607,
+        "SUB_DISTRICT_NAME_THA": "จะกว๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Cha Kwua",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.498000144958496,
+        "LONG": 101.53600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 950608,
+        "SUB_DISTRICT_NAME_THA": "ท่าธง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Thong",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.565000057220459,
+        "LONG": 101.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 950609,
+        "SUB_DISTRICT_NAME_THA": "เนินงาม",
+        "SUB_DISTRICT_NAME_ENG": "Noen Ngam",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.507999897003174,
+        "LONG": 101.34700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 950610,
+        "SUB_DISTRICT_NAME_THA": "บาลอ",
+        "SUB_DISTRICT_NAME_ENG": "Balo",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.447999954223633,
+        "LONG": 101.44499969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 950611,
+        "SUB_DISTRICT_NAME_THA": "บาโงย",
+        "SUB_DISTRICT_NAME_ENG": "Ba-Ngoi",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.4730000495910645,
+        "LONG": 101.3489990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 950612,
+        "SUB_DISTRICT_NAME_THA": "บือมัง",
+        "SUB_DISTRICT_NAME_ENG": "Buemang",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.410999774932861,
+        "LONG": 101.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 950613,
+        "SUB_DISTRICT_NAME_THA": "ยะต๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Yata",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.426000118255615,
+        "LONG": 101.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 950614,
+        "SUB_DISTRICT_NAME_THA": "วังพญา",
+        "SUB_DISTRICT_NAME_ENG": "Wang Phaya",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.544000148773193,
+        "LONG": 101.375
+    },
+    {
+        "SUB_DISTRICT_ID": 950615,
+        "SUB_DISTRICT_NAME_THA": "อาซ่อง",
+        "SUB_DISTRICT_NAME_ENG": "A Song",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.519999980926514,
+        "LONG": 101.45099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 950616,
+        "SUB_DISTRICT_NAME_THA": "ตะโล๊ะหะลอ",
+        "SUB_DISTRICT_NAME_ENG": "Talo Halo",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9506,
+        "LAT": 6.479000091552734,
+        "LONG": 101.48500061035156
+    }
+]

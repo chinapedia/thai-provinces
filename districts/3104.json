@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 310401,
+        "SUB_DISTRICT_NAME_THA": "นางรอง",
+        "SUB_DISTRICT_NAME_ENG": "Nang Rong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.67300033569336,
+        "LONG": 102.80599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 310403,
+        "SUB_DISTRICT_NAME_THA": "สะเดา",
+        "SUB_DISTRICT_NAME_ENG": "Sadao",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.57699966430664,
+        "LONG": 102.7699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 310405,
+        "SUB_DISTRICT_NAME_THA": "ชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Saeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.560999870300293,
+        "LONG": 102.66600036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 310406,
+        "SUB_DISTRICT_NAME_THA": "หนองโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bot",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.612000465393066,
+        "LONG": 102.69100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 310408,
+        "SUB_DISTRICT_NAME_THA": "หนองกง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.673999786376953,
+        "LONG": 102.89600372314453
+    },
+    {
+        "SUB_DISTRICT_ID": 310413,
+        "SUB_DISTRICT_NAME_THA": "ถนนหัก",
+        "SUB_DISTRICT_NAME_ENG": "Thanon Hak",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.616000175476074,
+        "LONG": 102.83300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 310414,
+        "SUB_DISTRICT_NAME_THA": "หนองไทร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.49899959564209,
+        "LONG": 102.75700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 310415,
+        "SUB_DISTRICT_NAME_THA": "ก้านเหลือง",
+        "SUB_DISTRICT_NAME_ENG": "Kan Lueang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.729999542236328,
+        "LONG": 102.71099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 310416,
+        "SUB_DISTRICT_NAME_THA": "บ้านสิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sing",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.734999656677246,
+        "LONG": 102.78900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 310417,
+        "SUB_DISTRICT_NAME_THA": "ลำไทรโยง",
+        "SUB_DISTRICT_NAME_ENG": "Lam Sai Yong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.664999961853027,
+        "LONG": 102.73500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 310418,
+        "SUB_DISTRICT_NAME_THA": "ทรัพย์พระยา",
+        "SUB_DISTRICT_NAME_ENG": "Sap Phraya",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.515999794006348,
+        "LONG": 102.66200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 310424,
+        "SUB_DISTRICT_NAME_THA": "หนองยายพิมพ์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yai Phim",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.6899995803833,
+        "LONG": 102.86299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 310425,
+        "SUB_DISTRICT_NAME_THA": "หัวถนน",
+        "SUB_DISTRICT_NAME_ENG": "Hua Thanon",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.66100025177002,
+        "LONG": 102.64800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 310426,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งแสงทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Saeng Thong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.581000328063965,
+        "LONG": 102.70500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 310427,
+        "SUB_DISTRICT_NAME_THA": "หนองโสน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sano",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3104,
+        "LAT": 14.737000465393066,
+        "LONG": 102.93399810791016
+    }
+]

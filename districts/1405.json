@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 140501,
+        "SUB_DISTRICT_NAME_THA": "บางบาล",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ban",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.40999984741211,
+        "LONG": 100.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 140502,
+        "SUB_DISTRICT_NAME_THA": "วัดยม",
+        "SUB_DISTRICT_NAME_ENG": "Wat Yom",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.390000343322754,
+        "LONG": 100.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 140503,
+        "SUB_DISTRICT_NAME_THA": "ไทรน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Sai Noi",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.406999588012695,
+        "LONG": 100.48600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 140504,
+        "SUB_DISTRICT_NAME_THA": "สะพานไทย",
+        "SUB_DISTRICT_NAME_ENG": "Saphan Thai",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.36299991607666,
+        "LONG": 100.48600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 140505,
+        "SUB_DISTRICT_NAME_THA": "มหาพราหมณ์",
+        "SUB_DISTRICT_NAME_ENG": "Mahaphram",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.36400032043457,
+        "LONG": 100.50499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 140506,
+        "SUB_DISTRICT_NAME_THA": "กบเจา",
+        "SUB_DISTRICT_NAME_ENG": "Kop Chao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.347000122070312,
+        "LONG": 100.48500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 140507,
+        "SUB_DISTRICT_NAME_THA": "บ้านคลัง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khlang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.347000122070312,
+        "LONG": 100.45700073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 140508,
+        "SUB_DISTRICT_NAME_THA": "พระขาว",
+        "SUB_DISTRICT_NAME_ENG": "Phra Khao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.32800006866455,
+        "LONG": 100.48200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 140509,
+        "SUB_DISTRICT_NAME_THA": "น้ำเต้า",
+        "SUB_DISTRICT_NAME_ENG": "Namtao",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.33899974822998,
+        "LONG": 100.43800354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 140510,
+        "SUB_DISTRICT_NAME_THA": "ทางช้าง",
+        "SUB_DISTRICT_NAME_ENG": "Thang Chang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.375,
+        "LONG": 100.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 140511,
+        "SUB_DISTRICT_NAME_THA": "วัดตะกู",
+        "SUB_DISTRICT_NAME_ENG": "Wat Taku",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.387999534606934,
+        "LONG": 100.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 140512,
+        "SUB_DISTRICT_NAME_THA": "บางหลวง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Luang",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.402999877929688,
+        "LONG": 100.43299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 140513,
+        "SUB_DISTRICT_NAME_THA": "บางหลวงโดด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Luang Dot",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.418999671936035,
+        "LONG": 100.43000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 140514,
+        "SUB_DISTRICT_NAME_THA": "บางหัก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Hak",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.435999870300293,
+        "LONG": 100.43900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 140515,
+        "SUB_DISTRICT_NAME_THA": "บางชะนี",
+        "SUB_DISTRICT_NAME_ENG": "Bang Chani",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.428999900817871,
+        "LONG": 100.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 140516,
+        "SUB_DISTRICT_NAME_THA": "บ้านกุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kum",
+        "PROVINCE_ID": 14,
+        "DISTRICT_ID": 1405,
+        "LAT": 14.435999870300293,
+        "LONG": 100.49199676513672
+    }
+]

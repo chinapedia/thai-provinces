@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 190601,
+        "SUB_DISTRICT_NAME_THA": "บ้านหมอ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mo",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.616000175476074,
+        "LONG": 100.7239990234375
+    },
+    {
+        "SUB_DISTRICT_ID": 190602,
+        "SUB_DISTRICT_NAME_THA": "บางโขมด",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khamot",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.590999603271484,
+        "LONG": 100.74199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 190603,
+        "SUB_DISTRICT_NAME_THA": "สร้างโศก",
+        "SUB_DISTRICT_NAME_ENG": "Sang Sok",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.621999740600586,
+        "LONG": 100.75399780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 190604,
+        "SUB_DISTRICT_NAME_THA": "ตลาดน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Talat Noi",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.642999649047852,
+        "LONG": 100.71600341796875
+    },
+    {
+        "SUB_DISTRICT_ID": 190605,
+        "SUB_DISTRICT_NAME_THA": "หรเทพ",
+        "SUB_DISTRICT_NAME_ENG": "Horathep",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.628000259399414,
+        "LONG": 100.66999816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 190606,
+        "SUB_DISTRICT_NAME_THA": "โคกใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Khok Yai",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.605999946594238,
+        "LONG": 100.677001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 190607,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Phai Khwang",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.579000473022461,
+        "LONG": 100.64800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 190608,
+        "SUB_DISTRICT_NAME_THA": "บ้านครัว",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khrua",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.583999633789062,
+        "LONG": 100.76699829101562
+    },
+    {
+        "SUB_DISTRICT_ID": 190609,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 19,
+        "DISTRICT_ID": 1906,
+        "LAT": 14.618000030517578,
+        "LONG": 100.77400207519531
+    }
+]

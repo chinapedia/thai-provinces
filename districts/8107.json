@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 810701,
+        "SUB_DISTRICT_NAME_THA": "ลำทับ",
+        "SUB_DISTRICT_NAME_ENG": "Lam Thap",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8107,
+        "LAT": 7.960000038146973,
+        "LONG": 99.3479995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 810702,
+        "SUB_DISTRICT_NAME_THA": "ดินอุดม",
+        "SUB_DISTRICT_NAME_ENG": "Din Udom",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8107,
+        "LAT": 8.100000381469727,
+        "LONG": 99.35800170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 810703,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งไทรทอง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Sai Thong",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8107,
+        "LAT": 8.003999710083008,
+        "LONG": 99.31099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 810704,
+        "SUB_DISTRICT_NAME_THA": "ดินแดง",
+        "SUB_DISTRICT_NAME_ENG": "Din Daeng",
+        "PROVINCE_ID": 81,
+        "DISTRICT_ID": 8107,
+        "LAT": 8.01099967956543,
+        "LONG": 99.37300109863281
+    }
+]

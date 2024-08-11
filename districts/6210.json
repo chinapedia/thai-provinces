@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 621001,
+        "SUB_DISTRICT_NAME_THA": "บึงสามัคคี",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Samakkhi",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6210,
+        "LAT": 16.28499984741211,
+        "LONG": 99.98500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 621002,
+        "SUB_DISTRICT_NAME_THA": "วังชะโอน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Cha-On",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6210,
+        "LAT": 16.232999801635742,
+        "LONG": 99.9260025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 621003,
+        "SUB_DISTRICT_NAME_THA": "ระหาน",
+        "SUB_DISTRICT_NAME_ENG": "Rahan",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6210,
+        "LAT": 16.158000946044922,
+        "LONG": 99.94100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 621004,
+        "SUB_DISTRICT_NAME_THA": "เทพนิมิต",
+        "SUB_DISTRICT_NAME_ENG": "Thep Nimit",
+        "PROVINCE_ID": 62,
+        "DISTRICT_ID": 6210,
+        "LAT": 16.18199920654297,
+        "LONG": 99.91400146484375
+    }
+]

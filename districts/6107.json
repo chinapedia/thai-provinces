@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 610701,
+        "SUB_DISTRICT_NAME_THA": "ลานสัก",
+        "SUB_DISTRICT_NAME_ENG": "Lan Sak",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6107,
+        "LAT": 15.486000061035156,
+        "LONG": 99.54399871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 610702,
+        "SUB_DISTRICT_NAME_THA": "ประดู่ยืน",
+        "SUB_DISTRICT_NAME_ENG": "Pradu Yuen",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6107,
+        "LAT": 15.45199966430664,
+        "LONG": 99.64299774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 610703,
+        "SUB_DISTRICT_NAME_THA": "ป่าอ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Pa O",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6107,
+        "LAT": 15.407999992370605,
+        "LONG": 99.51899719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 610704,
+        "SUB_DISTRICT_NAME_THA": "ระบำ",
+        "SUB_DISTRICT_NAME_ENG": "Rabam",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6107,
+        "LAT": 15.538000106811523,
+        "LONG": 99.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 610705,
+        "SUB_DISTRICT_NAME_THA": "น้ำรอบ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Rop",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6107,
+        "LAT": 15.534000396728516,
+        "LONG": 99.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 610706,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งนางาม",
+        "SUB_DISTRICT_NAME_ENG": "Thung Na Ngam",
+        "PROVINCE_ID": 61,
+        "DISTRICT_ID": 6107,
+        "LAT": 15.385000228881836,
+        "LONG": 99.61000061035156
+    }
+]

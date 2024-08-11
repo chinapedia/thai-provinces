@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 451901,
+        "SUB_DISTRICT_NAME_THA": "หนองฮี",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hi",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4519,
+        "LAT": 15.621000289916992,
+        "LONG": 104.0
+    },
+    {
+        "SUB_DISTRICT_ID": 451902,
+        "SUB_DISTRICT_NAME_THA": "สาวแห",
+        "SUB_DISTRICT_NAME_ENG": "Sao Hae",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4519,
+        "LAT": 15.550000190734863,
+        "LONG": 104.06199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 451903,
+        "SUB_DISTRICT_NAME_THA": "ดูกอึ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Duk Ueng",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4519,
+        "LAT": 15.559000015258789,
+        "LONG": 104.01599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 451904,
+        "SUB_DISTRICT_NAME_THA": "เด่นราษฎร์",
+        "SUB_DISTRICT_NAME_ENG": "Den Rat",
+        "PROVINCE_ID": 45,
+        "DISTRICT_ID": 4519,
+        "LAT": 15.581999778747559,
+        "LONG": 103.96499633789062
+    }
+]

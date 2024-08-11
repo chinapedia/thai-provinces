@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 950401,
+        "SUB_DISTRICT_NAME_THA": "ธารโต",
+        "SUB_DISTRICT_NAME_ENG": "Than To",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9504,
+        "LAT": 6.166999816894531,
+        "LONG": 101.18699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 950402,
+        "SUB_DISTRICT_NAME_THA": "บ้านแหร",
+        "SUB_DISTRICT_NAME_ENG": "Ban Rae",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9504,
+        "LAT": 6.105000019073486,
+        "LONG": 101.2040023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 950403,
+        "SUB_DISTRICT_NAME_THA": "แม่หวาด",
+        "SUB_DISTRICT_NAME_ENG": "Mae Wat",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9504,
+        "LAT": 6.1020002365112305,
+        "LONG": 101.38400268554688
+    },
+    {
+        "SUB_DISTRICT_ID": 950404,
+        "SUB_DISTRICT_NAME_THA": "คีรีเขต",
+        "SUB_DISTRICT_NAME_ENG": "Khiri Khet",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9504,
+        "LAT": 6.1529998779296875,
+        "LONG": 101.11599731445312
+    }
+]

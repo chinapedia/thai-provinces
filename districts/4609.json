@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 460902,
+        "SUB_DISTRICT_NAME_THA": "สหัสขันธ์",
+        "SUB_DISTRICT_NAME_ENG": "Sahatsakhan",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4609,
+        "LAT": 16.72800064086914,
+        "LONG": 103.55000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 460903,
+        "SUB_DISTRICT_NAME_THA": "นามะเขือ",
+        "SUB_DISTRICT_NAME_ENG": "Na Makhuea",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4609,
+        "LAT": 16.67799949645996,
+        "LONG": 103.63800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 460904,
+        "SUB_DISTRICT_NAME_THA": "โนนศิลา",
+        "SUB_DISTRICT_NAME_ENG": "Non Sila",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4609,
+        "LAT": 16.799999237060547,
+        "LONG": 103.6050033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 460905,
+        "SUB_DISTRICT_NAME_THA": "นิคม",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4609,
+        "LAT": 16.677000045776367,
+        "LONG": 103.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 460906,
+        "SUB_DISTRICT_NAME_THA": "โนนแหลมทอง",
+        "SUB_DISTRICT_NAME_ENG": "Non Laem Thong",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4609,
+        "LAT": 16.750999450683594,
+        "LONG": 103.61900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 460907,
+        "SUB_DISTRICT_NAME_THA": "โนนบุรี",
+        "SUB_DISTRICT_NAME_ENG": "Non Buri",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4609,
+        "LAT": 16.70599937438965,
+        "LONG": 103.49099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 460908,
+        "SUB_DISTRICT_NAME_THA": "โนนน้ำเกลี้ยง",
+        "SUB_DISTRICT_NAME_ENG": "Non Nam Kliang",
+        "PROVINCE_ID": 46,
+        "DISTRICT_ID": 4609,
+        "LAT": 16.683000564575195,
+        "LONG": 103.53800201416016
+    }
+]

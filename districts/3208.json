@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 320801,
+        "SUB_DISTRICT_NAME_THA": "สนม",
+        "SUB_DISTRICT_NAME_ENG": "Sanom",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3208,
+        "LAT": 15.20300006866455,
+        "LONG": 103.76100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 320802,
+        "SUB_DISTRICT_NAME_THA": "โพนโก",
+        "SUB_DISTRICT_NAME_ENG": "Phon Ko",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3208,
+        "LAT": 15.25100040435791,
+        "LONG": 103.76599884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 320803,
+        "SUB_DISTRICT_NAME_THA": "หนองระฆัง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Rakhang",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3208,
+        "LAT": 15.152000427246094,
+        "LONG": 103.75499725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 320804,
+        "SUB_DISTRICT_NAME_THA": "นานวน",
+        "SUB_DISTRICT_NAME_ENG": "Na Nuan",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3208,
+        "LAT": 15.138999938964844,
+        "LONG": 103.79299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 320805,
+        "SUB_DISTRICT_NAME_THA": "แคน",
+        "SUB_DISTRICT_NAME_ENG": "Khaen",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3208,
+        "LAT": 15.170000076293945,
+        "LONG": 103.8280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 320806,
+        "SUB_DISTRICT_NAME_THA": "หัวงัว",
+        "SUB_DISTRICT_NAME_ENG": "Hua Ngua",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3208,
+        "LAT": 15.12399959564209,
+        "LONG": 103.83799743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 320807,
+        "SUB_DISTRICT_NAME_THA": "หนองอียอ",
+        "SUB_DISTRICT_NAME_ENG": "Nong I Yo",
+        "PROVINCE_ID": 32,
+        "DISTRICT_ID": 3208,
+        "LAT": 15.156999588012695,
+        "LONG": 103.71399688720703
+    }
+]

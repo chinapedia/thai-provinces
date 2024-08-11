@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311801,
+        "SUB_DISTRICT_NAME_THA": "ชำนิ",
+        "SUB_DISTRICT_NAME_ENG": "Chamni",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3118,
+        "LAT": 14.78499984741211,
+        "LONG": 102.80999755859375
+    },
+    {
+        "SUB_DISTRICT_ID": 311802,
+        "SUB_DISTRICT_NAME_THA": "หนองปล่อง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Plong",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3118,
+        "LAT": 14.743000030517578,
+        "LONG": 102.84400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 311803,
+        "SUB_DISTRICT_NAME_THA": "เมืองยาง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Yang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3118,
+        "LAT": 14.793999671936035,
+        "LONG": 102.90599822998047
+    },
+    {
+        "SUB_DISTRICT_ID": 311804,
+        "SUB_DISTRICT_NAME_THA": "ช่อผกา",
+        "SUB_DISTRICT_NAME_ENG": "Cho Phaka",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3118,
+        "LAT": 14.809000015258789,
+        "LONG": 102.78700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 311805,
+        "SUB_DISTRICT_NAME_THA": "ละลวด",
+        "SUB_DISTRICT_NAME_ENG": "Laluat",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3118,
+        "LAT": 14.779999732971191,
+        "LONG": 102.74500274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 311806,
+        "SUB_DISTRICT_NAME_THA": "โคกสนวน",
+        "SUB_DISTRICT_NAME_ENG": "Khok Sanuan",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3118,
+        "LAT": 14.755000114440918,
+        "LONG": 102.88800048828125
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 210601,
+        "SUB_DISTRICT_NAME_THA": "ปลวกแดง",
+        "SUB_DISTRICT_NAME_ENG": "Pluak Daeng",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2106,
+        "LAT": 12.977999687194824,
+        "LONG": 101.22599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 210602,
+        "SUB_DISTRICT_NAME_THA": "ตาสิทธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Ta Sit",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2106,
+        "LAT": 13.038000106811523,
+        "LONG": 101.2249984741211
+    },
+    {
+        "SUB_DISTRICT_ID": 210603,
+        "SUB_DISTRICT_NAME_THA": "ละหาร",
+        "SUB_DISTRICT_NAME_ENG": "Lahan",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2106,
+        "LAT": 12.972999572753906,
+        "LONG": 101.31099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 210604,
+        "SUB_DISTRICT_NAME_THA": "แม่น้ำคู้",
+        "SUB_DISTRICT_NAME_ENG": "Maenam Khu",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2106,
+        "LAT": 12.907999992370605,
+        "LONG": 101.2300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 210605,
+        "SUB_DISTRICT_NAME_THA": "มาบยางพร",
+        "SUB_DISTRICT_NAME_ENG": "Map Yang Phon",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2106,
+        "LAT": 12.970000267028809,
+        "LONG": 101.13600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 210606,
+        "SUB_DISTRICT_NAME_THA": "หนองไร่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Rai",
+        "PROVINCE_ID": 21,
+        "DISTRICT_ID": 2106,
+        "LAT": 13.038999557495117,
+        "LONG": 101.33799743652344
+    }
+]

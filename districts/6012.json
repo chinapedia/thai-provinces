@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 601201,
+        "SUB_DISTRICT_NAME_THA": "ตากฟ้า",
+        "SUB_DISTRICT_NAME_ENG": "Tak Fa",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6012,
+        "LAT": 15.312999725341797,
+        "LONG": 100.48799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 601202,
+        "SUB_DISTRICT_NAME_THA": "ลำพยนต์",
+        "SUB_DISTRICT_NAME_ENG": "Lam Phayon",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6012,
+        "LAT": 15.319999694824219,
+        "LONG": 100.572998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 601203,
+        "SUB_DISTRICT_NAME_THA": "สุขสำราญ",
+        "SUB_DISTRICT_NAME_ENG": "Suk Samran",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6012,
+        "LAT": 15.352999687194824,
+        "LONG": 100.52300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 601204,
+        "SUB_DISTRICT_NAME_THA": "หนองพิกุล",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phikun",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6012,
+        "LAT": 15.331000328063965,
+        "LONG": 100.4280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 601205,
+        "SUB_DISTRICT_NAME_THA": "พุนกยูง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Nok Yung",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6012,
+        "LAT": 15.402000427246094,
+        "LONG": 100.46700286865234
+    },
+    {
+        "SUB_DISTRICT_ID": 601206,
+        "SUB_DISTRICT_NAME_THA": "อุดมธัญญา",
+        "SUB_DISTRICT_NAME_ENG": "Udom Thanya",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6012,
+        "LAT": 15.479000091552734,
+        "LONG": 100.40699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 601207,
+        "SUB_DISTRICT_NAME_THA": "เขาชายธง",
+        "SUB_DISTRICT_NAME_ENG": "Khao Chai Thong",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6012,
+        "LAT": 15.277999877929688,
+        "LONG": 100.447998046875
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 720501,
+        "SUB_DISTRICT_NAME_THA": "ศรีประจันต์",
+        "SUB_DISTRICT_NAME_ENG": "Si Prachan",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.609000205993652,
+        "LONG": 100.17900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 720502,
+        "SUB_DISTRICT_NAME_THA": "บ้านกร่าง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Krang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.637999534606934,
+        "LONG": 100.10399627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 720503,
+        "SUB_DISTRICT_NAME_THA": "มดแดง",
+        "SUB_DISTRICT_NAME_ENG": "Mot Daeng",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.569999694824219,
+        "LONG": 100.11900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 720504,
+        "SUB_DISTRICT_NAME_THA": "บางงาม",
+        "SUB_DISTRICT_NAME_ENG": "Bang Ngam",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.60099983215332,
+        "LONG": 100.09700012207031
+    },
+    {
+        "SUB_DISTRICT_ID": 720505,
+        "SUB_DISTRICT_NAME_THA": "ดอนปรู",
+        "SUB_DISTRICT_NAME_ENG": "Don Pru",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.722000122070312,
+        "LONG": 100.19000244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 720506,
+        "SUB_DISTRICT_NAME_THA": "ปลายนา",
+        "SUB_DISTRICT_NAME_ENG": "Plai Na",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.65999984741211,
+        "LONG": 100.19999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 720507,
+        "SUB_DISTRICT_NAME_THA": "วังหว้า",
+        "SUB_DISTRICT_NAME_ENG": "Wang Wa",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.66100025177002,
+        "LONG": 100.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 720508,
+        "SUB_DISTRICT_NAME_THA": "วังน้ำซับ",
+        "SUB_DISTRICT_NAME_ENG": "Wang Nam Sap",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.649999618530273,
+        "LONG": 100.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 720509,
+        "SUB_DISTRICT_NAME_THA": "วังยาง",
+        "SUB_DISTRICT_NAME_ENG": "Wang Yang",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7205,
+        "LAT": 14.559000015258789,
+        "LONG": 100.16699981689453
+    }
+]

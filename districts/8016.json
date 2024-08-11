@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 801601,
+        "SUB_DISTRICT_NAME_THA": "หัวไทร",
+        "SUB_DISTRICT_NAME_ENG": "Hua Sai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 8.036999702453613,
+        "LONG": 100.28600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 801602,
+        "SUB_DISTRICT_NAME_THA": "หน้าสตน",
+        "SUB_DISTRICT_NAME_ENG": "Na Saton",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 7.968999862670898,
+        "LONG": 100.3219985961914
+    },
+    {
+        "SUB_DISTRICT_ID": 801603,
+        "SUB_DISTRICT_NAME_THA": "ทรายขาว",
+        "SUB_DISTRICT_NAME_ENG": "Sai Khao",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 8.039999961853027,
+        "LONG": 100.22599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 801604,
+        "SUB_DISTRICT_NAME_THA": "แหลม",
+        "SUB_DISTRICT_NAME_ENG": "Laem",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 7.96999979019165,
+        "LONG": 100.19200134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 801605,
+        "SUB_DISTRICT_NAME_THA": "เขาพังไกร",
+        "SUB_DISTRICT_NAME_ENG": "Khao Phang Krai",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 7.97599983215332,
+        "LONG": 100.27200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 801606,
+        "SUB_DISTRICT_NAME_THA": "บ้านราม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ram",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 8.081000328063965,
+        "LONG": 100.25700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 801607,
+        "SUB_DISTRICT_NAME_THA": "บางนบ",
+        "SUB_DISTRICT_NAME_ENG": "Bang Nop",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 8.104000091552734,
+        "LONG": 100.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 801608,
+        "SUB_DISTRICT_NAME_THA": "ท่าซอม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Som",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 8.145999908447266,
+        "LONG": 100.24600219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 801609,
+        "SUB_DISTRICT_NAME_THA": "ควนชะลิก",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Chalik",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 7.9070000648498535,
+        "LONG": 100.20600128173828
+    },
+    {
+        "SUB_DISTRICT_ID": 801610,
+        "SUB_DISTRICT_NAME_THA": "รามแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Ram Kaeo",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 7.932000160217285,
+        "LONG": 100.2760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 801611,
+        "SUB_DISTRICT_NAME_THA": "เกาะเพชร",
+        "SUB_DISTRICT_NAME_ENG": "Ko Phet",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8016,
+        "LAT": 8.112000465393066,
+        "LONG": 100.29100036621094
+    }
+]

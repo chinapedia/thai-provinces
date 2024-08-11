@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 430701,
+        "SUB_DISTRICT_NAME_THA": "พานพร้าว",
+        "SUB_DISTRICT_NAME_ENG": "Phan Phrao",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4307,
+        "LAT": 17.941999435424805,
+        "LONG": 102.59400177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 430703,
+        "SUB_DISTRICT_NAME_THA": "บ้านหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mo",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4307,
+        "LAT": 17.957000732421875,
+        "LONG": 102.50199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 430704,
+        "SUB_DISTRICT_NAME_THA": "พระพุทธบาท",
+        "SUB_DISTRICT_NAME_ENG": "Phraphutthabat",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4307,
+        "LAT": 17.96500015258789,
+        "LONG": 102.42400360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 430705,
+        "SUB_DISTRICT_NAME_THA": "หนองปลาปาก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pla Pak",
+        "PROVINCE_ID": 43,
+        "DISTRICT_ID": 4307,
+        "LAT": 17.913000106811523,
+        "LONG": 102.51399993896484
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 330101,
+        "SUB_DISTRICT_NAME_THA": "เมืองเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Nuea",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.102999687194824,
+        "LONG": 104.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 330103,
+        "SUB_DISTRICT_NAME_THA": "คูซอด",
+        "SUB_DISTRICT_NAME_ENG": "Khu Sot",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.213000297546387,
+        "LONG": 104.27799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 330104,
+        "SUB_DISTRICT_NAME_THA": "ซำ",
+        "SUB_DISTRICT_NAME_ENG": "Sam",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.039999961853027,
+        "LONG": 104.33200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 330105,
+        "SUB_DISTRICT_NAME_THA": "จาน",
+        "SUB_DISTRICT_NAME_ENG": "Chan",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 14.98900032043457,
+        "LONG": 104.39800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 330106,
+        "SUB_DISTRICT_NAME_THA": "ตะดอบ",
+        "SUB_DISTRICT_NAME_ENG": "Tadop",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.036999702453613,
+        "LONG": 104.43399810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 330107,
+        "SUB_DISTRICT_NAME_THA": "หนองครก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khrok",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.07800006866455,
+        "LONG": 104.29499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 330111,
+        "SUB_DISTRICT_NAME_THA": "โพนข่า",
+        "SUB_DISTRICT_NAME_ENG": "Phon Kha",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.055000305175781,
+        "LONG": 104.38500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 330112,
+        "SUB_DISTRICT_NAME_THA": "โพนค้อ",
+        "SUB_DISTRICT_NAME_ENG": "Phon Kho",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.015000343322754,
+        "LONG": 104.36900329589844
+    },
+    {
+        "SUB_DISTRICT_ID": 330116,
+        "SUB_DISTRICT_NAME_THA": "หญ้าปล้อง",
+        "SUB_DISTRICT_NAME_ENG": "Ya Plong",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.135000228881836,
+        "LONG": 104.29299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 330118,
+        "SUB_DISTRICT_NAME_THA": "ทุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Thum",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 14.979999542236328,
+        "LONG": 104.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 330119,
+        "SUB_DISTRICT_NAME_THA": "หนองไฮ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.006999969482422,
+        "LONG": 104.427001953125
+    },
+    {
+        "SUB_DISTRICT_ID": 330121,
+        "SUB_DISTRICT_NAME_THA": "หนองแก้ว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kaeo",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.095999717712402,
+        "LONG": 104.43299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 330122,
+        "SUB_DISTRICT_NAME_THA": "น้ำคำ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Kham",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.166999816894531,
+        "LONG": 104.33999633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 330123,
+        "SUB_DISTRICT_NAME_THA": "โพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Pho",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.12399959564209,
+        "LONG": 104.39399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 330124,
+        "SUB_DISTRICT_NAME_THA": "หมากเขียบ",
+        "SUB_DISTRICT_NAME_ENG": "Mak Khiap",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.050999641418457,
+        "LONG": 104.25800323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 330127,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai",
+        "PROVINCE_ID": 33,
+        "DISTRICT_ID": 3301,
+        "LAT": 15.142999649047852,
+        "LONG": 104.27100372314453
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 802101,
+        "SUB_DISTRICT_NAME_THA": "นบพิตำ",
+        "SUB_DISTRICT_NAME_ENG": "Nopphitam",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8021,
+        "LAT": 8.744000434875488,
+        "LONG": 99.77200317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 802102,
+        "SUB_DISTRICT_NAME_THA": "กรุงชิง",
+        "SUB_DISTRICT_NAME_ENG": "Krung Ching",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8021,
+        "LAT": 8.803999900817871,
+        "LONG": 99.63500213623047
+    },
+    {
+        "SUB_DISTRICT_ID": 802103,
+        "SUB_DISTRICT_NAME_THA": "กะหรอ",
+        "SUB_DISTRICT_NAME_ENG": "Karo",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8021,
+        "LAT": 8.666000366210938,
+        "LONG": 99.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 802104,
+        "SUB_DISTRICT_NAME_THA": "นาเหรง",
+        "SUB_DISTRICT_NAME_ENG": "Na Reng",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8021,
+        "LAT": 8.65999984741211,
+        "LONG": 99.74500274658203
+    }
+]

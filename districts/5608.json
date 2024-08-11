@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 560801,
+        "SUB_DISTRICT_NAME_THA": "ภูซาง",
+        "SUB_DISTRICT_NAME_ENG": "Phu Sang",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5608,
+        "LAT": 19.67099952697754,
+        "LONG": 100.37799835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 560802,
+        "SUB_DISTRICT_NAME_THA": "ป่าสัก",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sak",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5608,
+        "LAT": 19.621999740600586,
+        "LONG": 100.37000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 560803,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งกล้วย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Kluai",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5608,
+        "LAT": 19.606000900268555,
+        "LONG": 100.41699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 560804,
+        "SUB_DISTRICT_NAME_THA": "เชียงแรง",
+        "SUB_DISTRICT_NAME_ENG": "Chiang Raeng",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5608,
+        "LAT": 19.615999221801758,
+        "LONG": 100.28900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 560805,
+        "SUB_DISTRICT_NAME_THA": "สบบง",
+        "SUB_DISTRICT_NAME_ENG": "Sop Bong",
+        "PROVINCE_ID": 56,
+        "DISTRICT_ID": 5608,
+        "LAT": 19.56999969482422,
+        "LONG": 100.31700134277344
+    }
+]

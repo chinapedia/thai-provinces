@@ -1,0 +1,146 @@
+[
+    {
+        "SUB_DISTRICT_ID": 520101,
+        "SUB_DISTRICT_NAME_THA": "เวียงเหนือ สวนดอก สบตุ๋ย อยู่นอก1 ตำบล คือหัวเ*",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.290000915527344,
+        "LONG": 99.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 520105,
+        "SUB_DISTRICT_NAME_THA": "พระบาท",
+        "SUB_DISTRICT_NAME_ENG": "Phrabat",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.2549991607666,
+        "LONG": 99.51799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 520106,
+        "SUB_DISTRICT_NAME_THA": "ชมพู",
+        "SUB_DISTRICT_NAME_ENG": "Chomphu",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.253999710083008,
+        "LONG": 99.47899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 520107,
+        "SUB_DISTRICT_NAME_THA": "กล้วยแพะ",
+        "SUB_DISTRICT_NAME_ENG": "Kluai Phae",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.211000442504883,
+        "LONG": 99.50199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 520108,
+        "SUB_DISTRICT_NAME_THA": "ปงแสนทอง",
+        "SUB_DISTRICT_NAME_ENG": "Pong Saen Thong",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.26799964904785,
+        "LONG": 99.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 520109,
+        "SUB_DISTRICT_NAME_THA": "บ้านแลง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Laeng",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.525999069213867,
+        "LONG": 99.69100189208984
+    },
+    {
+        "SUB_DISTRICT_ID": 520110,
+        "SUB_DISTRICT_NAME_THA": "บ้านเสด็จ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sadet",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.392000198364258,
+        "LONG": 99.6449966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 520111,
+        "SUB_DISTRICT_NAME_THA": "พิชัย",
+        "SUB_DISTRICT_NAME_ENG": "Phichai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.31599998474121,
+        "LONG": 99.57099914550781
+    },
+    {
+        "SUB_DISTRICT_ID": 520112,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งฝาย",
+        "SUB_DISTRICT_NAME_ENG": "Thung Fai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.374000549316406,
+        "LONG": 99.55000305175781
+    },
+    {
+        "SUB_DISTRICT_ID": 520113,
+        "SUB_DISTRICT_NAME_THA": "บ้านเอื้อม",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ueam",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.47800064086914,
+        "LONG": 99.35700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 520114,
+        "SUB_DISTRICT_NAME_THA": "บ้านเป้า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pao",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.35700035095215,
+        "LONG": 99.45500183105469
+    },
+    {
+        "SUB_DISTRICT_ID": 520115,
+        "SUB_DISTRICT_NAME_THA": "บ้านค่า",
+        "SUB_DISTRICT_NAME_ENG": "Ban Kha",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.520000457763672,
+        "LONG": 99.41400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 520116,
+        "SUB_DISTRICT_NAME_THA": "บ่อแฮ้ว",
+        "SUB_DISTRICT_NAME_ENG": "Bo Haeo",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.309999465942383,
+        "LONG": 99.43299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 520117,
+        "SUB_DISTRICT_NAME_THA": "ต้นธงชัย",
+        "SUB_DISTRICT_NAME_ENG": "Ton Thong Chai",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.389999389648438,
+        "LONG": 99.48500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 520118,
+        "SUB_DISTRICT_NAME_THA": "นิคมพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Nikhom Phatthana",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.44499969482422,
+        "LONG": 99.54499816894531
+    },
+    {
+        "SUB_DISTRICT_ID": 520119,
+        "SUB_DISTRICT_NAME_THA": "บุญนาคพัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Bunnak Phatthana",
+        "PROVINCE_ID": 52,
+        "DISTRICT_ID": 5201,
+        "LAT": 18.459999084472656,
+        "LONG": 99.5979995727539
+    }
+]

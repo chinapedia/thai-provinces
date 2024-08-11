@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302201,
+        "SUB_DISTRICT_NAME_THA": "หนองบุนนาก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bunnak",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.609000205993652,
+        "LONG": 102.4000015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 302202,
+        "SUB_DISTRICT_NAME_THA": "สารภี",
+        "SUB_DISTRICT_NAME_ENG": "Saraphi",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.814000129699707,
+        "LONG": 102.41699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 302203,
+        "SUB_DISTRICT_NAME_THA": "ไทยเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Thai Charoen",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.743000030517578,
+        "LONG": 102.44999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 302204,
+        "SUB_DISTRICT_NAME_THA": "หนองหัวแรต",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hua Raet",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.71500015258789,
+        "LONG": 102.33200073242188
+    },
+    {
+        "SUB_DISTRICT_ID": 302205,
+        "SUB_DISTRICT_NAME_THA": "แหลมทอง",
+        "SUB_DISTRICT_NAME_ENG": "Laem Thong",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.779999732971191,
+        "LONG": 102.30400085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 302206,
+        "SUB_DISTRICT_NAME_THA": "หนองตะไก้",
+        "SUB_DISTRICT_NAME_ENG": "Nong Takai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.654000282287598,
+        "LONG": 102.39700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 302207,
+        "SUB_DISTRICT_NAME_THA": "ลุงเขว้า",
+        "SUB_DISTRICT_NAME_ENG": "Lung Khwao",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.812999725341797,
+        "LONG": 102.33899688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 302208,
+        "SUB_DISTRICT_NAME_THA": "หนองไม้ไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mai Phai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.640999794006348,
+        "LONG": 102.31999969482422
+    },
+    {
+        "SUB_DISTRICT_ID": 302209,
+        "SUB_DISTRICT_NAME_THA": "บ้านใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Ban Mai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3022,
+        "LAT": 14.753999710083008,
+        "LONG": 102.39800262451172
+    }
+]

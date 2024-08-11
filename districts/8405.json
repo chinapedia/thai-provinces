@@ -1,0 +1,20 @@
+[
+    {
+        "SUB_DISTRICT_ID": 840501,
+        "SUB_DISTRICT_NAME_THA": "เกาะพะงัน",
+        "SUB_DISTRICT_NAME_ENG": "Ko Pha-Ngan",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8405,
+        "LAT": 9.706000328063965,
+        "LONG": 99.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 840502,
+        "SUB_DISTRICT_NAME_THA": "บ้านใต้",
+        "SUB_DISTRICT_NAME_ENG": "Ban Tai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8405,
+        "LAT": 9.722999572753906,
+        "LONG": 100.06199645996094
+    }
+]

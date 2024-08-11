@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 401401,
+        "SUB_DISTRICT_NAME_THA": "แวงน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Waeng Noi",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4014,
+        "LAT": 15.812999725341797,
+        "LONG": 102.4229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 401402,
+        "SUB_DISTRICT_NAME_THA": "ก้านเหลือง",
+        "SUB_DISTRICT_NAME_ENG": "Kan Lueang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4014,
+        "LAT": 15.843999862670898,
+        "LONG": 102.46399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 401403,
+        "SUB_DISTRICT_NAME_THA": "ท่านางแนว",
+        "SUB_DISTRICT_NAME_ENG": "Tha Nang Naeo",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4014,
+        "LAT": 15.866000175476074,
+        "LONG": 102.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 401404,
+        "SUB_DISTRICT_NAME_THA": "ละหานนา",
+        "SUB_DISTRICT_NAME_ENG": "Lahan Na",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4014,
+        "LAT": 15.812999725341797,
+        "LONG": 102.36699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 401405,
+        "SUB_DISTRICT_NAME_THA": "ท่าวัด",
+        "SUB_DISTRICT_NAME_ENG": "Tha Wat",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4014,
+        "LAT": 15.734999656677246,
+        "LONG": 102.39700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 401406,
+        "SUB_DISTRICT_NAME_THA": "ทางขวาง",
+        "SUB_DISTRICT_NAME_ENG": "Thang Khwang",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4014,
+        "LAT": 15.758000373840332,
+        "LONG": 102.42900085449219
+    }
+]

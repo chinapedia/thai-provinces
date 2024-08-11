@@ -1,0 +1,164 @@
+[
+    {
+        "SUB_DISTRICT_ID": 940901,
+        "SUB_DISTRICT_NAME_THA": "ตะโละ",
+        "SUB_DISTRICT_NAME_ENG": "Talo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.7820000648498535,
+        "LONG": 101.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 940902,
+        "SUB_DISTRICT_NAME_THA": "ตะโละกาโปร์",
+        "SUB_DISTRICT_NAME_ENG": "Talo Kapo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.872000217437744,
+        "LONG": 101.43000030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 940903,
+        "SUB_DISTRICT_NAME_THA": "ตันหยงดาลอ",
+        "SUB_DISTRICT_NAME_ENG": "Tanyong Dalo",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.808000087738037,
+        "LONG": 101.4229965209961
+    },
+    {
+        "SUB_DISTRICT_ID": 940904,
+        "SUB_DISTRICT_NAME_THA": "ตันหยงจึงงา",
+        "SUB_DISTRICT_NAME_ENG": "Tanyong Chueng Nga",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.7870001792907715,
+        "LONG": 101.45800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 940905,
+        "SUB_DISTRICT_NAME_THA": "ตอหลัง",
+        "SUB_DISTRICT_NAME_ENG": "To Lang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.802000045776367,
+        "LONG": 101.447998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 940906,
+        "SUB_DISTRICT_NAME_THA": "ตาแกะ",
+        "SUB_DISTRICT_NAME_ENG": "Ta Kae",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.843999862670898,
+        "LONG": 101.33599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 940907,
+        "SUB_DISTRICT_NAME_THA": "ตาลีอายร์",
+        "SUB_DISTRICT_NAME_ENG": "Tali-Ai",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.789000034332275,
+        "LONG": 101.38899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 940908,
+        "SUB_DISTRICT_NAME_THA": "ยามู",
+        "SUB_DISTRICT_NAME_ENG": "Ya Mu",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.855000019073486,
+        "LONG": 101.37200164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 940909,
+        "SUB_DISTRICT_NAME_THA": "บางปู",
+        "SUB_DISTRICT_NAME_ENG": "Bang Pu",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.868000030517578,
+        "LONG": 101.33499908447266
+    },
+    {
+        "SUB_DISTRICT_ID": 940910,
+        "SUB_DISTRICT_NAME_THA": "หนองแรต",
+        "SUB_DISTRICT_NAME_ENG": "Nong Raet",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.848999977111816,
+        "LONG": 101.40299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 940911,
+        "SUB_DISTRICT_NAME_THA": "ปิยามุมัง",
+        "SUB_DISTRICT_NAME_ENG": "Piya Mumang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.822999954223633,
+        "LONG": 101.3759994506836
+    },
+    {
+        "SUB_DISTRICT_ID": 940912,
+        "SUB_DISTRICT_NAME_THA": "ปุลากง",
+        "SUB_DISTRICT_NAME_ENG": "Pulakong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.769000053405762,
+        "LONG": 101.39099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 940913,
+        "SUB_DISTRICT_NAME_THA": "บาโลย",
+        "SUB_DISTRICT_NAME_ENG": "Baloi",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.781000137329102,
+        "LONG": 101.43900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 940914,
+        "SUB_DISTRICT_NAME_THA": "สาบัน",
+        "SUB_DISTRICT_NAME_ENG": "Saban",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.820000171661377,
+        "LONG": 101.43900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 940915,
+        "SUB_DISTRICT_NAME_THA": "มะนังยง",
+        "SUB_DISTRICT_NAME_ENG": "Manang Yong",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.813000202178955,
+        "LONG": 101.4020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 940916,
+        "SUB_DISTRICT_NAME_THA": "ราตาปันยัง",
+        "SUB_DISTRICT_NAME_ENG": "Rata Panyang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.822000026702881,
+        "LONG": 101.35299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 940917,
+        "SUB_DISTRICT_NAME_THA": "จะรัง",
+        "SUB_DISTRICT_NAME_ENG": "Charang",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.8429999351501465,
+        "LONG": 101.44999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 940918,
+        "SUB_DISTRICT_NAME_THA": "แหลมโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Laem Pho",
+        "PROVINCE_ID": 94,
+        "DISTRICT_ID": 9409,
+        "LAT": 6.941999912261963,
+        "LONG": 101.2959976196289
+    }
+]

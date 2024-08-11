@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 401701,
+        "SUB_DISTRICT_NAME_THA": "กุดเค้า",
+        "SUB_DISTRICT_NAME_ENG": "Kut Khao",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.11400032043457,
+        "LONG": 102.49199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 401702,
+        "SUB_DISTRICT_NAME_THA": "สวนหม่อน",
+        "SUB_DISTRICT_NAME_ENG": "Suan Mon",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.165000915527344,
+        "LONG": 102.56099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 401703,
+        "SUB_DISTRICT_NAME_THA": "หนองแปน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Paen",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.17799949645996,
+        "LONG": 102.62899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 401704,
+        "SUB_DISTRICT_NAME_THA": "โพนเพ็ก",
+        "SUB_DISTRICT_NAME_ENG": "Phon Phek",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.23699951171875,
+        "LONG": 102.53399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 401705,
+        "SUB_DISTRICT_NAME_THA": "คำแคน",
+        "SUB_DISTRICT_NAME_ENG": "Kham Khaen",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.322999954223633,
+        "LONG": 102.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 401706,
+        "SUB_DISTRICT_NAME_THA": "นาข่า",
+        "SUB_DISTRICT_NAME_ENG": "Nakha",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.183000564575195,
+        "LONG": 102.5
+    },
+    {
+        "SUB_DISTRICT_ID": 401707,
+        "SUB_DISTRICT_NAME_THA": "นางาม",
+        "SUB_DISTRICT_NAME_ENG": "Na Ngam",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.195999145507812,
+        "LONG": 102.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 401710,
+        "SUB_DISTRICT_NAME_THA": "ท่าศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sala",
+        "PROVINCE_ID": 40,
+        "DISTRICT_ID": 4017,
+        "LAT": 16.268999099731445,
+        "LONG": 102.61499786376953
+    }
+]

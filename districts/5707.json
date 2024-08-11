@@ -1,0 +1,101 @@
+[
+    {
+        "SUB_DISTRICT_ID": 570701,
+        "SUB_DISTRICT_NAME_THA": "แม่จัน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Chan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.13800048828125,
+        "LONG": 99.87000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 570702,
+        "SUB_DISTRICT_NAME_THA": "จันจว้า",
+        "SUB_DISTRICT_NAME_ENG": "Chan Chawa",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.23900032043457,
+        "LONG": 99.98200225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 570703,
+        "SUB_DISTRICT_NAME_THA": "แม่คำ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Kham",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.250999450683594,
+        "LONG": 99.9020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 570704,
+        "SUB_DISTRICT_NAME_THA": "ป่าซาง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Sang",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.180999755859375,
+        "LONG": 99.84600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 570705,
+        "SUB_DISTRICT_NAME_THA": "สันทราย",
+        "SUB_DISTRICT_NAME_ENG": "San Sai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.17099952697754,
+        "LONG": 99.89099884033203
+    },
+    {
+        "SUB_DISTRICT_ID": 570706,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าวเปลือก",
+        "SUB_DISTRICT_NAME_ENG": "Tha Khao Plueak",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.163000106811523,
+        "LONG": 100.01799774169922
+    },
+    {
+        "SUB_DISTRICT_ID": 570708,
+        "SUB_DISTRICT_NAME_THA": "ป่าตึง",
+        "SUB_DISTRICT_NAME_ENG": "Pa Tueng",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.134000778198242,
+        "LONG": 99.7699966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 570710,
+        "SUB_DISTRICT_NAME_THA": "แม่ไร่",
+        "SUB_DISTRICT_NAME_ENG": "Mae Rai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.256000518798828,
+        "LONG": 99.86399841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 570711,
+        "SUB_DISTRICT_NAME_THA": "ศรีค้ำ",
+        "SUB_DISTRICT_NAME_ENG": "Si Kham",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.22100067138672,
+        "LONG": 99.7969970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 570712,
+        "SUB_DISTRICT_NAME_THA": "จันจว้าใต้",
+        "SUB_DISTRICT_NAME_ENG": "Chan Chawa Tai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.23900032043457,
+        "LONG": 99.93599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 570713,
+        "SUB_DISTRICT_NAME_THA": "จอมสวรรค์",
+        "SUB_DISTRICT_NAME_ENG": "Chom Sawan",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5707,
+        "LAT": 20.170000076293945,
+        "LONG": 99.94999694824219
+    }
+]

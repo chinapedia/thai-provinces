@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 950501,
+        "SUB_DISTRICT_NAME_THA": "ยะหา",
+        "SUB_DISTRICT_NAME_ENG": "Yaha",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9505,
+        "LAT": 6.504000186920166,
+        "LONG": 101.125
+    },
+    {
+        "SUB_DISTRICT_ID": 950502,
+        "SUB_DISTRICT_NAME_THA": "ละแอ",
+        "SUB_DISTRICT_NAME_ENG": "La-Ae",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9505,
+        "LAT": 6.466000080108643,
+        "LONG": 101.18599700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 950503,
+        "SUB_DISTRICT_NAME_THA": "ปะแต",
+        "SUB_DISTRICT_NAME_ENG": "Patae",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9505,
+        "LAT": 6.343999862670898,
+        "LONG": 101.13899993896484
+    },
+    {
+        "SUB_DISTRICT_ID": 950504,
+        "SUB_DISTRICT_NAME_THA": "บาโร๊ะ",
+        "SUB_DISTRICT_NAME_ENG": "Baro",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9505,
+        "LAT": 6.456999778747559,
+        "LONG": 101.13300323486328
+    },
+    {
+        "SUB_DISTRICT_ID": 950506,
+        "SUB_DISTRICT_NAME_THA": "ตาชี",
+        "SUB_DISTRICT_NAME_ENG": "Ta Chi",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9505,
+        "LAT": 6.563000202178955,
+        "LONG": 101.11499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 950507,
+        "SUB_DISTRICT_NAME_THA": "บาโงยซิแน",
+        "SUB_DISTRICT_NAME_ENG": "Ba-Ngoi Sinae",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9505,
+        "LAT": 6.5269999504089355,
+        "LONG": 101.15299987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 950508,
+        "SUB_DISTRICT_NAME_THA": "กาตอง",
+        "SUB_DISTRICT_NAME_ENG": "Katong",
+        "PROVINCE_ID": 95,
+        "DISTRICT_ID": 9505,
+        "LAT": 6.501999855041504,
+        "LONG": 101.06300354003906
+    }
+]

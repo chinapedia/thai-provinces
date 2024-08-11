@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 103501,
+        "SUB_DISTRICT_NAME_THA": "บางขุนเทียน",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1035,
+        "LAT": 13.694000244140625,
+        "LONG": 100.44999694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 103502,
+        "SUB_DISTRICT_NAME_THA": "บางค้อ",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1035,
+        "LAT": 13.70199966430664,
+        "LONG": 100.47599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 103503,
+        "SUB_DISTRICT_NAME_THA": "บางมด",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1035,
+        "LAT": 13.67199993133545,
+        "LONG": 100.46800231933594
+    },
+    {
+        "SUB_DISTRICT_ID": 103504,
+        "SUB_DISTRICT_NAME_THA": "จอมทอง",
+        "SUB_DISTRICT_NAME_ENG": null,
+        "PROVINCE_ID": 10,
+        "DISTRICT_ID": 1035,
+        "LAT": 13.692999839782715,
+        "LONG": 100.46800231933594
+    }
+]

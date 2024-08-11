@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 580301,
+        "SUB_DISTRICT_NAME_THA": "เวียงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Tai",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5803,
+        "LAT": 19.36199951171875,
+        "LONG": 98.41899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 580302,
+        "SUB_DISTRICT_NAME_THA": "เวียงเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Nuea",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5803,
+        "LAT": 19.511999130249023,
+        "LONG": 98.49700164794922
+    },
+    {
+        "SUB_DISTRICT_ID": 580303,
+        "SUB_DISTRICT_NAME_THA": "แม่นาเติง",
+        "SUB_DISTRICT_NAME_ENG": "Mae Na Toeng",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5803,
+        "LAT": 19.45599937438965,
+        "LONG": 98.36299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 580304,
+        "SUB_DISTRICT_NAME_THA": "แม่ฮี้",
+        "SUB_DISTRICT_NAME_ENG": "Mae Hi",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5803,
+        "LAT": 19.299999237060547,
+        "LONG": 98.5250015258789
+    },
+    {
+        "SUB_DISTRICT_ID": 580305,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งยาว",
+        "SUB_DISTRICT_NAME_ENG": "Thung Yao",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5803,
+        "LAT": 19.336000442504883,
+        "LONG": 98.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 580306,
+        "SUB_DISTRICT_NAME_THA": "เมืองแปง",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Paeng",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5803,
+        "LAT": 19.215999603271484,
+        "LONG": 98.31300354003906
+    },
+    {
+        "SUB_DISTRICT_ID": 580307,
+        "SUB_DISTRICT_NAME_THA": "โป่งสา",
+        "SUB_DISTRICT_NAME_ENG": "Pong Sa",
+        "PROVINCE_ID": 58,
+        "DISTRICT_ID": 5803,
+        "LAT": 19.1200008392334,
+        "LONG": 98.58100128173828
+    }
+]

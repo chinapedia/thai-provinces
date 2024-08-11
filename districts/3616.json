@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 361601,
+        "SUB_DISTRICT_NAME_THA": "ซับใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Sap Yai",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3616,
+        "LAT": 15.60200023651123,
+        "LONG": 101.572998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 361602,
+        "SUB_DISTRICT_NAME_THA": "ท่ากูบ",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kup",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3616,
+        "LAT": 15.623000144958496,
+        "LONG": 101.70800018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 361603,
+        "SUB_DISTRICT_NAME_THA": "ตะโกทอง",
+        "SUB_DISTRICT_NAME_ENG": "Tako Thong",
+        "PROVINCE_ID": 36,
+        "DISTRICT_ID": 3616,
+        "LAT": 15.5649995803833,
+        "LONG": 101.66999816894531
+    }
+]

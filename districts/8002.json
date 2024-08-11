@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 800201,
+        "SUB_DISTRICT_NAME_THA": "พรหมโลก",
+        "SUB_DISTRICT_NAME_ENG": "Phrom Lok",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8002,
+        "LAT": 8.5,
+        "LONG": 99.79299926757812
+    },
+    {
+        "SUB_DISTRICT_ID": 800202,
+        "SUB_DISTRICT_NAME_THA": "บ้านเกาะ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Ko",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8002,
+        "LAT": 8.538999557495117,
+        "LONG": 99.81400299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 800203,
+        "SUB_DISTRICT_NAME_THA": "อินคีรี",
+        "SUB_DISTRICT_NAME_ENG": "In Khiri",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8002,
+        "LAT": 8.539999961853027,
+        "LONG": 99.8740005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 800204,
+        "SUB_DISTRICT_NAME_THA": "ทอนหงส์",
+        "SUB_DISTRICT_NAME_ENG": "Thon Hong",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8002,
+        "LAT": 8.579999923706055,
+        "LONG": 99.7760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 800205,
+        "SUB_DISTRICT_NAME_THA": "นาเรียง",
+        "SUB_DISTRICT_NAME_ENG": "Na Riang",
+        "PROVINCE_ID": 80,
+        "DISTRICT_ID": 8002,
+        "LAT": 8.503999710083008,
+        "LONG": 99.86599731445312
+    }
+]

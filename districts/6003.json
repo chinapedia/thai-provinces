@@ -1,0 +1,110 @@
+[
+    {
+        "SUB_DISTRICT_ID": 600301,
+        "SUB_DISTRICT_NAME_THA": "ชุมแสง",
+        "SUB_DISTRICT_NAME_ENG": "Chum Saeng",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.895999908447266,
+        "LONG": 100.31500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 600302,
+        "SUB_DISTRICT_NAME_THA": "ทับกฤช",
+        "SUB_DISTRICT_NAME_ENG": "Thap Krit",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.770000457763672,
+        "LONG": 100.23300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 600303,
+        "SUB_DISTRICT_NAME_THA": "พิกุล",
+        "SUB_DISTRICT_NAME_ENG": "Phikun",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.888999938964844,
+        "LONG": 100.34600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 600304,
+        "SUB_DISTRICT_NAME_THA": "เกยไชย",
+        "SUB_DISTRICT_NAME_ENG": "Koei Chai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.869000434875488,
+        "LONG": 100.28600311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 600305,
+        "SUB_DISTRICT_NAME_THA": "ท่าไม้",
+        "SUB_DISTRICT_NAME_ENG": "Tha Mai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.914999961853027,
+        "LONG": 100.25299835205078
+    },
+    {
+        "SUB_DISTRICT_ID": 600306,
+        "SUB_DISTRICT_NAME_THA": "บางเคียน",
+        "SUB_DISTRICT_NAME_ENG": "Bang Khian",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.805999755859375,
+        "LONG": 100.1760025024414
+    },
+    {
+        "SUB_DISTRICT_ID": 600307,
+        "SUB_DISTRICT_NAME_THA": "หนองกระเจา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Krachao",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.901000022888184,
+        "LONG": 100.3949966430664
+    },
+    {
+        "SUB_DISTRICT_ID": 600308,
+        "SUB_DISTRICT_NAME_THA": "พันลาน",
+        "SUB_DISTRICT_NAME_ENG": "Phan Lan",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.833000183105469,
+        "LONG": 100.27999877929688
+    },
+    {
+        "SUB_DISTRICT_ID": 600309,
+        "SUB_DISTRICT_NAME_THA": "โคกหม้อ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Mo",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.829999923706055,
+        "LONG": 100.23500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 600310,
+        "SUB_DISTRICT_NAME_THA": "ไผ่สิงห์",
+        "SUB_DISTRICT_NAME_ENG": "Phai Sing",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.829000473022461,
+        "LONG": 100.36000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 600311,
+        "SUB_DISTRICT_NAME_THA": "ฆะมัง",
+        "SUB_DISTRICT_NAME_ENG": "Kha Mang",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.947999954223633,
+        "LONG": 100.31199645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 600312,
+        "SUB_DISTRICT_NAME_THA": "ทับกฤชใต้",
+        "SUB_DISTRICT_NAME_ENG": "Thap Krit Tai",
+        "PROVINCE_ID": 60,
+        "DISTRICT_ID": 6003,
+        "LAT": 15.756999969482422,
+        "LONG": 100.28600311279297
+    }
+]

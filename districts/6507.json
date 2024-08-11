@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 650701,
+        "SUB_DISTRICT_NAME_THA": "วัดโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Wat Bot",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6507,
+        "LAT": 17.020999908447266,
+        "LONG": 100.30599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 650702,
+        "SUB_DISTRICT_NAME_THA": "ท่างาม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Ngam",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6507,
+        "LAT": 16.969999313354492,
+        "LONG": 100.37699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 650703,
+        "SUB_DISTRICT_NAME_THA": "ท้อแท้",
+        "SUB_DISTRICT_NAME_ENG": "Tho Thae",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6507,
+        "LAT": 16.968000411987305,
+        "LONG": 100.2959976196289
+    },
+    {
+        "SUB_DISTRICT_ID": 650704,
+        "SUB_DISTRICT_NAME_THA": "บ้านยาง",
+        "SUB_DISTRICT_NAME_ENG": "Ban Yang",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6507,
+        "LAT": 17.089000701904297,
+        "LONG": 100.41300201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 650705,
+        "SUB_DISTRICT_NAME_THA": "หินลาด",
+        "SUB_DISTRICT_NAME_ENG": "Hin Lat",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6507,
+        "LAT": 17.167999267578125,
+        "LONG": 100.33300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 650706,
+        "SUB_DISTRICT_NAME_THA": "คันโช้ง",
+        "SUB_DISTRICT_NAME_ENG": "Khan Chong",
+        "PROVINCE_ID": 65,
+        "DISTRICT_ID": 6507,
+        "LAT": 17.30699920654297,
+        "LONG": 100.2979965209961
+    }
+]

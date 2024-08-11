@@ -1,0 +1,74 @@
+[
+    {
+        "SUB_DISTRICT_ID": 500901,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 19.944000244140625,
+        "LONG": 99.21399688720703
+    },
+    {
+        "SUB_DISTRICT_ID": 500903,
+        "SUB_DISTRICT_NAME_THA": "ม่อนปิ่น",
+        "SUB_DISTRICT_NAME_ENG": "Mon Pin",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 19.954999923706055,
+        "LONG": 99.11199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 500904,
+        "SUB_DISTRICT_NAME_THA": "แม่งอน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Ngon",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 19.792999267578125,
+        "LONG": 99.1240005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 500906,
+        "SUB_DISTRICT_NAME_THA": "สันทราย",
+        "SUB_DISTRICT_NAME_ENG": "San Sai",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 19.878999710083008,
+        "LONG": 99.20899963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 500910,
+        "SUB_DISTRICT_NAME_THA": "แม่คะ",
+        "SUB_DISTRICT_NAME_ENG": "Mae Kha",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 19.820999145507812,
+        "LONG": 99.21299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 500912,
+        "SUB_DISTRICT_NAME_THA": "โป่งน้ำร้อน",
+        "SUB_DISTRICT_NAME_ENG": "Pong Nam Ron",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 20.06100082397461,
+        "LONG": 99.12100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 961320,
+        "SUB_DISTRICT_NAME_THA": "แม่ข่า",
+        "SUB_DISTRICT_NAME_ENG": "maeka",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 19.788780212402344,
+        "LONG": 99.16438293457031
+    },
+    {
+        "SUB_DISTRICT_ID": 961321,
+        "SUB_DISTRICT_NAME_THA": "แม่สูน",
+        "SUB_DISTRICT_NAME_ENG": "maesoon",
+        "PROVINCE_ID": 50,
+        "DISTRICT_ID": 5009,
+        "LAT": 19.81968116760254,
+        "LONG": 99.1688003540039
+    }
+]

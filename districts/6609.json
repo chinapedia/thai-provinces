@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 660901,
+        "SUB_DISTRICT_NAME_THA": "สากเหล็ก",
+        "SUB_DISTRICT_NAME_ENG": "Sak Lek",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6609,
+        "LAT": 16.486000061035156,
+        "LONG": 100.46099853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 660902,
+        "SUB_DISTRICT_NAME_THA": "ท่าเยี่ยม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Yiam",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6609,
+        "LAT": 16.52199935913086,
+        "LONG": 100.55599975585938
+    },
+    {
+        "SUB_DISTRICT_ID": 660903,
+        "SUB_DISTRICT_NAME_THA": "คลองทราย",
+        "SUB_DISTRICT_NAME_ENG": "Khlong Sai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6609,
+        "LAT": 16.552000045776367,
+        "LONG": 100.55899810791016
+    },
+    {
+        "SUB_DISTRICT_ID": 660904,
+        "SUB_DISTRICT_NAME_THA": "หนองหญ้าไทร",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ya Sai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6609,
+        "LAT": 16.54400062561035,
+        "LONG": 100.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 660905,
+        "SUB_DISTRICT_NAME_THA": "วังทับไทร",
+        "SUB_DISTRICT_NAME_ENG": "Wang Thap Sai",
+        "PROVINCE_ID": 66,
+        "DISTRICT_ID": 6609,
+        "LAT": 16.48900032043457,
+        "LONG": 100.55500030517578
+    }
+]

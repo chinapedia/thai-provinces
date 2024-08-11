@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 421101,
+        "SUB_DISTRICT_NAME_THA": "ภูหอ",
+        "SUB_DISTRICT_NAME_ENG": "Phu Ho",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4211,
+        "LAT": 17.135000228881836,
+        "LONG": 101.62899780273438
+    },
+    {
+        "SUB_DISTRICT_ID": 421102,
+        "SUB_DISTRICT_NAME_THA": "หนองคัน",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khan",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4211,
+        "LAT": 17.141000747680664,
+        "LONG": 101.70099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 421104,
+        "SUB_DISTRICT_NAME_THA": "ห้วยสีเสียด",
+        "SUB_DISTRICT_NAME_ENG": "Huai Si Siat",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4211,
+        "LAT": 17.13800048828125,
+        "LONG": 101.73999786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 421105,
+        "SUB_DISTRICT_NAME_THA": "เลยวังไสย์",
+        "SUB_DISTRICT_NAME_ENG": "Loei Wang Sai",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4211,
+        "LAT": 17.086000442504883,
+        "LONG": 101.54900360107422
+    },
+    {
+        "SUB_DISTRICT_ID": 421106,
+        "SUB_DISTRICT_NAME_THA": "แก่งศรีภูมิ",
+        "SUB_DISTRICT_NAME_ENG": "Kaeng Si Phum",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4211,
+        "LAT": 17.048999786376953,
+        "LONG": 101.6780014038086
+    }
+]

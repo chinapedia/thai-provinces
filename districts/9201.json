@@ -1,0 +1,137 @@
+[
+    {
+        "SUB_DISTRICT_ID": 920101,
+        "SUB_DISTRICT_NAME_THA": "ทับเที่ยง",
+        "SUB_DISTRICT_NAME_ENG": "Thap Thiang",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.559000015258789,
+        "LONG": 99.61599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 920104,
+        "SUB_DISTRICT_NAME_THA": "นาพละ",
+        "SUB_DISTRICT_NAME_ENG": "Na Phala",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.598999977111816,
+        "LONG": 99.66400146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 920105,
+        "SUB_DISTRICT_NAME_THA": "บ้านควน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Khuan",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.5289998054504395,
+        "LONG": 99.63600158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 920106,
+        "SUB_DISTRICT_NAME_THA": "นาบินหลา",
+        "SUB_DISTRICT_NAME_ENG": "Na Bin La",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.540999889373779,
+        "LONG": 99.66200256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 920107,
+        "SUB_DISTRICT_NAME_THA": "ควนปริง",
+        "SUB_DISTRICT_NAME_ENG": "Khuan Pring",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.520999908447266,
+        "LONG": 99.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 920108,
+        "SUB_DISTRICT_NAME_THA": "นาโยงใต้",
+        "SUB_DISTRICT_NAME_ENG": "Na Yong Tai",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.571000099182129,
+        "LONG": 99.66899871826172
+    },
+    {
+        "SUB_DISTRICT_ID": 920109,
+        "SUB_DISTRICT_NAME_THA": "บางรัก",
+        "SUB_DISTRICT_NAME_ENG": "Bang Rak",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.558000087738037,
+        "LONG": 99.5770034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 920110,
+        "SUB_DISTRICT_NAME_THA": "โคกหล่อ",
+        "SUB_DISTRICT_NAME_ENG": "Khok Lo",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.52400016784668,
+        "LONG": 99.61499786376953
+    },
+    {
+        "SUB_DISTRICT_ID": 920113,
+        "SUB_DISTRICT_NAME_THA": "นาโต๊ะหมิง",
+        "SUB_DISTRICT_NAME_ENG": "Na To Ming",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.556000232696533,
+        "LONG": 99.5270004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 920114,
+        "SUB_DISTRICT_NAME_THA": "หนองตรุด",
+        "SUB_DISTRICT_NAME_ENG": "Nong Trut",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.593999862670898,
+        "LONG": 99.52300262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 920115,
+        "SUB_DISTRICT_NAME_THA": "น้ำผุด",
+        "SUB_DISTRICT_NAME_ENG": "Nam Phut",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.672999858856201,
+        "LONG": 99.72599792480469
+    },
+    {
+        "SUB_DISTRICT_ID": 920117,
+        "SUB_DISTRICT_NAME_THA": "นาตาล่วง",
+        "SUB_DISTRICT_NAME_ENG": "Na Ta Luang",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.584000110626221,
+        "LONG": 99.59600067138672
+    },
+    {
+        "SUB_DISTRICT_ID": 920118,
+        "SUB_DISTRICT_NAME_THA": "บ้านโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pho",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.604000091552734,
+        "LONG": 99.62699890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 920119,
+        "SUB_DISTRICT_NAME_THA": "นาท่ามเหนือ",
+        "SUB_DISTRICT_NAME_ENG": "Na Tham Nuea",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.6519999504089355,
+        "LONG": 99.61299896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 920120,
+        "SUB_DISTRICT_NAME_THA": "นาท่ามใต้",
+        "SUB_DISTRICT_NAME_ENG": "Na Tham Tai",
+        "PROVINCE_ID": 92,
+        "DISTRICT_ID": 9201,
+        "LAT": 7.635000228881836,
+        "LONG": 99.5510025024414
+    }
+]

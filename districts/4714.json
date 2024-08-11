@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 471401,
+        "SUB_DISTRICT_NAME_THA": "เต่างอย",
+        "SUB_DISTRICT_NAME_ENG": "Tao Ngoi",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4714,
+        "LAT": 16.944000244140625,
+        "LONG": 104.24199676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 471402,
+        "SUB_DISTRICT_NAME_THA": "บึงทวาย",
+        "SUB_DISTRICT_NAME_ENG": "Bueng Thawai",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4714,
+        "LAT": 17.034000396728516,
+        "LONG": 104.15699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 471403,
+        "SUB_DISTRICT_NAME_THA": "นาตาล",
+        "SUB_DISTRICT_NAME_ENG": "Na Tan",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4714,
+        "LAT": 16.972999572753906,
+        "LONG": 104.11599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 471404,
+        "SUB_DISTRICT_NAME_THA": "จันทร์เพ็ญ",
+        "SUB_DISTRICT_NAME_ENG": "Chan Phen",
+        "PROVINCE_ID": 47,
+        "DISTRICT_ID": 4714,
+        "LAT": 16.924999237060547,
+        "LONG": 104.15499877929688
+    }
+]

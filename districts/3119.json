@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 311901,
+        "SUB_DISTRICT_NAME_THA": "หนองแวง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Waeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3119,
+        "LAT": 15.553000450134277,
+        "LONG": 102.90699768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 311902,
+        "SUB_DISTRICT_NAME_THA": "ทองหลาง",
+        "SUB_DISTRICT_NAME_ENG": "Thong Lang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3119,
+        "LAT": 15.607999801635742,
+        "LONG": 102.80500030517578
+    },
+    {
+        "SUB_DISTRICT_ID": 311903,
+        "SUB_DISTRICT_NAME_THA": "แดงใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Daeng Yai",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3119,
+        "LAT": 15.604999542236328,
+        "LONG": 102.85700225830078
+    },
+    {
+        "SUB_DISTRICT_ID": 311904,
+        "SUB_DISTRICT_NAME_THA": "กู่สวนแตง",
+        "SUB_DISTRICT_NAME_ENG": "Ku Suan Taeng",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3119,
+        "LAT": 15.534000396728516,
+        "LONG": 102.86000061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 311905,
+        "SUB_DISTRICT_NAME_THA": "หนองเยือง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Yueang",
+        "PROVINCE_ID": 31,
+        "DISTRICT_ID": 3119,
+        "LAT": 15.555000305175781,
+        "LONG": 102.81099700927734
+    }
+]

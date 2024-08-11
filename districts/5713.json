@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 571301,
+        "SUB_DISTRICT_NAME_THA": "ม่วงยาย",
+        "SUB_DISTRICT_NAME_ENG": "Muang Yai",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5713,
+        "LAT": 20.107999801635742,
+        "LONG": 100.53900146484375
+    },
+    {
+        "SUB_DISTRICT_ID": 571302,
+        "SUB_DISTRICT_NAME_THA": "ปอ",
+        "SUB_DISTRICT_NAME_ENG": "Po",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5713,
+        "LAT": 19.940000534057617,
+        "LONG": 100.4489974975586
+    },
+    {
+        "SUB_DISTRICT_ID": 571303,
+        "SUB_DISTRICT_NAME_THA": "หล่ายงาว",
+        "SUB_DISTRICT_NAME_ENG": "Lai Ngao",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5713,
+        "LAT": 20.117000579833984,
+        "LONG": 100.4800033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 571304,
+        "SUB_DISTRICT_NAME_THA": "ท่าข้าม",
+        "SUB_DISTRICT_NAME_ENG": "Tha Kham",
+        "PROVINCE_ID": 57,
+        "DISTRICT_ID": 5713,
+        "LAT": 20.04199981689453,
+        "LONG": 100.5199966430664
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "SUB_DISTRICT_ID": 670701,
+        "SUB_DISTRICT_NAME_THA": "กองทูล",
+        "SUB_DISTRICT_NAME_ENG": "Kong Thun",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 15.956000328063965,
+        "LONG": 101.10299682617188
+    },
+    {
+        "SUB_DISTRICT_ID": 670702,
+        "SUB_DISTRICT_NAME_THA": "นาเฉลียง",
+        "SUB_DISTRICT_NAME_ENG": "Na Chaliang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 16.075000762939453,
+        "LONG": 101.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 670703,
+        "SUB_DISTRICT_NAME_THA": "บ้านโภชน์",
+        "SUB_DISTRICT_NAME_ENG": "Ban Phot",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 15.932999610900879,
+        "LONG": 100.9280014038086
+    },
+    {
+        "SUB_DISTRICT_ID": 670704,
+        "SUB_DISTRICT_NAME_THA": "ท่าแดง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Daeng",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 15.956999778747559,
+        "LONG": 101.18299865722656
+    },
+    {
+        "SUB_DISTRICT_ID": 670705,
+        "SUB_DISTRICT_NAME_THA": "เพชรละคร",
+        "SUB_DISTRICT_NAME_ENG": "Phet Lakhon",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 15.897000312805176,
+        "LONG": 101.15399932861328
+    },
+    {
+        "SUB_DISTRICT_ID": 670706,
+        "SUB_DISTRICT_NAME_THA": "บ่อไทย",
+        "SUB_DISTRICT_NAME_ENG": "Bo Thai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 16.128999710083008,
+        "LONG": 101.2760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 670707,
+        "SUB_DISTRICT_NAME_THA": "ห้วยโป่ง",
+        "SUB_DISTRICT_NAME_ENG": "Huai Pong",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 16.141000747680664,
+        "LONG": 101.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 670708,
+        "SUB_DISTRICT_NAME_THA": "วังท่าดี",
+        "SUB_DISTRICT_NAME_ENG": "Wang Tha Di",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 15.994999885559082,
+        "LONG": 101.2229995727539
+    },
+    {
+        "SUB_DISTRICT_ID": 670709,
+        "SUB_DISTRICT_NAME_THA": "บัววัฒนา",
+        "SUB_DISTRICT_NAME_ENG": "Bua Watthana",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 15.95300006866455,
+        "LONG": 101.03399658203125
+    },
+    {
+        "SUB_DISTRICT_ID": 670710,
+        "SUB_DISTRICT_NAME_THA": "หนองไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phai",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 16.003999710083008,
+        "LONG": 101.03700256347656
+    },
+    {
+        "SUB_DISTRICT_ID": 670711,
+        "SUB_DISTRICT_NAME_THA": "วังโบสถ์",
+        "SUB_DISTRICT_NAME_ENG": "Wang Bot",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 16.05699920654297,
+        "LONG": 101.14700317382812
+    },
+    {
+        "SUB_DISTRICT_ID": 670712,
+        "SUB_DISTRICT_NAME_THA": "ยางงาม",
+        "SUB_DISTRICT_NAME_ENG": "Yang Ngam",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 16.10099983215332,
+        "LONG": 100.95099639892578
+    },
+    {
+        "SUB_DISTRICT_ID": 670713,
+        "SUB_DISTRICT_NAME_THA": "ท่าด้วง",
+        "SUB_DISTRICT_NAME_ENG": "Tha Duang",
+        "PROVINCE_ID": 67,
+        "DISTRICT_ID": 6707,
+        "LAT": 16.000999450683594,
+        "LONG": 101.3010025024414
+    }
+]

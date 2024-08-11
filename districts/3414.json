@@ -1,0 +1,128 @@
+[
+    {
+        "SUB_DISTRICT_ID": 341401,
+        "SUB_DISTRICT_NAME_THA": "ม่วงสามสิบ",
+        "SUB_DISTRICT_NAME_ENG": "Muang Sam Sip",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.515000343322754,
+        "LONG": 104.7300033569336
+    },
+    {
+        "SUB_DISTRICT_ID": 341402,
+        "SUB_DISTRICT_NAME_THA": "เหล่าบก",
+        "SUB_DISTRICT_NAME_ENG": "Lao Bok",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.656999588012695,
+        "LONG": 104.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 341403,
+        "SUB_DISTRICT_NAME_THA": "ดุมใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Dum Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.614999771118164,
+        "LONG": 104.73899841308594
+    },
+    {
+        "SUB_DISTRICT_ID": 341404,
+        "SUB_DISTRICT_NAME_THA": "หนองช้างใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Nong Chang Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.564000129699707,
+        "LONG": 104.8270034790039
+    },
+    {
+        "SUB_DISTRICT_ID": 341405,
+        "SUB_DISTRICT_NAME_THA": "หนองเมือง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mueang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.571000099182129,
+        "LONG": 104.73500061035156
+    },
+    {
+        "SUB_DISTRICT_ID": 341406,
+        "SUB_DISTRICT_NAME_THA": "เตย",
+        "SUB_DISTRICT_NAME_ENG": "Toei",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.5,
+        "LONG": 104.8280029296875
+    },
+    {
+        "SUB_DISTRICT_ID": 341407,
+        "SUB_DISTRICT_NAME_THA": "ยางสักกระโพหลุ่ม",
+        "SUB_DISTRICT_NAME_ENG": "Yang Sak Krapho Lum",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.449000358581543,
+        "LONG": 104.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 341408,
+        "SUB_DISTRICT_NAME_THA": "หนองไข่นก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Khai Nok",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.397000312805176,
+        "LONG": 104.76499938964844
+    },
+    {
+        "SUB_DISTRICT_ID": 341409,
+        "SUB_DISTRICT_NAME_THA": "หนองเหล่า",
+        "SUB_DISTRICT_NAME_ENG": "Nong Lao",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.442999839782715,
+        "LONG": 104.67900085449219
+    },
+    {
+        "SUB_DISTRICT_ID": 341410,
+        "SUB_DISTRICT_NAME_THA": "หนองฮาง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Hang",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.50100040435791,
+        "LONG": 104.66100311279297
+    },
+    {
+        "SUB_DISTRICT_ID": 341411,
+        "SUB_DISTRICT_NAME_THA": "ยางโยภาพ",
+        "SUB_DISTRICT_NAME_ENG": "Yang Yo Phap",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.593000411987305,
+        "LONG": 104.66699981689453
+    },
+    {
+        "SUB_DISTRICT_ID": 341412,
+        "SUB_DISTRICT_NAME_THA": "ไผ่ใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Phai Yai",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.597999572753906,
+        "LONG": 104.61699676513672
+    },
+    {
+        "SUB_DISTRICT_ID": 341413,
+        "SUB_DISTRICT_NAME_THA": "นาเลิง",
+        "SUB_DISTRICT_NAME_ENG": "Na Loeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.541000366210938,
+        "LONG": 104.58599853515625
+    },
+    {
+        "SUB_DISTRICT_ID": 341414,
+        "SUB_DISTRICT_NAME_THA": "โพนแพง",
+        "SUB_DISTRICT_NAME_ENG": "Phon Phaeng",
+        "PROVINCE_ID": 34,
+        "DISTRICT_ID": 3414,
+        "LAT": 15.444000244140625,
+        "LONG": 104.74299621582031
+    }
+]

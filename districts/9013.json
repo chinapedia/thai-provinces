@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 901301,
+        "SUB_DISTRICT_NAME_THA": "รัตภูมิ",
+        "SUB_DISTRICT_NAME_ENG": "Ratta Phum",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9013,
+        "LAT": 7.182000160217285,
+        "LONG": 100.37000274658203
+    },
+    {
+        "SUB_DISTRICT_ID": 901302,
+        "SUB_DISTRICT_NAME_THA": "ควนโส",
+        "SUB_DISTRICT_NAME_ENG": "Khuan So",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9013,
+        "LAT": 7.229000091552734,
+        "LONG": 100.4020004272461
+    },
+    {
+        "SUB_DISTRICT_ID": 901303,
+        "SUB_DISTRICT_NAME_THA": "ห้วยลึก",
+        "SUB_DISTRICT_NAME_ENG": "Huai Luek",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9013,
+        "LAT": 7.267000198364258,
+        "LONG": 100.36599731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 901304,
+        "SUB_DISTRICT_NAME_THA": "บางเหรียง",
+        "SUB_DISTRICT_NAME_ENG": "Bang Riang",
+        "PROVINCE_ID": 90,
+        "DISTRICT_ID": 9013,
+        "LAT": 7.111999988555908,
+        "LONG": 100.36399841308594
+    }
+]

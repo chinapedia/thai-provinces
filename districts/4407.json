@@ -1,0 +1,92 @@
+[
+    {
+        "SUB_DISTRICT_ID": 440701,
+        "SUB_DISTRICT_NAME_THA": "นาเชือก",
+        "SUB_DISTRICT_NAME_ENG": "Na Chueak",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.77299976348877,
+        "LONG": 103.0469970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 440702,
+        "SUB_DISTRICT_NAME_THA": "สำโรง",
+        "SUB_DISTRICT_NAME_ENG": "Samrong",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.869999885559082,
+        "LONG": 103.00700378417969
+    },
+    {
+        "SUB_DISTRICT_ID": 440703,
+        "SUB_DISTRICT_NAME_THA": "หนองแดง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Daeng",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.888999938964844,
+        "LONG": 102.947998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 440704,
+        "SUB_DISTRICT_NAME_THA": "เขวาไร่",
+        "SUB_DISTRICT_NAME_ENG": "Khewa Rai",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.840999603271484,
+        "LONG": 103.06500244140625
+    },
+    {
+        "SUB_DISTRICT_ID": 440705,
+        "SUB_DISTRICT_NAME_THA": "หนองโพธิ์",
+        "SUB_DISTRICT_NAME_ENG": "Nong Pho",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.755000114440918,
+        "LONG": 103.12999725341797
+    },
+    {
+        "SUB_DISTRICT_ID": 440706,
+        "SUB_DISTRICT_NAME_THA": "ปอพาน",
+        "SUB_DISTRICT_NAME_ENG": "Po Phan",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.815999984741211,
+        "LONG": 102.9540023803711
+    },
+    {
+        "SUB_DISTRICT_ID": 440707,
+        "SUB_DISTRICT_NAME_THA": "หนองเม็ก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Mek",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.78600025177002,
+        "LONG": 102.99800109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 440708,
+        "SUB_DISTRICT_NAME_THA": "หนองเรือ",
+        "SUB_DISTRICT_NAME_ENG": "Nong Ruea",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.82800006866455,
+        "LONG": 103.12300109863281
+    },
+    {
+        "SUB_DISTRICT_ID": 440709,
+        "SUB_DISTRICT_NAME_THA": "หนองกุง",
+        "SUB_DISTRICT_NAME_ENG": "Nong Kung",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.722000122070312,
+        "LONG": 103.03800201416016
+    },
+    {
+        "SUB_DISTRICT_ID": 440710,
+        "SUB_DISTRICT_NAME_THA": "สันป่าตอง",
+        "SUB_DISTRICT_NAME_ENG": "San Patong",
+        "PROVINCE_ID": 44,
+        "DISTRICT_ID": 4407,
+        "LAT": 15.734999656677246,
+        "LONG": 103.07599639892578
+    }
+]

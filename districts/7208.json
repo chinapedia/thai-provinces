@@ -1,0 +1,65 @@
+[
+    {
+        "SUB_DISTRICT_ID": 720801,
+        "SUB_DISTRICT_NAME_THA": "ย่านยาว",
+        "SUB_DISTRICT_NAME_ENG": "Yan Yao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7208,
+        "LAT": 14.710000038146973,
+        "LONG": 100.11199951171875
+    },
+    {
+        "SUB_DISTRICT_ID": 720802,
+        "SUB_DISTRICT_NAME_THA": "วังลึก",
+        "SUB_DISTRICT_NAME_ENG": "Wang Luek",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7208,
+        "LAT": 14.758000373840332,
+        "LONG": 100.15799713134766
+    },
+    {
+        "SUB_DISTRICT_ID": 720803,
+        "SUB_DISTRICT_NAME_THA": "สามชุก",
+        "SUB_DISTRICT_NAME_ENG": "Sam Chuk",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7208,
+        "LAT": 14.762999534606934,
+        "LONG": 100.09500122070312
+    },
+    {
+        "SUB_DISTRICT_ID": 720804,
+        "SUB_DISTRICT_NAME_THA": "หนองผักนาก",
+        "SUB_DISTRICT_NAME_ENG": "Nong Phak Nak",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7208,
+        "LAT": 14.756999969482422,
+        "LONG": 100.03199768066406
+    },
+    {
+        "SUB_DISTRICT_ID": 720805,
+        "SUB_DISTRICT_NAME_THA": "บ้านสระ",
+        "SUB_DISTRICT_NAME_ENG": "Ban Sa",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7208,
+        "LAT": 14.708000183105469,
+        "LONG": 100.04100036621094
+    },
+    {
+        "SUB_DISTRICT_ID": 720806,
+        "SUB_DISTRICT_NAME_THA": "หนองสะเดา",
+        "SUB_DISTRICT_NAME_ENG": "Nong Sadao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7208,
+        "LAT": 14.803000450134277,
+        "LONG": 99.99099731445312
+    },
+    {
+        "SUB_DISTRICT_ID": 720807,
+        "SUB_DISTRICT_NAME_THA": "กระเสียว",
+        "SUB_DISTRICT_NAME_ENG": "Krasiao",
+        "PROVINCE_ID": 72,
+        "DISTRICT_ID": 7208,
+        "LAT": 14.800999641418457,
+        "LONG": 100.05599975585938
+    }
+]

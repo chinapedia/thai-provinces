@@ -1,0 +1,38 @@
+[
+    {
+        "SUB_DISTRICT_ID": 302402,
+        "SUB_DISTRICT_NAME_THA": "โนนตาเถร",
+        "SUB_DISTRICT_NAME_ENG": "Non Ta Then",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3024,
+        "LAT": 15.4350004196167,
+        "LONG": 102.48799896240234
+    },
+    {
+        "SUB_DISTRICT_ID": 302403,
+        "SUB_DISTRICT_NAME_THA": "สำพะเนียง",
+        "SUB_DISTRICT_NAME_ENG": "Sam Phaniang",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3024,
+        "LAT": 15.45199966430664,
+        "LONG": 102.56800079345703
+    },
+    {
+        "SUB_DISTRICT_ID": 302404,
+        "SUB_DISTRICT_NAME_THA": "วังหิน",
+        "SUB_DISTRICT_NAME_ENG": "Wang Hin",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3024,
+        "LAT": 15.505000114440918,
+        "LONG": 102.56700134277344
+    },
+    {
+        "SUB_DISTRICT_ID": 302405,
+        "SUB_DISTRICT_NAME_THA": "ดอนยาวใหญ่",
+        "SUB_DISTRICT_NAME_ENG": "Don Yao Yai",
+        "PROVINCE_ID": 30,
+        "DISTRICT_ID": 3024,
+        "LAT": 15.40999984741211,
+        "LONG": 102.53600311279297
+    }
+]

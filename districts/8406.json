@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 840601,
+        "SUB_DISTRICT_NAME_THA": "ตลาดไชยา",
+        "SUB_DISTRICT_NAME_ENG": "Talat Chaiya",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.390999794006348,
+        "LONG": 99.197998046875
+    },
+    {
+        "SUB_DISTRICT_ID": 840602,
+        "SUB_DISTRICT_NAME_THA": "พุมเรียง",
+        "SUB_DISTRICT_NAME_ENG": "Phum Riang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.395000457763672,
+        "LONG": 99.26100158691406
+    },
+    {
+        "SUB_DISTRICT_ID": 840603,
+        "SUB_DISTRICT_NAME_THA": "เลม็ด",
+        "SUB_DISTRICT_NAME_ENG": "Samet",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.364999771118164,
+        "LONG": 99.1719970703125
+    },
+    {
+        "SUB_DISTRICT_ID": 840604,
+        "SUB_DISTRICT_NAME_THA": "เวียง",
+        "SUB_DISTRICT_NAME_ENG": "Wiang",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.387999534606934,
+        "LONG": 99.14800262451172
+    },
+    {
+        "SUB_DISTRICT_ID": 840605,
+        "SUB_DISTRICT_NAME_THA": "ทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Thung",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.423999786376953,
+        "LONG": 99.21499633789062
+    },
+    {
+        "SUB_DISTRICT_ID": 840606,
+        "SUB_DISTRICT_NAME_THA": "ป่าเว",
+        "SUB_DISTRICT_NAME_ENG": "Pa We",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.446999549865723,
+        "LONG": 99.14399719238281
+    },
+    {
+        "SUB_DISTRICT_ID": 840607,
+        "SUB_DISTRICT_NAME_THA": "ตะกรบ",
+        "SUB_DISTRICT_NAME_ENG": "Takrop",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.46399974822998,
+        "LONG": 99.22899627685547
+    },
+    {
+        "SUB_DISTRICT_ID": 840608,
+        "SUB_DISTRICT_NAME_THA": "โมถ่าย",
+        "SUB_DISTRICT_NAME_ENG": "Mo Thai",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.406999588012695,
+        "LONG": 99.08399963378906
+    },
+    {
+        "SUB_DISTRICT_ID": 840609,
+        "SUB_DISTRICT_NAME_THA": "ปากหมาก",
+        "SUB_DISTRICT_NAME_ENG": "Pak Mak",
+        "PROVINCE_ID": 84,
+        "DISTRICT_ID": 8406,
+        "LAT": 9.47700023651123,
+        "LONG": 98.947998046875
+    }
+]

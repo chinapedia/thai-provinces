@@ -1,0 +1,47 @@
+[
+    {
+        "SUB_DISTRICT_ID": 350901,
+        "SUB_DISTRICT_NAME_THA": "ไทยเจริญ",
+        "SUB_DISTRICT_NAME_ENG": "Thai Charoen",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3509,
+        "LAT": 16.059999465942383,
+        "LONG": 104.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 350902,
+        "SUB_DISTRICT_NAME_THA": "น้ำคำ",
+        "SUB_DISTRICT_NAME_ENG": "Nam Kham",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3509,
+        "LAT": 16.014999389648438,
+        "LONG": 104.48600006103516
+    },
+    {
+        "SUB_DISTRICT_ID": 350903,
+        "SUB_DISTRICT_NAME_THA": "ส้มผ่อ",
+        "SUB_DISTRICT_NAME_ENG": "Som Pho",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3509,
+        "LAT": 16.16200065612793,
+        "LONG": 104.43199920654297
+    },
+    {
+        "SUB_DISTRICT_ID": 350904,
+        "SUB_DISTRICT_NAME_THA": "คำเตย",
+        "SUB_DISTRICT_NAME_ENG": "Kham Toei",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3509,
+        "LAT": 16.100000381469727,
+        "LONG": 104.38800048828125
+    },
+    {
+        "SUB_DISTRICT_ID": 350905,
+        "SUB_DISTRICT_NAME_THA": "คำไผ่",
+        "SUB_DISTRICT_NAME_ENG": "Kham Phai",
+        "PROVINCE_ID": 35,
+        "DISTRICT_ID": 3509,
+        "LAT": 16.06100082397461,
+        "LONG": 104.52100372314453
+    }
+]

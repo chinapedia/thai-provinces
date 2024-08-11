@@ -1,0 +1,83 @@
+[
+    {
+        "SUB_DISTRICT_ID": 540301,
+        "SUB_DISTRICT_NAME_THA": "ห้วยอ้อ",
+        "SUB_DISTRICT_NAME_ENG": "Huai O",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 18.131000518798828,
+        "LONG": 99.82499694824219
+    },
+    {
+        "SUB_DISTRICT_ID": 540302,
+        "SUB_DISTRICT_NAME_THA": "บ้านปิน",
+        "SUB_DISTRICT_NAME_ENG": "Ban Pin",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 18.065000534057617,
+        "LONG": 99.93699645996094
+    },
+    {
+        "SUB_DISTRICT_ID": 540303,
+        "SUB_DISTRICT_NAME_THA": "ต้าผามอก",
+        "SUB_DISTRICT_NAME_ENG": "Ta Pha Mok",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 18.150999069213867,
+        "LONG": 99.98300170898438
+    },
+    {
+        "SUB_DISTRICT_ID": 540304,
+        "SUB_DISTRICT_NAME_THA": "เวียงต้า",
+        "SUB_DISTRICT_NAME_ENG": "Wiang Ta",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 18.30299949645996,
+        "LONG": 99.9990005493164
+    },
+    {
+        "SUB_DISTRICT_ID": 540305,
+        "SUB_DISTRICT_NAME_THA": "ปากกาง",
+        "SUB_DISTRICT_NAME_ENG": "Pak Kang",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 18.04199981689453,
+        "LONG": 99.81099700927734
+    },
+    {
+        "SUB_DISTRICT_ID": 540306,
+        "SUB_DISTRICT_NAME_THA": "หัวทุ่ง",
+        "SUB_DISTRICT_NAME_ENG": "Hua Thung",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 18.093000411987305,
+        "LONG": 99.7760009765625
+    },
+    {
+        "SUB_DISTRICT_ID": 540307,
+        "SUB_DISTRICT_NAME_THA": "ทุ่งแล้ง",
+        "SUB_DISTRICT_NAME_ENG": "Thung Laeng",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 17.958999633789062,
+        "LONG": 99.75199890136719
+    },
+    {
+        "SUB_DISTRICT_ID": 540308,
+        "SUB_DISTRICT_NAME_THA": "บ่อเหล็กลอง",
+        "SUB_DISTRICT_NAME_ENG": "Bo Lek Long",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 18.01300048828125,
+        "LONG": 99.71900177001953
+    },
+    {
+        "SUB_DISTRICT_ID": 540309,
+        "SUB_DISTRICT_NAME_THA": "แม่ปาน",
+        "SUB_DISTRICT_NAME_ENG": "Mae Pan",
+        "PROVINCE_ID": 54,
+        "DISTRICT_ID": 5403,
+        "LAT": 17.986000061035156,
+        "LONG": 99.87100219726562
+    }
+]

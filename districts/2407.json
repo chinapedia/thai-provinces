@@ -1,0 +1,29 @@
+[
+    {
+        "SUB_DISTRICT_ID": 240701,
+        "SUB_DISTRICT_NAME_THA": "บางคา",
+        "SUB_DISTRICT_NAME_ENG": "Bang Kha",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2407,
+        "LAT": 13.788000106811523,
+        "LONG": 101.27799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 240702,
+        "SUB_DISTRICT_NAME_THA": "เมืองใหม่",
+        "SUB_DISTRICT_NAME_ENG": "Mueang Mai",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2407,
+        "LAT": 13.71500015258789,
+        "LONG": 101.27799987792969
+    },
+    {
+        "SUB_DISTRICT_ID": 240703,
+        "SUB_DISTRICT_NAME_THA": "ดงน้อย",
+        "SUB_DISTRICT_NAME_ENG": "Dong Noi",
+        "PROVINCE_ID": 24,
+        "DISTRICT_ID": 2407,
+        "LAT": 13.836000442504883,
+        "LONG": 101.29100036621094
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "SUB_DISTRICT_ID": 420701,
+        "SUB_DISTRICT_NAME_THA": "หนองบัว",
+        "SUB_DISTRICT_NAME_ENG": "Nong Bua",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4207,
+        "LAT": 17.45400047302246,
+        "LONG": 101.37100219726562
+    },
+    {
+        "SUB_DISTRICT_ID": 420702,
+        "SUB_DISTRICT_NAME_THA": "ท่าศาลา",
+        "SUB_DISTRICT_NAME_ENG": "Tha Sala",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4207,
+        "LAT": 17.391000747680664,
+        "LONG": 101.46299743652344
+    },
+    {
+        "SUB_DISTRICT_ID": 420703,
+        "SUB_DISTRICT_NAME_THA": "ร่องจิก",
+        "SUB_DISTRICT_NAME_ENG": "Rong Chik",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4207,
+        "LAT": 17.34600067138672,
+        "LONG": 101.33300018310547
+    },
+    {
+        "SUB_DISTRICT_ID": 420704,
+        "SUB_DISTRICT_NAME_THA": "ปลาบ่า",
+        "SUB_DISTRICT_NAME_ENG": "Pla Ba",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4207,
+        "LAT": 17.31800079345703,
+        "LONG": 101.43900299072266
+    },
+    {
+        "SUB_DISTRICT_ID": 420705,
+        "SUB_DISTRICT_NAME_THA": "ลาดค่าง",
+        "SUB_DISTRICT_NAME_ENG": "Lat Khang",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4207,
+        "LAT": 17.496999740600586,
+        "LONG": 101.28500366210938
+    },
+    {
+        "SUB_DISTRICT_ID": 420706,
+        "SUB_DISTRICT_NAME_THA": "สานตม",
+        "SUB_DISTRICT_NAME_ENG": "Santom",
+        "PROVINCE_ID": 42,
+        "DISTRICT_ID": 4207,
+        "LAT": 17.459999084472656,
+        "LONG": 101.48200225830078
+    }
+]
