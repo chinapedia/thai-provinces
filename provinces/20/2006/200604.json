@@ -1,5 +1,6 @@
 [
     {
+        "POSTCODE_ID": 1000,
         "POSTCODE_CODE": "20140",
         "PROVINCE_ID": 20,
         "DISTRICT_ID": 2006,
